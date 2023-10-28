@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nkongamiaku Wa Tshiluba</title>
+<!--Link to the style code-->
+    <link rel="stylesheet" href="style.css">
+<!-- Montserrat Font link from Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Tinos:ital@0;1&display=swap" rel="stylesheet">
+<!--Font Awesome Mobile Menu Link-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+<div id="wrapper">
+<body>
+<section class="searchheader">
+    <nav>
+        <div class="nav-links" id="navLinks">
+        <!--The X icon placed in the nav menu-->
+        <i class="fa fa-times" onclick="hideMenu()"></i>
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">INDEX</a></li>
+                <li><a href="nkongamiaku.html">CONTACT</a></li>
+            </ul>
+        </div>
+        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
+    </nav>
+<div class="cage">
+<div class="text-box">
+    <!--Navigation Menu LOGO image-->
+</div>
+</div>
+<div class="tablewrapper2">
+    <img class="biglogo" src="images/Tshisumbu Tshia Dikeba Dia Tshiluba 2023.png">
+    <table class="IndexTable" id="IndexTable">
+        <tr> <!--TSHILUBA WORD LIST-->
+            <td><ol type="1">
+                <li><a class="links" href="nkongamiaku.html?inpt1=bua">
+                    BUA</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=kubala">
+                    KUBALA</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=kufunda">
+                    KUFUNDA</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=muntu">
+                    MUNTU</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=nansha">
+                    NANSHA</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=nganyi">
+                    NGANYI</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=nkongamiaku">
+                    NKONGAMIAKU</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=penyi">
+                    PENYI</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=tshintu">
+                    TSHINTU</a></li>
+                    <li><a class="links" href="nkongamiaku.html?inpt1=tshinyi">
+                    TSHINYI</a></li>
+                </ol>    
+            </td>
+
+        </tr>
+    </table>
+<table class="h-lines" id="h-lines"></table> 
+    <footer class="footer">
+        <h1 class="ft1"><img src="images/Tshisumbu Tshia Dikeba Dia Tshiluba 2023.png"><br>Tshisumbu Tshia Dikeba Dia Tshiluba 2023</h1>
+    </footer>
+</div>
+</div>
+</div>
+</section>
+<!--Java Script For Toggle Menu-->
+<script>
+
+    var navLinks = document.getElementById("navLinks");
+    function showMenu(){
+        navLinks.style.right = "0px"
+    }
+    function hideMenu(){
+        navLinks.style.right = "-200px"
+    }
+
+</script>
+<!--Java Script For Dictionary Search-->
+<script src="dictionary.js">
+</script>
+<!--Script for main page to get the searched input word-->
+<script>
+
+    var getitem = window.location.search;
+    var homeindexword = getitem.slice(7,getitem.length);
+
+    window.onload = maininpt();
+
+</script>
+</body>
+</div>
+</html>
