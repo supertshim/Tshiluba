@@ -810,7 +810,7 @@ function maininpt(){
     let wordPhon = document.querySelector("#Phon"); 
     let wordXinfo = document.querySelector("#Xinfo"); 
 
-    wordinput.value = homeindexword;
+    wordinput.value = homeindexword.toLowerCase();
 
     wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}`;
     wordPoS.innerHTML = `${nkongamiaku.find(findmiaku).PartOfSpeech}`;
