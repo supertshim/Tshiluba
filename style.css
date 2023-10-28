@@ -566,10 +566,11 @@ a.links:visited {
 
     .searchheader .cardcage{
         font-size: 32px;
-        height: 95vh;
         padding: 0px 0px;
         transform: translate(0,0);
         top: 200px;
+        flex: 1;
+        overflow-y: hidden;
     }
     .searchheader .card{
         padding: 0px 0px;
@@ -596,6 +597,7 @@ a.links:visited {
     }
     .searchheader .tablewrapper{
         width: 100%;
+        overflow-y: hidden;
 
     }
     a.links:link{
@@ -606,10 +608,11 @@ a.links:visited {
     .searchheader .card .tablewrapper .Xinfo {
         width: 100%;
         position: relative;
+        overflow-y: hidden;
     }
     .searchheader .card .tablewrapper .Xinfo th{
         padding: 2px;
-        font-size: 18px;
+        font-size: 20px;
         width: 100%;
         position: relative;
     }
@@ -617,7 +620,7 @@ a.links:visited {
     .searchheader .card .tablewrapper .Xinfo .analogy{
         font-family:'Tinos', sans-serif;
         padding: 2px;
-        font-size: 16px;
+        font-size: 20px;
         width: 100%;
         position: relative;
         border-top: 2px solid rgb(150, 150, 150);
@@ -643,4 +646,5 @@ a.links:visited {
         padding-left: 5%;
         font-size: 32px;
     }
+    
 }
