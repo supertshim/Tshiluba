@@ -407,10 +407,15 @@ nav .fa-solid{
 .searchheader .card .bigword{
     font-family: 'DM Serif Display';
     font-size: 72px;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
+    line-height: 1;
     position: relative;
     background-color: transparent;
     display: inline-block;
+    overflow-y:hidden;
+}
+.searchheader .card .bigword p{
+    overflow-y:hidden;
 }
 .searchheader .card .PartOfSpeech{
     font-family: 'DM Serif Display';
@@ -584,7 +589,7 @@ a.links:visited {
         font-size: 62px;
     }
     .searchheader .card .PartOfSpeech{
-        font-size: 32px;
+        font-size: 24px;
         display: inline-block;
         width: 100%;
         margin-top: 0px;
@@ -616,7 +621,7 @@ a.links:visited {
     }
     .searchheader .card .tablewrapper .Xinfo th{
         padding: 2px;
-        font-size: 20px;
+        font-size: 24px;
         width: 100%;
         position: relative;
     }
@@ -633,9 +638,10 @@ a.links:visited {
     .searchheader .card .tablewrapper .Xinfo .tabledef{
         font-family:'Tinos', sans-serif;
         padding: 2px;
-        font-size: 14px;
+        font-size: 24px;
         width: 100%;
         position: relative;
+        text-align: left;
     }
     .searchheader .tablewrapper2 .biglogo{
         text-align: center;
