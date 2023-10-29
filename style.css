@@ -450,12 +450,12 @@ a.links{
 }
 a.links:hover {
     text-decoration:line;
-    color: rgb(206, 185, 0);
+    color: rgb(148, 0, 0);
     margin: auto;
   }
 a.links:visited {
     text-decoration:line;
-    color: rgb(158, 0, 0);
+    color: rgb(27, 27, 29);
     margin: auto;
   }
 
@@ -464,6 +464,11 @@ a.links:visited {
     margin: 0 auto;
     width: 600px;
     flex: 1;
+}
+.searchheader .card .tablewrapper .Xinfo  .PartOfSpch{
+    color: blue;
+    font-weight: 400;
+    font-size: 18px;
 }
 .searchheader .card .tablewrapper .Xinfo th{
     font-family: 'DM Serif Display';
