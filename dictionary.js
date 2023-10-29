@@ -239,6 +239,48 @@ Kusumba bua mfranga 10
 </td>
 </tr>`
 },
+/*Kanungu*/   
+{
+    English: "Article",
+    French: "Article",
+    Tshiluba: "Kanungu",
+    PartOfSpeech: "nom/noun",
+    Phonetics: "Ka·nun·gu<p>/Kah-noon-goo/</p>",
+    Phonetics2: "<br>Article / Article",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+article <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+article, clause <i class="PartOfSpch">n</i> 
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kanungu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
+ tunungu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>l'article 5
+                :<br>
+                &nbsp:
+Article 5
+                :<br>
+                &nbsp:&nbsp
+Kanungu 5 :
+<br><br></td>
+</tr>
+`
+},
 /*Kubala 1*/   
 {
     English: "Read",
@@ -1395,6 +1437,156 @@ Where are they?
                 :<br>
                 &nbsp:&nbsp
 Badi penyi? :
+<br><br></td>
+</tr>
+`
+},
+/*Tshilema*/   
+{
+    English: "Error",
+    French: "Erreur",
+    Tshiluba: "Tshilema",
+    PartOfSpeech: "nom/noun",
+    Phonetics: "Tshi·le·ma<p>/chee-leh-mah/</p>",
+    Phonetics2: "<br>Erreur / Error",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. erreur <i class="PartOfSpch">n</i> <br>
+2. faute <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. error  <i class="PartOfSpch">n</i>                           <br>
+2. mistake <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshilema <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
+bilema <i class="PartOfSpch">n</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>erreur de traduction
+                :<br>
+                &nbsp:
+translation error
+                :<br>
+                &nbsp:&nbsp
+tshilema mu diandamuna mu muakulu mukuabo :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>faire une erreur
+                :<br>
+                &nbsp:
+commit a mistake
+                :<br>
+                &nbsp:&nbsp
+kuenza tshilema :
+<br><br></td>
+</tr>
+`
+},
+/*Tshilema*/   
+{
+    English: "Mistake",
+    French: "Faute",
+    Tshiluba: "Tshilema",
+    PartOfSpeech: "nom/noun",
+    Phonetics: "Tshi·le·ma<p>/chee-leh-mah/</p>",
+    Phonetics2: "<br>Faute / Mistake",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. erreur <i class="PartOfSpch">n</i> <br>
+2. faute <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. error  <i class="PartOfSpch">n</i>                           <br>
+2. mistake <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshilema <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
+bilema <i class="PartOfSpch">n</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>erreur de traduction
+                :<br>
+                &nbsp:
+translation error
+                :<br>
+                &nbsp:&nbsp
+tshilema mu diandamuna mu muakulu mukuabo :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>faire une erreur
+                :<br>
+                &nbsp:
+commit a mistake
+                :<br>
+                &nbsp:&nbsp
+kuenza tshilema :
+<br><br></td>
+</tr>
+`
+},
+/*Tshimbadi*/   
+{
+    English: "Bimbadi",
+    French: "Tshimbadi",
+    Tshiluba: "Tshimbadi ",
+    PartOfSpeech: "nom/noun",
+    Phonetics: "Tshim·ba·di<p>/Cheem-bah-dee/</p>",
+    Phonetics2: "<br>Tshimbadi / Bimbadi",
+    InfoTable: `
+<tr>
+        <th colspan="3" style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Tshimbadi <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl.</i> 
+Bimbadi 
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>appelation de gens d'origine angolaise qui etaient venus s'installer au 19ième 
+siècle au Congo Belge
+                :<br><br>
+                &nbsp:
+name of people of Angolan origin who came to settle in the Belgian Congo in the 19th century
+                :<br><br>
+                &nbsp:&nbsp
+Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia dikumi ne tshitema :
 <br><br></td>
 </tr>
 `
