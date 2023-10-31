@@ -6,7 +6,7 @@ const nkongamiaku = [
     English: "Of",
     French: "De",
     Tshiluba: "--a",
-    PartOfSpeech: "preposition/preposition/kadianjidi",
+    PartOfSpeech: "préposition/preposition/kadianjidi",
     Phonetics: "Wa·/Wah/·Ya·/yah/·Bwa·/Bwah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
     PhoneticsT: "De / Of",
     English2: " ",
