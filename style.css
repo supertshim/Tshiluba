@@ -408,10 +408,9 @@ nav .fa-solid{
     font-family: 'DM Serif Display';
     font-size: 72px;
     margin-bottom: -10px;
-    line-height: 1;
+    line-height: 1.2;
     position: relative;
     background-color: transparent;
-    display: inline-block;
     overflow-y:hidden;
 }
 .searchheader .card .bigword p{
@@ -629,7 +628,7 @@ a.links:visited {
     .searchheader .card .tablewrapper .Xinfo .analogy{
         font-family:'Tinos', sans-serif;
         padding: 2px;
-        font-size: 20px;
+        font-size: 26px;
         width: 100%;
         position: relative;
         border-top: 2px solid rgb(150, 150, 150);
