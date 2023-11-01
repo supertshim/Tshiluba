@@ -332,6 +332,12 @@ nav .fa-solid{
     align-items: center;
 }
 
+.searchheader .cage .text-box .container .TTDDT img{
+    width: 70px;
+    padding: 5px;
+    position: relative;
+}
+
 .searchheader .search-bar button{
     background:transparent;
     border: 0;
@@ -654,6 +660,11 @@ a.links:visited {
         text-align: left;
         padding-left: 5%;
         font-size: 32px;
+    }
+    .searchheader .cage .text-box .container .TTDDT img{
+        width: 50px;
+        padding: 5px;
+        position: relative;
     }
     
 }

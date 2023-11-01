@@ -1,6 +1,61 @@
 /***********THE DICTIONARY*********/
 const nkongamiaku = [
-
+/*NOT FOUND*/   
+{
+    English: "NOT FOUND",
+    French: "INTROUVABLE",
+    Tshiluba: "KEBAYI KABIDI",
+    PartOfSpeech: " ",
+    Phonetics: " ",
+    PhoneticsT: " ",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+`
+},
 /*--a*/   
 {
     English: "Of",
@@ -435,6 +490,201 @@ Kusumba bua mfranga 10
             <br><br>
 </td>
 </tr>`
+},
+/*Ditunga*/  
+{
+    English: "Country",
+    French: "Pays",
+    Tshiluba: "Ditunga",
+    PartOfSpeech: "nom/noun/tshibidikilu",
+    Phonetics: "Di·tu·nga<p>/Jee-too-ngah/</p>",
+    PhoneticsT: "Pays / Country",
+    English2: "Nation",
+    French2: "Village",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "Region",
+    French3: "Région",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "Land",
+    French4: "Contrée",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "State",
+    French5: "État",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "Republic",
+    French6: "Etat",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: "Republique",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: "République",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+pays, état, contrée, nation, village <i class="PartOfSpch">n</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+country, state, territory, nation, village <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Ditunga <i class="PartOfSpch">tshi4</i><p>
+<i class="PartOfSpch">pl</i> Matunga
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Pays de naissance, de résidence ou de citoyenneté d'une personne.
+                <br><br>
+                
+<b><i>Explanation</i></b><br>
+The land of a person's birth, residence, or citizenship.
+<br><br>
+               
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>La République Democratique du Congo
+                :<br>
+                &nbsp:
+The Democratic Republic of Congo
+                :<br>
+                &nbsp:&nbsp
+Ditunga dia Kongu Wa Mugalata :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
+/*Diyi Dikulu*/  
+{
+    English: "Constitution",
+    French: "Constitution",
+    Tshiluba: "Diyi Dikulu",
+    PartOfSpeech: "nom/noun/tshibidikilu",
+    Phonetics: "Di·yi Di·ku·lu<p>/Dee Dee-koo-loo/</p>",
+    PhoneticsT: "Constitution / Constitution",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+constitution <i class="PartOfSpch">n</i><p>
+<i>(politique)</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Constitution <i class="PartOfSpch">n</i>
+<i>(political)</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Diyi Dikulu <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Les principes et lois de base d'une nation, d'un État ou d'un groupe social qui déterminent les pouvoirs et les devoirs du gouvernement et garantissent certains droits aux personnes qui en font partie.
+                <br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+
+The basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>La constitution d'une nation.
+                :<br>
+                &nbsp:
+The Constitution of a nation.
+                :<br>
+                &nbsp:&nbsp
+Diyi Dikulu dia Ditunga.
+<br><br></td>
+</tr>
+<tr>
+` 
 },
 /*Eyowa*/   
 {
@@ -1067,7 +1317,7 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     English: "Cold",
     French: "Froid",
     Tshiluba: "Mashika",
-    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective",
+    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective/mufidi",
     Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
     PhoneticsT: "Froid / Cold",
     English2: " ",
@@ -1127,7 +1377,7 @@ froid(e) <i class="PartOfSpch">adj</i>
 cold <i class="PartOfSpch">adj</i>                           
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
---a mashika <i class="PartOfSpch">adj</i>
+--a mashika <i class="PartOfSpch">muf</i>
 </td>
 </tr>
 <tr>
@@ -1143,7 +1393,7 @@ kuikala ne mashika; kuumvua ne mashika :
 </tr>
 `
 },
-/*Mfundilu---NOT DONE*/   
+/*Mfundilu*/   
 {
     English: "Writing",
     French: "Écriture",
@@ -1220,7 +1470,7 @@ mfundilu <i class="PartOfSpch">n</i>
 yes, what you said is true
                 :<br>
                 &nbsp:&nbsp
-eyowa, bualu buambi mbua bushuwa :
+eyowa, bualu buambi mbua bulelela :
 <br><br></td>
 </tr>
 `
@@ -1319,7 +1569,7 @@ Kupita mikalu:
 </tr>
 `
 },
-/*Mungalata NOT DONE*/  
+/*Mungalata*/  
 {
     English: "Democracy",
     French: "Démocratie",
@@ -1398,9 +1648,21 @@ Term used in South-Kasai around 1963 to designate the "Democratic Party" founded
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
-Kuenda nebe mubidi webe udi muinama pa luseka umwe
+-----
 <br><br></td>
 </tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>La Republique Democratique du Congo
+                :<br>
+                &nbsp:
+The Democratic Republic of Congo
+                :<br>
+                &nbsp:&nbsp
+Ditunga dia Kongu wa Mungalata :
+<br><br></td>
+</tr>
+<tr>
 ` 
 },
 /*Muntu*/   
@@ -1415,8 +1677,8 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe
     French2: "Quelqu'un",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
-    French3: " ",
+    English3: "People",
+    French3: "Peuple",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -1615,7 +1877,7 @@ nansha tshinyi/tshinganyi :
     English: "End",
     French: "Fin",
     Tshiluba: "Ndekelu",
-    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective",
+    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective/mufidi",
     Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
     PhoneticsT: "Fin / End",
     English2: "Last",
@@ -1678,7 +1940,7 @@ nansha tshinyi/tshinganyi :
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
 ndekelu <i class="PartOfSpch">n</i><br>
---a ndekelu <i class="PartOfSpch">adj</i>
+--a ndekelu <i class="PartOfSpch">muf</i>
 </td>
 </tr>
 <tr>
@@ -1809,7 +2071,7 @@ vuaku ne ewu udi musua
 </tr>
 `
 },
-/*NkongaMiaku* NOT DONE*/  
+/*NkongaMiaku*/  
 {
         English: "Dictionary",
         French: "Dictionnaire",
@@ -1874,9 +2136,36 @@ dictionnaire <i class="PartOfSpch">n</i>
 dictionary <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-nkongamiaku <i class="PartOfSpch">n</i>
+nkongamiaku <i class="PartOfSpch">tshi6</i>
     </td>
-</tr>` 
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Un ouvrage de référence répertoriant par ordre alphabétique les mots d'une langue et montrant leur signification ou leur traduction dans une autre langue
+<br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+
+A reference book listing alphabetically the words of one language and showing their meanings or translations in another language
+<br><br>
+                &nbsp&nbsp
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Dictionnaire de la langue Tshiluba.
+                :<br>
+                &nbsp:
+A Dictionary of the Tshiluba language.
+                :<br>
+                &nbsp:&nbsp
+Nkongamiaku wa muakulu wa Tshiluba. :
+<br><br></td>
+</tr>
+<tr>` 
 },
 /*Penyi*/   
  {
@@ -2296,22 +2585,30 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 </tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-Chaque Classe / Each Noun Class<br>
-Tshisumbu 1 : <b>mu-ba</b><br>
+<b><i>Chaque Classe | Each Noun Class | Tshisumbu Tshionso</i></b><br><br>
+1 : <b>mu-ba</b><br>
 <b>Mu</b>ntu - <b>Ba</b>ntu<br><br>
-Tshisumbu 2 : <b>mu-mi</b><br> 
-Tshisumbu 3 : <b>bu-ma</b><br>
-Tshisumbu 4 : <b>di-ma</b><br>
-Tshisumbu 5 : <b>lu-n</b><br> 
-Tshisumbu 6 : <b>n-n</b><br>  
-Tshisumbu 7 : <b>m-m</b><br>
-Tshisumbu 8 : <b>ka-tu</b><br>
-Tshisumbu 9 : <b>tshi-bi</b><br>                  
+2 : <b>mu-mi</b><br>
+<b>Mu</b>tshi - <b>Mi</b>tshi<br><br> 
+3 : <b>bu-ma</b><br>
+<b>Bu</b>dimi - <b>Ma</b>dimi<br><br>
+4 : <b>di-ma</b><br>
+<b>Di</b>dima - <b>Ma</b>dima<br><br>
+5 : <b>lu-n</b><br>
+<b>Lu</b>suki - <b>N</b>suki<br><br>
+6 : <b>n-n</b><br>
+<b>N</b>yunyu - <b>N</b>yunyu<br><br>
+7 : <b>m-m</b><br>
+<b>Mbwa</b>ntu - <b>M</b>bwa<br><br>
+8 : <b>ka-tu</b><br>
+<b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
+9 : <b>tshi-bi</b><br>
+<b>Tshi</b>ntu - <b>Bi</b>ntu<br><br>                
 <br><br></td>
 </tr>
 `
 },
-/*Tshidimu* NOT DONE*/   
+/*Tshidimu*/   
 {
     English: "Year",
     French: "An",
@@ -2392,7 +2689,7 @@ Conventional duration close to the period of revolution of the Earth around the 
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
-tshianza tshia bakaji
+----
 <br><br></td>
 </tr>
 <tr>
@@ -2834,11 +3131,14 @@ Udi wenza tshinyi :
 /**********************************/
 
 /***********THE FRENCH/ENGLISH WORD INPUT SEARCH FUNCTION *********/
-const TshilubaWord = nkongamiaku.find(findinpt).Tshiluba;
+
+
 function findinpt(){
 
+    
     let wordinput = document.querySelector("#inpt1");
     let wordinfo = document.querySelector("#inf1");
+    let wordinfo2 = document.querySelector("#inf1");
     let wordPoS = document.querySelector("#PoS");  
     let wordPhon = document.querySelector("#Phon");
     let wordXinfo = document.querySelector("#Xinfo");      
@@ -2847,25 +3147,27 @@ function findinpt(){
     wordinput.value = wordinput.value.replace(/\+/g, '%20'); // 'Friday%20September%2013th'
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
-    console.log(wordinput.value);
 
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba2}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba3}<p>
+    let xx = `${nkongamiaku[0].English}<br>
+    ${nkongamiaku[0].French}<br>
+    ${nkongamiaku[0].Tshiluba}`;
+
+    wordinfo2.innerHTML = xx;
+
+    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
+                        ${nkongamiaku.find(findmiaku).Tshiluba2} 
+                        ${nkongamiaku.find(findmiaku).Tshiluba3} 
                         ${nkongamiaku.find(findmiaku).Tshiluba4}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba5}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba6}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba7}<p>
+                        ${nkongamiaku.find(findmiaku).Tshiluba5} 
+                        ${nkongamiaku.find(findmiaku).Tshiluba6} 
+                        ${nkongamiaku.find(findmiaku).Tshiluba7} 
                         ${nkongamiaku.find(findmiaku).Tshiluba8}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba9}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba10}<p>
+                        ${nkongamiaku.find(findmiaku).Tshiluba9} 
+                        ${nkongamiaku.find(findmiaku).Tshiluba10} 
                         ${nkongamiaku.find(findmiaku).Tshiluba11}`;
     wordPoS.innerHTML = `${nkongamiaku.find(findmiaku).PartOfSpeech}`;
     wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics}`;
     wordXinfo.innerHTML = `${nkongamiaku.find(findmiaku).InfoTable}`;
-
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku1).French} :: ${nkongamiaku.find(findmiaku1).English}`;
-    wordPhon.innerHTML = `${nkongamiaku.find(findmiaku1).PhoneticsT}`;
 
     function findmiaku(miaku){
     return miaku.French.toLowerCase() === wordinput.value||
@@ -2902,22 +3204,12 @@ function findinpt(){
     miaku.Tshiluba10.toLowerCase() === wordinput.value||
     miaku.Tshiluba11.toLowerCase() === wordinput.value;}
 
-    function findmiaku1(miaku){
-        return miaku.Tshiluba.toLowerCase() === wordinput.value ||
-        miaku.Tshiluba2.toLowerCase() === wordinput.value||
-        miaku.Tshiluba3.toLowerCase() === wordinput.value||
-        miaku.Tshiluba4.toLowerCase() === wordinput.value||
-        miaku.Tshiluba5.toLowerCase() === wordinput.value||
-        miaku.Tshiluba6.toLowerCase() === wordinput.value||
-        miaku.Tshiluba7.toLowerCase() === wordinput.value||
-        miaku.Tshiluba8.toLowerCase() === wordinput.value||
-        miaku.Tshiluba9.toLowerCase() === wordinput.value||
-        miaku.Tshiluba10.toLowerCase() === wordinput.value||
-        miaku.Tshiluba11.toLowerCase() === wordinput.value;}
-
 }
+
 var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
+
+
 function maininpt(){
 
     let wordinput = document.querySelector("#inpt1");
@@ -2925,12 +3217,18 @@ function maininpt(){
     let wordPoS = document.querySelector("#PoS");    
     let wordPhon = document.querySelector("#Phon"); 
     let wordXinfo = document.querySelector("#Xinfo"); 
+    let wordinfo2 = document.querySelector("#inf1");
 
     wordinput.value = homeindexword.toLowerCase();
     wordinput.value = wordinput.value.replace(/\+/g, '%20'); // 'Friday%20September%2013th'
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
     
+    let xx = `${nkongamiaku[0].English}<br>
+    ${nkongamiaku[0].French}<br>
+    ${nkongamiaku[0].Tshiluba}`;
+    wordinfo2.innerHTML = xx;
+
     wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
                         ${nkongamiaku.find(findmiaku).Tshiluba2} 
                         ${nkongamiaku.find(findmiaku).Tshiluba3} 
@@ -2945,19 +3243,6 @@ function maininpt(){
     wordPoS.innerHTML = `${nkongamiaku.find(findmiaku).PartOfSpeech}`;
     wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics}`;
     wordXinfo.innerHTML = `${nkongamiaku.find(findmiaku).InfoTable}`;
-
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku1).Tshiluba}
-                            ${nkongamiaku.find(findmiaku).Tshiluba2} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba3} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba4}<p>
-                            ${nkongamiaku.find(findmiaku).Tshiluba5} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba6} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba7} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba8}<p>
-                            ${nkongamiaku.find(findmiaku).Tshiluba9} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba10} 
-                            ${nkongamiaku.find(findmiaku).Tshiluba11}`;
-    wordPhon.innerHTML = `${nkongamiaku.find(findmiaku1).PhoneticsT}`;
 
     function findmiaku(miaku){
     return miaku.French.toLowerCase() === wordinput.value ||
@@ -2993,19 +3278,7 @@ function maininpt(){
     miaku.Tshiluba9.toLowerCase() === wordinput.value||
     miaku.Tshiluba10.toLowerCase() === wordinput.value||
     miaku.Tshiluba11.toLowerCase() === wordinput.value;}
-
-    function findmiaku1(miaku){
-        return miaku.Tshiluba.toLowerCase() === wordinput.value||
-        miaku.Tshiluba2.toLowerCase() === wordinput.value||
-        miaku.Tshiluba3.toLowerCase() === wordinput.value||
-        miaku.Tshiluba4.toLowerCase() === wordinput.value||
-        miaku.Tshiluba5.toLowerCase() === wordinput.value||
-        miaku.Tshiluba6.toLowerCase() === wordinput.value||
-        miaku.Tshiluba7.toLowerCase() === wordinput.value||
-        miaku.Tshiluba8.toLowerCase() === wordinput.value||
-        miaku.Tshiluba9.toLowerCase() === wordinput.value||
-        miaku.Tshiluba10.toLowerCase() === wordinput.value||
-        miaku.Tshiluba11.toLowerCase() === wordinput.value;}
+    
 
 }    
 
