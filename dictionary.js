@@ -61,7 +61,7 @@ const nkongamiaku = [
     English: "Of",
     French: "De",
     Tshiluba: "--a",
-    PartOfSpeech: "préposition/preposition/kadianjidi",
+    PartOfSpeech: "préposition | preposition | kadianjidi",
     Phonetics: "Wa·/Wah/·Ya·/yah/·Bwa·/Bwah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
     PhoneticsT: "De / Of",
     English2: " ",
@@ -337,7 +337,7 @@ Kalonji's hand :
     English: "For",
     French: "Pour",
     Tshiluba: "Bua",
-    PartOfSpeech: "préposition/preposition/kadianjidi | conjonction/conjunction" ,
+    PartOfSpeech: "préposition | preposition | kadianjidi | conjonction | conjunction" ,
     Phonetics: "Bua<p>/Bwah/</p><p>Bua·lu·Bua<p>/Bwah-lu Bwah/</p>",
     PhoneticsT: "Pour / For",
     English2: "Because",
@@ -491,12 +491,97 @@ Kusumba bua mfranga 10
 </td>
 </tr>`
 },
+/*Dipembu Dihembu*/  
+{
+    English: "Aroma",
+    French: "Arôme",
+    Tshiluba: "Dipembu",
+    PartOfSpeech: "nom | noun | tshibidikilu",
+    Phonetics: "Di·pem·bu<p>/djee-pem-boo/</p>",
+    PhoneticsT: "Arôme / Aroma",
+    English2: "Fragrance",
+    French2: "Arome",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+arôme, parfum <i class="PartOfSpch">n</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+aroma, fragrance, sweet smell <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+dipembu <i class="PartOfSpch">tshi4</i><p>
+dihembu <p><i class="PartOfSpch">pl</i> mapembu, mahembu
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Une odeur provenant des épices, des plantes, de la cuisine, etc., notamment une odeur agréable ; fragrance.
+<br>
+
+<b><i>Explanation</i></b><br>
+An odor arising from spices, plants, cooking, etc., especially an agreeable odor; fragrance.
+<br><br>
+
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+` 
+},
 /*Ditunga*/  
 {
     English: "Country",
     French: "Pays",
     Tshiluba: "Ditunga",
-    PartOfSpeech: "nom/noun/tshibidikilu",
+    PartOfSpeech: "nom | noun | tshibidikilu",
     Phonetics: "Di·tu·nga<p>/Jee-too-ngah/</p>",
     PhoneticsT: "Pays / Country",
     English2: "Nation",
@@ -588,12 +673,99 @@ Ditunga dia Kongu Wa Mugalata :
 <tr>
 ` 
 },
+/*Diyi*/  
+{
+    English: "Law",
+    French: "Loi",
+    Tshiluba: "Diyi",
+    PartOfSpeech: "nom | noun | tshibidikilu",
+    Phonetics: "Di·yi<p>/Dee-yii/</p>",
+    PhoneticsT: "Loi / Law",
+    English2: "Legislation",
+    French2: "Législation",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+loi, législation <i class="PartOfSpch">n</i><p>
+<i>(politique)</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+law, legislation <i class="PartOfSpch">n</i>
+<i>(political)</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+diyi <i class="PartOfSpch">tshi4</i><p>
+<i>(political)</i>
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Toute règle écrite ou positive ou ensemble de règles prescrites sous l'autorité de l'État ou de la nation, comme par le peuple dans sa constitution.
+<br><br>
+
+<b><i>Explanation</i></b><br>
+Any written or positive rule or collection of rules prescribed under the authority of the state or nation, as by the people in its constitution.
+<br><br>
+
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+` 
+},
 /*Diyi Dikulu*/  
 {
     English: "Constitution",
     French: "Constitution",
     Tshiluba: "Diyi Dikulu",
-    PartOfSpeech: "nom/noun/tshibidikilu",
+    PartOfSpeech: "nom | noun | tshibidikilu",
     Phonetics: "Di·yi Di·ku·lu<p>/Dee Dee-koo-loo/</p>",
     PhoneticsT: "Constitution / Constitution",
     English2: " ",
@@ -691,7 +863,7 @@ Diyi Dikulu dia Ditunga.
     English: "Yes",
     French: "Oui",
     Tshiluba: "Eyowa",
-    PartOfSpeech: "adverbe/adverb/muambikila",
+    PartOfSpeech: "adverbe | adverb | muambikila",
     Phonetics: "Ey·o·wa<p>/Eyy-yoh-wah/</p>",
     PhoneticsT: "Oui / Yes",
     English2: "of course",
@@ -774,9 +946,9 @@ eyowa, bualu buambi mbua bushuwa :
     English: "Article",
     French: "Article",
     Tshiluba: "Kanungu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Ka·nun·gu<p>/Kah-noon-goo/</p>",
-    PhoneticsT: "Article / Article",
+    PhoneticsT: "Article | Article",
     English2: "Clause",
     French2: " ",
     Tshiluba2: " ",
@@ -851,14 +1023,212 @@ Kanungu 5 :
 </tr>
 `
 },
+/*Kuakula*/  
+{
+    English: "Talk",
+    French: "Parler",
+    Tshiluba: "Kuakula",
+    PartOfSpeech: "verbe | verb | muanda",
+    Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
+    PhoneticsT: "Parler | Talk",
+    English2: "Speak",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Parler <i class="PartOfSpch">v</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+say <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+Talk <i class="PartOfSpch">muan</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je parle | I speak | <b>ndi ngakula</b><br><br>
+2. tu parles | you speak | <b>udi wakula</b><br><br>
+3. il/elle parle | he/she speaks | <b>udi wakula</b><br><br>
+4. nous parlons  | we speak | <b>tudi tuakula (ne)</b><br><br>
+5. vous parlez | you speak | <b>nudi nuakula (ne)</b><br><br>
+6. ils parlent | they speak | <b>badi bakula (ne)</b><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+Je parles en Tshiluba
+                :<br>
+                &nbsp:
+I'm speaking Tshiluba
+                :<br>
+                &nbsp:&nbsp
+Ndi ngakula Tshiluba :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
+/*Kuamba*/  
+{
+    English: "Say",
+    French: "Dire",
+    Tshiluba: "Kuamba",
+    PartOfSpeech: "verbe | verb | muanda",
+    Phonetics: "Ku·am·ba<p>/kwahm-bah/</p>",
+    PhoneticsT: "Dire | Say",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+dire <i class="PartOfSpch">v</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+say <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuamba <i class="PartOfSpch">muan</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je dis | I say | <b>ndi ngamba (ne)</b><br><br>
+2. tu dis | you say | <b>udi wamba (ne)</b><br><br>
+3. il/elle dit | he/she says | <b>udi wamba (ne)</b><br><br>
+4. nous disons | we say | <b>tudi tuamba (ne)</b><br><br>
+5. vous disez | you say | <b>nudi nuamba (ne)</b><br><br>
+6. ils disent | they say | <b>badi bamba (ne)</b><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+J'ai dis bonjour
+                :<br>
+                &nbsp:
+I said hello
+                :<br>
+                &nbsp:&nbsp
+Ndi ngamba ne :
+<br><br></td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+Dire a
+                :<br>
+                &nbsp:
+Say to
+                :<br>
+                &nbsp:&nbsp
+Kuambila ne :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
 /*Kubala*/   
 {
     English: "Read",
     French: "Lire",
     Tshiluba: "Kubala",
-    PartOfSpeech: "verbe transitif/transitive verb",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
     Phonetics: "Ku·ba·la<p>/Koo-bah-lah/</p>",
-    PhoneticsT: "Lire / Read",
+    PhoneticsT: "Lire | Read",
     English2: "Count",
     French2: "Compter",
     Tshiluba2: "Bala",
@@ -922,6 +1292,19 @@ kubala <i class="PartOfSpch">v.tr</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je lis | I read | <b>ndi ngenza</b><br><br>
+2. tu lis | you read | <b>udi wenza</b><br><br>
+3. il/elle lit | he/she reads | <b>udi wenza</b><br><br>
+4. nous lisons | we read | <b>tudi tuenza</b><br><br>
+5. vous lisez | you read | <b>nudi nuenza</b><br><br>
+6. ils lisent | they read | <b>badi benza</b><br><br>
+
+</td>
+</tr>
+<tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
 <i>lire un livre
                 :<br>
@@ -978,14 +1361,108 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 </td>
 </tr>`
 },
+/*Kuenza*/  
+{
+    English: "Do",
+    French: "Faire",
+    Tshiluba: "Kuenza",
+    PartOfSpeech: "verbe | verb | muanda",
+    Phonetics: "Ku·en·za·la<p>/kwehn-zah/</p>",
+    PhoneticsT: "Faire | Do",
+    English2: "Make",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+faire <i class="PartOfSpch">vtr</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+do, make <i class="PartOfSpch">vtr</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuenza <i class="PartOfSpch">muan</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je fais | I do | <b>ndi ngenza</b><br><br>
+2. tu fais | you do | <b>udi wenza</b><br><br>
+3. il/elle fais | he/she does | <b>udi wenza</b><br><br>
+4. nous faisons | we do | <b>tudi tuenza</b><br><br>
+5. vous faisez | you do | <b>nudi nuenza</b><br><br>
+6. ils faisent | they do | <b>badi benza</b><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+Que est-ce que tu fais?
+                :<br>
+                &nbsp:
+What are you doing?
+                :<br>
+                &nbsp:&nbsp
+Udi wenza tshinyi? :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
 /*Kufunda*/   
 {
     English: "Write",
     French: "Écrire",
     Tshiluba: "Kufunda",
-    PartOfSpeech: "verbe transitif/transitive verb",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
     Phonetics: "Ku·fun·da<p>/Koo-foon-dah/</p>",
-    PhoneticsT: "Écrire / Write",
+    PhoneticsT: "Écrire | Write",
     English2: "Denounce",
     French2: "Dénoncer",
     Tshiluba2: "Funda",
@@ -1045,9 +1522,21 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 2. denounce <i class="PartOfSpch">v.tr</i> <br> (accuse)
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-kufunda <i class="PartOfSpch">v.tr</i>
+kufunda <i class="PartOfSpch">muan</i>
 </td>
 </tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'écris | I write | <b>ndi mfunda</b><br><br>
+2. tu écris | you write | <b>udi ufunda</b><br><br>
+3. il/elle écrit | he/she writes | <b>udi ufunda</b><br><br>
+4. nous écrivons | we write | <b>tudi tufunda</b><br><br>
+5. vous écrivez | you write | <b>nudi nufunda</b><br><br>
+6. ils écrivent | they write | <b>badi bafunda</b><br><br>
+</td>
+</tr>
+<tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
 <i>écrire à la main
@@ -1099,18 +1588,216 @@ kufundisha
 </td>
 </tr>`
 },
+/*Kuikala*/   
+{
+    English: "Be",
+    French: "Être",
+    Tshiluba: "Kuikala",
+    PartOfSpeech: "verbe intransitif | intransitive verb | muanda",
+    Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
+    PhoneticsT: "Être | Be",
+    English2: "To be",
+    French2: "Etre",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+être <i class="PartOfSpch">v.in</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+be <i class="PartOfSpch">v.in</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuikala <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je suis | I am | <b>ndi</b><br><br>
+2. tu es | you are | <b>udi</b><br><br>
+3. il/elle est | he/she is | <b>udi</b><br><br>
+4. nous sommes | we are | <b>tudi</b><br><br>
+5. vous êtes | you are | <b>nudi</b><br><br>
+6. ils sont | they are | <b>badi</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>être avec quelqu'un
+                :<br>
+                &nbsp:
+be with someone
+                :<br>
+                &nbsp:&nbsp
+kuikala ne muntu :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'étais | I was | <b>mvua == nakadi</b><br><br>
+2. tu étais | you were | <b>uvua == wakadi</b><br><br>
+3. il/elle était | he/she was | <b>uvua == wakadi</b><br><br>
+4. nous étions | we were | <b>tuvua == tuakadi</b><br><br>
+5. vous étiez | you were | <b>nuvua == nuakadi</b><br><br>
+6. ils étaient | they were | <b>bavua == bakadi</b><br><br>
+</td>
+</tr>
+<tr>
+`
+},
+/*Kuikala ne*/   
+{
+    English: "Have",
+    French: "Avoir",
+    Tshiluba: "Kuikala ne",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
+    PhoneticsT: "Avoir | Have",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+avoire, être avec<i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+have, be with <i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuikala ne <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'ai | I have | <b>ndi ne</b><br><br>
+2. tu as | you have | <b>udi ne</b><br><br>
+3. il/elle a | he/she has | <b>udi ne</b><br><br>
+4. nous avons | we have | <b>tudi ne</b><br><br>
+5. vous avez | you have | <b>nudi ne</b><br><br>
+6. ils ont | they have | <b>badi ne</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>avoir faim
+                :<br>
+                &nbsp:
+to be hungry
+                :<br>
+                &nbsp:&nbsp
+kuikala ne nzala :
+<br><br></td>
+</tr>
+`
+},
 /*Kukosa*/   
 {
     English: "Cut",
     French: "Couper",
     Tshiluba: "Kukosa",
-    PartOfSpeech: "verbe transitif/transitive verb",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
     Phonetics: "Ku·ko·sa<p>/Koo-koh-sah/</p>",
-    PhoneticsT: "Couper / Cut",
+    PhoneticsT: "Couper | Cut",
     English2: "Cease",
     French2: "Cesser",
     Tshiluba2: "Kosa",
-    PhoneticsT2: "<br>Cesser / Cease",
+    PhoneticsT2: "<br>Cesser | Cease",
     English3: " ",
     French3: " ",
     Tshiluba3: " ",
@@ -1168,7 +1855,19 @@ trancher
 2. cease <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-kukosa <i class="PartOfSpch">v.tr</i>
+kukosa <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je coupes | I cut | <b>ndi nkosa</b><br><br>
+2. tu coupes | you cut | <b>udi ukosa</b><br><br>
+3. il/elle coupe | he/she cuts | <b>udi ukosa</b><br><br>
+4. nous coupons | we cut | <b>tudi tukosa</b><br><br>
+5. vous coupez | you cut | <b>nudi nukosa</b><br><br>
+6. ils coupent | they cut | <b>badi bakosa</b><br><br>
+
 </td>
 </tr>
 <tr>
@@ -1228,12 +1927,480 @@ Kukosa mpala
 </td>
 </tr>`
 },
+/*Kumona*/   
+{
+    English: "See",
+    French: "Voir",
+    Tshiluba: "Kumona",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    Phonetics: "Ku·mo·na<p>/Koo-moh-nah/</p>",
+    PhoneticsT: "Voir | See",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+voir <i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+see <i class="PartOfSpch">tr.v</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kumona <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je vois | I see | <b>ndi mmona </b><br><br>
+2. tu vois | you see | <b>udi umona</b><br><br>
+3. il/elle/on voit | he/she sees | <b>udi umona</b><br><br>
+4. nous voyons | we see | <b>tudi tumona</b><br><br>
+5. vous voyez | you see | <b>nudi numona</b><br><br>
+6. ils/elles voient | they see | <b>badi bamona</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Je vois des hommes. Ils ressemblent à des arbres ambulants.
+                :<br>
+                &nbsp:
+I see men. They look like walking trees.
+                :<br>
+                &nbsp:&nbsp
+Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
+<br><br></td>
+</tr>
+`
+},
+/*Kununka*/   
+{
+    English: "Smell",
+    French: "Sentir",
+    Tshiluba: "Kununka",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
+    PhoneticsT: "Sentir | Smell",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "Kununkila",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+sentir <i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+smell <i class="PartOfSpch">tr.v</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kununka <i class="PartOfSpch">muan</i>, <p>
+kununkila
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je sens | I smell | <b>ndi nnunka</b><br><br>
+2. tu sens | you smell | <b>udi ununka</b><br><br>
+3. il/elle/on sent | he/she smells | <b>udi ununka</b><br><br>
+4. nous sentons | we smell | <b>tudi tununka</b><br><br>
+5. vous sentez | you smell | <b>nudi nununka</b><br><br>
+6. ils/elles sentent | they smell | <b>badi banunka</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Il a senti l'odeur de ses vêtements.
+                :<br>
+                &nbsp:
+He smelled the smell of his clothes.
+                :<br>
+                &nbsp:&nbsp
+Yeye, wakanunkila mupuya wa bilamba bende. :
+<br><br></td>
+</tr>
+`
+},
+/*Kutangila*/   
+{
+    English: "Look",
+    French: "Regarder",
+    Tshiluba: "Kutangila",
+    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
+    PhoneticsT: "Regarder | Look",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+regarder <i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+listen <i class="PartOfSpch">tr.v</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kutangila <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je regarde | I look | <b>ndi ntangila </b><br><br>
+2. tu regardes | you look | <b>udi utangila</b><br><br>
+3. il/elle/on regarde | he/she looks | <b>udi utangila</b><br><br>
+4. nous regardons | we look | <b>tudi tutangila</b><br><br>
+5. vous regardez | you look | <b>nudi nutangila</b><br><br>
+6. ils/elles regardent | they look | <b>badi batangila</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Regarde vers les montagnes de Tshikapa
+                :<br>
+                &nbsp:
+Look toward the mountains of Tshikapa
+                :<br>
+                &nbsp:&nbsp
+Tangila ku mikuna ya Tshikapa :
+<br><br></td>
+</tr>
+`
+},
+/*Kuteleja*/   
+{
+    English: "Listen",
+    French: "écouter",
+    Tshiluba: "Kuteleja",
+    PartOfSpeech: "verbe | verb | muanda",
+    Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
+    PhoneticsT: "écouter | listen",
+    English2: "Listen to",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+écouter <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+listen <i class="PartOfSpch">v</i> <br>
+
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuteleja <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'écoute | I listen | <b>ndi nteleja </b><br><br>
+2. tu écoutes | you listen | <b>udi uteleja</b><br><br>
+3. il/elle/on écoute | he/she listens | <b>udi uteleja</b><br><br>
+4. nous écoutons | we listen | <b>tudi tuteleja</b><br><br>
+5. vous écoutez | you listen | <b>nudi nuteleja</b><br><br>
+6. ils/elles écoutent | they listen | <b>badi bateleja</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Mon fils, écoute mes paroles.
+                :<br>
+                &nbsp:
+My son, listen to my words.
+                :<br>
+                &nbsp:&nbsp
+Muananyi, teleja miaku yanyi :
+<br><br></td>
+</tr>
+`
+},
+/*Kuumvua*/   
+{
+    English: "Hear",
+    French: "Entendre",
+    Tshiluba: "Kuikala",
+    PartOfSpeech: "verbe intransitif | intransitive verb | muanda",
+    Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
+    PhoneticsT: "Entendre | Hear",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+entendre <i class="PartOfSpch">v.in</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+hear <i class="PartOfSpch">v.in</i> <br>
+
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuumvua <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'entendre | I hear | <b>ndi mvua</b><br><br>
+2. tu entendres | you hear | <b>udi umvua</b><br><br>
+3. il/elle entendre | he/she hears | <b>udi umvua</b><br><br>
+4. nous entendons | we hear | <b>tudi tumvua</b><br><br>
+5. vous entendez | you hear | <b>nudi numvua</b><br><br>
+6. ils entendent | they hear | <b>badi bumvua</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>on entend dire que...
+                :<br>
+                &nbsp:
+we hear that...
+                :<br>
+                &nbsp:&nbsp
+tudi tumvua bamba ne:
+<br><br></td>
+</tr>
+`
+},
 /*Kuzebuka*/  
 {
     English: "Limp",
     French: "Boiter",
     Tshiluba: "Kuzebuka",
-    PartOfSpeech: "verbe/verb/muanda",
+    PartOfSpeech: "verbe | verb | muanda",
     Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
     PhoneticsT: "Boiter / Limp",
     English2: " ",
@@ -1317,7 +2484,7 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     English: "Cold",
     French: "Froid",
     Tshiluba: "Mashika",
-    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective/mufidi",
+    PartOfSpeech: "nom | noun | tshibikidilu || adjectif | adjective | mufidi",
     Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
     PhoneticsT: "Froid / Cold",
     English2: " ",
@@ -1398,7 +2565,7 @@ kuikala ne mashika; kuumvua ne mashika :
     English: "Writing",
     French: "Écriture",
     Tshiluba: "Mfundilu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Mfun·di·lu<p>/mm-foon-dee-loo/</p>",
     PhoneticsT: "Écriture / Writing",
     English2: "scripture",
@@ -1480,7 +2647,7 @@ eyowa, bualu buambi mbua bulelela :
     English: "Limit",
     French: "Limite",
     Tshiluba: "Mukalu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Mu·ka·lu<p>/Moo-kah-loo/</p>",
     PhoneticsT: "Limite / Limit",
     English2: "Border",
@@ -1534,11 +2701,11 @@ eyowa, bualu buambi mbua bulelela :
 </tr>
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. limite, frontière,<br>
+limite, frontière,<br>
 ligne de séparation <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. limit, border  <i class="PartOfSpch">n</i>                           
+limit, border  <i class="PartOfSpch">n</i>                           
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
 mukalu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
@@ -1574,7 +2741,7 @@ Kupita mikalu:
     English: "Democracy",
     French: "Démocratie",
     Tshiluba: "Mungalata",
-    PartOfSpeech: "nom/noun/tshibidikilu",
+    PartOfSpeech: "nom | noun | tshibidikilu",
     Phonetics: "Mun·ga·la·ta<p>/Moong-ah-lah-tah/</p>",
     PhoneticsT: "Démocratie / Democracy",
     English2: "Democratic",
@@ -1670,7 +2837,7 @@ Ditunga dia Kongu wa Mungalata :
     English: "Person",
     French: "Personne",
     Tshiluba: "Muntu",
-    PartOfSpeech: "nom/noun/tshibikidilu | pronom/pronoun",
+    PartOfSpeech: "nom | noun | tshibikidilu || pronom | pronoun",
     Phonetics: "Mun·tu<p>/MOON-too/</p>",
     PhoneticsT: "Personne / Person",
     English2: "Someone",
@@ -1796,7 +2963,7 @@ Kakuena <i>muntu</i> to.
     English: "Although",
     French: "Quoique",
     Tshiluba: "Nansha",
-    PartOfSpeech: "conjonction/conjunction",
+    PartOfSpeech: "conjonction | conjunction",
     Phonetics: "Nan·sha<p>/Nahn-shah/</p>",
     PhoneticsT: "Quoique / Although",
     English2: " ",
@@ -1877,7 +3044,7 @@ nansha tshinyi/tshinganyi :
     English: "End",
     French: "Fin",
     Tshiluba: "Ndekelu",
-    PartOfSpeech: "nom/noun/tshibikidilu | adjectif/adjective/mufidi",
+    PartOfSpeech: "nom | noun | tshibikidilu || adjectif | adjective | mufidi",
     Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
     PhoneticsT: "Fin / End",
     English2: "Last",
@@ -1972,7 +3139,7 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
     English: "Who",
     French: "Qui",
     Tshiluba: "Nganyi",
-    PartOfSpeech: "pronom/pronoun",
+    PartOfSpeech: "pronom | pronoun | mupinganyi",
     Phonetics: "Ngan·yi<p>/Gahn-yi/</p>",
     PhoneticsT: "Qui / Who",
     English2: " ",
@@ -2026,13 +3193,13 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
 </tr>
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-qui
+qui <i class="PartOfSpch">pron</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-who
+who <i class="PartOfSpch">pron</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-nganyi
+nganyi <i class="PartOfSpch"> mupi</i>
 </td>
 </tr>
 <tr>
@@ -2076,7 +3243,7 @@ vuaku ne ewu udi musua
         English: "Dictionary",
         French: "Dictionnaire",
         Tshiluba: "Nkongamiaku",
-        PartOfSpeech: "nom/noun/tshibikidilu",
+        PartOfSpeech: "nom | noun | tshibikidilu",
         Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
         PhoneticsT: "Dictionnaire / Dictionary",
         English2: " ",
@@ -2172,7 +3339,7 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     English: "Where",
     French: "Où",
     Tshiluba: "Penyi",
-    PartOfSpeech: "adverbe/adverb/muambikila",
+    PartOfSpeech: "adverbe | adverb | muambikila",
     Phonetics: "Pen·yi<p>/PEN-yee/</p>",
     PhoneticsT: "Où / Where",
     English2: " ",
@@ -2253,7 +3420,7 @@ Badi penyi? :
     English: "Hand",
     French: "Main",
     Tshiluba: "Tshianza",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshian·za<p>/chyan-zah/</p>",
     PhoneticsT: "Main / Hand",
     English2: " ",
@@ -2399,7 +3566,7 @@ tshianza tshibi : tshianza tshimpe
     English: "Room",
     French: "Chambre",
     Tshiluba: "Tshibambalu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshi·bam·ba·lu<p>/chee-bahm-bah-loo/</p>",
     PhoneticsT: "Chambre / Room",
     English2: "Department",
@@ -2461,7 +3628,7 @@ tshianza tshibi : tshianza tshimpe
 2. department <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshibambalu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i> 
+tshibambalu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i> 
 bibambalu
 </td>
 </tr>
@@ -2494,7 +3661,7 @@ tshibambalu tshia mashika :
     English: "Substantive",
     French: "Substantif",
     Tshiluba: "Tshibikidilu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshi·bi·ki·di·lu<p>/chee-bee-kee-dee-loo/</p>",
     PhoneticsT: "Substantif / Substantive",
     English2: "Noun",
@@ -2556,7 +3723,7 @@ tshibambalu tshia mashika :
 2. noun <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshibidikilu <i class="PartOfSpch">n</i><br>
+tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 <i class="PartOfSpch">pl</i> bibidikilu
 </td>
 </tr>
@@ -2613,7 +3780,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
     English: "Year",
     French: "An",
     Tshiluba: "Tshidimu",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshi·di·mu<p>/chee-dee-moo/</p>",
     PhoneticsT: "An / Year",
     English2: " ",
@@ -2711,7 +3878,7 @@ tshidimu tshia 1999 :
     English: "Error",
     French: "Erreur",
     Tshiluba: "Tshilema",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshi·le·ma<p>/chee-leh-mah/</p>",
     PhoneticsT: "Erreur / Error",
     English2: "Mistake",
@@ -2773,7 +3940,7 @@ tshidimu tshia 1999 :
 2. mistake <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshilema <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
+tshilema <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i>
 bilema <i class="PartOfSpch">n</i>
 </td>
 </tr>
@@ -2806,7 +3973,7 @@ kuenza tshilema :
     English: "Bimbadi",
     French: "Tshimbadi",
     Tshiluba: "Tshimbadi",
-    PartOfSpeech: "nom/noun/tshibikidilu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
     Phonetics: "Tshim·ba·di<p>/Cheem-bah-dee/</p>",
     PhoneticsT: "Tshimbadi / Bimbadi",
     English2: " ",
@@ -2861,7 +4028,7 @@ kuenza tshilema :
 
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-Tshimbadi <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl.</i> 
+Tshimbadi <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl.</i> 
 Bimbadi 
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
@@ -2886,7 +4053,7 @@ Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia d
         English: "Thing",
         French: "Chose",
         Tshiluba: "Tshintu",
-        PartOfSpeech: "nom/noun/tshibikidilu",
+        PartOfSpeech: "nom | noun | tshibikidilu",
         Phonetics: "Tshi·ntu<p>/CHEEN-too/</p>",
         PhoneticsT: "Chose / Thing",
         English2: "Object",
@@ -2948,7 +4115,7 @@ thing <i class="PartOfSpch">n</i> <br><i class="PartOfSpch">pl</i>
 things
     </td>
     <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshintu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
+tshintu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i>
 bintu
     </td>
 </tr>
@@ -3009,7 +4176,7 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     English: "What",
     French: "Quoi",
     Tshiluba: "Tshinyi",
-    PartOfSpeech: "pronom/pronoun",
+    PartOfSpeech: "pronom | pronoun | mupinganyi",
     Phonetics: "Tshin·yi<p>/CHEEN-yi/</p>",
     PhoneticsT: "Quoi / What",
     English2: " ",
@@ -3069,7 +4236,7 @@ quoi <i class="PartOfSpch">pron</i>
 what <i class="PartOfSpch">pron</i> 
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshinyi <i class="PartOfSpch">pron</i>
+tshinyi <i class="PartOfSpch">mupi</i>
 </td>
 </tr>
 <tr>
@@ -3126,6 +4293,104 @@ Udi wenza tshinyi :
 <br><br>
 </td>
 </tr>`
+},
+/*Tshipatshila*/  
+{
+    English: "Objective",
+    French: "Objectif",
+    Tshiluba: "Tshipatshila",
+    PartOfSpeech: "nom | noun | tshibidikilu",
+    Phonetics: "Tshi·pa·tshi·la<p>/chee-pah-chee-lah/</p>",
+    PhoneticsT: "Objectif / Objective",
+    English2: "Goal",
+    French2: "But",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+objectif, but <i class="PartOfSpch">n</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+objetive, goal <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshipatshila <i class="PartOfSpch">tshi9</i><p>
+<i class="PartOfSpch">pl</i> bipatshila
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+La fin vers laquelle l'effort est dirigé.
+                <br><br>
+                
+<b><i>Explanation</i></b><br>
+The end toward which effort is directed.
+
+<br><br>
+               
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+Afin d'atteindre cet but.
+                :<br>
+                &nbsp:
+In order to achieve this goal.
+                :<br>
+                &nbsp:&nbsp
+Bua kufika ku tshipatshila etshi. :
+<br><br></td>
+</tr>
+<tr>
+` 
 }
 ];
 /**********************************/
@@ -3148,9 +4413,9 @@ function findinpt(){
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
 
-    let xx = `${nkongamiaku[0].English}<br>
+    let xx = `${nkongamiaku[0].English}<br><br>
     ${nkongamiaku[0].French}<br>
-    ${nkongamiaku[0].Tshiluba}`;
+    ${nkongamiaku[0].Tshiluba}<br>`;
 
     wordinfo2.innerHTML = xx;
 
@@ -3224,9 +4489,9 @@ function maininpt(){
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
     
-    let xx = `${nkongamiaku[0].English}<br>
-    ${nkongamiaku[0].French}<br>
-    ${nkongamiaku[0].Tshiluba}`;
+    let xx = `${nkongamiaku[0].English}<br><br>
+    ${nkongamiaku[0].French}<br><br>
+    ${nkongamiaku[0].Tshiluba}<br>`;
     wordinfo2.innerHTML = xx;
 
     wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
