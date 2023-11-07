@@ -491,6 +491,84 @@ Kusumba bua mfranga 10
 </td>
 </tr>`
 },
+/*Dikumi*/  
+{
+    English: "Ten",
+    French: "Dix",
+    Tshiluba: "Dikumi",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Di·ku·mi<p>/Djee-koo-mee/</p>",
+    PhoneticsT: "Dix | Ten",
+    English2: "10",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "10",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+dix, 10 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+ten, 10 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+dikumi, 10 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 10</i></b><br>
+
+<b><i>Cardinal Number: 10</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 10</i></b><br>
+<br></td>
+</tr>` 
+},
 /*Dipembu Dihembu*/  
 {
     English: "Aroma",
@@ -940,6 +1018,396 @@ eyowa, bualu buambi mbua bushuwa :
 <br><br></td>
 </tr>
 `
+},
+/*Ibidi*/  
+{
+    English: "Two",
+    French: "Deux",
+    Tshiluba: "Ibidi",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "I·bi·di<p>/Eee-bee-dee/</p>",
+    PhoneticsT: "Deux | Two",
+    English2: "2",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "2",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+deux, 2 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+two, 2 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+ibidi, 2 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 2</i></b><br>
+
+<b><i>Cardinal Number: 2</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 2</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Inayi*/  
+{
+    English: "Four",
+    French: "Quatre",
+    Tshiluba: "Inayi",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "I·na·yi<p>/Eee-nah-yee/</p>",
+    PhoneticsT: "Quatre | Four",
+    English2: "4",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "4",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+quatre, 4 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+four, 4 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+inayi, 4 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 4</i></b><br>
+
+<b><i>Cardinal Number: 4</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 4</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Isatu*/  
+{
+    English: "Three",
+    French: "Trois",
+    Tshiluba: "Isatu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "I·sa·tu<p>/Eee-sah-too/</p>",
+    PhoneticsT: "Trois | Three",
+    English2: "3",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "3",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+trois, 3 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+three, 3 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+isatu, 3 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 3</i></b><br>
+
+<b><i>Cardinal Number: 3</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 3</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Isambombo*/  
+{
+    English: "Six",
+    French: "Six",
+    Tshiluba: "Isambombo",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "I·sam·bom·bo<p>/Eee-sahm-bome-bo/</p>",
+    PhoneticsT: "Six | Six",
+    English2: "6",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "6",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+six, 6 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+six, 6 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+isambombo, 6 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 6</i></b><br>
+
+<b><i>Cardinal Number: 6</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 6</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Itanu*/  
+{
+    English: "Five",
+    French: "Cinq",
+    Tshiluba: "Itanu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "I·ta·nu<p>/Eee-tah-noo/</p>",
+    PhoneticsT: "Cinq | Five",
+    English2: "5",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "5",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+cinq, 5 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+five, 5 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+itanu, 5 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 5</i></b><br>
+
+<b><i>Cardinal Number: 5</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 5</i></b><br>
+<br></td>
+</tr>` 
 },
 /*Kanungu*/   
 {
@@ -2479,6 +2947,84 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
 </tr>
 ` 
 },
+/*Lukama*/  
+{
+    English: "Hundred",
+    French: "Cent",
+    Tshiluba: "Lukama",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Lu·ka·ma<p>/Loo-kah-mah/</p>",
+    PhoneticsT: "Cent | Hundred",
+    English2: "100",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "One Hundred",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "A hundred",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "100",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+cent, 100 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+hundred, 100 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+lukama, 100 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 100</i></b><br>
+
+<b><i>Cardinal Number: 100</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 100</i></b><br>
+<br></td>
+</tr>` 
+},
 /*Mashika*/   
 {
     English: "Cold",
@@ -2641,6 +3187,162 @@ eyowa, bualu buambi mbua bulelela :
 <br><br></td>
 </tr>
 `
+},
+/*Muandamukulu*/  
+{
+    English: "Eight",
+    French: "Huit",
+    Tshiluba: "Muandamukulu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Muan·da·mu·ku·lu<p>/Mwah-ndah-moo-koo-loo/</p>",
+    PhoneticsT: "Huit | Eight",
+    English2: "8",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "8",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+huit, 8 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+eight, 8 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+muandamukulu, 8 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 8</i></b><br>
+
+<b><i>Cardinal Number: 8</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 8</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Muandamutekete*/  
+{
+    English: "Seven",
+    French: "Sept",
+    Tshiluba: "Muandamutekete",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Muan·da·mu·te·ke·te<p>/Mwah-ndah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Sept| Seven",
+    English2: "7",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "7",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+sept, 7 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+seven, 7 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+muandamutekete, 7 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 7</i></b><br>
+
+<b><i>Cardinal Number: 7</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 7</i></b><br>
+<br></td>
+</tr>` 
 },
 /*Mukalu*/   
 {
@@ -3238,7 +3940,7 @@ vuaku ne ewu udi musua
 </tr>
 `
 },
-/*NkongaMiaku*/  
+/*Nkongamiaku*/  
 {
         English: "Dictionary",
         French: "Dictionnaire",
@@ -4049,7 +4751,7 @@ Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia d
 `
 },
 /*Tshintu*/   
- {
+{
         English: "Thing",
         French: "Chose",
         Tshiluba: "Tshintu",
@@ -4170,6 +4872,84 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     <br><br>
     </td>
     </tr>`
+},
+/*Lukama*/  
+{
+    English: "Thousand",
+    French: "Mille",
+    Tshiluba: "Tshinunu",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Tshi·nu·nu<p>/chee-noo-noo/</p>",
+    PhoneticsT: "Mille | Thousand",
+    English2: "1000",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "One Thousand",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "A thousand",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "1000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+mille, 1000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+thousand, 1000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshinunu, 1000 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 1000</i></b><br>
+
+<b><i>Cardinal Number: 1000</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 1000</i></b><br>
+<br></td>
+</tr>` 
 },
 /*Tshinyi*/   
  {
@@ -4391,6 +5171,262 @@ Bua kufika ku tshipatshila etshi. :
 </tr>
 <tr>
 ` 
+},
+/*Tshitema*/  
+{
+    English: "Nine",
+    French: "Neuf",
+    Tshiluba: "Tshitema",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Tshi·te·ma<p>/chee-teh-mah/</p>",
+    PhoneticsT: "Neuf | Nine",
+    English2: "9",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "9",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+neuf, 9 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+nine, 9 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshitema, 9 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 9</i></b><br>
+
+<b><i>Cardinal Number: 9</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 9</i></b><br>
+<br></td>
+</tr>` 
+},
+/*Tshitupa*/  
+{
+    English: "Part",
+    French: "Partie",
+    Tshiluba: "Tshitupa",
+    PartOfSpeech: "nom | noun | tshibidikilu",
+    Phonetics: "Tshi·tu·pa<p>/chee-too-pah/</p>",
+    PhoneticsT: "Partie / Part",
+    English2: "Section",
+    French2: "Morceau",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "Chapter",
+    French3: "Chapitre",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "Portion",
+    French4: "Fraction",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "Pieces",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "Piece",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. morceau, fraction, portion <i class="PartOfSpch">n</i><p>
+2. chapitre
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. part, piece, fraction <i class="PartOfSpch">n</i>
+2. chapter
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+tshitupa <i class="PartOfSpch">tshi9</i><p>
+<i class="PartOfSpch">pl</i> bitupa
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+Une portion ou une quantité séparée ou limitée de quelque chose.
+                <br><br>
+                
+<b><i>Explanation</i></b><br>
+A separate or limited portion or quantity of something.
+
+<br><br>
+               
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+Un moreceau de bois dans l'eau ne s'est jamais transformé en crocodile.
+                <br><br>
+                &nbsp
+A piece of wood in the water never turned into a crocodile.
+                <br><br>
+                &nbsp&nbsp
+Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
+<br><br></td>
+</tr>
+<tr>
+` 
+},
+/*Umwe*/  
+{
+    English: "One",
+    French: "Un",
+    Tshiluba: "Umwe",
+    PartOfSpeech: "nom | noun | tshibikidilu",
+    Phonetics: "Um·we<p>/Oom-way/</p>",
+    PhoneticsT: "Un / One",
+    English2: "1",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "1",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+un, 1 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+one, 1 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+umwe, 1 <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Nombre Cardinale: 1</i></b><br>
+
+<b><i>Cardinal Number: 1</i></b><br>
+            
+<b><i>Bungi Bwa Dibala: 1</i></b><br>
+<br></td>
+</tr>` 
 }
 ];
 /**********************************/
