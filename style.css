@@ -465,7 +465,7 @@ a.links:hover {
   }
 a.links:visited {
     text-decoration:line;
-    color: rgb(27, 27, 29);
+    color: rgb(117, 0, 0);
     margin: auto;
   }
 
@@ -495,6 +495,14 @@ a.links:visited {
     font-family:'Tinos', sans-serif;
     padding: 2px;
     font-size: 24px;
+    width: 100%;
+    position: relative;
+    white-space:nowrap;
+}
+.searchheader .card .tablewrapper .Xinfo .tabledef_a{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 18px;
     width: 100%;
     position: relative;
 }
@@ -646,8 +654,17 @@ a.links:visited {
         font-size: 24px;
         width: 100%;
         position: relative;
-        text-align: left;
+        text-align: center;
+        white-space:nowrap;
     }
+    .searchheader .card .tablewrapper .Xinfo .tabledef_a{
+        font-family:'Tinos', sans-serif;
+        padding: 2px;
+        font-size: 16px;
+        text-align: center;
+        width: 100%;
+    }
+
     .searchheader .tablewrapper2 .biglogo{
         text-align: center;
         background-color: rgb(11, 0, 77);

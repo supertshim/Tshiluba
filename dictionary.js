@@ -1747,6 +1747,12 @@ kuamba <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je dis | I say | <b>ndi ngamba (ne)</b><br><br>
@@ -1781,12 +1787,6 @@ Kuambila ne :
 <br><br></td>
 </tr>
 <tr>
-<tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
-<br></td>
-</tr>
 ` 
 },
 /*Kubala*/   
@@ -2092,6 +2092,14 @@ kufika <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'arrive | I arrive | <b>ndi mfika </b><br><br>
@@ -2111,14 +2119,6 @@ Then, when I arrive
                 :<br>
                 &nbsp:&nbsp
 Kadi, pa ndi mfika kuntu aku :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
 <br><br></td>
 </tr>
 `
@@ -2603,7 +2603,7 @@ Kukosa mpala
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·lua<p>/koo-lwah/</p>",
     PhoneticsT: "Venir / Come",
-    English2: " ",
+    English2: "Lua",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -2664,6 +2664,14 @@ kulua <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je viens | I am coming | <b>ndi ndua </b><br><br>
@@ -2685,14 +2693,6 @@ But now I am coming to you
 Kadi mpindieu ndi ndua kudi :
 <br><br></td>
 </tr>
-<tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-<br><br></td>
-</tr>
 `
 },
 /*Kumona*/   
@@ -2700,10 +2700,10 @@ Kadi mpindieu ndi ndua kudi :
     English: "See",
     French: "Voir",
     Tshiluba: "Kumona",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·mo·na<p>/Koo-moh-nah/</p>",
     PhoneticsT: "Voir | See",
-    English2: " ",
+    English2: "Mona",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -2764,6 +2764,12 @@ kumona <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je vois | I see | <b>ndi mmona </b><br><br>
@@ -2784,12 +2790,6 @@ I see men. They look like walking trees.
                 :<br>
                 &nbsp:&nbsp
 Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
 <br><br></td>
 </tr>
 `
@@ -2893,10 +2893,10 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     English: "Look",
     French: "Regarder",
     Tshiluba: "Kutangila",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
     PhoneticsT: "Regarder | Look",
-    English2: " ",
+    English2: "tangila",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -2957,6 +2957,12 @@ kutangila <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kumona">kumona</a>  
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je regarde | I look | <b>ndi ntangila </b><br><br>
@@ -2977,12 +2983,6 @@ Look toward the mountains of Tshikapa
                 :<br>
                 &nbsp:&nbsp
 Tangila ku mikuna ya Tshikapa :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kumona">kumona</a>  
 <br><br></td>
 </tr>
 `
@@ -3758,10 +3758,8 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="1"; style="background-color: rgb(245, 245, 245);">
-<b><i>Voir également <br> See also <br> Tangila kabidi</i></b><br>
-</td>
-<td colspan="2" class="tabledef"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
@@ -3867,10 +3865,8 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="1"; style="background-color: rgb(245, 245, 245);">
-<b><i>Voir également <br> See also <br> Tangila kabidi</i></b><br>
-</td>
-<td colspan="2" class="tabledef"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
@@ -4132,10 +4128,8 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="1"; style="background-color: rgb(245, 245, 245);">
-<b><i>Voir également <br> See also <br> Tangila kabidi</i></b><br>
-</td>
-<td colspan="2" class="tabledef"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
@@ -4743,10 +4737,8 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> mipinganyi
 </tr>
 <tr>
-<td colspan="1"; style="background-color: rgb(245, 245, 245);">
-<b><i>Voir également <br> See also <br> Tangila kabidi</i></b><br>
-</td>
-<td colspan="2" class="tabledef"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
@@ -5713,14 +5705,12 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 </td>
 </tr>
 <tr>
-<td colspan="1"; style="background-color: rgb(245, 245, 245);">
-<b><i>Voir également <br> See also <br> Tangila kabidi</i></b><br>
-</td>
-<td colspan="2" class="tabledef"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>  
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a> :: 
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
