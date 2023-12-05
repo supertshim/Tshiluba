@@ -758,6 +758,91 @@ Ditunga dia Kongu Wa Mugalata :
 <tr>
 ` 
 },
+/*Ditutu*/  
+{
+    English: "Cloud",
+    French: "Nuage",
+    Tshiluba: "Ditutu",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·tu·tu<p>/Dee-too-too/</p>",
+    PhoneticsT: "Nuage / Cloud",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+nuage <i class="PartOfSpch">n</i><p>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+cloud <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+ditutu <i class="PartOfSpch">tshi4</i><p>
+<i class="PartOfSpch">pl</i> matutu
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'eau flottantes
+<br><br>
+
+<b><i>Explanation</i></b><br>
+a gray or white mass in the sky, made up of very small floating drops of water
+<br><br>
+
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+` 
+},
 /*Diyi*/  
 {
     English: "Law",
@@ -3271,7 +3356,7 @@ give [sth] back to <i class="PartOfSpch">v</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-kupingana <i class="PartOfSpch">muan</i><p>
+kupingaja <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
