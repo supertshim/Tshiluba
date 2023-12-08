@@ -577,7 +577,7 @@ a.links:visited {
         position: absolute;
         height: 95vh;
         width: 80%;
-        top: 0%;
+        top: 20px;
         display: inline;
         left: 10%;
         overflow: hidden;
@@ -632,7 +632,7 @@ a.links:visited {
         font-size: 32px;
         padding: 0px 0px;
         transform: translate(0,0);
-        top: 100px;
+        top: 150px;
         overflow-y: hidden;
         z-index: 1;
     }
@@ -649,6 +649,12 @@ a.links:visited {
         width: 100%;
         margin-top: 0px;
         margin-bottom: 10px;
+    }
+
+    .searchheader .card .tablewrapper .Xinfo  .PartOfSpch{
+        color: blue;
+        font-weight: 400;
+        font-size: 12px;
     }
     .searchheader .card .Phonetics{
         font-size: 26px;
