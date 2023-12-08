@@ -1954,6 +1954,7 @@ kuangata <i class="PartOfSpch">muan</i><p>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2200,7 +2201,8 @@ kuenda <i class="PartOfSpch">mn</i><br>
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2396,7 +2398,9 @@ kufika <i class="PartOfSpch">muan</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2895,6 +2899,107 @@ Kukosa mpala
 </td>
 </tr>`
 },
+/*Kukuata*/   
+{
+    English: "Seize",
+    French: "Saisir",
+    Tshiluba: "Kukuata",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·kua·ta<p>/koo-kwah-tah/</p>",
+    PhoneticsT: "Saisir / Seize",
+    English2: "kuata",
+    French2: "Grasp",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "Grab",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+saisir <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+seize <i class="PartOfSpch">v</i>, grab <i class="PartOfSpch">v</i>, grasp <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kukuata <i class="PartOfSpch">mn</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kushila</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je saisis | I am seizing | <b>ndi nkuata </b><br><br>
+2. tu saisis | you are seizing | <b>udi ukuata </b><br><br>
+3. il/elle/on saisit | he/she is seizing | <b>udi ukuata </b><br><br>
+4. nous saisissons | we are seizing | <b>tudi tukuata</b><br><br>
+5. vous saisissez | you are seizing | <b>nudi nukuata</b><br><br>
+6. ils/elles saisissent | they are seizing | <b>badi bakuata</b><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Les Juifs ont saisi cet homme
+                :<br>
+                &nbsp:
+The Jews siezed this man
+                :<br>
+                &nbsp:&nbsp
+Bena Yuda bavua bakuata muntu eu :
+<br><br></td>
+</tr>
+`
+},
 /*Kulua*/   
 {
     English: "Come",
@@ -2969,7 +3074,9 @@ kulua <i class="PartOfSpch">muan</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3265,30 +3372,31 @@ kunyema <i class="PartOfSpch">mn</i><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
 <br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je marche | I'm walking | <b>ndi ngenda </b><br><br>
-2. tu marches | you're walking | <b>udi wenda </b><br><br>
-3. il/elle/on marche | he/she's walking | <b>udi wenda</b><br><br>
-4. nous marchons | we're walking | <b>tudi tuenda</b><br><br>
-5. vous marchez | you're walking | <b>nudi nuenda</b><br><br>
-6. ils/elles marchent | they're walking | <b>badi benda</b><br><br>
+1. je cours | I'm running | <b>ndi nyenma </b><br><br>
+2. tu cours | you're running | <b>udi unyema </b><br><br>
+3. il/elle/on court | he/she's running | <b>udi unyema</b><br><br>
+4. nous courons | we're running | <b>tudi tunyema</b><br><br>
+5. vous courez | you're running | <b>nudi nunyema</b><br><br>
+6. ils/elles courent | they're running | <b>badi banyema</b><br><br>
 </td>
 </tr>
 <tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
-<i>Alors qu'il marchait au bord de la mer.
+<i>Tout le monde court, mais un seul reçoit le prix
                 :<br>
                 &nbsp:
-As he was walking beside the sea.
+Everyone is running, but only one receives the prize
                 :<br>
-                &nbsp:&nbsp
-Pavuaye wendakana ku muelelu :
+                &nbsp:
+Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
 <br><br></td>
 </tr>
 `
@@ -3575,7 +3683,9 @@ kupingana <i class="PartOfSpch">muan</i><p>
                 <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3598,6 +3708,219 @@ Return to me, and I will return to you
                 :<br>
                 &nbsp:&nbsp
 Pinganayi ku ndi, ne meme nempingane ku nudi :
+<br><br></td>
+</tr>
+`
+},
+/*Kushila*/   
+{
+    English: "Leave to",
+    French: "Laisser à",
+    Tshiluba: "Kushila",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·shi·la<p>/koo-shee-lah/</p>",
+    PhoneticsT: "Donner / Give",
+    English2: "pesha",
+    French2: "laisser a",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "laisser pour",
+    French3: "léguer",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "Bequeath",
+    French4: "leguer",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "shila",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+laisser pour <i class="PartOfSpch">v</i><br>
+laisser à <i class="PartOfSpch">v</i><br>
+léguer <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+leave [something] to <i class="PartOfSpch">v</i><br>
+leave [something] for someone <i class="PartOfSpch">v</i><br>
+bequeath <i class="PartOfSpch">v</i><br>
+<i class="PartOfSpch">different from</i><br>
+<a class="links" href="nkongamiaku.html?inpt1=kushiya">leave [positionally]</a>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kushila <i class="PartOfSpch">mn</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je laisse | I am leaving | <b>ndi nshila </b><br><br>
+2. tu laisses | you are leaving | <b>udi ushila </b><br><br>
+3. il/elle/on laisse | he/she is leaving | <b>udi ushila</b><br><br>
+4. nous laissons | we are leaving | <b>tudi tushila</b><br><br>
+5. vous laissez | you are leaving | <b>nudi nushila</b><br><br>
+6. ils/elles laissent | they are leaving | <b>badi bashila</b><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Je vous laisse ma paix
+                :<br>
+                &nbsp:
+I leave you my peace
+                :<br>
+                &nbsp:&nbsp
+Ndi nnushila ditalala dianyi :
+<br><br></td>
+</tr>
+`
+},
+/*Kushiya*/   
+{
+    English: "Leave",
+    French: "Quitter",
+    Tshiluba: "Kushiya",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
+    PhoneticsT: "Quitter | Leave",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. quitter <i class="PartOfSpch">v.tr</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
+<i class="PartOfSpch">different from</i><br>
+<a class="links" href="nkongamiaku.html?inpt1=kushila">leave to []</a>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kushiya <i class="PartOfSpch">mn</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je quitte | I'm leaving | <b>ndi nshiya </b><br><br>
+2. tu quittes | you're leaving | <b>udi ushiya </b><br><br>
+3. il/elle/on quitte | he/she's leaving | <b>udi ushiya</b><br><br>
+4. nous quittons | we're leaving | <b>tudi tushiya</b><br><br>
+5. vous quittez | you're leaving | <b>nudi nushiya</b><br><br>
+6. ils/elles quittent | they're leaving | <b>badi bashiya</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Le garçon ne peut pas quitter son père
+                :<br>
+                &nbsp:
+The boy cannot leave his father
+                :<br>
+                &nbsp:&nbsp
+Muana kena mua kushiya tatuende to :
 <br><br></td>
 </tr>
 `
@@ -3963,7 +4286,9 @@ kuya <i class="PartOfSpch">muan</i>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -7459,7 +7784,7 @@ Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
     Phonetics: "Um·we<p>/Oom-way/</p>",
     PhoneticsT: "Un / One",
     English2: "1",
-    French2: " ",
+    French2: "umue",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",

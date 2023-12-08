@@ -380,6 +380,9 @@ nav .fa-solid{
     background-color: rgb(11, 0, 77);
     width: 100%;
     margin-top: -100px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
 }
 .searchheader .tablewrapper2 .biglogo{
     text-align: center;
@@ -414,7 +417,7 @@ nav .fa-solid{
     height: auto
 }
 .searchheader .card .bigword{
-    font-family: 'DM Serif Display';
+    font-family: 'Jost', sans-serif;
     font-size: 72px;
     margin-bottom: -10px;
     line-height: 1.2;
