@@ -2121,6 +2121,112 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 </td>
 </tr>`
 },
+/*Kubuela*/   
+{
+    English: "Enter",
+    French: "Entrer",
+    Tshiluba: "Kubuela",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·bue·la<p>/Koo-bweh-lah/</p>",
+    PhoneticsT: "Entrer | Enter",
+    English2: "penetrate",
+    French2: "pénétrer",
+    Tshiluba2: "buela",
+    PhoneticsT2: " ",
+    English3: "penetrer",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. entrer <i class="PartOfSpch">v</i> <br>
+2. pénétrer <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. enter in [positionally] <i class="PartOfSpch">v</i> <br>
+2. penetrate <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kubuela <i class="PartOfSpch">mn</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'entre | I'm entering | <b>ndi mbuela </b><br><br>
+2. tu entres | you're entering | <b>udi ubuela </b><br><br>
+3. il/elle/on entre | he/she's entering | <b>udi ubuela</b><br><br>
+4. nous entrons | we're entering | <b>tudi tubuela</b><br><br>
+5. vous entrez | you're entering | <b>nudi nubuela</b><br><br>
+6. ils/elles entrent | they're entering | <b>badi babuela</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Parce que beaucoup tenteront d’entrer et n’y parviendront pas
+                :<br>
+                &nbsp:
+Because many will try to enter and will not be able to
+                :<br>
+                &nbsp:&nbsp
+Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
+<br><br></td>
+</tr>
+`
+},
 /*Kuenda*/   
 {
     English: "Walk",
@@ -2242,7 +2348,7 @@ Pavuaye wendakana ku muelelu :
     French2: "enza",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "wenza",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2297,6 +2403,12 @@ do, make <i class="PartOfSpch">vtr</i>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
 kuenza <i class="PartOfSpch">muan</i><p>
 </td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuteta">kuteta</a> 
+<br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
@@ -2912,7 +3024,7 @@ Kukosa mpala
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "Grab",
-    French3: " ",
+    French3: "tenir",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -2958,7 +3070,7 @@ Kukosa mpala
 </tr>
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-saisir <i class="PartOfSpch">v</i><br>
+saisir <i class="PartOfSpch">v</i>, tenir <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
 seize <i class="PartOfSpch">v</i>, grab <i class="PartOfSpch">v</i>, grasp <i class="PartOfSpch">v</i>
@@ -2972,8 +3084,6 @@ kukuata <i class="PartOfSpch">mn</i><p>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
                 <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3379,7 +3489,7 @@ kunyema <i class="PartOfSpch">mn</i><br>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je cours | I'm running | <b>ndi nyenma </b><br><br>
+1. je cours | I'm running | <b>ndi nnyema </b><br><br>
 2. tu cours | you're running | <b>udi unyema </b><br><br>
 3. il/elle/on court | he/she's running | <b>udi unyema</b><br><br>
 4. nous courons | we're running | <b>tudi tunyema</b><br><br>
@@ -3877,10 +3987,10 @@ Ndi nnushila ditalala dianyi :
 </tr>
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. quitter <i class="PartOfSpch">v.tr</i> <br>
+quitter <i class="PartOfSpch">v.tr</i> <br>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
+leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kushila">leave to []</a>
 </td>
@@ -4029,7 +4139,7 @@ Tangila ku mikuna ya Tshikapa :
     English: "Listen",
     French: "écouter",
     Tshiluba: "Kuteleja",
-    PartOfSpeech: "verbe | verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "écouter | listen",
     English2: "Listen to",
@@ -4117,6 +4227,108 @@ Muananyi, teleja miaku yanyi :
 <br><br></td>
 </tr>
 `
+},
+/*Kuteta*/  
+{
+    English: "Try",
+    French: "Essayer",
+    Tshiluba: "Kuteta",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·te·ta<p>/koo-teh-tah/</p>",
+    PhoneticsT: "Essayer | Try",
+    English2: "Attempt",
+    French2: "tenter",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "teta",
+    French3: "tempt",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. essayer <i class="PartOfSpch">v</i><br>
+2. tenter de faire <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. try <i class="PartOfSpch">v</i>, attempt <i class="PartOfSpch">v</i><br>
+2. tempt <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuteta <i class="PartOfSpch">mn</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuenza">kuenza</a> 
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. j'essaye | I'm trying | <b>ndi nteta</b><br><br>
+2. tu essayes | you're trying | <b>udi uteta</b><br><br>
+3. il/elle essaye | he/she's trying | <b>udi uteta</b><br><br>
+4. nous essayons | we're trying | <b>tudi tuteta</b><br><br>
+5. vous essayez | you're trying | <b>nudi nuteta</b><br><br>
+6. ils essayent | they're trying | <b>badi bateta</b><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+Il a essayé de marcher 
+                :<br>
+                &nbsp:
+He tried to walk
+                :<br>
+                &nbsp:&nbsp
+Yeye wakateta bua kuenda :
+<br><br></td>
+</tr>
+<tr>
+` 
 },
 /*Kuumvua*/   
 {
