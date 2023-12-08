@@ -3188,6 +3188,113 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
 </tr>
 `
 },
+/*Kunyema*/   
+{
+    English: "Run",
+    French: "Courir",
+    Tshiluba: "Kunyema",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·nyem·a<p>/Koon-yem-ah/</p>",
+    PhoneticsT: "Courir | Run",
+    English2: "nyema",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. courir <i class="PartOfSpch">v.tr</i> <br>
+2. <a class="links" href="nkongamiaku.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. walk <i class="PartOfSpch">tr.v</i> <br>
+2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kuenda <i class="PartOfSpch">muan</i><br>
+<i class="PartOfSpch">mushilangana ne</i><br>
+<a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">v</i>
+</td>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je marche | I'm walking | <b>ndi ngenda </b><br><br>
+2. tu marches | you're walking | <b>udi wenda </b><br><br>
+3. il/elle/on marche | he/she's walking | <b>udi wenda</b><br><br>
+4. nous marchons | we're walking | <b>tudi tuenda</b><br><br>
+5. vous marchez | you're walking | <b>nudi nuenda</b><br><br>
+6. ils/elles marchent | they're walking | <b>badi benda</b><br><br>
+</td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>Alors qu'il marchait au bord de la mer.
+                :<br>
+                &nbsp:
+As he was walking beside the sea.
+                :<br>
+                &nbsp:&nbsp
+Pavuaye wendakana ku muelelu :
+<br><br></td>
+</tr>
+`
+},
 /*Kupesha*/   
 {
     English: "Give",

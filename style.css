@@ -68,27 +68,29 @@ nav{
 
 .text-box{
     width: 100%;
+    height: 100%;
     color: #fff;
     position: relative;
     padding: 0px;
     text-align: center;
+    font-family: 'Jost', sans-serif;
 }
 .text-box img{
-    width:200px; 
+    width:100px;
 }
 
 .text-box h1{
-    font-size: 50px;
-    padding: 10px;
+    font-size: 62px;
+    padding: 50px;
 }
 
 .search-bar{
     height: 100%;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 1);
     display: flex;
-    max-width: 500px;
-    border-radius: 60px;
-    padding: 0px 5px;
+    max-width: 600px;
+    border-radius: 30px;
+    padding: 0px 2px;
     backdrop-filter: blur(10px) saturate(180%);
     position: relative;
     top: 0%;
@@ -137,7 +139,7 @@ nav .fa-solid{
     }
     .search-bar{
         height: 50%;
-        max-width: 300px;
+        max-width: 700px;
         padding: 0px 0px;
     }
     .search-bar img{
@@ -534,11 +536,37 @@ a.links:visited {
 
 .searchheader .footer .ft1{
     font-family:'Tinos', sans-serif;
-    color: #ffffff;
+    color: #000000;
     position: relative;
     font-size: 14px;
     top: 40px;
 }
+
+
+.footer {
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(248, 248, 248);
+    position: relative;
+    left: 0;
+    bottom: 0;
+    display: inline-block;
+    overflow: hidden;
+}
+.footer img{
+    height: 100px;
+    text-align: center;
+}
+
+.footer .ft1{
+    font-family:'Tinos', sans-serif;
+    color: #000000;
+    position: relative;
+    font-size: 14px;
+    top: 40px;
+}
+
 
 /*Settings For Screens with Max width 700px*/
 
@@ -609,7 +637,7 @@ a.links:visited {
         margin-bottom: 10px;
     }
     .searchheader .card .Phonetics{
-        font-size: 16px;
+        font-size: 26px;
         padding: 10px;
         position: sticky;
         background-color: transparent;
@@ -634,7 +662,7 @@ a.links:visited {
     }
     .searchheader .card .tablewrapper .Xinfo th{
         padding: 2px;
-        font-size: 24px;
+        font-size: 20px;
         width: 100%;
         position: relative;
     }
@@ -650,8 +678,8 @@ a.links:visited {
     }
     .searchheader .card .tablewrapper .Xinfo .tabledef{
         font-family:'Tinos', sans-serif;
-        padding: 2px;
-        font-size: 24px;
+        padding: 1px;
+        font-size: 18px;
         width: 100%;
         position: relative;
         text-align: center;
