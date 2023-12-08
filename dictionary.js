@@ -2187,9 +2187,9 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-kuenda <i class="PartOfSpch">muan</i><br>
+kuenda <i class="PartOfSpch">mn</i><br>
 <i class="PartOfSpch">mushilangana ne</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">v</i>
+<a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
 </td>
 </td>
 </tr>
@@ -2199,7 +2199,8 @@ kuenda <i class="PartOfSpch">muan</i><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3197,11 +3198,11 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     Phonetics: "Ku·nyem·a<p>/Koon-yem-ah/</p>",
     PhoneticsT: "Courir | Run",
     English2: "nyema",
-    French2: " ",
+    French2: "fuir",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
-    French3: " ",
+    English3: "flee",
+    French3: "run away",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -3248,16 +3249,13 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
 1. courir <i class="PartOfSpch">v.tr</i> <br>
-2. <a class="links" href="nkongamiaku.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
+2. fuir <i class="PartOfSpch">v.tr</i>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+1. run <i class="PartOfSpch">tr.v</i> <br>
+2. flee <i class="PartOfSpch">tr.v</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. walk <i class="PartOfSpch">tr.v</i> <br>
-2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
-</td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-kuenda <i class="PartOfSpch">muan</i><br>
-<i class="PartOfSpch">mushilangana ne</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">v</i>
+kunyema <i class="PartOfSpch">mn</i><br>
 </td>
 </td>
 </tr>
@@ -3265,7 +3263,7 @@ kuenda <i class="PartOfSpch">muan</i><br>
 <td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>
 <br><br></td>

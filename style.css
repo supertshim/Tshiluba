@@ -657,7 +657,7 @@ a.links:visited {
         font-size: 12px;
     }
     .searchheader .card .Phonetics{
-        font-size: 26px;
+        font-size: 23px;
         padding: 10px;
         position: sticky;
         background-color: transparent;
@@ -689,8 +689,8 @@ a.links:visited {
 
     .searchheader .card .tablewrapper .Xinfo .analogy{
         font-family:'Tinos', sans-serif;
-        padding: 2px;
-        font-size: 26px;
+        padding: 2px 20px;
+        font-size: 23px;
         width: 100%;
         position: relative;
         border-top: 2px solid rgb(150, 150, 150);
