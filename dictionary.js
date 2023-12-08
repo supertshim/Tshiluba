@@ -2,10 +2,10 @@
 const nkongamiaku = [
 /*NOT FOUND*/   
 {
-    English: "NOT FOUND",
-    French: "INTROUVABLE",
-    Tshiluba: "KEBAYI KABIDI",
-    PartOfSpeech: " ",
+    English: '<br> Not Found <br> Introuvable <br> Kebayi Kabidi <br><br>',
+    French: " ",
+    Tshiluba: " ",
+    PartOfSpeech: 'NOT FOUND <br> INTROUVABLE <br> KEBAYI KABIDI',
     Phonetics: " ",
     PhoneticsT: " ",
     English2: " ",
@@ -7551,11 +7551,9 @@ function findinpt(){
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
 
-    let xx = `${nkongamiaku[0].English}<br><br>
-    ${nkongamiaku[0].French}<br>
-    ${nkongamiaku[0].Tshiluba}<br>`;
+    let xx = `${nkongamiaku[0].English}`;
 
-    wordinfo2.innerHTML = xx;
+    wordinfo.innerHTML = xx;
 
     wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
                         ${nkongamiaku.find(findmiaku).Tshiluba2} 
@@ -7627,10 +7625,8 @@ function maininpt(){
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
     
-    let xx = `${nkongamiaku[0].English}<br><br>
-    ${nkongamiaku[0].French}<br><br>
-    ${nkongamiaku[0].Tshiluba}<br>`;
-    wordinfo2.innerHTML = xx;
+    let xx = `${nkongamiaku[0].English}`;
+    wordinfo.innerHTML = xx;
 
     wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
                         ${nkongamiaku.find(findmiaku).Tshiluba2} 

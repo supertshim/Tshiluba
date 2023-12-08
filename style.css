@@ -247,7 +247,7 @@ nav .fa-solid{
 /* The Navigation Menu positioning on page*/
 .searchheader nav{
     display: flex;
-    padding: 6% 6%;
+    padding: 20px 20px;
     justify-content: right;
     align-items: center;
 }
@@ -292,10 +292,10 @@ nav .fa-solid{
 .searchheader .cage {
     position: absolute;
     height: 95vh;
-    width: 50%;
-    top: 0%;
+    width: 90%;
+    top: 56px;
     display: inline;
-    left: 25%;
+    left: 5%;
     overflow: hidden;
 }
 
@@ -303,7 +303,7 @@ nav .fa-solid{
     width: 100%;
     color: #fff;
     position: relative;
-    padding: 10px;
+    padding: 0px;
     text-align: center;
     display: inline;
     top: 0px;
@@ -314,15 +314,16 @@ nav .fa-solid{
 }
 
 .searchheader .text-box h1{
-    font-size: 35px;
+    font-size: 50px;
     padding: 20px;
+    font-family: 'Jost', sans-serif;
 }
 
 .searchheader .search-bar{
     height: 100%;
-    background: rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 1);
     display: flex;
-    max-width: 500px;
+    max-width: 700px;
     border-radius: 60px;
     padding: 0px 5px;
     backdrop-filter: blur(10px) saturate(180%);
@@ -398,7 +399,7 @@ nav .fa-solid{
     height: 95vh;
     width: 100%;
     min-width: 100%;
-    top: 230px;
+    top: 250px;
     height: auto;
     overflow: auto;
 }
@@ -536,7 +537,7 @@ a.links:visited {
 
 .searchheader .footer .ft1{
     font-family:'Tinos', sans-serif;
-    color: #000000;
+    color: #ffffff;
     position: relative;
     font-size: 14px;
     top: 40px;
@@ -571,14 +572,26 @@ a.links:visited {
 /*Settings For Screens with Max width 700px*/
 
 @media(max-width: 700px){
+
+    .searchheader .cage {
+        position: absolute;
+        height: 95vh;
+        width: 80%;
+        top: 0%;
+        display: inline;
+        left: 10%;
+        overflow: hidden;
+    }
+
     .searchheader .text-box h1{
-        font-size: 20px;
+        font-size: 40px;
+        padding: 0px 0px;
     }
     .searchheader .search-bar input{
         font-size: 16px;
     }
     .searchheader .search-bar{
-        max-width: 300px;
+        max-width: 100%;
         padding: 0px 0px;
     }
     .searchheader .search-bar img{
@@ -619,8 +632,9 @@ a.links:visited {
         font-size: 32px;
         padding: 0px 0px;
         transform: translate(0,0);
-        top: 200px;
+        top: 100px;
         overflow-y: hidden;
+        z-index: 1;
     }
     .searchheader .card{
         padding: 0px 0px;
