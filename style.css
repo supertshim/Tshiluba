@@ -80,7 +80,7 @@ nav{
 }
 
 .text-box h1{
-    font-size: 62px;
+    font-size: 72px;
     padding: 50px;
 }
 
@@ -112,13 +112,15 @@ nav{
 }
 
 .search-bar input{
-    font-family: 'Tinos', sans-serif;
     background: transparent;
     flex: 1;
     border: 0;
     outline: none;
     padding: 10px 20px;
-    font-size: 20px;
+    font-size: 22px;
+    color: black;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav .fa{
@@ -131,19 +133,28 @@ nav .fa-solid{
 /*Settings For Screens with Max width 700px*/
 
 @media(max-width: 700px){
+    .text-box {
+        top: 50px;
+    }
     .text-box h1{
-        font-size: 32px;
+        font-size: 72px;
     }
     .search-bar input{
-        font-size: 16px;
+        font-size: 22px;
+        color: black;
+        font-weight: 700;
+        font-family: 'Montserrat', sans-serif;
     }
     .search-bar{
-        height: 50%;
-        max-width: 700px;
-        padding: 0px 0px;
+        height: 50px;
+        max-width: 90%;
+        padding: 0px 10px;
+        background-color: rgb(255, 255, 255, 1);
+        border-style:none;
+        border-color: #000000;
     }
     .search-bar img{
-        width: 30px;
+        width: 40px;
         cursor: pointer;
     }
     nav img{
@@ -354,11 +365,11 @@ nav .fa-solid{
 
 .searchheader .search-bar input{
     background: transparent;
-    flex: 1;
-    border: 0;
-    outline: none;
     padding: 10px 20px;
-    font-size: 20px;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    font-weight: 700;
 }
 
 .searchheader nav .fa{
@@ -591,7 +602,10 @@ a.links:visited {
         padding: 0px 0px;
     }
     .searchheader .search-bar input{
-        font-size: 16px;
+        font-size: 22px;
+        font-family: 'Montserrat', sans-serif;
+        color: black;
+        font-weight: 700;
     }
     .searchheader .search-bar{
         max-width: 100%;
