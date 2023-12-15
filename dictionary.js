@@ -2354,7 +2354,7 @@ Pavuaye wendakana ku muelelu :
     French: "Faire",
     Tshiluba: "Kuenza",
     PartOfSpeech: "verbe | verb | muanda",
-    Phonetics: "Ku·en·za·la<p>/kwehn-zah/</p>",
+    Phonetics: "Ku·en·za<p>/kwehn-zah/</p>",
     PhoneticsT: "Faire | Do",
     English2: "Make",
     French2: "enza",
