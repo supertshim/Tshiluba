@@ -133,11 +133,25 @@ nav .fa-solid{
 /*Settings For Screens with Max width 700px*/
 
 @media(max-width: 700px){
-    .text-box {
+    .header .text-box {
+        width: 100vw;
+        height: 100%;
+        color: #fff;
+        position: relative;
+        padding: 0px;
         top: 50px;
+        font-family: 'Jost', sans-serif;
+        overflow: hidden;
+        display: block;
+
     }
-    .text-box h1{
-        font-size: 72px;
+    .header .text-box h1{
+        text-align: center;
+        font-size: 13vw;
+        white-space: nowrap;
+        display: inline-block;
+        position: relative;
+        left: 10px;
     }
     .search-bar input{
         font-size: 22px;
@@ -147,7 +161,7 @@ nav .fa-solid{
     }
     .search-bar{
         height: 50px;
-        max-width: 90%;
+        max-width: 85%;
         padding: 0px 10px;
         background-color: rgb(255, 255, 255, 1);
         border-style:none;
@@ -158,7 +172,7 @@ nav .fa-solid{
         cursor: pointer;
     }
     nav img{
-        width: 50px;
+        width:60px;
     }
     .nav-links{
         position: absolute;
@@ -175,11 +189,13 @@ nav .fa-solid{
         display: block;
         color: #fff;
         cursor: pointer;
-        margin: 10px;
+        margin: 30px;
     }
     nav .fa-solid{
-        display: block;
+        display: inline;
         cursor: pointer;
+        transform: tranlsate(0px, 0px);
+        margin: 30px 10px;
     }
     .nav-links ul{
         padding: 30px;
@@ -187,8 +203,13 @@ nav .fa-solid{
     } 
 
     nav .fa-bars{
-    color: white;
-    align-items: right;
+        color: white;
+        align-items: right;
+        width: 20px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        margin: 30px 30px;
     }
 
 }
