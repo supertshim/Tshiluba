@@ -127,7 +127,8 @@ of <i class="PartOfSpch">prep</i><p>
 <i class="PartOfSpch">(kuleja ku)</i>
 </td>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>
 <br><br></td>
@@ -1736,14 +1737,21 @@ Kanungu 5 :
 </tr>
 <tr>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-Parler <i class="PartOfSpch">v</i><p>
+parler <i class="PartOfSpch">v</i><p>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-say <i class="PartOfSpch">v</i>
+speak <i class="PartOfSpch">v</i>, talk <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-Talk <i class="PartOfSpch">muan</i><p>
+kuakula <i class="PartOfSpch">mn</i><p>
 </td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuamba</a>  
+<br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
@@ -1839,7 +1847,8 @@ kuamba <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
 <br><br></td>
@@ -1950,7 +1959,8 @@ kuangata <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
@@ -2192,7 +2202,8 @@ kubuela <i class="PartOfSpch">mn</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
@@ -2301,7 +2312,8 @@ kuenda <i class="PartOfSpch">mn</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
@@ -2405,7 +2417,8 @@ kuenza <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuteta">kuteta</a> 
 <br><br></td>
@@ -2505,7 +2518,8 @@ kufika <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
@@ -3080,7 +3094,8 @@ kukuata <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
                 <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
@@ -3179,7 +3194,8 @@ kulua <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
@@ -3282,7 +3298,8 @@ kumona <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
 <br><br></td>
@@ -3477,7 +3494,9 @@ kunyema <i class="PartOfSpch">mn</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
@@ -3497,7 +3516,6 @@ kunyema <i class="PartOfSpch">mn</i><br>
 6. ils/elles courent | they're running | <b>badi banyema</b><br><br>
 </td>
 </tr>
-<tr>
 <tr>
 <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
 <i>Tout le monde court, mais un seul reçoit le prix
@@ -3580,7 +3598,8 @@ kupesha <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
@@ -3683,7 +3702,9 @@ kupingaja <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>, 
@@ -3787,7 +3808,9 @@ kupingana <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
@@ -3897,7 +3920,9 @@ kushila <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
@@ -3999,7 +4024,9 @@ kushiya <i class="PartOfSpch">mn</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
@@ -4104,7 +4131,9 @@ kutangila <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kumona">kumona</a>  
 <br><br></td>
@@ -4299,7 +4328,9 @@ kuteta <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenza">kuenza</a> 
 <br><br></td>
@@ -4493,7 +4524,9 @@ kuya <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
@@ -5112,7 +5145,9 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
@@ -5219,6 +5254,7 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
@@ -5482,6 +5518,7 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
@@ -6091,6 +6128,7 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
@@ -7059,6 +7097,7 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
