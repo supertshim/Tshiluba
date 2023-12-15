@@ -134,27 +134,28 @@ nav .fa-solid{
 
 @media(max-width: 700px){
     .header .text-box {
-        width: 100vw;
+        width: 100%;
         height: 100%;
         color: #fff;
         position: relative;
-        padding: 0px;
-        top: 50px;
+        padding: 0px 0px;
+        top: 80px;
         font-family: 'Jost', sans-serif;
         overflow: hidden;
         display: block;
+        text-align: center;
 
     }
     .header .text-box h1{
-        text-align: center;
-        font-size: 13vw;
+        font-size: 15vw;
         white-space: nowrap;
-        display: inline-block;
+        display: block;
         position: relative;
-        left: 10px;
+        margin: -30px -90px;
+        left: 0px;
     }
     .search-bar input{
-        font-size: 20px;
+        font-size: 18px;
         color: black;
         font-weight: 700;
         font-family: 'Montserrat', sans-serif;
