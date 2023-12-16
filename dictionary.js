@@ -345,15 +345,15 @@ Kalonji's hand :
     English: "For",
     French: "Pour",
     Tshiluba: "Bua",
-    PartOfSpeech: "préposition | preposition | kadianjidi | conjonction | conjunction" ,
-    Phonetics: "Bua<p>/Bwah/</p><p>Bua·lu·Bua<p>/Bwah-lu Bwah/</p>",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=préposition">préposition</a> | <a class="links" href="nkongamiaku.html?inpt1=preposition">preposition</a> | <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a><br> conjonction | conjunction',
+    Phonetics: "Bua<p>/Bwah/</p>",
     PhoneticsT: "Pour / For",
     English2: "Because",
     French2: "Parce que",
-    Tshiluba2: "Bualu Bua",
+    Tshiluba2: " ",
     PhoneticsT2: "<br>Parce que / Because",
-    English3: " ",
-    French3: " ",
+    English3: "parceque",
+    French3: "afin que",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -1502,6 +1502,346 @@ itanu, 5 <i class="PartOfSpch">tshi</i>
 <br></td>
 </tr>` 
 },
+/*Kadianjidi*/   
+{
+    English: "Preposition",
+    French: "Préposition",
+    Tshiluba: "Kadianjidi",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ka·di·an·ji·di<p>/kah-dyahn-jee-dee/</p>",
+    PhoneticsT: "Préposition / Preposition",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th style="width: 100px" ><u><i>Francais</th>
+        <th style="width: 100px" ><u><i>English</th>
+        <th style="width: 100px"><u><i>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+préposition <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+preposition <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+kadianjidi <i class="PartOfSpch">tshi8</i><p>
+<i class="PartOfSpch">pl.</i> tudianjidi 
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>   
+<br><br></td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<b><i>Explication</i></b><br>
+En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
+                <br><br>
+<b><i>Explanation</i></b><br>
+In grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<i>
+Nous avons sauté <i><b>DANS</b></i> le lac
+                :<br>
+                &nbsp:
+We jumped <i><b>IN</b></i> the lake
+                :<br>
+                &nbsp:&nbsp
+Tuvua tudiela <i><b>MU</b></i> dijiba :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<i><b>Les Prépositions | Prepositions | Tudianjidi </b>
+<br><br>
+</td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>1.</b>
+avec
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+with
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+ne
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>2.</b>
+par
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+by
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+kudi
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>3.</b>
+vers
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+towards
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+ku
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>4.</b>
+sous
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+underneath
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+muinshi
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>5.</b>
+entre
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+between
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+mu nkatshi
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>6.</b>
+pour
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+for
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<a class="links" href="nkongamiaku.html?inpt1=bua">bua</a>
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>7.</b>
+en + [participe present]
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+while + [present participle]
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+pa
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>8.</b>
+dans
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+in
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+mu
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>9.</b>
+au-dessus
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+above
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+pamutu
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>10.</b>
+derrière
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+behind
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+panyima
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>11.</b>
+devant
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+in front of (before)
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+kumpala
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>12.</b>
+à côté de
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+beside
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+ku luseke
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>13.</b>
+près de
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+near to<br>
+close to
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+pabuipi
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>14.</b>
+à; au; a l'
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+at; to
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+ku
+                
+<br></td>
+</tr>
+<tr>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<b>14.</b>
+sur
+ 
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+on
+
+<br></td>
+<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+pa
+                
+<br></td>
+</tr>
+`
+
+},
 /*Kabidi*/   
 {
     English: "Again",
@@ -1683,7 +2023,7 @@ Kanungu 5 :
     English: "Talk",
     French: "Parler",
     Tshiluba: "Kuakula",
-    PartOfSpeech: "verbe | verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
     PhoneticsT: "Parler | Talk",
     English2: "Speak",
@@ -1783,7 +2123,7 @@ Ndi ngakula Tshiluba :
     English: "Say",
     French: "Dire",
     Tshiluba: "Kuamba",
-    PartOfSpeech: "verbe | verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·am·ba<p>/kwahm-bah/</p>",
     PhoneticsT: "Dire | Say",
     English2: "amba",
@@ -1996,7 +2336,7 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     English: "Read",
     French: "Lire",
     Tshiluba: "Kubala",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ba·la<p>/Koo-bah-lah/</p>",
     PhoneticsT: "Lire | Read",
     English2: "Count",
@@ -2353,7 +2693,7 @@ Pavuaye wendakana ku muelelu :
     English: "Do",
     French: "Faire",
     Tshiluba: "Kuenza",
-    PartOfSpeech: "verbe | verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·za<p>/kwehn-zah/</p>",
     PhoneticsT: "Faire | Do",
     English2: "Make",
@@ -2558,7 +2898,7 @@ Kadi, pa ndi mfika kuntu aku :
     English: "Write",
     French: "Écrire",
     Tshiluba: "Kufunda",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·fun·da<p>/Koo-foon-dah/</p>",
     PhoneticsT: "Écrire | Write",
     English2: "Denounce",
@@ -2691,7 +3031,7 @@ kufundisha
     English: "Be",
     French: "Être",
     Tshiluba: "Kuikala",
-    PartOfSpeech: "verbe intransitif | intransitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
     PhoneticsT: "Être | Be",
     English2: "To be",
@@ -2796,7 +3136,7 @@ kuikala ne muntu :
     English: "Have",
     French: "Avoir",
     Tshiluba: "Kuikala ne",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
     PhoneticsT: "Avoir | Have",
     English2: " ",
@@ -2889,7 +3229,7 @@ kuikala ne nzala :
     English: "Cut",
     French: "Couper",
     Tshiluba: "Kukosa",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ko·sa<p>/Koo-koh-sah/</p>",
     PhoneticsT: "Couper | Cut",
     English2: "Cease",
@@ -4366,7 +4706,7 @@ Yeye wakateta bua kuenda :
     English: "Hear",
     French: "Entendre",
     Tshiluba: "Kuikala",
-    PartOfSpeech: "verbe intransitif | intransitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
     English2: " ",
@@ -4566,7 +4906,7 @@ Tudi tuya mu tshimenga :
     English: "Limp",
     French: "Boiter",
     Tshiluba: "Kuzebuka",
-    PartOfSpeech: "verbe | verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
     PhoneticsT: "Boiter / Limp",
     English2: " ",
@@ -5151,7 +5491,8 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a> 
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>
+                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -5937,7 +6278,7 @@ Ditunga dia Kongu wa Mungalata :
     English: "Person",
     French: "Personne",
     Tshiluba: "Muntu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> || pronom | pronoun',
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> || <a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Mun·tu<p>/MOON-too/</p>",
     PhoneticsT: "Personne / Person",
     English2: "Someone",
@@ -6507,7 +6848,7 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
     English: "Who",
     French: "Qui",
     Tshiluba: "Nganyi",
-    PartOfSpeech: "pronom | pronoun | mupinganyi",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Ngan·yi<p>/Gahn-yi/</p>",
     PhoneticsT: "Qui / Who",
     English2: " ",
@@ -7632,7 +7973,7 @@ tshinunu, 1000 <i class="PartOfSpch">tshi</i>
     English: "What",
     French: "Quoi",
     Tshiluba: "Tshinyi",
-    PartOfSpeech: "pronom | pronoun | mupinganyi",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Tshin·yi<p>/CHEEN-yi/</p>",
     PhoneticsT: "Quoi / What",
     English2: " ",

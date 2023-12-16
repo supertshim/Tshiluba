@@ -13,7 +13,7 @@
 }
 
 .h-lines {   
-    height:3px;
+    height:2px;
     width: 100%;
     background-color:#707070;
     position: relative;
@@ -739,8 +739,7 @@ a.links:visited {
         font-size: 23px;
         width: 100%;
         position: relative;
-        border-top: 2px solid rgb(150, 150, 150);
-        border-bottom: 2px solid rgb(150, 150, 150);
+        border-top: 2px solid rgb(56, 56, 56);
     }
     .searchheader .card .tablewrapper .Xinfo .tabledef{
         font-family:'Tinos', sans-serif;
