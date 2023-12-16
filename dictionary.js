@@ -5491,7 +5491,7 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
                 <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
@@ -5600,7 +5600,8 @@ muanda <i class="PartOfSpch">tshi2</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>  
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -5864,7 +5865,8 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>  
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a> 
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -6474,7 +6476,8 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>  
+                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>,
+                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -7443,7 +7446,8 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
                 <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a> :: 
+                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>:: 
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
