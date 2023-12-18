@@ -564,7 +564,8 @@ dix, 10 <i class="PartOfSpch">n</i>
 ten, 10 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-dikumi, 10 <i class="PartOfSpch">tshi</i>
+dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl.</i> makumi
 </td>
 </tr>
 <tr>
@@ -575,6 +576,16 @@ dikumi, 10 <i class="PartOfSpch">tshi</i>
             
 <b><i>Bungi Bwa Dibala: 10</i></b><br>
 <br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Dipembu Dihembu*/  
@@ -2020,8 +2031,8 @@ Kanungu 5 :
 },
 /*Kuakula*/  
 {
-    English: "Talk",
-    French: "Parler",
+    English: "to speak",
+    French: "parler",
     Tshiluba: "Kuakula",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
@@ -2030,7 +2041,7 @@ Kanungu 5 :
     French2: "akula",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "Talk",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2120,7 +2131,7 @@ Ndi ngakula Tshiluba :
 },
 /*Kuamba*/  
 {
-    English: "Say",
+    English: "to say",
     French: "Dire",
     Tshiluba: "Kuamba",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2130,7 +2141,7 @@ Ndi ngakula Tshiluba :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "say",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2232,7 +2243,7 @@ Kuambila ne :
 },
 /*Kuangata*/   
 {
-    English: "Take",
+    English: "to take",
     French: "Prendre",
     Tshiluba: "Kuangata",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2242,7 +2253,7 @@ Kuambila ne :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "take",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2333,7 +2344,7 @@ Muana wa muntu, angata mutshi, ufundapu ne :
 },
 /*Kubala*/   
 {
-    English: "Read",
+    English: "to read",
     French: "Lire",
     Tshiluba: "Kubala",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2351,7 +2362,7 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     French4: "Enumerer",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
+    English5: "read",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -2473,7 +2484,7 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 },
 /*Kubuela*/   
 {
-    English: "Enter",
+    English: "to enter",
     French: "Entrer",
     Tshiluba: "Kubuela",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2487,7 +2498,7 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "enter",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -2580,7 +2591,7 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
 },
 /*Kuenda*/   
 {
-    English: "Walk",
+    English: "to walk",
     French: "Marcher",
     Tshiluba: "Kuenda",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2590,7 +2601,7 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "walk",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2690,7 +2701,7 @@ Pavuaye wendakana ku muelelu :
 },
 /*Kuenza*/  
 {
-    English: "Do",
+    English: "to do",
     French: "Faire",
     Tshiluba: "Kuenza",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2704,7 +2715,7 @@ Pavuaye wendakana ku muelelu :
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "do",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -2791,7 +2802,7 @@ Udi wenza tshinyi? :
 },
 /*Kufika*/   
 {
-    English: "Arrive",
+    English: "to arrive",
     French: "Arriver",
     Tshiluba: "Kufika",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2801,7 +2812,7 @@ Udi wenza tshinyi? :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "arrive",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -2895,7 +2906,7 @@ Kadi, pa ndi mfika kuntu aku :
 },
 /*Kufunda*/   
 {
-    English: "Write",
+    English: "to write",
     French: "Écrire",
     Tshiluba: "Kufunda",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -2917,7 +2928,7 @@ Kadi, pa ndi mfika kuntu aku :
     French5: "Denoncer",
     Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "write",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -3028,13 +3039,13 @@ kufundisha
 },
 /*Kuikala*/   
 {
-    English: "Be",
+    English: "to be",
     French: "Être",
     Tshiluba: "Kuikala",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
     PhoneticsT: "Être | Be",
-    English2: "To be",
+    English2: "be",
     French2: "Etre",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -3133,17 +3144,17 @@ kuikala ne muntu :
 },
 /*Kuikala ne*/   
 {
-    English: "Have",
+    English: "to have",
     French: "Avoir",
     Tshiluba: "Kuikala ne",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
     PhoneticsT: "Avoir | Have",
-    English2: " ",
+    English2: "to be with",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "have",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3226,7 +3237,7 @@ kuikala ne nzala :
 },
 /*Kukosa*/   
 {
-    English: "Cut",
+    English: "to cut",
     French: "Couper",
     Tshiluba: "Kukosa",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3236,7 +3247,7 @@ kuikala ne nzala :
     French2: "Cesser",
     Tshiluba2: "Kosa",
     PhoneticsT2: "<br>Cesser | Cease",
-    English3: " ",
+    English3: "cut",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3367,7 +3378,7 @@ Kukosa mpala
 },
 /*Kukuata*/   
 {
-    English: "Seize",
+    English: "to seize",
     French: "Saisir",
     Tshiluba: "Kukuata",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3381,7 +3392,7 @@ Kukosa mpala
     French3: "tenir",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "seize",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -3467,7 +3478,7 @@ Bena Yuda bavua bakuata muntu eu :
 },
 /*Kulua*/   
 {
-    English: "Come",
+    English: "to come",
     French: "Venir",
     Tshiluba: "Kulua",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3477,7 +3488,7 @@ Bena Yuda bavua bakuata muntu eu :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "come",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3571,7 +3582,7 @@ Kadi mpindieu ndi ndua kudi :
 },
 /*Kumona*/   
 {
-    English: "See",
+    English: "to see",
     French: "Voir",
     Tshiluba: "Kumona",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3581,7 +3592,7 @@ Kadi mpindieu ndi ndua kudi :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "see",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3671,7 +3682,7 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
 },
 /*Kununka*/   
 {
-    English: "Smell",
+    English: "to smell",
     French: "Sentir",
     Tshiluba: "Kununka",
     PartOfSpeech: "verbe transitif | transitive verb | muanda",
@@ -3681,7 +3692,7 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "smell",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3765,7 +3776,7 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
 },
 /*Kunyema*/   
 {
-    English: "Run",
+    English: "to run",
     French: "Courir",
     Tshiluba: "Kunyema",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3779,7 +3790,7 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     French3: "run away",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "run",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -3871,7 +3882,7 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
 },
 /*Kupesha*/   
 {
-    English: "Give",
+    English: "to give",
     French: "Donner",
     Tshiluba: "Kupesha",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3881,7 +3892,7 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "give",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3971,7 +3982,7 @@ Ndi nnupesha ditalala dianyi :
 },
 /*Kupingaja*/   
 {
-    English: "Return",
+    English: "to return + [something]",
     French: "Rendre",
     Tshiluba: "Kupingaja",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -3981,8 +3992,8 @@ Ndi nnupesha ditalala dianyi :
     French2: "Restituer",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
-    French3: " ",
+    English3: "return",
+    French3: "to return",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -4077,7 +4088,7 @@ Mpindieu pingaja mukaji wa muntu awu :
 },
 /*Kupingana*/   
 {
-    English: "Return",
+    English: "to return + [somewhere]",
     French: "Revenir",
     Tshiluba: "Kupingana",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -4088,14 +4099,14 @@ Mpindieu pingaja mukaji wa muntu awu :
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "Go Back",
-    French3: " ",
+    French3: "to return",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "Come Back",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
+    English5: "return",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -4187,7 +4198,7 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
 },
 /*Kushila*/   
 {
-    English: "Leave to",
+    English: "to leave to",
     French: "Laisser à",
     Tshiluba: "Kushila",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -4209,12 +4220,12 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "to bequeath",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
+    English7: "leave to",
+    French7: "leave for",
     Tshiluba7: " ",
     PhoneticsT7: " ",
     English8: " ",
@@ -4295,13 +4306,13 @@ Ndi nnushila ditalala dianyi :
 },
 /*Kushiya*/   
 {
-    English: "Leave",
+    English: "to leave",
     French: "Quitter",
     Tshiluba: "Kushiya",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
     PhoneticsT: "Quitter | Leave",
-    English2: " ",
+    English2: "leave",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -4404,14 +4415,14 @@ Muana kena mua kushiya tatuende to :
 },
 /*Kutangila*/   
 {
-    English: "Look",
+    English: "to look",
     French: "Regarder",
     Tshiluba: "Kutangila",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
     PhoneticsT: "Regarder | Look",
     English2: "tangila",
-    French2: " ",
+    French2: "look",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -4505,14 +4516,14 @@ Tangila ku mikuna ya Tshikapa :
 },
 /*Kuteleja*/   
 {
-    English: "Listen",
+    English: "to listen",
     French: "écouter",
     Tshiluba: "Kuteleja",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "écouter | listen",
     English2: "Listen to",
-    French2: " ",
+    French2: "listen",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -4599,7 +4610,7 @@ Muananyi, teleja miaku yanyi :
 },
 /*Kuteta*/  
 {
-    English: "Try",
+    English: "to try",
     French: "Essayer",
     Tshiluba: "Kuteta",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
@@ -4613,7 +4624,7 @@ Muananyi, teleja miaku yanyi :
     French3: "tempt",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "try",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -4703,13 +4714,13 @@ Yeye wakateta bua kuenda :
 },
 /*Kuumvua*/   
 {
-    English: "Hear",
+    English: "to hear",
     French: "Entendre",
     Tshiluba: "Kuikala",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
-    English2: " ",
+    English2: "hear",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -4797,13 +4808,13 @@ tudi tumvua bamba ne:
 },
 /*Kuya*/   
 {
-    English: "Go",
+    English: "to go",
     French: "Aller",
     Tshiluba: "Kuya",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
     PhoneticsT: "Aller | Go",
-    English2: " ",
+    English2: "Go",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -4903,13 +4914,13 @@ Tudi tuya mu tshimenga :
 },
 /*Kuzebuka*/  
 {
-    English: "Limp",
+    English: "to limp",
     French: "Boiter",
     Tshiluba: "Kuzebuka",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
     PhoneticsT: "Boiter / Limp",
-    English2: " ",
+    English2: "Limp",
     French2: " ",
     Tshiluba2: "Zebuka",
     PhoneticsT2: " ",
@@ -5050,7 +5061,8 @@ cent, 100 <i class="PartOfSpch">n</i>
 hundred, 100 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-lukama, 100 <i class="PartOfSpch">tshi</i>
+lukama, 100 <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl.</i> nkama
 </td>
 </tr>
 <tr>
@@ -5061,6 +5073,15 @@ lukama, 100 <i class="PartOfSpch">tshi</i>
             
 <b><i>Bungi Bwa Dibala: 100</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
+                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Mashika*/   
@@ -7894,7 +7915,7 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     </td>
     </tr>`
 },
-/*Lukama*/  
+/*Tshinunu*/  
 {
     English: "Thousand",
     French: "Mille",
@@ -7959,7 +7980,9 @@ mille, 1000 <i class="PartOfSpch">n</i>
 thousand, 1000 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-tshinunu, 1000 <i class="PartOfSpch">tshi</i>
+tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl.</i> binunu
+
 </td>
 </tr>
 <tr>
@@ -7970,6 +7993,15 @@ tshinunu, 1000 <i class="PartOfSpch">tshi</i>
             
 <b><i>Bungi Bwa Dibala: 1000</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
+                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>
+<br><br></td>
 </tr>` 
 },
 /*Tshinyi*/   
@@ -8447,6 +8479,15 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
             
 <b><i>Bungi Bwa Dibala: 1</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>, 
+                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
 </tr>` 
 }
 ];
@@ -8529,7 +8570,6 @@ function findinpt(){
 var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
 
-
 function maininpt(){
 
     let wordinput = document.querySelector("#inpt1");
@@ -8597,7 +8637,54 @@ function maininpt(){
     miaku.Tshiluba10.toLowerCase() === wordinput.value||
     miaku.Tshiluba11.toLowerCase() === wordinput.value;}
     
-
 }    
 
-/******************************************************************/
+
+/****************************THE WORD OF THE DAY CODE**************************************/
+
+    function mwditukux(){
+
+    
+        let wordinput = wordoftheday.toLocaleLowerCase();
+        let wordinfo = document.querySelector("#mwdef");
+        let wordPhon = document.querySelector("#mwdPho");
+        let wordmwdef = document.querySelector("#mwdef");      
+    
+        wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).French.toLocaleUpperCase()} | ${nkongamiaku.find(findmiaku).English.toLocaleUpperCase()}`;
+        wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics.toLocaleUpperCase()}`;
+        function findmiaku(miaku){
+        return miaku.French.toLowerCase() === wordinput||
+        miaku.French2.toLowerCase() === wordinput||
+        miaku.French3.toLowerCase() === wordinput||
+        miaku.French4.toLowerCase() === wordinput||
+        miaku.French5.toLowerCase() === wordinput||
+        miaku.French6.toLowerCase() === wordinput||
+        miaku.French7.toLowerCase() === wordinput||
+        miaku.French8.toLowerCase() === wordinput||
+        miaku.French9.toLowerCase() === wordinput||
+        miaku.French10.toLowerCase() === wordinput||
+        miaku.French11.toLowerCase() === wordinput||
+        miaku.English.toLowerCase() === wordinput||
+        miaku.English2.toLowerCase() === wordinput||
+        miaku.English3.toLowerCase() === wordinput||
+        miaku.English4.toLowerCase() === wordinput||
+        miaku.English5.toLowerCase() === wordinput||
+        miaku.English6.toLowerCase() === wordinput||
+        miaku.English7.toLowerCase() === wordinput||
+        miaku.English8.toLowerCase() === wordinput||
+        miaku.English9.toLowerCase() === wordinput||
+        miaku.English10.toLowerCase() === wordinput||
+        miaku.English11.toLowerCase() === wordinput||
+        miaku.Tshiluba.toLowerCase() === wordinput||
+        miaku.Tshiluba2.toLowerCase() === wordinput||
+        miaku.Tshiluba3.toLowerCase() === wordinput||
+        miaku.Tshiluba4.toLowerCase() === wordinput||
+        miaku.Tshiluba5.toLowerCase() === wordinput||
+        miaku.Tshiluba6.toLowerCase() === wordinput||
+        miaku.Tshiluba7.toLowerCase() === wordinput||
+        miaku.Tshiluba8.toLowerCase() === wordinput||
+        miaku.Tshiluba9.toLowerCase() === wordinput||
+        miaku.Tshiluba10.toLowerCase() === wordinput||
+        miaku.Tshiluba11.toLowerCase() === wordinput;}
+    
+    }

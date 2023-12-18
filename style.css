@@ -23,10 +23,12 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-color: rgb(11, 0, 77);
+    background-image:linear-gradient(rgb(11, 0, 77, .95),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
     background-position: center;
-    background-size: cover;
     position: relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
 }
 
 /* The Navigation Menu positioning on page*/
@@ -87,8 +89,8 @@ nav{
 }
 
 .text-box h1{
-    font-size: 72px;
-    padding: 50px;
+    font-size: 90px;
+    padding: 20px;
 }
 
 .search-bar{
@@ -101,8 +103,8 @@ nav{
     backdrop-filter: blur(10px) saturate(180%);
     position: relative;
     top: 0%;
-    left: 50%;
-    transform: translate(-50%,0%);
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     align-items: center;
 }
@@ -135,6 +137,58 @@ nav .fa{
 }
 nav .fa-solid{
     display: none;
+}
+
+.mwd {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    background:white;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.mwd .mwdtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+.mwd .mwdtitletx {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -1px;
+    margin-top: -5px;
+}
+.mwd .mwdate {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.mwd .mwdbigword {
+    font-family: 'Jost', sans-serif;
+    font-size: 67px;
+    font-weight: 700;
+    color: #090152;
+    margin-top: 15px;
+}
+.mwd .mwdPhon {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: -20px;
+    color: #000000;
+}
+.mwd .mwdefinition {
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 30px;
 }
 
 /*Settings For Screens with Max width 700px*/
@@ -218,6 +272,19 @@ nav .fa-solid{
         right: 0px;
         top: 0px;
         margin: 30px 30px;
+    }
+    .mwd {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+        top: 0px;
+        text-align: center;
+        width: 80vw;
+        height: fit-content;
+        background:white;
+        border-radius: 30px;
+        padding: 20px;
     }
 
 }
@@ -369,8 +436,8 @@ nav .fa-solid{
     backdrop-filter: blur(10px) saturate(180%);
     position: relative;
     top: 0%;
-    left: 50%;
-    transform: translate(-50%,0%);
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     align-items: center;
 }

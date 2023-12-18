@@ -15,9 +15,10 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@100&display=swap" rel="stylesheet">
     <!--Font Awesome Mobile Menu Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel="icon" href="images/Tshisumbu Tshia Dikeba Dia Tshiluba 2023.png">
+    <link rel="icon" href="images/Tco_logo2.jpg">
 </head>
 <body>
 <section class="header">
@@ -44,27 +45,56 @@
                     <button type="submit"><img src="images/search-bar-01.png"></button>
             </form>
         </div>
-    </p><br>
+    </p>
+    <br>
 </div>
+<a href="index.html" style="text-decoration: none; color: black;">
+<div class="mwd" id="mwd">
+    <h1 class="mwdate" id="mwdate"></h1>
+    <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
+    <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
+    <h1 class="mwdbigword" id="mwdinf1"></h1>
+    <h1 class="mwdPhon" id="mwdPho"></h1>
+    <h1 class="mwdefinition" id="mwdef"></h1>
+
+</div>
+</a>
 </section>
-<table class="h-lines" id="h-lines"></table> 
-    <footer class="footer">
-        <h1 class="ft1"><img src="images/Tshisumbu Tshia Dikeba Dia Tshiluba 2023.png"><br>Tshisumbu Tshia Dikeba Dia Tshiluba 2023</h1>
-    </footer>
 </div>
 <!--Java Script For Toggle Menu-->
+<script src="dictionary.js">
+</script>
 <script>
-
+    
     var navLinks = document.getElementById("navLinks");
+
     function showMenu(){
         navLinks.style.right = "0"
     }
     function hideMenu(){
         navLinks.style.right = "-200px"
     }
+    
 
 </script>
+<iframe src="about.html" style="display:none"></iframe>
 <!--Java Script For Dictionary Search-->
+<script>
+    var xnum = window.localStorage.getItem("xnum");
+    var xmonth = window.localStorage.getItem("xmonth");
+    var xday = window.localStorage.getItem("xday");
+    var xyear = window.localStorage.getItem("xyear");
+    var wordoftheday = window.localStorage.getItem("wordoftheday");
+
+
+    let wordOfDituku = document.querySelector('.mwdbigword');
+    wordOfDituku.innerHTML = `${wordoftheday}`;
+    mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;
+    let mwdate = document.querySelector('.mwdate');
+    mwdate.innerHTML = mwdatex;
     
+    mwditukux();
+
+</script>
 </body>
 </html>
