@@ -46,7 +46,6 @@
     <table class="IndexTable" id="IndexTable">
         <tr> <!--TSHILUBA WORD LIST-->
             <td><ol class="indexlist" id="indexlist" type="1">
-                    <li><a class="links" href="nkongamiaku.html?inpt1=wa">--A</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=for">BUA</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=ten">DIKUMI: 10</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=aroma">DIPEMBU == DIHEMBU</a></li>
@@ -179,6 +178,7 @@
     shuffle(mwdarrayx);
     const xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
 
+
     function wordotd(){
         var xdate = new Date(),
         xmonth = xdate.getMonth(),
@@ -191,32 +191,27 @@
         window.localStorage.setItem("xyear", xyear);
         xnum2 = xnum[xday];
         console.log(xnum);
-    }
-
-    var now = new Date();
-    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 16, 5, 0, 0) - now;
-    if (til12am < 0 ) {
-        til12am += 86400000;// its after 12am, try 12am tomorrow!
-    }
-    setTimeout(wordotd, til12am);
-    console.log(til12am);
-
-    var xmonth = window.localStorage.getItem("xmonth");
-    var xday = window.localStorage.getItem("xday");
-    var xyear = window.localStorage.getItem("xyear");
-
-    
-    var wordoftheday = listy[xnum2].innerText;
-    
-    window.localStorage.setItem("wordoftheday", wordoftheday);
-    var wordoftheday = window.localStorage.getItem("wordoftheday");
-
-    
+        console.log(til12am);
     console.log(xmonth);
     console.log(xday);
     console.log(xyear);
     console.log(xnum2);
     console.log(wordoftheday);
+    }
+
+    var now = new Date();
+    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 16, 38, 0, 0) - now;
+    if (til12am < 0 ) {
+        til12am += 86400000;// its after 12am, try 12am tomorrow!
+    }
+    setTimeout(wordotd, til12am);
+
+    xnum2 = xnum[0];
+    
+    var wordoftheday = listy[xnum2].innerText;
+    
+    window.localStorage.setItem("wordoftheday", wordoftheday);
+    var wordoftheday = window.localStorage.getItem("wordoftheday");
     
 
 </script>
