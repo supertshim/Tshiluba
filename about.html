@@ -166,7 +166,7 @@
         xyear = xdate.getFullYear();
         var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
         xmonth = xmonths[xmonth];
-        xnum = Math.floor(Math.random()*listsize) + 1;
+        xnum = Math.floor(Math.random()*listsize);
         window.localStorage.setItem("xmonth", xmonth);
         window.localStorage.setItem("xday", xday);
         window.localStorage.setItem("xyear", xyear);
@@ -180,7 +180,7 @@
         til12am += 86400000;// its after 12am, try 12am tomorrow!
     }
 
-    setTimeout(wordotd(), til12am);
+    setTimeout(wordotd, til12am);
     var xnum = window.localStorage.getItem("xnum");
     var xmonth = window.localStorage.getItem("xmonth");
     var xday = window.localStorage.getItem("xday");
