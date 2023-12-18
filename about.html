@@ -180,7 +180,7 @@
         til12am += 86400000;// its after 12am, try 12am tomorrow!
     }
 
-    setTimeout(wordotd, til12am);
+    setTimeout(wordotd(), til12am);
     var xnum = window.localStorage.getItem("xnum");
     var xmonth = window.localStorage.getItem("xmonth");
     var xday = window.localStorage.getItem("xday");
