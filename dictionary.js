@@ -8647,8 +8647,7 @@ function maininpt(){
     
         let wordinput = wordoftheday.toLocaleLowerCase();
         let wordinfo = document.querySelector("#mwdef");
-        let wordPhon = document.querySelector("#mwdPho");
-        let wordmwdef = document.querySelector("#mwdef");      
+        let wordPhon = document.querySelector("#mwdPho");      
     
         wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).French.toLocaleUpperCase()} | ${nkongamiaku.find(findmiaku).English.toLocaleUpperCase()}`;
         wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics.toLocaleUpperCase()}`;
