@@ -286,6 +286,14 @@ nav .fa-solid{
         border-radius: 30px;
         padding: 20px;
     }
+    .mwd .mwdbigword {
+        font-family: 'Jost', sans-serif;
+        font-size:13vw;
+        font-weight: 700;
+        color: #090152;
+        margin-top: 15px;
+        white-space:nowrap;
+    }
 
 }
 /*------ABOUT US PAGE-------*/
