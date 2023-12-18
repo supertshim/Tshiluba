@@ -174,7 +174,7 @@
     }
 
     var now = new Date();
-    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0) - now;
+    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 3, 16, 0, 0) - now;
 
     if (til12am < 0 ) {
         til12am += 86400000;// its after 12am, try 12am tomorrow!
