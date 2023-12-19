@@ -3,14 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TSHILUBA.co</title>
-    <iframe src="about.html" style="display:none"></iframe>
+    <title>TSHILUBA.co | Muaku Wa Dituku</title>
 <!--Link to the style code-->
     <link rel="stylesheet" href="style.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
@@ -18,13 +16,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Tinos:ital@0;1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
 <!--Font Awesome Mobile Menu Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel="icon" href="images/Tco_logo2.jpg">
 </head>
 <div id="wrapper">
 <body>
-<section class="searchheader">
+<section class="wordofthedaypage">
     <nav>
         <div class="nav-links" id="navLinks">
         <!--The X icon placed in the nav menu-->
@@ -32,7 +30,7 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
-                <li><a href="nkongamiaku.html">CONTACT</a></li>
+                <li><a href="wordoftheday.html">MUAKU WA DITUKU</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -40,41 +38,28 @@
 <div class="cage">
 <div class="text-box">
     <!--Navigation Menu LOGO image-->
-   <h1>TSHILUBA.co</h1>
-    <p>
-        <div class="container">
-            <form action="" class="search-bar" method="get" target="_self">
-                <input type="text" placeholder="Cherchez...Search...Kebayi" id="inpt1" name="inpt1" autocomplete="off">
-                <button type="submit" id="btn1" onclick="findinpt()"><img src="images/search-bar-01.png"></button>
-            </form>
-        </div>
-    </p>
 </div>
 </div>
-<div class="cardcage">
-    
-<div class="card">
-    <h1 class="bigword" id="inf1"></h1>
-    <h1 class="PartOfSpeech" id="PoS"></h1>
-    <h1 class="Phonetics" id="Phon"></h1>
-<div>
+<div class="tablewrapper3">
     <table class="h-lines" id="h-lines"></table> 
-</div>
-<div class="tablewrapper">
-    <table class="Xinfo" id="Xinfo">
-    </table>
-<table class="h-lines" id="h-lines"></table> 
-</div>
+        <div class="MWDsection" id="MWDsection">
+
+        </div>
 </div>
 <footer class="footer">
     <h1 class="ft1"><img src="images/Tco_logo2.jpg"><br>TSHILUBA.co 2023</h1>
- </footer>
+</footer>
 </div>
-
+</div>
 </section>
+
+<script>
+    document.getElementById("MWDsection").innerHTML=window.localStorage.getItem("dailymuaku");
+</script>
+<link rel="stylesheet" href="style.css">
 <!--Java Script For Toggle Menu-->
 <script>
-
+    
     var navLinks = document.getElementById("navLinks");
     function showMenu(){
         navLinks.style.right = "0px"
@@ -87,13 +72,23 @@
 <!--Java Script For Dictionary Search-->
 <script src="dictionary.js">
 </script>
+<script src="require.js">
+</script>
 <!--Script for main page to get the searched input word-->
+<iframe src="index.html" style="display:none"></iframe>
+<iframe src="aboutb.html" style="display:none"></iframe>
 <script>
 
-    var getitem = window.location.search;
-    var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
+        const fs = require('fs');
+    //foo is now loaded.
 
-    window.onload = maininpt();
+        let fInput = window.localStorage.getItem("dailymuaku");
+        fs.writeFile('wordoftheday.txt', fInput, (err) => {
+        if (err) throw err;
+        else{
+            console.log("The file is updated with the given data")
+        }
+        });
 
 </script>
 </body>

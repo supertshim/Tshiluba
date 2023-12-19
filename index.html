@@ -29,7 +29,7 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
-                <li><a href="nkongamiaku.html">CONTACT</a></li>
+                <li><a href="wordoftheday.html">MUAKU WA DITUKU</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -48,7 +48,7 @@
     </p>
     <br>
 </div>
-<a href="index.html" style="text-decoration: none; color: black;">
+<a href="wordoftheday.html" style="text-decoration: none; color: black;">
 <div class="mwd" id="mwd">
     <h1 class="mwdate" id="mwdate"></h1>
     <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
@@ -97,6 +97,7 @@
 <iframe src="aboutb.html" style="display:none"></iframe>
 <!--Java Script For Dictionary Search-->
 <script>
+
     var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
     var xmonth = window.localStorage.getItem("xmonth");
     var xday = window.localStorage.getItem("xday");
@@ -114,5 +115,10 @@
     mwditukux();
 
 </script>
+
+<script>
+    var dailyword = document.getElementById("mwd").innerHTML; 
+       window.localStorage.setItem("dailymuaku", dailyword);
+   </script>
 </body>
 </html>

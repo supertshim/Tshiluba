@@ -689,7 +689,8 @@ a.links:visited {
 }
 
 .searchheader .footer .ft1{
-    font-family:'Tinos', sans-serif;
+    font-family:'Jost', sans-serif;
+    font-weight: 700;
     color: #ffffff;
     position: relative;
     font-size: 14px;
@@ -714,13 +715,140 @@ a.links:visited {
 }
 
 .footer .ft1{
-    font-family:'Tinos', sans-serif;
+    font-family:'Jost', sans-serif;
+    font-weight: 700;
     color: #000000;
     position: relative;
     font-size: 14px;
     top: 40px;
 }
 
+/*------Word of the Day Page-------*/
+.wordofthedaypage .wrapper{
+    height: auto;
+    width: 100%;
+    position:relative;
+    overflow-y: auto;
+}
+.wordofthedaypage{
+    height:100vh;
+    min-height:50vh;
+    width: 100%;
+    background-color: rgb(11, 0, 77);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    padding: 0px 0px;
+}
+
+/* The Navigation Menu positioning on page*/
+.wordofthedaypage nav{
+    display: flex;
+    padding: 20px 20px;
+    justify-content: right;
+    align-items: center;
+}
+
+/* The Navigation Link Position on Page*/
+.wordofthedaypage .nav-links{
+    flex: 1;
+    text-align: right;
+    position: relative;
+}
+
+/* The Navigation Menu Spacing & Orientation*/
+.wordofthedaypage .nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+/* The Nav Link Text Color & Font*/
+.wordofthedaypage .nav-links ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/* The Navigation Menu Animation*/
+.wordofthedaypage .nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #fff;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.wordofthedaypage .nav-links ul li:hover::after{
+    width: 100%;
+}
+
+.wordofthedaypage .tablewrapper3{
+    margin-left: auto;
+    margin-right:auto;
+    background-color: #fff;
+    width: fit-content;
+    font-family: 'Jost', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.wordofthedaypage .MWDsection{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 0px;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    background:white;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.wordofthedaypage .MWDsection .mwdtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+.wordofthedaypage .MWDsection .mwdtitletx {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-top: -5px;
+}
+.wordofthedaypage .MWDsection .mwdate {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.wordofthedaypage .MWDsection .mwdbigword {
+    font-family: 'Jost', sans-serif;
+    font-size: 67px;
+    font-weight: 700;
+    color: #090152;
+    margin-top: 15px;
+}
+.wordofthedaypage .MWDsection .mwdPhon {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: -20px;
+    color: #000000;
+}
+.wordofthedaypage .MWDsection .mwdefinition {
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 50px;
+}
 
 /*Settings For Screens with Max width 700px*/
 
@@ -885,6 +1013,113 @@ a.links:visited {
         width: 50px;
         padding: 5px;
         position: relative;
+    }
+
+    .wordofthedaypage nav img{
+        width:60px;
+    }
+    .wordofthedaypage .nav-links{
+        position: absolute;
+        background: #090152;
+        height: 100vh;
+        width: 150px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+        transition:.5s;
+    }
+    .wordofthedaypage nav .fa{
+        display: block;
+        color: #fff;
+        cursor: pointer;
+        margin: 30px;
+    }
+    .wordofthedaypage nav .fa-solid{
+        display: inline;
+        cursor: pointer;
+        transform: tranlsate(0px, 0px);
+        margin: 30px 10px;
+    }
+    .wordofthedaypage nav-links ul{
+        padding: 30px;
+        color: white;
+    } 
+
+    .wordofthedaypage .analogy .fa-bars{
+        color: white;
+        align-items: right;
+        width: 20px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        margin: 30px 30px;
+    }
+
+    .wordofthedaypage .tablewrapper3{
+        margin-left: auto;
+        margin-right:auto;
+        background-color: #fff;
+        width: fit-content;
+        font-family: 'Jost', sans-serif;
+        font-size: 40px;
+        font-weight: 700;
+        border-radius: 30px;
+        margin-bottom: 30px;
+        margin-top: 50px;
+    }
+    
+    .wordofthedaypage .MWDsection{
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        top: 0px;
+        text-align: center;
+        width: fit-content;
+        height: fit-content;
+        background:white;
+        border-radius: 30px;
+        padding: 20px;
+    }
+    
+    .wordofthedaypage .MWDsection .mwdtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: -1px;
+    }
+    .wordofthedaypage .MWDsection .mwdtitletx {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: -1px;
+        margin-top: -5px;
+    }
+    .wordofthedaypage .MWDsection .mwdate {
+        font-family: Tahoma, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        margin-bottom: 10px;
+    }
+    .wordofthedaypage .MWDsection .mwdbigword {
+        font-family: 'Jost', sans-serif;
+        font-size: 67px;
+        font-weight: 700;
+        color: #090152;
+        margin-top: 15px;
+    }
+    .wordofthedaypage .MWDsection .mwdPhon {
+        font-family: Tahoma, sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        margin-top: -20px;
+        color: #000000;
+    }
+    .wordofthedaypage .MWDsection .mwdefinition {
+        font-family: 'Jost', sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        margin-top: 50px;
     }
     
 }
