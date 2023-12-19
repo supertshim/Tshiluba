@@ -297,14 +297,14 @@ nav .fa-solid{
     }
     .mwd .mwdbigword {
         font-family: 'Jost', sans-serif;
-        font-size: normal;
+        font-size: 9vw;
         font-weight: 700;
         color: #090152;
-        margin-top: 15px;
+        margin-top: 5vh;
         word-wrap:break-word;
         line-height:1.2ch;
         overflow: hidden;    
-        min-height: 80px;
+        height: 8vh;
     }
 
     .mwd .mwdPhon {
@@ -317,9 +317,9 @@ nav .fa-solid{
 
     .mwd .mwdefinition {
         font-family: 'Jost', sans-serif;
-        font-size: 20px;
+        font-size: 4vw;
         font-weight: 700;
-        margin-top: 40px;
+        margin-top: 4vh;
     }
 
     .mwd .mwdtitle {
