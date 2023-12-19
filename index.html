@@ -29,7 +29,6 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
-                <li><a href="wordofthedaylist.html">MUAKU WA DITUKU</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -99,13 +98,95 @@
 <script>
 
     var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
-    var xmonth = window.localStorage.getItem("xmonth");
-    var xday = window.localStorage.getItem("xday");
-    var xyear = window.localStorage.getItem("xyear");
-    var wordoftheday = window.localStorage.getItem("wordoftheday");
+    var xdate = new Date(),
+        xmonth = xdate.getMonth(),
+        xday = xdate.getDate(),
+        xyear = xdate.getFullYear();
     var xnum2 = xnum[xday];
+    var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
+        xmonth = xmonths[xmonth];
+    
+    //UPDATE THE WORDS ARRAY ON A MONTHLY TING
+        var words = [
+    "BUA",
+    "                    DIKUMI: 10",
+    "                    DIPEMBU == DIHEMBU",
+    "                    DITUNGA",
+    "                    DITUTU",
+    "                    DIYI",
+    "                    DIYI DIKULU",
+    "                    EYOWA",
+    "                    IBIDI: 2",
+    "                    INAYI: 4",
+    "                    ISATU: 3",
+    "                    ISAMBOMBO: 6",
+    "                    ITANU: 5",
+    "                    KADIANJIDI",
+    "                    KABIDI",
+    "                    KANUNGU",
+    "                    KUAKULA",
+    "                    KUAMBA",
+    "                    KUANGATA",
+    "                    KUBALA",
+    "                    KUBUELA",
+    "                    KUENDA",
+    "                    KUENZA",
+    "                    KUFIKA",
+    "                    KUFUNDA",
+    "                    KUIKALA",
+    "                    KUIKALA NE",
+    "                    KUKOSA",
+    "                    KUKUATA",
+    "                    KULUA",
+    "                    KUMONA",
+    "                    KUNUNKA",
+    "                    KUNYEMA",
+    "                    KUPESHA",
+    "                    KUPINGAJA",
+    "                    KUPINGANA",
+    "                    KUSHILA",
+    "                    KUSHIYA",
+    "                    KUTANGILA",
+    "                    KUTELEJA",
+    "                    KUTETA",
+    "                    KUUMVUA",
+    "                    KUYA",
+    "                    KUZEBUKA",
+    "                    LUKAMA: 100",
+    "                    MASHIKA",
+    "                    MFUNDILU",
+    "                    MUAKU",
+    "                    MUAKULU",
+    "                    MUAMBIKILA",
+    "                    MUANDA",
+    "                    MUANDAMUKULU: 8",
+    "                    MUANDAMUTEKETE: 7",
+    "                    MUKALU",
+    "                    MUNGALATA",
+    "                    MUNTU",
+    "                    MUPINGANYI",
+    "                    NANSHA",
+    "                    NDEKELU",
+    "                    NGANYI",
+    "                    NKONGAMIAKU",
+    "                    PENYI",
+    "                    TSHIANZA",
+    "                    TSHIBAMBALU",
+    "                    TSHIBIKIDILU",
+    "                    TSHIDIMU",
+    "                    TSHILEMA",
+    "                    TSHIMBADI",
+    "                    TSHINTU",
+    "                    TSHINUNU: 1000",
+    "                    TSHINYI",
+    "                    TSHIPATSHILA",
+    "                    TSHITEMA: 9",
+    "                    TSHITUPA",
+    "                    UMWE: 1"
+]
 
-
+    var wordoftheday = words[xnum2];
+    console.log(wordoftheday);
     let wordOfDituku = document.querySelector('.mwdbigword');
     wordOfDituku.innerHTML = `${wordoftheday}`;
     mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;

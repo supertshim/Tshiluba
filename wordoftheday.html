@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <iframe src="index.html" style="display:none"></iframe>
+    <iframe src="aboutb.html" style="display:none"></iframe>
     <title>TSHILUBA.co | Muaku Wa Dituku</title>
 <!--Link to the style code-->
     <link rel="stylesheet" href="style.css">
@@ -53,9 +55,6 @@
 </div>
 </section>
 
-<script>
-    document.getElementById("MWDsection").innerHTML=window.localStorage.getItem("dailymuaku");
-</script>
 <link rel="stylesheet" href="style.css">
 <!--Java Script For Toggle Menu-->
 <script>
@@ -72,25 +71,11 @@
 <!--Java Script For Dictionary Search-->
 <script src="dictionary.js">
 </script>
-<script src="require.js">
+<script src="wordoftheday.js">
 </script>
 <!--Script for main page to get the searched input word-->
 <iframe src="index.html" style="display:none"></iframe>
 <iframe src="aboutb.html" style="display:none"></iframe>
-<script>
-
-        const fs = require('fs');
-    //foo is now loaded.
-
-        let fInput = window.localStorage.getItem("dailymuaku");
-        fs.writeFile('wordoftheday.txt', fInput, (err) => {
-        if (err) throw err;
-        else{
-            console.log("The file is updated with the given data")
-        }
-        });
-
-</script>
 </body>
 </div>
 </html>

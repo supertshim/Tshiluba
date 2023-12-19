@@ -31,7 +31,6 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
-                <li><a href="nkongamiaku.html">CONTACT</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -45,8 +44,7 @@
     <img class="biglogo" src="images/Tco_logo2.jpg">
     <table class="IndexTable" id="IndexTable">
         <tr> <!--TSHILUBA WORD LIST-->
-            <td><ol class="indexlist" id="indexlist" type="1">
-                    <li><a class="links" href="nkongamiaku.html?inpt1=for">BUA</a></li>
+            <td><ol class="indexlist" id="indexlist" type="1"><li><a class="links" href="nkongamiaku.html?inpt1=for">BUA</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=ten">DIKUMI: 10</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=aroma">DIPEMBU == DIHEMBU</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=pays">DITUNGA</a></li>
@@ -120,8 +118,7 @@
                     <li><a class="links" href="nkongamiaku.html?inpt1=objective">TSHIPATSHILA</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=nine">TSHITEMA: 9</a></li>
                     <li><a class="links" href="nkongamiaku.html?inpt1=morceau">TSHITUPA</a></li>
-                    <li><a class="links" href="nkongamiaku.html?inpt1=one">UMWE: 1</a></li>
-                </ol>    
+                    <li><a class="links" href="nkongamiaku.html?inpt1=one">UMWE: 1</a></li></ol>    
             </td>
 
         </tr>
@@ -171,13 +168,40 @@
     var getitem = window.location.search;
     var homeindexword = getitem.slice(7,getitem.length);
     
-    var listy = document.querySelectorAll(".indexlist li");
+    //LISTY ARRAY IS THE WORDS ARRAY FUNCTION// AS WORDS UPDATE, THIS GETS BIGGER
+    var listy = document.getElementById("indexlist").innerText.split("\n");
+    console.log(listy);
     listsize = listy.length;
+
+
     const mwdarray = new Array(listsize);
     const mwdarrayx = mwdarray.fill().map((item, index) => index);
     shuffle(mwdarrayx);
-    var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
+    console.log(mwdarrayx);
+    const xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
+    console.log(xnum);
+    var xnumsize = xnum.length;
+
+    //xnumremove is used to make the month length either 30, 31, or 28 for february, but it
+    //doesn't really matter as the month xnum2 will reset to 1 every month.
+    var xnumremove = xnum.slice(0, 31);
+    //.sort((a,b) => a-b);
     var xnum2;
+    
+    //mwdarrayx is the new array to use every month. Whenever the list updates, mwdarrayx will be
+    //the randomized list shuffled again, removing the words already used.
+    // this makes it so that you can update the word list and not worry about repeating words month
+    //to month.
+    //So TAKE the new raw result of mwdarrayx and paste into xnum every month
+    let z=0;
+    while (z < xnumremove.length){
+        let xx = mwdarrayx.indexOf(xnumremove[z]);
+        console.log(xx);
+        mwdarrayx.splice(xx, 1);
+        z++;
+        console.log(mwdarrayx);
+    }
+
 
     function wordotd(){
         var xdate = new Date(),
@@ -186,11 +210,7 @@
         xyear = xdate.getFullYear();
     var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
         xmonth = xmonths[xmonth];
-        window.localStorage.setItem("xmonth", xmonth);
-        window.localStorage.setItem("xday", xday);
-        window.localStorage.setItem("xyear", xyear);
         var xnum2 = xnum[xday];
-        window.localStorage.setItem("xnum2", xnum2);
     }
 
     var now = new Date();
@@ -206,11 +226,8 @@
         xyear = xdate.getFullYear();
         xnum2 = xnum[xday];
     }
-    var wordoftheday = listy[xnum2].innerText;
-    
-    window.localStorage.setItem("wordoftheday", wordoftheday);
-    var wordoftheday = window.localStorage.getItem("wordoftheday");
-    console.log(wordoftheday);
+    var wordoftheday = listy[xnum2];
+
 
 </script>
 </body>

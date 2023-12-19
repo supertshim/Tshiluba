@@ -1444,7 +1444,7 @@ isambombo, 6 <i class="PartOfSpch">tshi</i>
     Phonetics: "I·ta·nu<p>/Eee-tah-noo/</p>",
     PhoneticsT: "Cinq | Five",
     English2: "5",
-    French2: "Itanu: 5",
+    French2: "itanu: 5",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -8646,11 +8646,16 @@ function maininpt(){
 
         let wordinput = wordoftheday.toLocaleLowerCase();
         let wordinfo = document.querySelector("#mwdef");
-        let wordPhon = document.querySelector("#mwdPho");      
+        let wordPhon = document.querySelector("#mwdPho");
+        console.log(wordinput);      
+
+        wordinput = wordinput.replace(/\+/g, '%20'); // 'Friday%20September%2013th'
+        wordinput = decodeURIComponent(wordinput);   // 'Friday September 13th
+        wordinput = wordinput.trim();
     
-        wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).French.toLocaleUpperCase()} | ${nkongamiaku.find(findmiaku).English.toLocaleUpperCase()}`;
-        wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics.toLocaleUpperCase()}`;
-        function findmiaku(miaku){
+        wordinfo.innerHTML = `${nkongamiaku.find(findmiaku3).French.toUpperCase()} | ${nkongamiaku.find(findmiaku3).English.toUpperCase()}`;
+        wordPhon.innerHTML = `${nkongamiaku.find(findmiaku3).Phonetics.toUpperCase()}`;
+        function findmiaku3(miaku){
         return miaku.French.toLowerCase() === wordinput||
         miaku.French2.toLowerCase() === wordinput||
         miaku.French3.toLowerCase() === wordinput||
