@@ -23,7 +23,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgb(11, 0, 77, .95),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
+    background-image:linear-gradient(rgb(11, 0, 77, .75),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
     background-position: center;
     position: relative;
     background-repeat: no-repeat;
@@ -161,7 +161,7 @@ nav .fa-solid{
 .mwd .mwdtitletx {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: -1px;
     margin-top: -5px;
 }
@@ -169,6 +169,7 @@ nav .fa-solid{
     font-family: Tahoma, sans-serif;
     font-size: 14px;
     font-weight: 400;
+    margin-bottom: 10px;
 }
 .mwd .mwdbigword {
     font-family: 'Jost', sans-serif;
@@ -188,12 +189,17 @@ nav .fa-solid{
     font-family: 'Jost', sans-serif;
     font-size: 30px;
     font-weight: 700;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 /*Settings For Screens with Max width 700px*/
 
 @media(max-width: 700px){
+    .header {
+    background-position: top;
+    position: relative;
+    }
+
     .header .text-box {
         width: 100%;
         height: 100%;
@@ -208,11 +214,11 @@ nav .fa-solid{
 
     }
     .header .text-box h1{
-        font-size: 15vw;
+        font-size: 10vw;
         white-space: nowrap;
         display: block;
         position: relative;
-        margin: -30px -90px;
+        margin: 0px -90px;
         left: 0px;
     }
     .search-bar input{
@@ -280,7 +286,7 @@ nav .fa-solid{
         margin-top: 80px;
         top: 0px;
         text-align: center;
-        width: 80vw;
+        width: fit-content;
         height: fit-content;
         background:white;
         border-radius: 30px;
@@ -288,13 +294,42 @@ nav .fa-solid{
     }
     .mwd .mwdbigword {
         font-family: 'Jost', sans-serif;
-        font-size:13vw;
+        font-size: 35px;
         font-weight: 700;
         color: #090152;
         margin-top: 15px;
         white-space:nowrap;
     }
 
+    .mwd .mwdPhon {
+        font-family: Tahoma, sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+        margin-top: -5px;
+        color: #000000;
+    }
+
+    .mwd .mwdefinition {
+        font-family: 'Jost', sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        margin-top: 40px;
+    }
+
+    .mwd .mwdtitle {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: -1px;
+    }
+
+    .mwd .mwdtitletx {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: -1px;
+        margin-top: -5px;
+    }
 }
 /*------ABOUT US PAGE-------*/
 /* The Nav Link Text Color & Font*/
