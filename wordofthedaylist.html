@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TSHILUBA.co</title>
-    <iframe src="about.html" style="display:none"></iframe>
+    <iframe src="index.html" style="display:none"></iframe>
+    <iframe src="aboutb.html" style="display:none"></iframe>
+    <title>TSHILUBA.co | Muaku Wa Dituku</title>
 <!--Link to the style code-->
     <link rel="stylesheet" href="style.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
@@ -18,13 +18,13 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Tinos:ital@0;1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
 <!--Font Awesome Mobile Menu Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <link rel="icon" href="images/Tco_logo2.jpg">
 </head>
 <div id="wrapper">
 <body>
-<section class="searchheader">
+<section class="wordofthedaypage">
     <nav>
         <div class="nav-links" id="navLinks">
         <!--The X icon placed in the nav menu-->
@@ -40,41 +40,45 @@
 <div class="cage">
 <div class="text-box">
     <!--Navigation Menu LOGO image-->
-   <h1>TSHILUBA.co</h1>
-    <p>
-        <div class="container">
-            <form action="" class="search-bar" method="get" target="_self">
-                <input type="text" placeholder="Cherchez...Search...Kebayi" id="inpt1" name="inpt1" autocomplete="off">
-                <button type="submit" id="btn1" onclick="findinpt()"><img src="images/search-bar-01.png"></button>
-            </form>
-        </div>
-    </p>
 </div>
 </div>
-<div class="cardcage">
-    
-<div class="card">
-    <h1 class="bigword" id="inf1"></h1>
-    <h1 class="PartOfSpeech" id="PoS"></h1>
-    <h1 class="Phonetics" id="Phon"></h1>
-<div>
+<div class="tablewrapper3">
     <table class="h-lines" id="h-lines"></table> 
-</div>
-<div class="tablewrapper">
-    <table class="Xinfo" id="Xinfo">
-    </table>
-<table class="h-lines" id="h-lines"></table> 
-</div>
+        <div class="MWDsection" id="MWDsection"><a href="nkongamiaku.html?inpt1=kadianjidi" style="text-decoration: none; color: rgb(0, 0, 0);">
+            <div>
+                <h1 class="mwdate" id="mwdate">DECEMBER 19, 2023</h1>
+                <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
+                <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
+                <h1 class="mwdbigword" id="mwdinf1">KADIANJIDI</h1>
+                <h1 class="mwdPhon" id="mwdPho">KA·DI·AN·JI·DI<p>/KAH-DYAHN-JEE-DEE/</p></h1>
+                <h1 class="mwdefinition" id="mwdef">PRÉPOSITION | PREPOSITION</h1>
+            
+            </div></a>
+        </div>
+<br>
+        <div class="MWDsection" id="MWDsection"><a href="nkongamiaku.html?inpt1=2" style="text-decoration: none; color: rgb(0, 0, 0);">
+            <div>
+                <h1 class="mwdate" id="mwdate">DECEMBER 18, 2023</h1>
+                <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
+                <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
+                <h1 class="mwdbigword" id="mwdinf1">IBIDI: 2</h1>
+                <h1 class="mwdPhon" id="mwdPho">I·BI·DI<p>/EEE-BEE-JEE/</p></h1>
+                <h1 class="mwdefinition" id="mwdef">DEUX | TWO</h1>
+            
+            </div>
+        </div>
 </div>
 <footer class="footer">
     <h1 class="ft1"><img src="images/Tco_logo2.jpg"><br>TSHILUBA.co 2023</h1>
- </footer>
+</footer>
 </div>
-
+</div>
 </section>
+
+<link rel="stylesheet" href="style.css">
 <!--Java Script For Toggle Menu-->
 <script>
-
+    
     var navLinks = document.getElementById("navLinks");
     function showMenu(){
         navLinks.style.right = "0px"
@@ -87,15 +91,10 @@
 <!--Java Script For Dictionary Search-->
 <script src="dictionary.js">
 </script>
+
 <!--Script for main page to get the searched input word-->
-<script>
-
-    var getitem = window.location.search;
-    var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
-
-    window.onload = maininpt();
-
-</script>
+<iframe src="index.html" style="display:none"></iframe>
+<iframe src="aboutb.html" style="display:none"></iframe>
 </body>
 </div>
 </html>

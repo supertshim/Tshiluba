@@ -1129,7 +1129,7 @@ eyowa, bualu buambi mbua bushuwa :
     French: "Deux",
     Tshiluba: "Ibidi",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "I·bi·di<p>/Eee-bee-dee/</p>",
+    Phonetics: "I·bi·di<p>/Eee-bee-jee/</p>",
     PhoneticsT: "Deux | Two",
     English2: "2",
     French2: "Ibidi: 2",
@@ -8587,7 +8587,7 @@ function maininpt(){
     let xx = `${nkongamiaku[0].English}`;
     wordinfo.innerHTML = xx;
 
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
+    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba.toLocaleUpperCase()}  
                         ${nkongamiaku.find(findmiaku).Tshiluba2} 
                         ${nkongamiaku.find(findmiaku).Tshiluba3} 
                         ${nkongamiaku.find(findmiaku).Tshiluba4}<p>

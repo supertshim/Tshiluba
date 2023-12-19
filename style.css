@@ -801,7 +801,7 @@ a.links:visited {
 .wordofthedaypage .tablewrapper3{
     margin-left: auto;
     margin-right:auto;
-    background-color: #fff;
+    background-color: transparent;
     width: fit-content;
     font-family: 'Jost', sans-serif;
     font-size: 40px;

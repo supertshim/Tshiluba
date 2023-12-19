@@ -29,7 +29,7 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
-                <li><a href="wordoftheday.html">MUAKU WA DITUKU</a></li>
+                <li><a href="wordofthedaylist.html">MUAKU WA DITUKU</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -37,7 +37,7 @@
 
 <div class="text-box">
     <!--Navigation Menu LOGO image-->
-    <h1>TSHILUBA.co</h1>
+    <h1><a href="index.html" style="text-decoration: none; color: rgb(255, 255, 255);">TSHILUBA.co</a></h1>
     <p>
         <div class="container">
             <form action="nkongamiaku.html" class="search-bar" method="get" target="_self">
@@ -48,7 +48,7 @@
     </p>
     <br>
 </div>
-<a href="wordoftheday.html" style="text-decoration: none; color: black;">
+<a id="dailylink"; href="nkongamiaku.html?inpt1="; style="text-decoration: none; color: black;">
 <div class="mwd" id="mwd">
     <h1 class="mwdate" id="mwdate"></h1>
     <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
@@ -111,6 +111,8 @@
     mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;
     let mwdate = document.querySelector('.mwdate');
     mwdate.innerHTML = mwdatex;
+    let link = document.getElementById('dailylink');
+    link.href = `nkongamiaku.html?inpt1=${wordoftheday}`;
     
     mwditukux();
 
