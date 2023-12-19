@@ -871,7 +871,7 @@ a.links:visited {
         position: absolute;
         height: 95vh;
         width: 80%;
-        top: 20px;
+        top: 60px;
         display: inline;
         left: 10%;
         overflow: hidden;
@@ -929,7 +929,7 @@ a.links:visited {
         font-size: 32px;
         padding: 0px 0px;
         transform: translate(0,0);
-        top: 150px;
+        top: 180px;
         overflow-y: hidden;
         z-index: 1;
     }
@@ -1009,12 +1009,11 @@ a.links:visited {
         width: 100%;
     }
 
-    .searchheader .tablewrapper2 .biglogo{
-        text-align: center;
-        background-color: rgb(11, 0, 77);
-        width: 200px;
-        margin-bottom: 30px;
-        margin-top: 50px;
+    .searchheader .tablewrapper2  h1{
+            font-size: 40px;
+            padding: 0px 0px;
+            position: relative;
+            top: 150px;
     }
     .searchheader .tablewrapper2 ol{
         list-style-position: inside;
@@ -1022,6 +1021,7 @@ a.links:visited {
         padding-left: 5%;
         font-size: 32px;
     }
+
     .searchheader .cage .text-box .container .TTDDT img{
         width: 50px;
         padding: 5px;
