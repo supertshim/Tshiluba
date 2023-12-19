@@ -200,7 +200,11 @@
     }
     setTimeout(wordotd, til12am);
     if (xnum2 === undefined){
-        xnum2 = xnum[0];
+        let xdate = new Date();
+        xmonth = xdate.getMonth(),
+        xday = xdate.getDate(),
+        xyear = xdate.getFullYear();
+        xnum2 = xnum[xday];
     }
     var wordoftheday = listy[xnum2].innerText;
     
