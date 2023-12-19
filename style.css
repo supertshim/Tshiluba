@@ -403,8 +403,8 @@ nav .fa-solid{
 /* The Navigation Menu positioning on page*/
 .searchheader nav{
     display: flex;
-    padding: 20px 20px;
-    justify-content: right;
+    padding: 2% 6%;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -534,17 +534,24 @@ nav .fa-solid{
 .searchheader .tablewrapper2{
     text-align: center;
     background-color: rgb(11, 0, 77);
-    width: 100%;
+    width: 100vw;
     margin-top: -100px;
     font-family: 'Jost', sans-serif;
     font-weight: 500;
     font-style: normal;
 }
-.searchheader .tablewrapper2 .biglogo{
+.searchheader .tablewrapper2 h1{
     text-align: center;
     background-color: rgb(11, 0, 77);
-    width: 400px;
+    width: 100vw;
+    height: 200px;
     margin-bottom: 30px;
+    font-size: 90px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 100px;
 }
 .searchheader .tablewrapper2 ol{
     list-style-position: inside;
@@ -750,8 +757,8 @@ a.links:visited {
 /* The Navigation Menu positioning on page*/
 .wordofthedaypage nav{
     display: flex;
-    padding: 20px 20px;
-    justify-content: right;
+    padding: 2% 6%;
+    justify-content: space-between;
     align-items: center;
 }
 
