@@ -176,8 +176,8 @@
     const mwdarray = new Array(listsize);
     const mwdarrayx = mwdarray.fill().map((item, index) => index);
     shuffle(mwdarrayx);
-    const xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
-
+    var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
+    var xnum2;
 
     function wordotd(){
         var xdate = new Date(),
@@ -189,14 +189,8 @@
         window.localStorage.setItem("xmonth", xmonth);
         window.localStorage.setItem("xday", xday);
         window.localStorage.setItem("xyear", xyear);
-        xnum2 = xnum[xday];
-        console.log(xnum);
-        console.log(til12am);
-    console.log(xmonth);
-    console.log(xday);
-    console.log(xyear);
-    console.log(xnum2);
-    console.log(wordoftheday);
+        var xnum2 = xnum[xday];
+        window.localStorage.setItem("xnum2", xnum2);
     }
 
     var now = new Date();
@@ -205,14 +199,17 @@
         til12am += 86400000;// its after 12am, try 12am tomorrow!
     }
     setTimeout(wordotd, til12am);
-
-    xnum2 = xnum[0];
-    
+    if (xnum2 === undefined){
+        xnum2 = xnum[0];
+    }
     var wordoftheday = listy[xnum2].innerText;
     
     window.localStorage.setItem("wordoftheday", wordoftheday);
     var wordoftheday = window.localStorage.getItem("wordoftheday");
-    
+    console.log(xnum);
+    console.log(til12am);
+    console.log(xnum2);
+    console.log(wordoftheday);
 
 </script>
 </body>
