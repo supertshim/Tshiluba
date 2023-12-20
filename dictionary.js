@@ -4716,7 +4716,7 @@ Yeye wakateta bua kuenda :
 {
     English: "to hear",
     French: "Entendre",
-    Tshiluba: "Kuikala",
+    Tshiluba: "Kuumvua",
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
