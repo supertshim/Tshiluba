@@ -93,6 +93,10 @@ nav{
     padding: 20px;
 }
 
+.text-box .container{
+    overflow: visible;
+}
+
 .search-bar{
     height: 100%;
     background: rgba(255, 255, 255, 1);
@@ -107,6 +111,7 @@ nav{
     margin-right: auto;
     text-align: center;
     align-items: center;
+    filter: drop-shadow(.2em .2em .2em black);
 }
 
 .search-bar button{
@@ -150,6 +155,7 @@ nav .fa-solid{
     background:white;
     border-radius: 30px;
     padding: 20px;
+    filter: drop-shadow(.5em .5em .5em rgb(0, 0, 0));
 }
 
 .mwd .mwdtitle {
@@ -576,7 +582,7 @@ nav .fa-solid{
     position: relative;
     text-align: center;
     display: inline-block;
-    overflow: auto;
+    overflow: hidden;
     height: auto
 }
 .searchheader .card .bigword{

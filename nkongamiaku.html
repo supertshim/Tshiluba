@@ -44,7 +44,7 @@
         <div class="container">
             <form action="" class="search-bar" method="get" target="_self">
                 <input type="text" placeholder="Cherchez...Search...Kebayi" id="inpt1" name="inpt1" autocomplete="off">
-                <button type="submit" id="btn1" onclick="findinpt()"><img src="images/search-bar-01.png"></button>
+                <button type="submit" id="btn1"><img src="images/search-bar-01.png"></button>
             </form>
         </div>
     </p>
@@ -86,15 +86,28 @@
 <!--Java Script For Dictionary Search-->
 <script src="dictionary.js">
 </script>
+
+<!--Script For Enter Button-->
+<script>
+
+    var input = document.getElementById("inpt1");
+    input.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("btn1").click();
+      }
+    });
+    
+</script>
 <!--Script for main page to get the searched input word-->
 <script>
 
     var getitem = window.location.search;
-    var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
-
+    var homeindexword = getitem.slice(7,getitem.length);
     window.onload = maininpt();
-
+    
 </script>
+
 </body>
 </div>
 </html>

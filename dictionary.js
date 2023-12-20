@@ -8496,79 +8496,8 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
 /***********THE FRENCH/ENGLISH WORD INPUT SEARCH FUNCTION *********/
 
 
-function findinpt(){
-
-    
-    let wordinput = document.querySelector("#inpt1");
-    let wordinfo = document.querySelector("#inf1");
-    let wordinfo2 = document.querySelector("#inf1");
-    let wordPoS = document.querySelector("#PoS");  
-    let wordPhon = document.querySelector("#Phon");
-    let wordXinfo = document.querySelector("#Xinfo");      
-
-    wordinput.value = wordinput.value.toLowerCase();
-    wordinput.value = wordinput.value.replace(/\+/g, '%20'); // 'Friday%20September%2013th'
-    wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
-    wordinput.value = wordinput.value.trim();
-
-    let xx = `${nkongamiaku[0].English}`;
-
-    wordinfo.innerHTML = xx;
-
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba}  
-                        ${nkongamiaku.find(findmiaku).Tshiluba2} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba3} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba4}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba5} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba6} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba7} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba8}<p>
-                        ${nkongamiaku.find(findmiaku).Tshiluba9} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba10} 
-                        ${nkongamiaku.find(findmiaku).Tshiluba11}`;
-    wordPoS.innerHTML = `${nkongamiaku.find(findmiaku).PartOfSpeech}`;
-    wordPhon.innerHTML = `${nkongamiaku.find(findmiaku).Phonetics}`;
-    wordXinfo.innerHTML = `${nkongamiaku.find(findmiaku).InfoTable}`;
-
-    function findmiaku(miaku){
-    return miaku.French.toLowerCase() === wordinput.value||
-    miaku.French2.toLowerCase() === wordinput.value ||
-    miaku.French3.toLowerCase() === wordinput.value ||
-    miaku.French4.toLowerCase() === wordinput.value ||
-    miaku.French5.toLowerCase() === wordinput.value ||
-    miaku.French6.toLowerCase() === wordinput.value ||
-    miaku.French7.toLowerCase() === wordinput.value ||
-    miaku.French8.toLowerCase() === wordinput.value ||
-    miaku.French9.toLowerCase() === wordinput.value ||
-    miaku.French10.toLowerCase() === wordinput.value ||
-    miaku.French11.toLowerCase() === wordinput.value ||
-    miaku.English.toLowerCase() === wordinput.value ||
-    miaku.English2.toLowerCase() === wordinput.value ||
-    miaku.English3.toLowerCase() === wordinput.value ||
-    miaku.English4.toLowerCase() === wordinput.value ||
-    miaku.English5.toLowerCase() === wordinput.value ||
-    miaku.English6.toLowerCase() === wordinput.value ||
-    miaku.English7.toLowerCase() === wordinput.value ||
-    miaku.English8.toLowerCase() === wordinput.value ||
-    miaku.English9.toLowerCase() === wordinput.value ||
-    miaku.English10.toLowerCase() === wordinput.value ||
-    miaku.English11.toLowerCase() === wordinput.value ||
-    miaku.Tshiluba.toLowerCase() === wordinput.value ||
-    miaku.Tshiluba2.toLowerCase() === wordinput.value||
-    miaku.Tshiluba3.toLowerCase() === wordinput.value||
-    miaku.Tshiluba4.toLowerCase() === wordinput.value||
-    miaku.Tshiluba5.toLowerCase() === wordinput.value||
-    miaku.Tshiluba6.toLowerCase() === wordinput.value||
-    miaku.Tshiluba7.toLowerCase() === wordinput.value||
-    miaku.Tshiluba8.toLowerCase() === wordinput.value||
-    miaku.Tshiluba9.toLowerCase() === wordinput.value||
-    miaku.Tshiluba10.toLowerCase() === wordinput.value||
-    miaku.Tshiluba11.toLowerCase() === wordinput.value;}
-
-}
-
 var getitem = window.location.search;
-var homeindexword = getitem.slice(7,getitem.length).toLowerCase();
+var homeindexword = getitem.slice(7,getitem.length);
 
 function maininpt(){
 
@@ -8579,7 +8508,7 @@ function maininpt(){
     let wordXinfo = document.querySelector("#Xinfo"); 
     let wordinfo2 = document.querySelector("#inf1");
 
-    wordinput.value = homeindexword.toLowerCase();
+    wordinput.value = homeindexword;
     wordinput.value = wordinput.value.replace(/\+/g, '%20'); // 'Friday%20September%2013th'
     wordinput.value = decodeURIComponent(wordinput.value);   // 'Friday September 13th
     wordinput.value = wordinput.value.trim();
@@ -8587,7 +8516,7 @@ function maininpt(){
     let xx = `${nkongamiaku[0].English}`;
     wordinfo.innerHTML = xx;
 
-    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba.toLocaleUpperCase()}  
+    wordinfo.innerHTML = `${nkongamiaku.find(findmiaku).Tshiluba.toUpperCase()}  
                         ${nkongamiaku.find(findmiaku).Tshiluba2} 
                         ${nkongamiaku.find(findmiaku).Tshiluba3} 
                         ${nkongamiaku.find(findmiaku).Tshiluba4}<p>
@@ -8603,39 +8532,39 @@ function maininpt(){
     wordXinfo.innerHTML = `${nkongamiaku.find(findmiaku).InfoTable}`;
 
     function findmiaku(miaku){
-    return miaku.French.toLowerCase() === wordinput.value ||
-    miaku.French2.toLowerCase() === wordinput.value ||
-    miaku.French3.toLowerCase() === wordinput.value ||
-    miaku.French4.toLowerCase() === wordinput.value ||
-    miaku.French5.toLowerCase() === wordinput.value ||
-    miaku.French6.toLowerCase() === wordinput.value ||
-    miaku.French7.toLowerCase() === wordinput.value ||
-    miaku.French8.toLowerCase() === wordinput.value ||
-    miaku.French9.toLowerCase() === wordinput.value ||
-    miaku.French10.toLowerCase() === wordinput.value ||
-    miaku.French11.toLowerCase() === wordinput.value ||
-    miaku.English.toLowerCase() === wordinput.value ||
-    miaku.English2.toLowerCase() === wordinput.value ||
-    miaku.English3.toLowerCase() === wordinput.value ||
-    miaku.English4.toLowerCase() === wordinput.value ||
-    miaku.English5.toLowerCase() === wordinput.value ||
-    miaku.English6.toLowerCase() === wordinput.value ||
-    miaku.English7.toLowerCase() === wordinput.value ||
-    miaku.English8.toLowerCase() === wordinput.value ||
-    miaku.English9.toLowerCase() === wordinput.value ||
-    miaku.English10.toLowerCase() === wordinput.value ||
-    miaku.English11.toLowerCase() === wordinput.value ||
-    miaku.Tshiluba.toLowerCase() === wordinput.value ||
-    miaku.Tshiluba2.toLowerCase() === wordinput.value||
-    miaku.Tshiluba3.toLowerCase() === wordinput.value||
-    miaku.Tshiluba4.toLowerCase() === wordinput.value||
-    miaku.Tshiluba5.toLowerCase() === wordinput.value||
-    miaku.Tshiluba6.toLowerCase() === wordinput.value||
-    miaku.Tshiluba7.toLowerCase() === wordinput.value||
-    miaku.Tshiluba8.toLowerCase() === wordinput.value||
-    miaku.Tshiluba9.toLowerCase() === wordinput.value||
-    miaku.Tshiluba10.toLowerCase() === wordinput.value||
-    miaku.Tshiluba11.toLowerCase() === wordinput.value;}
+    return miaku.French.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French2.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French3.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French4.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French5.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French6.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French7.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French8.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French9.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French10.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.French11.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English2.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English3.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English4.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English5.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English6.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English7.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English8.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English9.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English10.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.English11.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.Tshiluba.toUpperCase() === wordinput.value.toUpperCase() ||
+    miaku.Tshiluba2.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba3.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba4.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba5.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba6.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba7.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba8.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba9.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba10.toUpperCase() === wordinput.value.toUpperCase()||
+    miaku.Tshiluba11.toUpperCase() === wordinput.value.toUpperCase();}
     
 }    
 
