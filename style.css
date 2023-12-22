@@ -1106,6 +1106,22 @@ a.links:visited {
     background-color: gold;
     margin: 50px;
     margin-bottom:40px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.searchheader4 .documentarea1 .Privacy .buttxn:hover{
+    background-color: #001163;
+    color: white;
+}
+
+
+.searchheader4 .documentarea1 .Privacy .buttxn:active{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+
 }
 
 .searchheader4 .documentarea1 .Privacy h1{
