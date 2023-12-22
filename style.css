@@ -537,6 +537,31 @@ nav .fa-solid{
 .searchheader .nav-links ul li:hover::after{
     width: 100%;
 }
+.searchheader4 .nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #fff;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.searchheader4 .nav-links ul li:hover::after{
+    width: 100%;
+}
+
+.searchheader5 .nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #fff;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.searchheader5 .nav-links ul li:hover::after{
+    width: 100%;
+}
 /* The Cage for the search header
 */
 .searchheader .cage {
