@@ -144,17 +144,26 @@ nav{
     margin-right: auto;
     text-align: center;
     align-items: center;
-    filter: drop-shadow(.2em .2em .2em rgb(121, 121, 121));
+    border: .1px solid rgb(196, 196, 196);
 }
+
+
+.search-bar:focus-within{
+    border:none;
+    transition-duration: .4s;
+    filter: drop-shadow(.2em .2em .2em rgb(182, 182, 182));
+}
+
 
 .MuakuWd {
     display: block;
+    width: fit-content;
 }
 
 .MuakuWD :hover {
     transition-duration: .4s;
     transform: translateY(-4px);
-    filter: drop-shadow(.6em .5em .3em rgb(121, 121, 121));
+    box-shadow: .6em .5em 1em rgb(121, 121, 121);
 }
 
 .search-bar button{
@@ -201,8 +210,8 @@ nav .fa-solid{
     background:white;
     border-radius: 30px;
     padding: 20px;
-    filter: drop-shadow(.5em .5em .5em rgb(121, 121, 121));
     border: solid gold;
+    cursor: pointer;
 }
 
 .mwd .mwdtitle {
@@ -210,6 +219,7 @@ nav .fa-solid{
     font-size: 22px;
     font-weight: 700;
     letter-spacing: -1px;
+    pointer-events: none;
 }
 .mwd .mwdtitletx {
     font-family: 'Montserrat', sans-serif;
@@ -217,12 +227,14 @@ nav .fa-solid{
     font-weight: 700;
     letter-spacing: -1px;
     margin-top: -5px;
+    pointer-events: none;
 }
 .mwd .mwdate {
     font-family: Tahoma, sans-serif;
     font-size: 14px;
     font-weight: 400;
     margin-bottom: 10px;
+    pointer-events: none;
 }
 .mwd .mwdbigword {
     font-family: 'Jost', sans-serif;
@@ -232,6 +244,7 @@ nav .fa-solid{
     margin-top: 15px;
     line-height:2cap;
     overflow: hidden;
+    pointer-events: none;
 }
 .mwd .mwdPhon {
     font-family: Tahoma, sans-serif;
@@ -239,12 +252,14 @@ nav .fa-solid{
     font-weight: 400;
     margin-top: -20px;
     color: #000000;
+    pointer-events: none;
 }
 .mwd .mwdefinition {
     font-family: 'Jost', sans-serif;
     font-size: 20px;
     font-weight: 700;
     margin-top: 50px;
+    pointer-events: none;
 }
 
 /*Settings For Screens with Max width 700px*/
@@ -286,8 +301,7 @@ nav .fa-solid{
         max-width: 85%;
         padding: 0px 10px;
         background-color: rgb(255, 255, 255, 1);
-        border-style:none;
-        border-color: #000000;
+        border: .2px solid rgb(155, 155, 155);
     }
     .search-bar img{
         width: 40px;
@@ -375,7 +389,7 @@ nav .fa-solid{
         margin-top: 80px;
         top: 0px;
         text-align: center;
-        width: fit-content;
+        width: 70%;
         max-width: 400px;
         height: fit-content;
         background:white;
