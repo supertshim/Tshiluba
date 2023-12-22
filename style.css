@@ -147,12 +147,6 @@ nav{
     filter: drop-shadow(.2em .2em .2em rgb(121, 121, 121));
 }
 
-.container :hover {
-    color: white;
-    transition-duration: .4s;
-    transform: translateY(-4px);
-}
-
 .MuakuWd {
     display: block;
 }
