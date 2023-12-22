@@ -811,7 +811,7 @@ a.links:visited {
 }
 .footer table tr th{
     position: relative;
-    font-size: 14px;
+    font-size: 20px;
     margin-left: auto;
     margin-right: auto;
     width: 90%;
@@ -1051,6 +1051,63 @@ a.links:visited {
     border:solid gold;
     border-radius: 40px;  
 }
+
+.searchheader4 .documentarea1 .Privacy form{
+    display: block;
+    padding: 50px;
+    align-items: center;
+}
+
+.searchheader4 .documentarea1 .Privacy form p{
+    display: block;
+    font-size: 20px;
+}
+.searchheader4 .documentarea1 .Privacy .contactform{
+    border-radius:2px;
+    padding-left: 10px;
+    width: 500px;
+    border:none;
+    outline:none;
+    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    height: 50px;
+    margin-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+.searchheader4 .documentarea1 .Privacy .contactformmessage {
+    border-radius:0px;
+    width: 480px;
+    padding: 20px;
+    border:none;
+    outline:none;
+    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    text-align: left;
+    height: 300px;
+    font-weight: 700;
+    resize: none;
+}
+
+.searchheader4 .documentarea1 .Privacy .buttxn{
+    border-radius:10px;
+    width: 300px;
+    border:none;
+    outline:none;
+    filter: drop-shadow(.2em .2em .05em rgb(156, 156, 156));
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    height: 100px;
+    font-weight: 700;
+    background-color: gold;
+    margin: 50px;
+    margin-bottom:40px;
+}
+
 .searchheader4 .documentarea1 .Privacy h1{
    font-size: 50px;  
 }
