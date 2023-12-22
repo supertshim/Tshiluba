@@ -92,6 +92,21 @@
     }
 
 </script>
+<script>
+
+    const form = document.querySelector('form');
+    form.addEventListener('submit', (e) => {
+
+            e.preventDefault();
+
+            const CaptchaResponse = grecaptcha.getResponse();
+
+            if (!CaptchaResponse.length > 0) {
+
+                throw new Error("Captcha Not Complete")
+            }
+    });
+</script>
 </body>
 </div>
 </html>
