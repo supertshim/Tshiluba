@@ -105,6 +105,15 @@
 
                 throw new Error("Captcha Not Complete")
             }
+
+            const fd = new FormData(e.target);
+            const params = new URLSearchParams(fd);
+
+            fetch('https://formsubmit.co/2e721393200729b1c15000f18b84160d', {
+                method: "POST",
+                body: params,
+            })
+        
     });
 </script>
 </body>
