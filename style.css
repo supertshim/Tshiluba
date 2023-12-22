@@ -9,7 +9,7 @@
 
 ::placeholder{
     font-weight: 100;
-    color:#949494;
+    color:#525252;
     font-size: 18px;
 }
 
@@ -22,22 +22,24 @@
 }
 /* The header including background photo*/
 .header{
-    min-height: 100vh;
+    min-height: 110vh;
     width: 100%;
-    background-image:linear-gradient(rgb(11, 0, 77, .75),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
-    background-position: center;
+    /*background-image:linear-gradient(rgb(11, 0, 77, .75),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
+    */
+    background-position: top;
     position: relative;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: contain;
+    background-attachment:scroll;
+    background-size:auto;
 }
 
 /* The Navigation Menu positioning on page*/
 nav{
-    display: flex;
-    padding: 2% 6%;
+    display: block;
+    padding: 40px;
     justify-content: space-between;
     align-items: center;
+
 }
 
 /* The Navigation Link Position on Page*/
@@ -57,7 +59,21 @@ nav{
 /* The Nav Link Text Color & Font*/
 .nav-links ul li a{
     font-family: 'Montserrat', sans-serif;
-    color: #fff;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.searchheader4 .nav-links ul li a{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.searchheader5 .nav-links ul li a{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
     text-decoration: none;
     font-size: 20px;
 }
@@ -67,7 +83,7 @@ nav{
     content: '';
     width: 0%;
     height: 2px;
-    background: #fff;
+    background: #000000;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -81,17 +97,33 @@ nav{
     height: 100%;
     color: #fff;
     position: relative;
-    padding: 0px;
     text-align: center;
     font-family: 'Jost', sans-serif;
+    top: 0px;
+    padding-bottom: 40px;
 }
+
 .text-box img{
     width:100px;
 }
 
 .text-box h1{
-    font-size: 90px;
-    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 56px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border-radius: 90px;
+    background-color:#001163;
+    text-align: center;
+}
+
+.text-box h1 a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
 }
 
 .text-box .container{
@@ -112,7 +144,7 @@ nav{
     margin-right: auto;
     text-align: center;
     align-items: center;
-    filter: drop-shadow(.2em .2em .2em black);
+    filter: drop-shadow(.2em .2em .2em rgb(121, 121, 121));
 }
 
 .search-bar button{
@@ -122,8 +154,9 @@ nav{
 }
 
 .search-bar img{
-    width: 50px;
+    width: 30px;
     cursor: pointer;
+    padding-right: 10px;
 }
 
 .search-bar input{
@@ -156,7 +189,8 @@ nav .fa-solid{
     background:white;
     border-radius: 30px;
     padding: 20px;
-    filter: drop-shadow(.5em .5em .5em rgb(0, 0, 0));
+    filter: drop-shadow(.5em .5em .5em rgb(121, 121, 121));
+    border: solid gold;
 }
 
 .mwd .mwdtitle {
@@ -223,12 +257,11 @@ nav .fa-solid{
 
     }
     .header .text-box h1{
-        font-size: 10vw;
         white-space: nowrap;
         display: block;
         position: relative;
-        margin: 0px -90px;
         left: 0px;
+        font-size: 8vw;
     }
     .search-bar input{
         font-size: 18px;
@@ -253,7 +286,7 @@ nav .fa-solid{
     }
     .nav-links{
         position: absolute;
-        background: #090152;
+        background: #ebebeb;
         height: 100vh;
         width: 150px;
         top: 0;
@@ -264,10 +297,11 @@ nav .fa-solid{
     }
     nav .fa{
         display: block;
-        color: #fff;
+        color: #000000;
         cursor: pointer;
         margin: 30px;
     }
+    
     nav .fa-solid{
         display: inline;
         cursor: pointer;
@@ -276,18 +310,52 @@ nav .fa-solid{
     }
     .nav-links ul{
         padding: 30px;
-        color: white;
+        color: rgb(0, 0, 0);
     } 
 
     nav .fa-bars{
-        color: white;
+        color: rgb(0, 0, 0);
         align-items: right;
         width: 20px;
         position: absolute;
         right: 0px;
         top: 0px;
-        margin: 30px 30px;
+        padding: 40px;
     }
+
+    .searchheader nav .fa-bars{
+        color: rgb(255, 255, 255);
+        align-items: right;
+        width: 20px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        padding: 20px;
+    }
+    
+    .searchheader4 nav .fa-bars{
+        color: rgb(255, 255, 255);
+        align-items: right;
+        width: 20px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        padding-right: 40px;
+        padding-top: 20px;
+    }
+
+    .searchheader5 nav .fa-bars{
+        color: rgb(255, 255, 255);
+        align-items: right;
+        width: 20px;
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        padding-right: 40px;
+        padding-top: 20px;
+    }
+
+
     .mwd {
         position: relative;
         margin-left: auto;
@@ -391,16 +459,16 @@ nav .fa-solid{
 }
 /*------Search Page-------*/
 .searchheader .wrapper{
-    height: auto;
+    height: fit-content;
     width: 100%;
     position:relative;
     overflow-y: auto;
 }
 .searchheader{
-    height:100vh;
+    height:100%;
     min-height:50vh;
     width: 100%;
-    background-color: rgb(11, 0, 77);
+    background-color: #001163;
     background-position: center;
     background-size: cover;
     position: absolute;
@@ -409,8 +477,8 @@ nav .fa-solid{
 
 /* The Navigation Menu positioning on page*/
 .searchheader nav{
-    display: flex;
-    padding: 2% 6%;
+    display: block;
+    padding: 40px;
     justify-content: space-between;
     align-items: center;
 }
@@ -420,6 +488,7 @@ nav .fa-solid{
     flex: 1;
     text-align: right;
     position: relative;
+    color: white;
 }
 
 /* The Navigation Menu Spacing & Orientation*/
@@ -432,7 +501,7 @@ nav .fa-solid{
 
 /* The Nav Link Text Color & Font*/
 .searchheader .nav-links ul li a{
-    color: #fff;
+    color: white;
     text-decoration: none;
     font-size: 20px;
 }
@@ -456,7 +525,7 @@ nav .fa-solid{
     position: absolute;
     height: 95vh;
     width: 90%;
-    top: 56px;
+    top: 70px;
     display: inline;
     left: 5%;
     overflow: hidden;
@@ -496,6 +565,7 @@ nav .fa-solid{
     margin-right: auto;
     text-align: center;
     align-items: center;
+    filter: drop-shadow(.2em .2em .1em rgb(15, 0, 56));
 }
 
 .searchheader .cage .text-box .container .TTDDT img{
@@ -511,7 +581,7 @@ nav .fa-solid{
 }
 
 .searchheader .search-bar img{
-    width: 50px;
+    width: 30px;
     cursor: pointer;
 }
 
@@ -533,7 +603,7 @@ nav .fa-solid{
 
 .searchheader .IndexTable{
     text-align: center;
-    background-color: rgb(189, 189, 189);
+    background-color: rgb(255, 255, 255);
     width: 100%;
     font-size: 40px;
     position: relative;
@@ -542,7 +612,6 @@ nav .fa-solid{
     text-align: center;
     background-color: rgb(11, 0, 77);
     width: 100vw;
-    margin-top: -100px;
     font-family: 'Jost', sans-serif;
     font-weight: 500;
     font-style: normal;
@@ -550,20 +619,23 @@ nav .fa-solid{
 .searchheader .tablewrapper2 h1{
     text-align: center;
     background-color: rgb(11, 0, 77);
-    width: 100vw;
-    height: 200px;
-    margin-bottom: 30px;
-    font-size: 90px;
+    width: fit-content;
+    height: fit-content;
+    font-size: 50px;
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top: 100px;
 }
 .searchheader .tablewrapper2 ol{
     list-style-position: inside;
-    text-align: left;
-    padding-left: 35%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+.searchheader .tablewrapper2 ol li a{
+    color:black;
 }
 /* The Cage for the search results
 */
@@ -582,9 +654,9 @@ nav .fa-solid{
     color: #000000;
     position: relative;
     text-align: center;
-    display: inline-block;
+    display: block;
     overflow: hidden;
-    height: auto
+    height:auto;
 }
 .searchheader .card .bigword{
     font-family: 'Jost', sans-serif;
@@ -618,6 +690,12 @@ nav .fa-solid{
     display: block;
     transform: translate(0, 0px);
 }
+.space{
+    height: 11vw;
+    background-color: #ffffff;
+
+}
+
 /* The Cage for the search results table
 */
 .searchheader .tablewrapper{
@@ -641,7 +719,7 @@ a.links:hover {
   }
 a.links:visited {
     text-decoration:line;
-    color: rgb(117, 0, 0);
+    color: rgb(48, 48, 48);
     margin: auto;
   }
 
@@ -692,29 +770,42 @@ a.links:visited {
     border-top: 2px solid rgb(150, 150, 150);
 }
 
+
 .footer {
-    height: 200px;
+    height: fit-content;
     width: 100%;
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: #f7f7f7;
     position: relative;
     left: 0px;
     bottom: 0px;
-    display: inline-block;
+    display: block;
     overflow: hidden;
     font-family:'Jost', sans-serif;
     font-weight: 700;
     color: #000000;
 }
+.footer a{
+    color: black;
+}
+
 .footer img{
     height: 100px;
 }
+
+.footer .social-media{
+    margin-top: 50px;
+    height: 30px;
+    padding: 10px;
+}
+
 .footer table {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 80%;
     height: 100%;
+    margin-top: 80px;
     background-color: #f7f7f7;
     padding: 20px;
 }
@@ -726,7 +817,39 @@ a.links:visited {
     width: 90%;
     height: 100%;
 }
+.searchheader4 .wrapper{
+    height: fit-content;
+    width: 100%;
+    position:relative;
+    overflow-y: auto;
+}
+.searchheader4 {
+    height:100%;
+    min-height:50vh;
+    width: 100%;
+    background-color: rgb(11, 0, 77);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    padding: 0px 0px;
+}
 
+.searchheader5 .wrapper{
+    height: fit-content;
+    width: 100%;
+    position:relative;
+    overflow-y: auto;
+}
+.searchheader5 {
+    height:100%;
+    min-height:50vh;
+    width: 100%;
+    background-color: rgb(11, 0, 77);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    padding: 0px 0px;
+}
 /*------Word of the Day Page-------*/
 .wordofthedaypage .wrapper{
     height: auto;
@@ -854,23 +977,235 @@ a.links:visited {
     margin-top: 50px;
 }
 
+.searchheader5 .documentarea{
+    text-align: center;
+    background-color: rgb(11, 0, 77);
+    width: 100%;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+    margin-bottom: 100px;
+}
+.searchheader5 .documentarea h1{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.searchheader5 .documentarea .Privacy {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 30px;
+    border:solid gold;
+    border-radius: 40px;
+}
+
+.searchheader4 .documentarea1{
+    text-align: center;
+    background-color: rgb(11, 0, 77);
+    width: 700px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+.searchheader4 .documentarea1 h1{
+    text-align: center;
+    background-color: rgb(11, 0, 77);
+    width: 100%;
+    height:fit-content;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.searchheader4 .documentarea1 .Privacy {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border:solid gold;
+    border-radius: 40px;  
+}
+.searchheader4 .documentarea1 .Privacy h1{
+   font-size: 50px;  
+}
+
+.searchheader4 .documentarea1 .Privacy img{
+    width: 100px;
+    padding: 10px;
+}
+
+.searchheader4 .Privacy h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    font-size: 60px;
+    text-align: center;
+    
+}
+.searchheader4 .Privacy h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: fit-content;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.searchheader4 .Privacy p {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    font-size: 14px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+
+.searchheader4 .Privacy ul{
+    color: rgb(0, 0, 0);
+ 
+}
+
+.searchheader4 .Privacy ul li{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: fit-content;
+    font-size: 14px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+
+
+.searchheader .Privacy h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    font-size: 60px;
+    text-align: center;
+    
+}
+.searchheader .Privacy h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: fit-content;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.searchheader .Privacy p {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 90%;
+    height: fit-content;
+    font-size: 14px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+
+.searchheader .Privacy ul{
+    color: rgb(0, 0, 0);
+ 
+}
+
+.searchheader .Privacy ul li{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: fit-content;
+    font-size: 14px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+}
+
 /*Settings For Screens with Max width 700px*/
 
 @media(max-width: 700px){
 
+
     .searchheader .cage {
-        position: absolute;
+        position: relative;
         height: 95vh;
         width: 80%;
+        display: block;
+        left: 10%;
+        overflow: hidden;
+        top: 0px;
+        background-color: #001163;
+    }
+    .searchheader .cage2 {
+        position: absolute;
+        height: 95vh;
+        width: 60%;
         top: 60px;
         display: inline;
         left: 10%;
         overflow: hidden;
+        background-color: #001163;
+    }
+    .searchheader .text-box{
+        position: relative;
+        top: 40px;
+
     }
 
     .searchheader .text-box h1{
         font-size: 40px;
         padding: 0px 0px;
+        background-color: transparent;
+        border-radius: 0px;
+
     }
     .searchheader .search-bar input{
         font-size: 22px;
@@ -891,7 +1226,7 @@ a.links:visited {
     }
     .searchheader .nav-links{
         position: absolute;
-        background: #090152;
+        background: #ebebeb;
         height: 100vh;
         width: 150px;
         top: 0;
@@ -901,9 +1236,57 @@ a.links:visited {
         transition:.5s;
         overflow: hidden;
     }
+    .searchheader4 .nav-links ul li a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .searchheader5 .nav-links ul li a{
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        font-size: 20px;
+    }
+    .searchheader4 .nav-links{
+        position: absolute;
+        background-color: #ffffff;
+        height: 100vh;
+        width: 150px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+        transition:.5s;
+        overflow: hidden;
+        color: black;
+    }
+    .searchheader5 .nav-links{
+        position: absolute;
+        background-color: #ffffff;
+        height: 100vh;
+        width: 150px;
+        top: 0;
+        right: -200px;
+        text-align: left;
+        z-index: 2;
+        transition:.5s;
+        overflow: hidden;
+        color: black;
+    }
     .searchheader nav .fa{
         display: block;
-        color: #fff;
+        color: #000000;
+        cursor: pointer;
+        margin: 10px;
+    }
+    .searchheader4 nav .fa{
+        display: block;
+        color: #000000;
+        cursor: pointer;
+        margin: 10px;
+    }
+    .searchheader5 nav .fa{
+        display: block;
+        color: #000000;
         cursor: pointer;
         margin: 10px;
     }
@@ -914,13 +1297,17 @@ a.links:visited {
     }
     .searchheader .nav-links ul{
         padding: 30px;
+
+    } 
+    .searchheader .nav-links ul li a{
+        color: black;
     } 
 
     .searchheader .cardcage{
         font-size: 32px;
         padding: 0px 0px;
         transform: translate(0,0);
-        top: 180px;
+        display:block;
         overflow-y: hidden;
         z-index: 1;
     }
@@ -958,6 +1345,16 @@ a.links:visited {
         overflow-y: hidden;
 
     }
+
+    .searchheader .IndexTable{
+        text-align: center;
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+        font-size: 40px;
+        position: relative;
+        height: fit-content;
+    }
+
     a.links:link{
         color: rgb(0, 47, 255);
         text-decoration: none;
@@ -999,18 +1396,21 @@ a.links:visited {
         text-align: center;
         width: 100%;
     }
-
+    .searchheader .tablewrapper2 {
+       position:  relative;
+       display: block;
+       height: fit-content;
+}
     .searchheader .tablewrapper2  h1{
             font-size: 40px;
             padding: 0px 0px;
             position: relative;
-            top: 150px;
     }
     .searchheader .tablewrapper2 ol{
         list-style-position: inside;
         text-align: left;
         padding-left: 5%;
-        font-size: 32px;
+        font-size: 25px;
     }
 
     .searchheader .cage .text-box .container .TTDDT img{
@@ -1130,16 +1530,36 @@ a.links:visited {
         font-weight: 700;
         margin-top: 20px;
     }
-    .searchheader .documentarea {
+    .searchheader5 .documentarea {
         padding: 0px 0px;
         margin-left: auto;
         margin-right: auto;
         position: relative;
         top:40px;
         align-items: center;
+        height: fit-content;
+        overflow: hidden;
+        margin-bottom: 100px;
     }
     
-    .searchheader .documentarea h1 a{
+    .searchheader5 .documentarea h1 a{
+        font-size: 11vw;
+        text-align: center;
+        margin-left: auto;
+    }
+
+    .searchheader4 .documentarea1 {
+        padding: 0px 0px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        top:40px;
+        align-items: center;
+        width: 95%;
+        margin-bottom: 100px;
+    }
+    
+    .searchheader4 .documentarea1 h1 a{
         font-size: 11vw;
         text-align: center;
         margin-left: auto;
@@ -1147,23 +1567,27 @@ a.links:visited {
     
     
 .footer {
-    height: 200px;
+    height: fit-content;
     width: 100%;
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: #f7f7f7;
     position: relative;
-    left: 0;
-    bottom: 0;
-    display: inline-block;
+    bottom: 0px;
+    display: block;
     overflow: hidden;
     font-family:'Jost', sans-serif;
     font-weight: 700;
-    color: #000000;
     margin-left: auto;
     margin-right: auto;
 }
+.footer a{
+    color:rgb(0, 0, 0);
+}
 .footer img{
     height: 70px;
+}
+.footer img .social-media{
+    height: 50px;
 }
 .footer table {
     position: relative;
@@ -1172,18 +1596,42 @@ a.links:visited {
     width: 100%;
     height: 100%;
     background-color: #f7f7f7;
-    padding: 10px;
 }
+
 .footer table tr th{
     position: relative;
     font-size: 12px;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 100%;
     height: 100%;
 }
 
-.searchheader .documentarea .Privacy{
+.footer .social-media{
+    margin-top: 50px;
+    height: 30px;
+    padding: 10px;   
+}
+
+
+.searchheader5 .documentarea .Privacy{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 30px;  
+}
+
+.searchheader5 .documentarea .Privacy h1{
+   font-size: 12vw;
+}
+
+.searchheader .documentarea1 .Privacy{
     text-align: center;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
@@ -1193,95 +1641,15 @@ a.links:visited {
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    padding: 5px;  
+    padding: 5px; 
+     
 }
+
+.space{
+    height: 0px;
+    background-color: #f7f7f7;
+    display: block;
 }
 
 
-.searchheader .documentarea{
-    text-align: center;
-    background-color: rgb(11, 0, 77);
-    width: 100%;
-    font-family: 'Jost', sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    height: fit-content;
-    padding: 0px 0px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.searchheader .documentarea h1{
-    text-align: center;
-    background-color: rgb(11, 0, 77);
-    width: 100%;
-    height:fit-content;
-    font-size: 90px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-.searchheader .documentarea .Privacy {
-    text-align: center;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 90%;
-    height: fit-content;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;  
-}
-
-.searchheader .Privacy h1{
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 90%;
-    height: fit-content;
-    font-size: 60px;
-    text-align: center;
-    
-}
-.searchheader .Privacy h2{
-    text-align: center;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 50%;
-    height: fit-content;
-    font-size: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-
-.searchheader .Privacy p {
-    text-align: justify;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 90%;
-    height: fit-content;
-    font-size: 14px;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    
-}
-
-.searchheader .Privacy ul{
-    color: rgb(0, 0, 0);
- 
-}
-
-.searchheader .Privacy ul li{
-    text-align: justify;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 80%;
-    height: fit-content;
-    font-size: 14px;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    
 }
