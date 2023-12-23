@@ -2,10 +2,10 @@
 const nkongamiaku = [
 /*NOT FOUND*/   
 {
-    English: '<br> Not Found <br> Introuvable <br> Kebayi Kabidi <br><br>',
+    English: '<br> Not Found <br> Introuvable <br> Keba Kabidi <br><br>',
     French: " ",
     Tshiluba: " ",
-    PartOfSpeech: 'NOT FOUND <br> INTROUVABLE <br> KEBAYI KABIDI',
+    PartOfSpeech: 'NOT FOUND <br> INTROUVABLE <br> KEBA KABIDI',
     Phonetics: " ",
     PhoneticsT: " ",
     English2: " ",
@@ -50,8 +50,8 @@ const nkongamiaku = [
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 `
@@ -106,28 +106,28 @@ const nkongamiaku = [
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 de, d', du, des <i class="PartOfSpch">prep</i><p>
 <i class="PartOfSpch">(indique la possession)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 of <i class="PartOfSpch">prep</i><p>
 <i class="PartOfSpch">(indicates possession)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 --a, wa, ya, bwa, a, dia, lua, ka, tshia, bia <i class="PartOfSpch">kad</i><p>
 <i class="PartOfSpch">(kuleja ku)</i>
 </td>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>
@@ -136,7 +136,7 @@ of <i class="PartOfSpch">prep</i><p>
 <tr>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Les rapports de possession entre deux noms s'expriment au moyen de la particule --a qui prend le prefixe correspondant a la classe du premier substantif.
                 <br><br>
@@ -150,7 +150,7 @@ The relations of possession between two nouns are expressed by means of the part
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 1 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <i>Mu</i>ana <b>wa</b> Tshisekedi
                 :<br>
@@ -171,7 +171,7 @@ Tshimanga's children :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 2 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <i>Mu</i>tshi <b>wa</b> Mpiana
                 :<br>
@@ -192,7 +192,7 @@ Mpiana's trees :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
 <i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Bu</i>dimi <b>bwa</b> Mukendi
                 :<br>
@@ -213,7 +213,7 @@ Mukendi's fields :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 4 nom singulier -- di</i><p>
 <i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <i>Di</i>dima <b>dia</b> Ilunga
                 :<br>
@@ -234,7 +234,7 @@ Ilunga's oranges :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 5 nom singulier -- Lu</i><p>
 <i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <i>Lu</i>suki <b>lwa</b> Kayoka
                 :<br>
@@ -255,7 +255,7 @@ Kayoka's hair :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 6 nom singulier -- n</i><p>
 <i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <i>N</i>yunyu <b>wa</b> Tshituka
                 :<br>
@@ -276,7 +276,7 @@ Tshituka's birds :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
 <i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>bwa <b>wa</b> Tshisungu
                 :<br>
@@ -297,7 +297,7 @@ Tshisungu's dogs :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 8 nom singulier -- ka</i><p>
 <i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <i>ka</i>lulu <b>ka</b> Badibanga
                 :<br>
@@ -318,7 +318,7 @@ Badibanga's rabbits :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 9 nom singulier -- tshi</i><p>
 <i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <i>Tshi</i>anza <b>tshia</b> Kalonji
                 :<br>
@@ -390,29 +390,29 @@ Kalonji's hand :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px" ><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. pour <i class="PartOfSpch">prép</i> <br>
 2. parce que <i class="PartOfSpch">conj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. for <i class="PartOfSpch">prep</i> <br>
 2. because <i class="PartOfSpch">conj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. bua <i class="PartOfSpch">kad</i> <br>
 2. bualu bua <i class="PartOfSpch">conj</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>pour demain
                 :<br>
                 &nbsp:
@@ -434,7 +434,7 @@ bua + [verbe]: <i class="PartOfSpch">conj</i> :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 sa fille est tout pour lui
                 :<br>
                 &nbsp:
@@ -463,7 +463,7 @@ bwanyi meme
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 ceux qui sont pour nous
                 :<br>
                 &nbsp:
@@ -475,7 +475,7 @@ aba badi buetu tuetu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 pourquoi <i class="PartOfSpch">adv</i>
                 :<br>
                 &nbsp:
@@ -487,7 +487,7 @@ bua <a class="links" href="nkongamiaku.html?inpt1=what">tshinyi</a> <i class="Pa
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 acheter pour 10 francs
                 :<br>
                 &nbsp:
@@ -549,27 +549,27 @@ Kusumba bua mfranga 10
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
+        <th><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 dix, 10 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 ten, 10 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
 <i class="PartOfSpch">pl.</i> makumi
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 10</i></b><br>
 
 <b><i>Cardinal Number: 10</i></b><br>
@@ -579,7 +579,7 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
 
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
@@ -638,27 +638,27 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 arôme, parfum <i class="PartOfSpch">n</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 aroma, fragrance, sweet smell <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 dipembu <i class="PartOfSpch">tshi4</i><p>
 dihembu <p><i class="PartOfSpch">pl</i> mapembu, mahembu
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Une odeur provenant des épices, des plantes, de la cuisine, etc., notamment une odeur agréable ; fragrance.
 <br>
@@ -723,27 +723,27 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 pays, état, contrée, nation, village <i class="PartOfSpch">n</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 country, state, territory, nation, village <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Ditunga <i class="PartOfSpch">tshi4</i><p>
 <i class="PartOfSpch">pl</i> Matunga
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Pays de naissance, de résidence ou de citoyenneté d'une personne.
                 <br><br>
@@ -757,7 +757,7 @@ The land of a person's birth, residence, or citizenship.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>La République Democratique du Congo
                 :<br>
                 &nbsp:
@@ -820,27 +820,27 @@ Ditunga dia Kongu Wa Mugalata :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 nuage <i class="PartOfSpch">n</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 cloud <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 ditutu <i class="PartOfSpch">tshi4</i><p>
 <i class="PartOfSpch">pl</i> matutu
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'eau flottantes
 <br><br>
@@ -905,29 +905,29 @@ a gray or white mass in the sky, made up of very small floating drops of water
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 loi, législation <i class="PartOfSpch">n</i><p>
 <i>(politique)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 law, legislation <i class="PartOfSpch">n</i>
 <i>(political)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 diyi <i class="PartOfSpch">tshi4</i><p>
 <i>(political)</i>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Toute règle écrite ou positive ou ensemble de règles prescrites sous l'autorité de l'État ou de la nation, comme par le peuple dans sa constitution.
 <br><br>
@@ -992,28 +992,28 @@ Any written or positive rule or collection of rules prescribed under the authori
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 constitution <i class="PartOfSpch">n</i><p>
 <i>(politique)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Constitution <i class="PartOfSpch">n</i>
 <i>(political)</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Diyi Dikulu <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Les principes et lois de base d'une nation, d'un État ou d'un groupe social qui déterminent les pouvoirs et les devoirs du gouvernement et garantissent certains droits aux personnes qui en font partie.
                 <br><br>
@@ -1027,7 +1027,7 @@ The basic principles and laws of a nation, state, or social group that determine
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>La constitution d'une nation.
                 :<br>
                 &nbsp:
@@ -1090,28 +1090,28 @@ Diyi Dikulu dia Ditunga.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 oui, bien sûr<i class="PartOfSpch">adv</i><p>
 ouais
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 yes, of course <i class="PartOfSpch">adv</i><p>
 yeah
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 eyowa, eyo <i class="PartOfSpch">adv</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>oui, ce que tu as dit est vrai
                 :<br>
                 &nbsp:
@@ -1173,26 +1173,26 @@ eyowa, bualu buambi mbua bushuwa :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 deux, 2 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 two, 2 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 ibidi, 2 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 2</i></b><br>
 
 <b><i>Cardinal Number: 2</i></b><br>
@@ -1251,26 +1251,26 @@ ibidi, 2 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 quatre, 4 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 four, 4 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 inayi, 4 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 4</i></b><br>
 
 <b><i>Cardinal Number: 4</i></b><br>
@@ -1329,26 +1329,26 @@ inayi, 4 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 trois, 3 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 three, 3 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 isatu, 3 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 3</i></b><br>
 
 <b><i>Cardinal Number: 3</i></b><br>
@@ -1407,26 +1407,26 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 six, 6 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 six, 6 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 isambombo, 6 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 6</i></b><br>
 
 <b><i>Cardinal Number: 6</i></b><br>
@@ -1485,26 +1485,26 @@ isambombo, 6 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 cinq, 5 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 five, 5 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 itanu, 5 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 5</i></b><br>
 
 <b><i>Cardinal Number: 5</i></b><br>
@@ -1563,27 +1563,27 @@ itanu, 5 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 préposition <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 preposition <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kadianjidi <i class="PartOfSpch">tshi8</i><p>
 <i class="PartOfSpch">pl.</i> tudianjidi 
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -1595,7 +1595,7 @@ kadianjidi <i class="PartOfSpch">tshi8</i><p>
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
                 <br><br>
@@ -1607,7 +1607,7 @@ In grammar, a word that is used before a noun, a noun phrase, or a pronoun, conn
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>
 Nous avons sauté <i><b>DANS</b></i> le lac
                 :<br>
@@ -1619,233 +1619,278 @@ Tuvua tudiela <i><b>MU</b></i> dijiba :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i><b>Les Prépositions | Prepositions | Tudianjidi </b>
 <br><br>
 </td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>1.</b>
 avec
- 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 with
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
+
 ne
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>2.</b>
 par
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 by
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 kudi
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>3.</b>
 vers
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 towards
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 ku
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>4.</b>
 sous
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 underneath
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 muinshi
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>5.</b>
 entre
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 between
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 mu nkatshi
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>6.</b>
 pour
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 for
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <a class="links" href="nkongamiaku.html?inpt1=bua">bua</a>
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>7.</b>
 en + [participe present]
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 while + [present participle]
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 pa
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>8.</b>
 dans
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 in
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 mu
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>9.</b>
 au-dessus
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 above
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 pamutu
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>10.</b>
 derrière
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 behind
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 panyima
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>11.</b>
 devant
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 in front of (before)
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 kumpala
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>12.</b>
 à côté de
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 beside
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 ku luseke
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>13.</b>
 près de
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 near to<br>
 close to
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 pabuipi
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
 <b>14.</b>
 à; au; a l'
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 at; to
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 ku
                 
 <br></td>
 </tr>
 <tr>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
-<b>14.</b>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef"; style="width: 100px; text-align:left;">
+<b>15.</b>
 sur
  
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 on
 
 <br></td>
-<td class="analogy"; style="background-color: rgb(245, 245, 245); width: 100px; text-align:left;">
+<td class="tabledef"; style="width: 100px; text-align:left;">
 pa
                 
 <br></td>
@@ -1903,28 +1948,28 @@ pa
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. again <i class="PartOfSpch">adv.</i> <br>
+<td class="tabledef" valign=top>
+1. again <i class="PartOfSpch">adv.</i> <br><br>
 2. aussi, également, de plus
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
-1. again <i class="PartOfSpch">adv.</i> <br>
+<td class="tabledef" valign=top>
+1. again <i class="PartOfSpch">adv.</i> <br><br>
 2. also, likewise, equally
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top style="text-align: right;">
 kabidi <i class="PartOfSpch">muam</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Il mange encore
                 :<br>
                 &nbsp:
@@ -1935,7 +1980,7 @@ Udi udia kabidi :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Elle parle aussi l'italien
                 :<br>
                 &nbsp:
@@ -1997,27 +2042,27 @@ Udi wakula Italiana kabidi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 article <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 article, clause <i class="PartOfSpch">n</i> 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kanungu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
  tunungu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>l'article 5
                 :<br>
                 &nbsp:
@@ -2079,33 +2124,33 @@ Kanungu 5 :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 parler <i class="PartOfSpch">v</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 speak <i class="PartOfSpch">v</i>, talk <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuakula <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuamba</a>  
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je parle | I speak | <b>ndi ngakula</b><br><br>
 2. tu parles | you speak | <b>udi wakula</b><br><br>
@@ -2116,7 +2161,7 @@ kuakula <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 Je parles en Tshiluba
                 :<br>
                 &nbsp:
@@ -2179,33 +2224,33 @@ Ndi ngakula Tshiluba :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 dire <i class="PartOfSpch">v</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 say <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuamba <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je dis | I say | <b>ndi ngamba (ne)</b><br><br>
 2. tu dis | you say | <b>udi wamba (ne)</b><br><br>
@@ -2216,7 +2261,7 @@ kuamba <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 J'ai dis bonjour
                 :<br>
                 &nbsp:
@@ -2228,7 +2273,7 @@ Ndi ngamba ne :
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 Dire a
                 :<br>
                 &nbsp:
@@ -2291,26 +2336,26 @@ Kuambila ne :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 prendre <i class="PartOfSpch">v</i><br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 take <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuangata <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
@@ -2319,7 +2364,7 @@ kuangata <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je prends | I am taking | <b>ndi ngangata </b><br><br>
 2. tu prends | you are taking | <b>udi wangata </b><br><br>
@@ -2330,7 +2375,7 @@ kuangata <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Fils de l'homme, prends un bâton et écris dessus
                 :<br>
                 &nbsp:
@@ -2392,28 +2437,28 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. lire <i class="PartOfSpch">v.tr</i> <br>
 2. compter <i class="PartOfSpch">v.tr</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. read <i class="PartOfSpch">v.tr</i> <br>
 2. count <i class="PartOfSpch">v.tr</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kubala <i class="PartOfSpch">v.tr</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je lis | I read | <b>ndi ngenza</b><br><br>
 2. tu lis | you read | <b>udi wenza</b><br><br>
@@ -2426,7 +2471,7 @@ kubala <i class="PartOfSpch">v.tr</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>lire un livre
                 :<br>
                 &nbsp:
@@ -2448,7 +2493,7 @@ kubala lungenyi :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 compter <i class="PartOfSpch">v.tr</i>
                 :<br>
                 &nbsp:
@@ -2460,7 +2505,7 @@ kubala <i class="PartOfSpch">v.tr</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 aider a lire ou compter
                 :<br>
                 &nbsp:
@@ -2532,28 +2577,28 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. entrer <i class="PartOfSpch">v</i> <br>
 2. pénétrer <i class="PartOfSpch">v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. enter in [positionally] <i class="PartOfSpch">v</i> <br>
 2. penetrate <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kubuela <i class="PartOfSpch">mn</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
@@ -2565,7 +2610,7 @@ kubuela <i class="PartOfSpch">mn</i>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'entre | I'm entering | <b>ndi mbuela </b><br><br>
 2. tu entres | you're entering | <b>udi ubuela </b><br><br>
@@ -2577,7 +2622,7 @@ kubuela <i class="PartOfSpch">mn</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Parce que beaucoup tenteront d’entrer et n’y parviendront pas
                 :<br>
                 &nbsp:
@@ -2639,23 +2684,23 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. marcher <i class="PartOfSpch">v.tr</i> <br>
 2. <a class="links" href="nkongamiaku.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. walk <i class="PartOfSpch">tr.v</i> <br>
 2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuenda <i class="PartOfSpch">mn</i><br>
 <i class="PartOfSpch">mushilangana ne</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
@@ -2663,7 +2708,7 @@ kuenda <i class="PartOfSpch">mn</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
@@ -2675,7 +2720,7 @@ kuenda <i class="PartOfSpch">mn</i><br>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je marche | I'm walking | <b>ndi ngenda </b><br><br>
 2. tu marches | you're walking | <b>udi wenda </b><br><br>
@@ -2687,7 +2732,7 @@ kuenda <i class="PartOfSpch">mn</i><br>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Alors qu'il marchait au bord de la mer.
                 :<br>
                 &nbsp:
@@ -2749,33 +2794,33 @@ Pavuaye wendakana ku muelelu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 faire <i class="PartOfSpch">vtr</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 do, make <i class="PartOfSpch">vtr</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuenza <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuteta">kuteta</a> 
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je fais | I do | <b>ndi ngenza</b><br><br>
 2. tu fais | you do | <b>udi wenza</b><br><br>
@@ -2787,7 +2832,7 @@ kuenza <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 Que est-ce que tu fais?
                 :<br>
                 &nbsp:
@@ -2850,26 +2895,26 @@ Udi wenza tshinyi? :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 arriver <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 arrive <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kufika <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
@@ -2881,7 +2926,7 @@ kufika <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'arrive | I arrive | <b>ndi mfika </b><br><br>
 2. tu arrives | you arrive | <b>udi ufika</b><br><br>
@@ -2892,7 +2937,7 @@ kufika <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Puis, quand j'arrive
                 :<br>
                 &nbsp:
@@ -2954,28 +2999,28 @@ Kadi, pa ndi mfika kuntu aku :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. écrire <i class="PartOfSpch">v.tr</i> <br>
 2. dénoncer <i class="PartOfSpch">v.tr</i> (accuser)
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. write <i class="PartOfSpch">v.tr</i> <br>
 2. denounce <i class="PartOfSpch">v.tr</i> <br> (accuse)
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kufunda <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'écris | I write | <b>ndi mfunda</b><br><br>
 2. tu écris | you write | <b>udi ufunda</b><br><br>
@@ -2987,7 +3032,7 @@ kufunda <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>écrire à la main
                 :<br>
                 &nbsp:
@@ -3009,7 +3054,7 @@ kufunda <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 écrire une lettre pour qqn
                 :<br>
                 &nbsp:
@@ -3087,26 +3132,26 @@ kufundisha
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 être <i class="PartOfSpch">v.in</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 be <i class="PartOfSpch">v.in</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuikala <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je suis | I am | <b>ndi</b><br><br>
 2. tu es | you are | <b>udi</b><br><br>
@@ -3118,7 +3163,7 @@ kuikala <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>être avec quelqu'un
                 :<br>
                 &nbsp:
@@ -3129,7 +3174,7 @@ kuikala ne muntu :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'étais | I was | <b>mvua == nakadi</b><br><br>
 2. tu étais | you were | <b>uvua == wakadi</b><br><br>
@@ -3192,26 +3237,26 @@ kuikala ne muntu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 avoire, être avec<i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 have, be with <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuikala ne <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'ai | I have | <b>ndi ne</b><br><br>
 2. tu as | you have | <b>udi ne</b><br><br>
@@ -3223,7 +3268,7 @@ kuikala ne <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>avoir faim
                 :<br>
                 &nbsp:
@@ -3285,30 +3330,30 @@ kuikala ne nzala :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. couper, <i class="PartOfSpch">v.tr</i><br>
 trancher
 <br>
 2. cesser <i class="PartOfSpch">v.tr</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. cut, slice <i class="PartOfSpch">v.tr</i><br>
 2. cease <i class="PartOfSpch">v.tr</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kukosa <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je coupes | I cut | <b>ndi nkosa</b><br><br>
 2. tu coupes | you cut | <b>udi ukosa</b><br><br>
@@ -3320,7 +3365,7 @@ kukosa <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>décapiter
                 :<br>
                 &nbsp:
@@ -3342,7 +3387,7 @@ kukosa muadi :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 découper en morceaux <i class="PartOfSpch">v.tr</i>
                 :<br>
                 &nbsp:
@@ -3354,7 +3399,7 @@ kukosa bitupa <i class="PartOfSpch">v.tr</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 la pluie a cessé
                 :<br>
                 &nbsp:
@@ -3426,26 +3471,26 @@ Kukosa mpala
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 saisir <i class="PartOfSpch">v</i>, tenir <i class="PartOfSpch">v</i><br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 seize <i class="PartOfSpch">v</i>, grab <i class="PartOfSpch">v</i>, grasp <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kukuata <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
@@ -3453,7 +3498,7 @@ kukuata <i class="PartOfSpch">mn</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je saisis | I am seizing | <b>ndi nkuata </b><br><br>
 2. tu saisis | you are seizing | <b>udi ukuata </b><br><br>
@@ -3464,7 +3509,7 @@ kukuata <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Les Juifs ont saisi cet homme
                 :<br>
                 &nbsp:
@@ -3526,26 +3571,26 @@ Bena Yuda bavua bakuata muntu eu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 venir <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 come <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kulua <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
@@ -3557,7 +3602,7 @@ kulua <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je viens | I am coming | <b>ndi ndua </b><br><br>
 2. tu viens | you are coming | <b>udi ulua</b><br><br>
@@ -3568,7 +3613,7 @@ kulua <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Mais maintenant je viens vers toi
                 :<br>
                 &nbsp:
@@ -3630,33 +3675,33 @@ Kadi mpindieu ndi ndua kudi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 voir <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 see <i class="PartOfSpch">tr.v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kumona <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je vois | I see | <b>ndi mmona </b><br><br>
 2. tu vois | you see | <b>udi umona</b><br><br>
@@ -3668,7 +3713,7 @@ kumona <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Je vois des hommes. Ils ressemblent à des arbres ambulants.
                 :<br>
                 &nbsp:
@@ -3730,27 +3775,27 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 sentir <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 smell <i class="PartOfSpch">tr.v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kununka <i class="PartOfSpch">muan</i>, <p>
 kununkila
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je sens | I smell | <b>ndi nnunka</b><br><br>
 2. tu sens | you smell | <b>udi ununka</b><br><br>
@@ -3762,7 +3807,7 @@ kununkila
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Il a senti l'odeur de ses vêtements.
                 :<br>
                 &nbsp:
@@ -3824,28 +3869,28 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. courir <i class="PartOfSpch">v.tr</i> <br>
 2. fuir <i class="PartOfSpch">v.tr</i>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. run <i class="PartOfSpch">tr.v</i> <br>
 2. flee <i class="PartOfSpch">tr.v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kunyema <i class="PartOfSpch">mn</i><br>
 </td>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -3857,7 +3902,7 @@ kunyema <i class="PartOfSpch">mn</i><br>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je cours | I'm running | <b>ndi nnyema </b><br><br>
 2. tu cours | you're running | <b>udi unyema </b><br><br>
@@ -3868,7 +3913,7 @@ kunyema <i class="PartOfSpch">mn</i><br>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Tout le monde court, mais un seul reçoit le prix
                 :<br>
                 &nbsp:
@@ -3930,26 +3975,26 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 donner <i class="PartOfSpch">v</i><br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 give <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kupesha <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
@@ -3957,7 +4002,7 @@ kupesha <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je donne | I am giving | <b>ndi mpesha </b><br><br>
 2. tu donnes | you are givig | <b>udi upesha </b><br><br>
@@ -3968,7 +4013,7 @@ kupesha <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Je vous donne ma paix
                 :<br>
                 &nbsp:
@@ -4030,30 +4075,30 @@ Ndi nnupesha ditalala dianyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. rendre <i class="PartOfSpch">v</i><br>
 2. restituer <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 return [something] <i class="PartOfSpch">v</i>, <br>
 give [sth] back to <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kupingaja <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4063,7 +4108,7 @@ kupingaja <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je rends | I am returning | <b>ndi mpingaja </b><br><br>
 2. tu rends | you are returning | <b>udi upingaja</b><br><br>
@@ -4074,7 +4119,7 @@ kupingaja <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Maintenant, rends la femme de cet homme
                 :<br>
                 &nbsp:
@@ -4136,30 +4181,30 @@ Mpindieu pingaja mukaji wa muntu awu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. revenir <i class="PartOfSpch">v</i><br>
 2. rentrer <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 return [somewhere] <i class="PartOfSpch">v</i><br>
 come/go back [somewhere] <br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kupingana <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4173,7 +4218,7 @@ kupingana <i class="PartOfSpch">muan</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je reviens | I am returning | <b>ndi mpingana </b><br><br>
 2. tu reviens | you are returning | <b>udi upingana</b><br><br>
@@ -4184,7 +4229,7 @@ kupingana <i class="PartOfSpch">muan</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Revenez à moi et je reviendrai vers vous
                 :<br>
                 &nbsp:
@@ -4246,32 +4291,32 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 laisser pour <i class="PartOfSpch">v</i><br>
 laisser à <i class="PartOfSpch">v</i><br>
 léguer <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 leave [something] to <i class="PartOfSpch">v</i><br>
 leave [something] for someone <i class="PartOfSpch">v</i><br>
 bequeath <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kushiya">leave [positionally]</a>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kushila <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4281,7 +4326,7 @@ kushila <i class="PartOfSpch">mn</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je laisse | I am leaving | <b>ndi nshila </b><br><br>
 2. tu laisses | you are leaving | <b>udi ushila </b><br><br>
@@ -4292,7 +4337,7 @@ kushila <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Je vous laisse ma paix
                 :<br>
                 &nbsp:
@@ -4354,28 +4399,28 @@ Ndi nnushila ditalala dianyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 quitter <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="nkongamiaku.html?inpt1=kushila">leave to []</a>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kushiya <i class="PartOfSpch">mn</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4389,7 +4434,7 @@ kushiya <i class="PartOfSpch">mn</i>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je quitte | I'm leaving | <b>ndi nshiya </b><br><br>
 2. tu quittes | you're leaving | <b>udi ushiya </b><br><br>
@@ -4401,7 +4446,7 @@ kushiya <i class="PartOfSpch">mn</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Le garçon ne peut pas quitter son père
                 :<br>
                 &nbsp:
@@ -4463,26 +4508,26 @@ Muana kena mua kushiya tatuende to :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 regarder <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 listen <i class="PartOfSpch">tr.v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kutangila <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4490,7 +4535,7 @@ kutangila <i class="PartOfSpch">muan</i>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je regarde | I look | <b>ndi ntangila </b><br><br>
 2. tu regardes | you look | <b>udi utangila</b><br><br>
@@ -4502,7 +4547,7 @@ kutangila <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Regarde vers les montagnes de Tshikapa
                 :<br>
                 &nbsp:
@@ -4564,27 +4609,27 @@ Tangila ku mikuna ya Tshikapa :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 écouter <i class="PartOfSpch">v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 listen <i class="PartOfSpch">v</i> <br>
 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuteleja <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'écoute | I listen | <b>ndi nteleja </b><br><br>
 2. tu écoutes | you listen | <b>udi uteleja</b><br><br>
@@ -4596,7 +4641,7 @@ kuteleja <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Mon fils, écoute mes paroles.
                 :<br>
                 &nbsp:
@@ -4658,28 +4703,28 @@ Muananyi, teleja miaku yanyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. essayer <i class="PartOfSpch">v</i><br>
 2. tenter de faire <i class="PartOfSpch">v</i><br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. try <i class="PartOfSpch">v</i>, attempt <i class="PartOfSpch">v</i><br>
 2. tempt <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuteta <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4687,7 +4732,7 @@ kuteta <i class="PartOfSpch">mn</i><p>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'essaye | I'm trying | <b>ndi nteta</b><br><br>
 2. tu essayes | you're trying | <b>udi uteta</b><br><br>
@@ -4699,7 +4744,7 @@ kuteta <i class="PartOfSpch">mn</i><p>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 Il a essayé de marcher 
                 :<br>
                 &nbsp:
@@ -4762,27 +4807,27 @@ Yeye wakateta bua kuenda :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 entendre <i class="PartOfSpch">v.in</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 hear <i class="PartOfSpch">v.in</i> <br>
 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuumvua <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. j'entendre | I hear | <b>ndi mvua</b><br><br>
 2. tu entendres | you hear | <b>udi umvua</b><br><br>
@@ -4794,7 +4839,7 @@ kuumvua <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>on entend dire que...
                 :<br>
                 &nbsp:
@@ -4856,26 +4901,26 @@ tudi tumvua bamba ne:
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. aller <i class="PartOfSpch">v.tr</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. go <i class="PartOfSpch">tr.v</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuya <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -4888,7 +4933,7 @@ kuya <i class="PartOfSpch">muan</i>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
 1. je vais | I'm going | <b>ndi nya </b><br><br>
 2. tu vas | you're going | <b>udi uya </b><br><br>
@@ -4900,7 +4945,7 @@ kuya <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Nous allons au ville
                 :<br>
                 &nbsp:
@@ -4962,26 +5007,26 @@ Tudi tuya mu tshimenga :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 boiter <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 limp <i class="PartOfSpch">v</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 kuzebuka <i class="PartOfSpch">mua</i>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Marcher en inclinant le corps d'un côté.
                 <br><br>
@@ -5046,27 +5091,27 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 cent, 100 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 hundred, 100 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 lukama, 100 <i class="PartOfSpch">tshi6</i><br>
 <i class="PartOfSpch">pl.</i> nkama
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 100</i></b><br>
 
 <b><i>Cardinal Number: 100</i></b><br>
@@ -5075,7 +5120,7 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
 <br></td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
@@ -5134,26 +5179,26 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 froid(e) <i class="PartOfSpch">adj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 cold <i class="PartOfSpch">adj</i>                           
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 --a mashika <i class="PartOfSpch">muf</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>avoir froid
                 :<br>
                 &nbsp:
@@ -5215,27 +5260,27 @@ kuikala ne mashika; kuumvua ne mashika :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Écriture <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 writing <i class="PartOfSpch">n</i><p>
 scripture
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mfundilu <i class="PartOfSpch">n</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>oui, ce que tu as dit est vrai
                 :<br>
                 &nbsp:
@@ -5297,27 +5342,27 @@ eyowa, bualu buambi mbua bulelela :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mot, parole <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 word <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muaku <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> miaku
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Une unité de langage, constituée d'un ou plusieurs sons parlés ou de leur représentation écrite, qui fonctionne comme principal porteur de sens.
                 <br><br>
@@ -5329,7 +5374,7 @@ A unit of language, consisting of one or more spoken sounds or their written rep
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Recueil des mots en Tshiluba
                 :<br>
                 &nbsp:
@@ -5391,27 +5436,27 @@ Nkonga miaku wa Tshiluba :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 langue, langage <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 language <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muakulu <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> miakulu
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un corps de mots et les systèmes de leur utilisation communs à un peuple qui appartient à la même communauté ou nation, à la même zone géographique ou à la même tradition culturelle.
                 <br><br>
@@ -5423,7 +5468,7 @@ A body of words and the systems for their use common to a people who are of the 
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Parler la langue Tshiluba
                 :<br>
                 &nbsp:
@@ -5485,27 +5530,27 @@ Speak the Tshiluba language
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 adverbe <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 adverb <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muambikila <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> miambikila
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -5517,7 +5562,7 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Les adverbes sont des mots qui modifient généralement les verbes, c'est-à-dire qu'ils limitent ou restreignent le sens. Ils peuvent également modifier des adjectifs, d’autres adverbes, des expressions ou même des phrases entières.
 
@@ -5533,7 +5578,7 @@ An adverb answers the question when?, where?, how?, how much?, how long?, or how
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Les élections arrivent <b>bientôt</b><i class="PartOfSpch">adv</i>
                 :<br>
                 &nbsp:
@@ -5595,27 +5640,27 @@ The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 verbe <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 verb <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muanda <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> mianda
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
@@ -5626,7 +5671,7 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un mot ou une phrase qui décrit une action, une condition ou une expérience.
 Comme les noms et les adjectifs, en Tshiluba, les verbes sont formés d'un radical, d'un prefixe <b>(ku-)</b> et d'un suffixe <b>(-a)</b> :
@@ -5642,7 +5687,7 @@ Bu bibikidilu ne bu mifidi, mu Tshiluba, mianda badi
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Les mots « courir », « garder » et « ressentir » sont tous des verbes.
                 :<br>
                 &nbsp:
@@ -5704,26 +5749,26 @@ Miaku "kunyema," "kulama," ne "kununka" badi bonso badi mianda :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 huit, 8 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 eight, 8 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muandamukulu, 8 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 8</i></b><br>
 
 <b><i>Cardinal Number: 8</i></b><br>
@@ -5782,26 +5827,27 @@ muandamukulu, 8 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
-<td colspan="3" class="dividerspace"></td>
+<td colspan="3" class="dividerspace" valign=top>
+</td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 sept, 7 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 seven, 7 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 muandamutekete, 7 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 7</i></b><br>
 
 <b><i>Cardinal Number: 7</i></b><br>
@@ -5860,27 +5906,27 @@ muandamutekete, 7 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 adjectif <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 adjective <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mufidi <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> mifidi
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
@@ -5891,7 +5937,7 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un mot qui décrit un substantif ou un pronom.<br>
 Dans Tshiluba, les adjectifs s'accordent avec les préfixes des substantifs qu'ils qualifient
@@ -5905,7 +5951,7 @@ Muaku udi uleja tshibikidilu ne mupinganyi.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Example utilisant l'adjectif <b>--nene</b>(grand, gros) :
                 :<br>
                 &nbsp:
@@ -5916,7 +5962,7 @@ Tshilejelu bua kuenza mudimu mufidi <b>--nene</b> :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 1 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <i>Mu</i>ntu <b>mu</b>nene
                 :<br>
@@ -5937,7 +5983,7 @@ Big men :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 2 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <i>Mu</i>tshi <b>mu</b>nene
                 :<br>
@@ -5958,7 +6004,7 @@ Big trees :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
 <i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Bu</i>dimi <b>bu</b>nene
                 :<br>
@@ -5979,7 +6025,7 @@ Big fields :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 4 nom singulier -- di</i><p>
 <i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <i>Di</i>dima <b>di</b>nene
                 :<br>
@@ -6000,7 +6046,7 @@ Big oranges :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 5 nom singulier -- Lu</i><p>
 <i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <i>Lu</i>suki <b>lu</b>nene
                 :<br>
@@ -6021,7 +6067,7 @@ Big hair :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 6 nom singulier -- n</i><p>
 <i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <i>N</i>yunyu <b>mu</b>nene
                 :<br>
@@ -6042,7 +6088,7 @@ The big birds :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
 <i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>bwa <b>mu</b>nene
                 :<br>
@@ -6063,7 +6109,7 @@ The big dogs :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 8 nom singulier -- ka</i><p>
 <i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <i>ka</i>lulu <b>ka</b>nene
                 :<br>
@@ -6084,7 +6130,7 @@ The big rabbits :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 9 nom singulier -- tshi</i><p>
 <i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <i>Tshi</i>anza <b>tshi</b>nene
                 :<br>
@@ -6156,28 +6202,28 @@ Big hands :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 limite, frontière,<br>
 ligne de séparation <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 limit, border  <i class="PartOfSpch">n</i>                           
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mukalu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
 mikalu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>limite d'âge
                 :<br>
                 &nbsp:
@@ -6188,7 +6234,7 @@ mukalu wa bidimu :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>dépasser les limites
                 :<br>
                 &nbsp:
@@ -6250,26 +6296,26 @@ Kupita mikalu:
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Démocratie <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Democracy <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Mungalata <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Utilise au Sud-Kasai vers 1963 pour designer le 'Parti Democrate' fonde par les opposants au regime 'imperial' du 'Mulopwe' Albert Kalonji.
                 <br><br>
@@ -6283,7 +6329,7 @@ Term used in South-Kasai around 1963 to designate the "Democratic Party" founded
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>La Republique Democratique du Congo
                 :<br>
                 &nbsp:
@@ -6346,29 +6392,29 @@ Ditunga dia Kongu wa Mungalata :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. personne <i class="PartOfSpch">n</i> <br> 
 2. quelq'un <i class="PartOfSpch">pron</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. person <i class="PartOfSpch">n</i> <br> 
 2. someone <i class="PartOfSpch">pron</i> <br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 muntu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i> 
 bantu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 etre humain <i class="PartOfSpch">n</i>
                 :<br>
                 &nbsp:
@@ -6390,7 +6436,7 @@ A good <i>person</i>, bad
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i class="PartOfSpch">pl.</i>
 personnes
                 :<br>
@@ -6472,26 +6518,26 @@ Kakuena <i>muntu</i> to.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 pronom <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 pronoun <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> mipinganyi
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
@@ -6502,7 +6548,7 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un mot utilisé à la place d'un substantif ou d'une phrase nominale.
                 <br><br>
@@ -6514,7 +6560,7 @@ Muaku udi wenza mudimu pa mutu pa tshibikidilu.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Les Pronoms Interrogatifs</i></b><br>
 <b><i>Interrogative Pronouns</i></b><br>
 <b><i>Mipinganyi ya Lukonku</i></b><br><br>
@@ -6534,7 +6580,7 @@ Quoi? = What? = tshinyi? tshinganyi?
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Les Pronoms Indéfinis</i></b><br>
 <b><i>Indefinite Pronouns</i></b><br>
 <b><i>Mipinganyi</i></b><br><br>
@@ -6560,7 +6606,7 @@ qui = whom = ewu
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Les Pronoms Personnels Infixes</i></b><br>
 <b><i>Infixed Personal Pronouns</i></b><br>
 <b><i>Mipinganyi ya Nkatshi</i></b><br><br>
@@ -6609,7 +6655,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 1 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <i>Badi ba<b>mu</b>keba <b>(-mu-)</b>
 <br><br>
@@ -6618,7 +6664,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 2 nom singulier -- mu</i><p>
 <i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <i>Badi ba<b>u</b>keba <b>(-u-)</b>
 <br><br>
@@ -6627,7 +6673,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
 <i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Badi ba<b>bu</b>keba <b>(-bu-)</b>
 <br><br>
@@ -6636,7 +6682,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 4 nom singulier -- di</i><p>
 <i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <i>Badi ba<b>di</b>keba <b>(-di-)</b>
 <br><br>
@@ -6645,7 +6691,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 5 nom singulier -- Lu</i><p>
 <i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <i>Badi ba<b>lu</b>keba <b>(-lu-)</b>
 <br><br>
@@ -6654,7 +6700,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 6 nom singulier -- n</i><p>
 <i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <i>Badi ba<b>mu</b>keba <b>(-mu-)</b>
 <br><br>
@@ -6663,7 +6709,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
 <i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>Badi ba<b>mu</b>keba <b>(-mu-)</b>
 <br><br>
@@ -6672,7 +6718,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 8 nom singulier -- ka</i><p>
 <i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <i>Badi ba<b>ka</b>keba <b>(-ka-)</b>
 <br><br>
@@ -6681,7 +6727,7 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 9 nom singulier -- tshi</i><p>
 <i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <i>Badi ba<b>tshi</b>keba <b>(-tshi-)</b>
 <br><br>
@@ -6741,26 +6787,26 @@ badi ba<b>ba</b>keba
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 quoique <i class="PartOfSpch">conj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 although <i class="PartOfSpch">conj</i> 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 nansha <i class="PartOfSpch">conj</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>quoi que ce soit
                 :<br>
                 &nbsp:
@@ -6822,29 +6868,29 @@ nansha tshinyi/tshinganyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. fin, limite <i class="PartOfSpch">n</i> <br>
 2. dernier <i class="PartOfSpch">adj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. end, limit  <i class="PartOfSpch">conj</i>                           <br>
 2. final, last <i class="PartOfSpch">conj</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 ndekelu <i class="PartOfSpch">n</i><br>
 --a ndekelu <i class="PartOfSpch">muf</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>le dernier jour
                 :<br>
                 &nbsp:
@@ -6855,7 +6901,7 @@ dituku dia ndekelu :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>quel est votre dernier prix?
                 :<br>
                 &nbsp:
@@ -6917,26 +6963,26 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 qui <i class="PartOfSpch">pron</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 who <i class="PartOfSpch">pron</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 nganyi <i class="PartOfSpch"> mupi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>qui l'a vu?
                 :<br>
                 &nbsp:
@@ -6958,7 +7004,7 @@ mukanda ewu udi wa nganyi? :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 amenez qui vous voulez
                 :<br>
                 &nbsp:
@@ -7021,26 +7067,26 @@ vuaku ne ewu udi musua
         PhoneticsT11: " ",
         InfoTable: `
     <tr>
-            <th style="width: 100px" ><u><i>Francais</th>
-            <th style="width: 100px" ><u><i>English</th>
+            <th><u><i>Francais</th>
+            <th><u><i>English</th>
             <th style="width: 100px"><u><i>Tshiluba</th>
     </tr>
     <tr>
     <td colspan="3" class="dividerspace"></td>
     </tr>
     <tr>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 dictionnaire <i class="PartOfSpch">n</i>
     </td>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 dictionary <i class="PartOfSpch">n</i>
     </td>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 nkongamiaku <i class="PartOfSpch">tshi6</i>
     </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un ouvrage de référence répertoriant par ordre alphabétique les mots d'une langue et montrant leur signification ou leur traduction dans une autre langue
 <br><br>
@@ -7055,7 +7101,7 @@ A reference book listing alphabetically the words of one language and showing th
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Dictionnaire de la langue Tshiluba.
                 :<br>
                 &nbsp:
@@ -7117,26 +7163,26 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Où
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 where
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 penyi
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Où sont-ils?
                 :<br>
                 &nbsp:
@@ -7198,29 +7244,29 @@ Badi penyi? :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. main <i class="PartOfSpch">n</i><br>
 2. écriture <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. hand <i class="PartOfSpch">n</i><br>
 2. writing <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. tshianza <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i> 
 bianza
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>main gauche
                 :<br>
                 &nbsp:
@@ -7242,7 +7288,7 @@ tshianza tshia baluma :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i class="PartOfSpch">pl</i> 
 mains propres
                 :<br>
@@ -7255,7 +7301,7 @@ bianza bitoke :
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 
 mauvaise maniere de faire quelque chose
                 :<br>
@@ -7268,7 +7314,7 @@ tshianza tshibi <i class="PartOfSpch">expr</i> :
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 fermer la main <i class="PartOfSpch">expr</i> (pour cacher quelque chose)
                 :<br>
                 &nbsp:
@@ -7280,7 +7326,7 @@ kubuta tshianza <i class="PartOfSpch">expr</i> :
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
  
 mauvaise écriture
                 : belle écriture<br>
@@ -7344,29 +7390,29 @@ tshianza tshibi : tshianza tshimpe
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. chambre <i class="PartOfSpch">n</i> <br>
 2. département <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. room, bedroom<i class="PartOfSpch">n</i>                           <br>
 2. department <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshibambalu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i> 
 bibambalu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>Département d'Enseignement
                 :<br>
                 &nbsp:
@@ -7377,7 +7423,7 @@ Tshibambalu Tshia Dilongesha :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>chambre froide
                 :<br>
                 &nbsp:
@@ -7439,29 +7485,29 @@ tshibambalu tshia mashika :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 1. substantif <i class="PartOfSpch">n</i> <br>
 2. nom <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 1. substantive  <i class="PartOfSpch">n</i>                           <br>
 2. noun <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top>
 tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 <i class="PartOfSpch">pl</i> bibidikilu
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
@@ -7484,7 +7530,7 @@ Bibidikilu bidi miaku idi binyika bantu ne miaba ne meji.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 Les substantifs sont regroupées en classes. Chaque classe est désignée par ses préfixes singulier et pluriel.
                 <br><br>
                 &nbsp
@@ -7495,7 +7541,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Chaque Classe | Each Noun Class | Tshisumbu Tshionso</i></b><br><br>
 1 : <b>mu-ba</b><br>
 <b>Mu</b>ntu - <b>Ba</b>ntu<br><br>
@@ -7569,28 +7615,28 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 an <i class="PartOfSpch">n.m.</i><br>
 anéecriture <i class="PartOfSpch">n.f.</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 year <i class="PartOfSpch">n</i><br>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshidimu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i> 
 bidimu
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
                 <br><br>
@@ -7667,29 +7713,29 @@ tshidimu tshia 1999 :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. erreur <i class="PartOfSpch">n</i> <br>
 2. faute <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. error  <i class="PartOfSpch">n</i>                           <br>
 2. mistake <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshilema <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i>
 bilema <i class="PartOfSpch">n</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>erreur de traduction
                 :<br>
                 &nbsp:
@@ -7700,7 +7746,7 @@ tshilema mu diandamuna mu muakulu mukuabo :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>faire une erreur
                 :<br>
                 &nbsp:
@@ -7768,18 +7814,18 @@ kuenza tshilema :
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 Tshimbadi <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl.</i> 
 Bimbadi 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>appelation de gens d'origine angolaise qui etaient venus s'installer au 19ième 
 siècle au Congo Belge
                 :<br><br>
@@ -7842,29 +7888,29 @@ Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia d
         PhoneticsT11: " ",
         InfoTable: `
     <tr>
-            <th style="width: 100px" ><u><i>Francais</th>
-            <th style="width: 100px" ><u><i>English</th>
+            <th><u><i>Francais</th>
+            <th><u><i>English</th>
             <th style="width: 100px"><u><i>Tshiluba</th>
     </tr>
     <tr>
     <td colspan="3" class="dividerspace"></td>
     </tr>
     <tr>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 chose <i class="PartOfSpch">n</i> <br>
 <i class="PartOfSpch">pl</i> choses
     </td>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 thing <i class="PartOfSpch">n</i> <br><i class="PartOfSpch">pl</i>
 things
     </td>
-    <td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+    <td class="tabledef" valign=top >
 tshintu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i>
 bintu
     </td>
 </tr>
     <tr>
-    <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+    <td colspan="3" class="analogy"><br>:
 <i>choses
                     :<br>
                     &nbsp:
@@ -7886,7 +7932,7 @@ tshintanyi, tshintuntu, tshinanyintanyi, tshianana :
 <br><br></td>
     </tr>
     <tr>
-    <td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+    <td colspan="3" class="analogy"><br>:
 peu de chose
                     :<br>
                     &nbsp:
@@ -7965,28 +8011,28 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 mille, 1000 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 thousand, 1000 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
 <i class="PartOfSpch">pl.</i> binunu
 
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 1000</i></b><br>
 
 <b><i>Cardinal Number: 1000</i></b><br>
@@ -7995,7 +8041,7 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
 <br></td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
@@ -8054,26 +8100,26 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 quoi <i class="PartOfSpch">pron</i> 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 what <i class="PartOfSpch">pron</i> 
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshinyi <i class="PartOfSpch">mupi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 <i>quoi
                 :<br>
                 &nbsp:
@@ -8095,7 +8141,7 @@ kakuena tshia kuseka to :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 quoi que ce soit <i class="PartOfSpch">expr</i>
                 :<br>
                 &nbsp:
@@ -8177,27 +8223,27 @@ Udi wenza tshinyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 objectif, but <i class="PartOfSpch">n</i><p>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 objetive, goal <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshipatshila <i class="PartOfSpch">tshi9</i><p>
 <i class="PartOfSpch">pl</i> bipatshila
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 La fin vers laquelle l'effort est dirigé.
                 <br><br>
@@ -8212,7 +8258,7 @@ The end toward which effort is directed.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>:
+<td colspan="3" class="analogy"><br>:
 Afin d'atteindre cet but.
                 :<br>
                 &nbsp:
@@ -8275,26 +8321,26 @@ Bua kufika ku tshipatshila etshi. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 neuf, 9 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 nine, 9 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshitema, 9 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 9</i></b><br>
 
 <b><i>Cardinal Number: 9</i></b><br>
@@ -8353,29 +8399,29 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. morceau, fraction, portion <i class="PartOfSpch">n</i><p>
 2. chapitre
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 1. part, piece, fraction <i class="PartOfSpch">n</i>
 2. chapter
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 tshitupa <i class="PartOfSpch">tshi9</i><p>
 <i class="PartOfSpch">pl</i> bitupa
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Une portion ou une quantité séparée ou limitée de quelque chose.
                 <br><br>
@@ -8390,7 +8436,7 @@ A separate or limited portion or quantity of something.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 Un moreceau de bois dans l'eau ne s'est jamais transformé en crocodile.
                 <br><br>
                 &nbsp
@@ -8453,26 +8499,26 @@ Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th style="width: 100px" ><u><i>Francais</th>
-        <th style="width: 100px" ><u><i>English</th>
+        <th><u><i>Francais</th>
+        <th><u><i>English</th>
         <th style="width: 100px"><u><i>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 un, 1 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 one, 1 <i class="PartOfSpch">n</i>
 </td>
-<td class="tabledef" valign=top style="width: 100px; font-weight: 700;">
+<td class="tabledef" valign=top >
 umwe, 1 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245);"><br>
+<td colspan="3" class="analogy"><br>
 <b><i>Nombre Cardinale: 1</i></b><br>
 
 <b><i>Cardinal Number: 1</i></b><br>
@@ -8481,7 +8527,7 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
 <br></td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3"; style="background-color: rgb(245, 245, 245);">
+<td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>, 
