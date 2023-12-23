@@ -2,10 +2,10 @@
 const nkongamiaku = [
 /*NOT FOUND*/   
 {
-    English: '<br> Not Found <br> Introuvable <br> Keba Kabidi <br><br>',
+    English: '<br> NOT FOUND <br> INTROUVABLE <br> KEBA KABIDI <br><br><br>',
     French: " ",
     Tshiluba: " ",
-    PartOfSpeech: 'NOT FOUND <br> INTROUVABLE <br> KEBA KABIDI',
+    PartOfSpeech: 'NOT FOUND <br> INTROUVABLE <br> KEBA KABIDI <br>',
     Phonetics: " ",
     PhoneticsT: " ",
     English2: " ",
@@ -61,7 +61,7 @@ const nkongamiaku = [
     English: "Of",
     French: "De",
     Tshiluba: "--a",
-    PartOfSpeech: "préposition | preposition | kadianjidi",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=preposition">préposition</a> | <a class="links" href="nkongamiaku.html?inpt1=preposition">preposition</a> | <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>',
     Phonetics: "Wa·/Wah/·Ya·/yah/·Bwa·/Bwah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
     PhoneticsT: "De / Of",
     English2: " ",
@@ -423,7 +423,7 @@ bua malaba :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 afin que + [verbe] <i class="PartOfSpch">conj</i>
                 :<br>
                 &nbsp:
@@ -446,7 +446,7 @@ Muanende wa mukaji udi bionso buende yeye
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 parler pour qqn
                 &nbsp:&nbsp<br>
 speak for someone
@@ -1045,7 +1045,7 @@ Diyi Dikulu dia Ditunga.
     English: "Yes",
     French: "Oui",
     Tshiluba: "Eyowa",
-    PartOfSpeech: "adverbe | adverb | muambikila",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Ey·o·wa<p>/Eyy-yoh-wah/</p>",
     PhoneticsT: "Oui / Yes",
     English2: "of course",
@@ -1903,7 +1903,7 @@ pa
     English: "Again",
     French: "Encore",
     Tshiluba: "Kabidi",
-    PartOfSpeech: 'adverbe | adverb | muambikila',
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Ka·bi·di<p>/Kah-bee-djee/</p>",
     PhoneticsT: "Encore | Again",
     English2: "Also",
@@ -2482,7 +2482,7 @@ kubala mukanda :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 interpreter l'intention de qln
                 :<br>
                 &nbsp:
@@ -2517,7 +2517,7 @@ kubadisha : koo-bah-jee-shah
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 <i><b>Compter</b></i> un seul c'est se <i><b>compter</b></i> soi-meme
 <br><br>
 To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
@@ -2537,10 +2537,10 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
     PhoneticsT: "Entrer | Enter",
     English2: "penetrate",
     French2: "pénétrer",
-    Tshiluba2: "buela",
+    Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "penetrer",
-    French3: " ",
+    French3: "buela",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "enter",
@@ -2959,13 +2959,13 @@ Kadi, pa ndi mfika kuntu aku :
     PhoneticsT: "Écrire | Write",
     English2: "Denounce",
     French2: "Dénoncer",
-    Tshiluba2: "Funda",
+    Tshiluba2: " ",
     PhoneticsT2: "<br>Dénoncer / Denounce",
     English3: "Accuse",
     French3: "Accuser",
     Tshiluba3: " ",
     PhoneticsT3: "<br>Accuser / Accuse",
-    English4: " ",
+    English4: "Funda",
     French4: "Ecrire",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -3043,7 +3043,7 @@ kufunda ku tshianza :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 dénoncer qq'un
                 :<br>
                 &nbsp:
@@ -3066,7 +3066,7 @@ kufundila <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> mukanda
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 être écrit
                 &nbsp:&nbsp
 to be written
@@ -3094,7 +3094,7 @@ kufundisha
     French2: "Etre",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "ikala",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -3196,7 +3196,7 @@ kuikala ne muntu :
     Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
     PhoneticsT: "Avoir | Have",
     English2: "to be with",
-    French2: " ",
+    French2: "ikala ne",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "have",
@@ -3290,10 +3290,10 @@ kuikala ne nzala :
     PhoneticsT: "Couper | Cut",
     English2: "Cease",
     French2: "Cesser",
-    Tshiluba2: "Kosa",
+    Tshiluba2: " ",
     PhoneticsT2: "<br>Cesser | Cease",
     English3: "cut",
-    French3: " ",
+    French3: "Kosa",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -3376,7 +3376,7 @@ kukosa mutu :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 cesser de pleurer
                 :<br>
                 &nbsp:
@@ -3411,7 +3411,7 @@ mvula wakoseki
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 <i>Faire le salut militaire
 <br><br>
 Do a military salute
@@ -3730,7 +3730,7 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     English: "to smell",
     French: "Sentir",
     Tshiluba: "Kununka",
-    PartOfSpeech: "verbe transitif | transitive verb | muanda",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
     PhoneticsT: "Sentir | Smell",
     English2: "Nunka",
@@ -4249,7 +4249,7 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·shi·la<p>/koo-shee-lah/</p>",
     PhoneticsT: "Donner / Give",
-    English2: "pesha",
+    English2: "shila",
     French2: "laisser a",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -4261,7 +4261,7 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     French4: "leguer",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: "shila",
+    English5: " ",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -4358,7 +4358,7 @@ Ndi nnushila ditalala dianyi :
     Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
     PhoneticsT: "Quitter | Leave",
     English2: "leave",
-    French2: " ",
+    French2: "shiya",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -4571,7 +4571,7 @@ Tangila ku mikuna ya Tshikapa :
     French2: "listen",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "teleja",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -4766,7 +4766,7 @@ Yeye wakateta bua kuenda :
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
     English2: "hear",
-    French2: " ",
+    French2: "umvua",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -4860,7 +4860,7 @@ tudi tumvua bamba ne:
     Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
     PhoneticsT: "Aller | Go",
     English2: "Go",
-    French2: " ",
+    French2: "ya",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -4966,8 +4966,8 @@ Tudi tuya mu tshimenga :
     Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
     PhoneticsT: "Boiter / Limp",
     English2: "Limp",
-    French2: " ",
-    Tshiluba2: "Zebuka",
+    French2: "zebuka",
+    Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
     French3: " ",
@@ -5134,7 +5134,7 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
     English: "Cold",
     French: "Froid",
     Tshiluba: "Mashika",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> || adjectif | adjective | mufidi',
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
     Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
     PhoneticsT: "Froid / Cold",
     English2: " ",
@@ -6347,7 +6347,7 @@ Ditunga dia Kongu wa Mungalata :
     English: "Person",
     French: "Personne",
     Tshiluba: "Muntu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> || <a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Mun·tu<p>/MOON-too/</p>",
     PhoneticsT: "Personne / Person",
     English2: "Someone",
@@ -6425,7 +6425,7 @@ muntu <i class="PartOfSpch">n</i> :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 <i>homme</i> bon, mauvais
                 :<br>
                 &nbsp:
@@ -6449,7 +6449,7 @@ bantu :
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 : homme sans valeur
                 &nbsp:<br>&nbsp
 : a worthless person
@@ -6458,7 +6458,7 @@ bantu :
 <br><br>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 Il n'y a personne
 <br><br>
 There is no-one
@@ -6520,13 +6520,13 @@ Kakuena <i>muntu</i> to.
 <tr>
         <th><u>Francais</th>
         <th><u>English</th>
-        <th ><u>Tshiluba</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top >
+<td class="tabledef" valign=top>
 pronom <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
@@ -6547,7 +6547,7 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
                 <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
-<tr style="text-align:left";>
+<tr>
 <td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
 Un mot utilisé à la place d'un substantif ou d'une phrase nominale.
@@ -6823,7 +6823,7 @@ nansha tshinyi/tshinganyi :
     English: "End",
     French: "Fin",
     Tshiluba: "Ndekelu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> || adjectif | adjective | mufidi',
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
     Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
     PhoneticsT: "Fin / End",
     English2: "Last",
@@ -6993,7 +6993,7 @@ nganyi uvua mumumona?:
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 à qui est-ce ce livre?
                 :<br>
                 &nbsp:
@@ -7118,7 +7118,7 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     English: "Where",
     French: "Où",
     Tshiluba: "Penyi",
-    PartOfSpeech: "adverbe | adverb | muambikila",
+    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Pen·yi<p>/PEN-yee/</p>",
     PhoneticsT: "Où / Where",
     English2: " ",
@@ -7277,7 +7277,7 @@ tshianza tshia bakaji :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 main droite
                 :<br>
                 &nbsp:
@@ -7517,8 +7517,8 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
                 <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>:: 
 <br><br></td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"; style="background-color: rgb(245, 245, 245)";><br>
+<tr>
+<td colspan="3" class="analogy";><br>
 <b><i>Explication</i></b><br>
 Les substantifs sont des mots qui désignent des personnes, des lieux et des concepts abstraits.
                 <br><br>
@@ -7650,7 +7650,7 @@ Conventional duration close to the period of revolution of the Earth around the 
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 L'annee 1999
                 :<br>
                 &nbsp:
@@ -7921,7 +7921,7 @@ bintu :
 <br><br></td>
     </tr>
     <tr>
-    <td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+    <td colspan="3" class="analogy" ><br>:
 chose sans valeur
                     :<br>
                     &nbsp:
@@ -7944,7 +7944,7 @@ kantu kakese :
     </td>
     </tr>
     <tr>
-    <td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+    <td colspan="3" class="analogy"; ><br>
 chose
                     &nbsp:&nbsp
 thing
@@ -8130,7 +8130,7 @@ tshinyi, tshinganyi, tshia :
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" style="background-color: rgb(230, 230, 230);"><br>:
+<td colspan="3" class="analogy" ><br>:
 il n'y a pas de quoi rire
                 :<br>
                 &nbsp:
@@ -8153,7 +8153,7 @@ nansha tshinyi <i class="PartOfSpch">expr</i> :
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 quoique
                 &nbsp:&nbsp
 although
@@ -8163,7 +8163,7 @@ nansha
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"; style="background-color: rgb(230, 230, 230);"><br>
+<td colspan="3" class="analogy"; ><br>
 qu'est-ce-que tu fait
                 &nbsp:&nbsp<br>
 what are you doing

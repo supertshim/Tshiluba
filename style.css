@@ -155,6 +155,7 @@ nav{
 }
 
 
+
 .MuakuWd {
     display: block;
     width: fit-content;
@@ -616,8 +617,20 @@ nav .fa-solid{
     margin-right: auto;
     text-align: center;
     align-items: center;
-    filter: drop-shadow(.2em .2em .1em rgb(15, 0, 56));
 }
+
+.searchheader .search-bar:focus-within{
+    border:none;
+    transition-duration: .4s;
+    filter: drop-shadow(.2em .2em .4em rgb(0, 0, 0));
+}
+
+.searchheader .search-bar:hover{
+    border:none;
+    transition-duration: .4s;
+    box-shadow: .6em .5em 1em rgb(0, 0, 49);
+}
+
 
 .searchheader .cage .text-box .container .TTDDT img{
     width: 70px;
@@ -700,7 +713,8 @@ nav .fa-solid{
     overflow: auto;
 }
 .searchheader .card{
-    width: 80%;
+    width: fit-content;
+    max-width: 80%;
     background-color: rgb(245, 245, 245);
     color: #000000;
     position: relative;
@@ -804,19 +818,21 @@ a.links:visited {
 }
 
 .searchheader .card .tablewrapper .Xinfo tbody{
- 
-    display: block;
     overflow: hidden;
+    width: 100%;
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    display: block;
 }
-.searchheader .card .tablewrapper .Xinfo  .PartOfSpch{
+
+.searchheader .card .tablewrapper .Xinfo .PartOfSpch{
     color: blue;
     font-weight: 400;
     font-size: 18px;
 }
+
 .searchheader .card .tablewrapper .Xinfo tr td{
     font-family:'Jost', sans-serif;
     padding-left: 20px;
@@ -849,7 +865,6 @@ a.links:visited {
     font-size: 24px;
     position: relative;
     text-align: left;
-    width: 100;
     font-weight: 700;
 }
 .searchheader .card .tablewrapper .Xinfo .tabledef_a{
@@ -1509,9 +1524,11 @@ a.links:visited {
     }
     .searchheader .card .bigword{
         font-size: 7vw;
+        padding-top: 30px;
+        padding-bottom: 20px;
     }
     .searchheader .card .PartOfSpeech{
-        font-size: 6vw;
+        font-size: 4vw;
         display: inline-block;
         width: 100%;
         margin-top: 0px;
@@ -1563,7 +1580,7 @@ a.links:visited {
     .searchheader .card .tablewrapper .Xinfo tbody{
         overflow: hidden;
         position: relative;
-        width:100%;
+        width: 100%;
         display: block;
     }
 
