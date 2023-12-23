@@ -700,7 +700,7 @@ nav .fa-solid{
     overflow: auto;
 }
 .searchheader .card{
-    width: fit-content;
+    width: 80%;
     background-color: rgb(245, 245, 245);
     color: #000000;
     position: relative;

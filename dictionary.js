@@ -50,9 +50,9 @@ const nkongamiaku = [
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 `
 },
@@ -106,9 +106,9 @@ const nkongamiaku = [
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -549,9 +549,9 @@ Kusumba bua mfranga 10
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -638,9 +638,9 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -723,9 +723,9 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -820,9 +820,9 @@ Ditunga dia Kongu Wa Mugalata :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -905,9 +905,9 @@ a gray or white mass in the sky, made up of very small floating drops of water
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -992,9 +992,9 @@ Any written or positive rule or collection of rules prescribed under the authori
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1090,9 +1090,9 @@ Diyi Dikulu dia Ditunga.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1173,9 +1173,9 @@ eyowa, bualu buambi mbua bushuwa :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1251,9 +1251,9 @@ ibidi, 2 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1329,9 +1329,9 @@ inayi, 4 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1407,9 +1407,9 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1485,9 +1485,9 @@ isambombo, 6 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -1563,9 +1563,9 @@ itanu, 5 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2042,9 +2042,9 @@ Udi wakula Italiana kabidi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2124,9 +2124,9 @@ Kanungu 5 :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2224,9 +2224,9 @@ Ndi ngakula Tshiluba :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2336,9 +2336,9 @@ Kuambila ne :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2437,9 +2437,9 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2577,9 +2577,9 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2684,9 +2684,9 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2794,9 +2794,9 @@ Pavuaye wendakana ku muelelu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2895,9 +2895,9 @@ Udi wenza tshinyi? :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -2999,9 +2999,9 @@ Kadi, pa ndi mfika kuntu aku :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3132,9 +3132,9 @@ kufundisha
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3237,9 +3237,9 @@ kuikala ne muntu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3330,9 +3330,9 @@ kuikala ne nzala :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3471,9 +3471,9 @@ Kukosa mpala
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3571,9 +3571,9 @@ Bena Yuda bavua bakuata muntu eu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3675,9 +3675,9 @@ Kadi mpindieu ndi ndua kudi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3775,9 +3775,9 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3869,9 +3869,9 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -3975,9 +3975,9 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4075,9 +4075,9 @@ Ndi nnupesha ditalala dianyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4181,9 +4181,9 @@ Mpindieu pingaja mukaji wa muntu awu :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4291,9 +4291,9 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4399,9 +4399,9 @@ Ndi nnushila ditalala dianyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4508,9 +4508,9 @@ Muana kena mua kushiya tatuende to :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4609,9 +4609,9 @@ Tangila ku mikuna ya Tshikapa :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4703,9 +4703,9 @@ Muananyi, teleja miaku yanyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4807,9 +4807,9 @@ Yeye wakateta bua kuenda :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -4901,9 +4901,9 @@ tudi tumvua bamba ne:
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5007,9 +5007,9 @@ Tudi tuya mu tshimenga :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5091,9 +5091,9 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5179,9 +5179,9 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5260,9 +5260,9 @@ kuikala ne mashika; kuumvua ne mashika :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5342,9 +5342,9 @@ eyowa, bualu buambi mbua bulelela :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5436,9 +5436,9 @@ Nkonga miaku wa Tshiluba :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5640,9 +5640,9 @@ The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5749,9 +5749,9 @@ Miaku "kunyema," "kulama," ne "kununka" badi bonso badi mianda :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -5906,9 +5906,9 @@ muandamutekete, 7 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6202,9 +6202,9 @@ Big hands :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6296,9 +6296,9 @@ Kupita mikalu:
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6392,9 +6392,9 @@ Ditunga dia Kongu wa Mungalata :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6518,9 +6518,9 @@ Kakuena <i>muntu</i> to.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6787,9 +6787,9 @@ badi ba<b>ba</b>keba
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6868,9 +6868,9 @@ nansha tshinyi/tshinganyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -6963,9 +6963,9 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7067,9 +7067,9 @@ vuaku ne ewu udi musua
         PhoneticsT11: " ",
         InfoTable: `
     <tr>
-            <th><u><i>Francais</th>
-            <th><u><i>English</th>
-            <th style="width: 100px"><u><i>Tshiluba</th>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
     </tr>
     <tr>
     <td colspan="3" class="dividerspace"></td>
@@ -7163,9 +7163,9 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7244,9 +7244,9 @@ Badi penyi? :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7390,9 +7390,9 @@ tshianza tshibi : tshianza tshimpe
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7615,9 +7615,9 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7713,9 +7713,9 @@ tshidimu tshia 1999 :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7808,7 +7808,7 @@ kuenza tshilema :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th colspan="3" style="width: 100px"><u><i>Tshiluba</th>
+        <th colspan="3" ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -7888,9 +7888,9 @@ Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia d
         PhoneticsT11: " ",
         InfoTable: `
     <tr>
-            <th><u><i>Francais</th>
-            <th><u><i>English</th>
-            <th style="width: 100px"><u><i>Tshiluba</th>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
     </tr>
     <tr>
     <td colspan="3" class="dividerspace"></td>
@@ -8011,9 +8011,9 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -8100,9 +8100,9 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -8223,9 +8223,9 @@ Udi wenza tshinyi :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -8321,9 +8321,9 @@ Bua kufika ku tshipatshila etshi. :
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -8399,9 +8399,9 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
@@ -8499,9 +8499,9 @@ Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
-        <th><u><i>Francais</th>
-        <th><u><i>English</th>
-        <th style="width: 100px"><u><i>Tshiluba</th>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
