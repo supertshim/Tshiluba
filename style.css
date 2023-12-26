@@ -39,7 +39,6 @@ nav{
     padding: 40px;
     justify-content: space-between;
     align-items: center;
-
 }
 
 /* The Navigation Link Position on Page*/
@@ -53,7 +52,8 @@ nav{
     list-style: none;
     display: inline-block;
     padding: 8px 12px;
-    position: relative;
+    position: static;
+    overflow: visible;
 }
 
 /* The Nav Link Text Color & Font*/
@@ -63,6 +63,129 @@ nav{
     text-decoration: none;
     font-size: 20px;
 }
+/*********************************************/
+.nav-links ul li button{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+.nav-links ul .games_dd2{
+    position: static;
+}
+
+.nav-links .dropdown {
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: transparent;
+    border: solid rgb(0, 0, 0) 1px;
+    position: absolute;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    right: 50px;
+    opacity: 0%;
+    display: none;
+    transition: .5s;
+    transform: translateY(9px);
+    width: fit-content;
+    overflow: hidden;
+}
+
+.nav-links .dropdown a {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: transparent;
+    text-decoration: none;
+    transition: .5s;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+.nav-links ul li:hover .dropdown {
+    display: block;
+    opacity:100%;
+    transform: translateY(0px);
+
+}
+
+.nav-links .dropdown a:hover{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+/************************************/
+
+/*********************************************/
+.searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button, .searchheader .nav-links ul li button {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+.searchheader4 .nav-links ul .games_dd2, .searchheader5 .nav-links ul .games_dd2, .searchheader .nav-links ul .games_dd2{
+    position: static;
+}
+
+.searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown, .searchheader .nav-links .dropdown {
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: transparent;
+    border: solid white 1px;
+    position: absolute;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    right: 50px;
+    display: none;
+    transition: .5s;
+    transform: translateY(9px);
+    width: fit-content;
+    overflow: hidden;
+    opacity: 0%;
+}
+
+.searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a, .searchheader .nav-links .dropdown a {
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: transparent;
+    text-decoration: none;
+    transition: .5s;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+.searchheader4 .nav-links ul li:hover .dropdown, .searchheader5 .nav-links ul li:hover .dropdown, .searchheader .nav-links ul li:hover .dropdown {
+    opacity:100%;
+    transform: translateY(0px);
+}
+
+.searchheader4 .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover, .searchheader .nav-links .dropdown a:hover{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: white;
+    text-decoration: none;
+}
+/************************************/
 
 .searchheader4 .nav-links ul li a{
     font-family: 'Montserrat', sans-serif;
@@ -382,6 +505,89 @@ nav .fa-solid{
         padding-top: 20px;
     }
 
+    .nav-links .dropdown {
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        font-size: 18px;
+        background-color: transparent;
+        border: solid rgb(0, 0, 0) 1px;
+        position: absolute;
+        border-radius: 5px;
+        margin-top: 10px;
+        right: 0px;
+        opacity: 0%;
+        display: none;
+        transition: .5s;
+        transform: translateY(9px);
+        width: fit-content;
+        overflow: hidden;
+        text-align: center;
+        zoom: 0.7;
+    }
+
+    .nav-links .dropdown a {
+        position: relative;
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        font-size: 20px;
+        background-color: transparent;
+        text-decoration: none;
+        transition: .5s;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+    }
+
+    .searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown, .searchheader .nav-links .dropdown {
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        font-size: 18px;
+        background-color: transparent;
+        border: solid rgb(0, 0, 0) 1px;
+        position: absolute;
+        border-radius: 5px;
+        margin-top: 10px;
+        right: 0px;
+        opacity: 0%;
+        display: none;
+        transition: .5s;
+        transform: translateY(9px);
+        width: fit-content;
+        overflow: hidden;
+        text-align: center;
+        zoom: 0.7;
+    }
+
+    .searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a, .searchheader .nav-links .dropdown a  {
+        position: relative;
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        font-size: 20px;
+        background-color: transparent;
+        text-decoration: none;
+        transition: .5s;
+        height: 100px;
+        width: 100px;
+        padding: 0px;
+    }
+
+    .searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button, .searchheader .nav-links ul li button{
+        font-family: 'Montserrat', sans-serif;
+        color: #000000;
+        text-decoration: none;
+        font-size: 20px;
+        background-color: transparent;
+        border: none;
+    }
+
+    .searchheader4 .nav-links .dropdown a:hover, .searchheader .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover{
+        position: relative;
+        font-family: 'Montserrat', sans-serif;
+        color: #ffffff;
+        font-size: 20px;
+        background-color: rgb(0, 0, 0);
+        text-decoration: none;
+    }
 
     .mwd {
         position: relative;
@@ -514,7 +720,7 @@ nav .fa-solid{
 .searchheader .nav-links{
     flex: 1;
     text-align: right;
-    position: relative;
+    position: static;
     color: white;
 }
 
@@ -523,7 +729,7 @@ nav .fa-solid{
     list-style: none;
     display: inline-block;
     padding: 8px 12px;
-    position: relative;
+    position: static;
 }
 
 /* The Nav Link Text Color & Font*/
@@ -577,10 +783,9 @@ nav .fa-solid{
     position: absolute;
     height: 95vh;
     width: 90%;
-    top: 70px;
+    top: 120px;
     display: inline;
     left: 5%;
-    overflow: hidden;
 }
 
 .searchheader .text-box{
@@ -708,7 +913,7 @@ nav .fa-solid{
     height: 95vh;
     width: 100%;
     min-width: 100%;
-    top: 250px;
+    top: 300px;
     height: auto;
     overflow: auto;
 }
@@ -1142,6 +1347,8 @@ a.links:visited {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 100px;
+    position: relative;
+    top:10px;
 }
 .searchheader4 .documentarea1 h1{
     text-align: center;
@@ -1372,6 +1579,215 @@ a.links:visited {
     
 }
 
+.gamearea {
+    position: relative;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Jost', sans-serif;
+}
+
+.gamearea h1{
+    font-family: 'Jost', sans-serif;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+.ws_gamebox {
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Jost', sans-serif;
+    border: 2px solid gold;
+    border-radius: 50px;
+    box-shadow: 1em 1em 1em rgb(7, 0, 34);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    height: 600px;
+    overflow: hidden;
+    zoom: 0.9;
+}
+
+.ws_gamebox .word_box{
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 20px;
+    word-wrap: break-word;
+    width: 100%;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    height: 150px;
+    overflow: hidden;
+    line-height: 50px;
+}
+.ws_gamebox .ws_word{
+    vertical-align: middle;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 20px;
+    word-wrap: break-word;
+    width: 100%;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    height: fit-content;
+    overflow: hidden;
+    line-height: 80px;
+}
+
+.ws_gamebox .ws_details{
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    overflow: visible;
+    scroll-behavior: none;
+    display: block;
+}
+
+.ws_gamebox .ws_details .ws_timeleft {
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    overflow: hidden;
+}
+
+.ws_gamebox .ws_details .ws_timeleft span{
+    position: relative;
+    font-size: 60px;
+    text-align: justify;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ws_gamebox ::placeholder{
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    justify-content: center;
+    text-align: center;
+    color: #b3b3b3;
+}
+
+
+.ws_gamebox input{
+    font-family: 'Jost', sans-serif;
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    vertical-align: baseline;
+    width: 470px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding: 10px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.ws_gamebox .ws_buttons{
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:60px;
+    height: fit-content;
+    margin-top: 0px;
+}
+
+
+.ws_gamebox .ws_refresh{
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(25, 75, 150);
+    font-family: 'Jost', sans-serif;
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    transform: translateY(8px);
+
+}
+.ws_gamebox .ws_refresh img{
+    width: 44px;
+}
+
+.ws_gamebox .ws_refresh:hover img{
+    filter: invert(100%);
+}
+
+
+button.ws_refresh:hover{
+    background-color: #001163;
+    color: white;
+};
+
+.ws_gamebox .ws_refresh:active{
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    transform: translateY(4px);
+
+}
+
+.ws_gamebox .ws_check{
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(170, 75, 75);
+    font-family: 'Jost', sans-serif;
+    box-shadow: 0em .2em rgb(129, 129, 129);
+}
+
+.ws_gamebox .ws_check:hover{
+    background-color: #630000;
+    color: white;
+}
+
+.ws_checkanimate {
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    animation: tilt-shaking 0.25s 1;
+    background-color: #9b0000;
+}
+
+.ws_checkanimateWin {
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    animation: jump-shaking 0.83s 1;
+}
+
+.ws_refreshWobble {
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    animation: tilt-shaking2 0.25s 1;
+
+}
 
 
 /*Settings For Screens with Max width 700px*/
@@ -1397,7 +1813,7 @@ a.links:visited {
         display: inline;
         left: 10%;
         overflow: hidden;
-        background-color: #001163;
+        background-color: rgb(11, 0, 77);
     }
     .searchheader .text-box{
         position: relative;
@@ -1950,4 +2366,182 @@ a.links:visited {
  
  }
 
+ .ws_gamebox {
+    width: 75%;
+    height: 600px;
 }
+
+
+.gamearea h1{
+    font-family: 'Jost', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+
+.ws_gamebox .word_box{
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 20px;
+    word-wrap: break-word;
+    width: 100%;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    height: 150px;
+    overflow: hidden;
+    line-height: 60px;
+}
+.ws_gamebox .ws_word{
+    vertical-align: middle;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 0px;
+    word-wrap: break-word;
+    width: 100%;
+    padding-left: 0px;
+    margin-bottom: 0px;
+    height: auto;
+    overflow: hidden;
+    line-height:60px;
+}
+
+
+.ws_gamebox input{
+    font-family: 'Jost', sans-serif;
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    vertical-align: baseline;
+    width: 100%;
+    display: flex;
+    font-weight: 700;
+    text-transform: uppercase;
+    left: -10px;
+}
+
+
+.ws_gamebox .ws_buttons{
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:0px;
+    height: 500px;
+    margin-top: 0px;
+}
+
+
+.ws_gamebox .ws_refresh{
+    position: relative;
+    font-size: 12px;
+    text-align: center;
+    justify-content: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: rgb(25, 75, 150);
+    font-family: 'Jost', sans-serif;
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    transform: translateY(8px);
+    height: 150px;
+    top: 60px;
+
+}
+.ws_gamebox .ws_refresh img{
+    width: 40px;
+}
+
+.ws_gamebox .ws_check{
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border:none;
+    background-color: rgb(170, 75, 75);
+    font-family: 'Jost', sans-serif;
+    box-shadow: 0em .2em rgb(129, 129, 129);
+    height: 150px;
+    top:50px;
+}
+
+.ws_gamebox .ws_details{
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    overflow: visible;
+    scroll-behavior: none;
+    display: block;
+}
+
+.ws_gamebox .ws_details .ws_timeleft {
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+.ws_gamebox .ws_details .ws_timeleft span{
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    overflow: hidden;
+    font-size: 30px;
+}
+
+
+
+}
+
+@keyframes tilt-shaking {
+    
+    0% { transform: rotate(0deg);  background-color: #e40000;}
+    25% { transform: rotate(5deg); background-color: #e40000;}
+    50% { transform: rotate(0deg); background-color: #e40000;}
+    75% { transform: rotate(-5deg); background-color: #e40000;}
+    100% { transform: rotate(0deg); background-color: #e40000;}
+  }
+
+
+  
+@keyframes tilt-shaking2 {
+    
+    0% { transform: rotate(0deg);  background-color: gold;}
+    25% { transform: rotate(5deg); background-color:  gold;}
+    50% { transform: rotate(0deg); background-color: gold;}
+    75% { transform: rotate(-5deg); background-color:  gold;}
+    100% { transform: rotate(0deg); background-color: gold}
+  }
+
+  @keyframes jump-shaking {
+    0% { transform: translateX(0); }
+    25% { transform: translateY(-40px); }
+    35% { transform: translateY(-40px) rotate(17deg); background-color: #00b919;}
+    55% { transform: translateY(-40px) rotate(-17deg); background-color: #00b919;}
+    65% { transform: translateY(-40px) rotate(17deg); background-color: #00b919;}
+    75% { transform: translateY(-40px) rotate(-17deg); background-color: #00b919;}
+    100% { transform: translateY(0) rotate(0) }
+  }

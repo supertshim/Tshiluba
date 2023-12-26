@@ -29,6 +29,11 @@
             <ul>
                 <li><a href="index.html">HOME</a></li>
                 <li><a href="about.html">INDEX</a></li>
+                <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
+                    <div class="dropdown">
+                        <a href="wordscramble.html">WORD SCRAMBLE</a>
+                    </div>
+                </li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
@@ -102,7 +107,7 @@ var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length);
 console.log(homeindexword);
 
-    var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
+    var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
     var xdate = new Date(),
         xmonth = xdate.getMonth(),
         xday = xdate.getDate(),
@@ -115,7 +120,7 @@ console.log(homeindexword);
         var words = [
     "BUA",
     "                    DIKUMI: 10",
-    "                    DIPEMBU == DIHEMBU",
+    "                    DIPEMBU",
     "                    DITUNGA",
     "                    DITUTU",
     "                    DIYI",
