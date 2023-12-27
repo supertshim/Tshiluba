@@ -197,17 +197,30 @@ a.links:visited {
     padding-left: 0px;
     padding-right: 0px;
     position: relative;
+    width: 50%;
 }
-.header .cardcage .card{
-    padding: 0px 0px;
-    align-items: center;
-    width: 100%;
-    display: block;
+.header .card{
+    width: fit-content;
+    max-width: 90%;
+    background-color: rgb(245, 245, 245);
+    color: #000000;
     position: relative;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    height:auto;
+    border: solid gold;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    margin-bottom: 100px;
+    padding-top: 0px;
+    box-shadow: .6em .5em 1em rgb(121, 121, 121);
+    overflow: hidden;
 }
 .header .card .bigword{
-    font-size: 40px;
-    padding-top: 30px;
+    font-size: 60px;
+    padding-top: 10px;
     padding-bottom: 20px;
     word-wrap: break-word;
     width: 90%;
@@ -283,7 +296,7 @@ a.links:visited {
     position: relative;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 4vw;
+    font-size: 5vw;
     text-align: left;
     word-wrap: break-word;
     /*background-color: green;*/
