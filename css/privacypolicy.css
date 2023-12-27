@@ -52,8 +52,8 @@
     margin-right: auto;
     position: relative;
     padding: 30px;
-    border:solid gold;
-    border-radius: 40px;
+    border:10px solid gold;
+    border-radius: 0px;
 }
 
 

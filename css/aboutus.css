@@ -29,11 +29,11 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:solid gold;
-    border-radius: 40px;  
+    border:10px solid #001163;
+    border-radius: 0px;  
     padding:20px;
     margin-top: 20px;
-    box-shadow: .6em .5em 1em rgb(121, 121, 121);
+    box-shadow: .6em .5em .5em rgb(163, 163, 163);
 }
 .header .documentarea .AboutUs p{
     font-size: 20px;

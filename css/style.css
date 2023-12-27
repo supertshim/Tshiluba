@@ -329,16 +329,16 @@ nav .fa-solid{
     min-width: fit-content;
     width: 450px;
     height: fit-content;
-    background:white;
     border-radius: 30px;
     padding: 20px;
-    border: solid gold;
+    border: 10px solid #001163;
     cursor: pointer;
+    overflow: hidden;
 }
 
 .mwd .mwdtitle {
     font-family: 'Montserrat', sans-serif;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
     letter-spacing: -1px;
     pointer-events: none;
@@ -363,7 +363,7 @@ nav .fa-solid{
     font-size: 67px;
     font-weight: 700;
     color: #090152;
-    margin-top: 15px;
+    margin-top: 0px;
     line-height:2cap;
     overflow: hidden;
     pointer-events: none;
@@ -378,10 +378,13 @@ nav .fa-solid{
 }
 .mwd .mwdefinition {
     font-family: 'Jost', sans-serif;
-    font-size: 20px;
-    font-weight: 700;
-    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom:20px;
     pointer-events: none;
+    line-height: 25px;
+    overflow: hidden;
 }
 
 /*Settings For Screens with Max width 700px*/
@@ -615,8 +618,8 @@ nav .fa-solid{
 
     .mwd .mwdefinition {
         font-family: 'Jost', sans-serif;
-        font-size: 4vw;
-        font-weight: 700;
+        font-size: 24px;
+        font-weight: 500;
         margin-top: 4vh;
     }
 
