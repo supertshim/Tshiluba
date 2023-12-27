@@ -145,7 +145,7 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo tr th{
     font-family:'Jost', sans-serif;
     font-variant-caps: all-small-caps;
-    font-size: 3vw;
+    font-size: 36px;
     width: 20%;
     position: relative;
     text-align: left;
@@ -161,7 +161,7 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo .tabledef{
     font-family:'Tinos', sans-serif;
     padding: 20px;
-    font-size: 24px;
+    font-size: 30px;
     position: relative;
     text-align: left;
     font-weight: 700;
@@ -296,7 +296,7 @@ a.links:visited {
     position: relative;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 5vw;
+    font-size: 6vw;
     text-align: left;
     word-wrap: break-word;
     /*background-color: green;*/
