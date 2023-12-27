@@ -11,6 +11,7 @@
     position: relative;
     top:10px;
     width: 100%;
+    padding-top: 30px;
 }
 .header .documentarea h1{
     text-align: center;
@@ -53,7 +54,7 @@
 }
 .header .documentarea .ContactUs .contactform{
     border-radius:2px;
-    padding-left: 0px;
+    padding-left: 10px;
     width: 500px;
     border:none;
     outline:none;
@@ -61,8 +62,10 @@
     height: 50px;
     margin-bottom: 0px;
     font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
 }
 
 .header .documentarea .ContactUs .contactformmessage {
@@ -74,7 +77,7 @@
     filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
-    font-size:16px;
+    font-size:20px;
     text-align: left;
     height: 300px;
     font-weight: 700;
@@ -182,7 +185,7 @@
     .header .documentarea .ContactUs .contactform{
         border-radius:2px;
         margin-left: 0px;
-        width: 100%;
+        width: 80%;
         border:none;
         outline:none;
         filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
@@ -191,12 +194,12 @@
         font-family: 'Montserrat', sans-serif;
         font-size: 16px;
         text-align: left;
-        padding-left: 0px;
+        padding-left: 20px;
     }
     
     .header .documentarea .ContactUs .contactformmessage {
         border-radius:0px;
-        width: 89%;
+        width: 83%;
         padding: 20px;
         border:none;
         outline:none;
