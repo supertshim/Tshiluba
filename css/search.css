@@ -1,0 +1,292 @@
+/**********************The Cage for the search results**************************/
+.header .cardcage{
+    position: relative;
+    height: 95vh;
+    width: 100%;
+    min-width: 100%;
+    height: auto;
+    padding-top: 30px;
+    top:-30px;
+
+}
+.header .card{
+    width: fit-content;
+    max-width: 80%;
+    background-color: rgb(245, 245, 245);
+    color: #000000;
+    position: relative;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    height:auto;
+    border: solid gold;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    margin-bottom: 100px;
+    padding-top: 30px;
+    box-shadow: .6em .5em 1em rgb(121, 121, 121);
+    overflow: hidden;
+}
+.header .card .bigword{
+    font-family: 'Jost', sans-serif;
+    font-size: 62px;
+    margin-bottom: -10px;
+    line-height: 1.2;
+    position: relative;
+    width:fit-content;
+    overflow-y:hidden;
+    padding: 10px;
+    display: block;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    color: #090152;
+}
+
+.header .card .bigword p{
+    overflow-y:hidden;
+}
+.header .card .PartOfSpeech{
+    font-family: 'DM Serif Display';
+    font-style: italic;
+    font-size: 32px;
+    background-color: transparent ;
+    display: block;
+    text-align: center;
+    top: 50px;
+    width: 100%;
+}
+.header .card .Phonetics{
+    font-family: 'Tinos', sans-serif;
+    color: rgb(63, 63, 63);
+    font-size: 20px;
+    padding: 0px;
+    position: sticky;
+    background-color: transparent ;
+    display: block;
+    transform: translate(0, 0px);
+}
+.space{
+    height: 11vw;
+    background-color: #ffffff;
+
+}
+
+/* The Cage for the search results table
+*/
+.header .tablewrapper{
+    width: 100%;
+    margin: 0 auto;
+    transform: translate(0px,0px);
+    background-color: rgb(255, 255, 255);
+    height: auto;
+    overflow: auto;
+    display: block;
+}
+
+a.links{
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.671);
+    font-style: italic;
+}
+a.links:hover {
+    text-decoration:line;
+    color: rgb(148, 0, 0);
+    margin: auto;
+  }
+a.links:visited {
+    text-decoration:line;
+    color: rgb(48, 48, 48);
+    margin: auto;
+  }
+
+.header .card .tablewrapper {
+    display:block;
+    width: 100%;
+    position: relative;
+}
+.header .card .tablewrapper .Xinfo {
+    /*background-color: rgb(0, 255, 55);*/
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .card .tablewrapper .Xinfo tbody{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+.header .card .tablewrapper .Xinfo .PartOfSpch{
+    color: blue;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.header .card .tablewrapper .Xinfo tr td{
+    font-family:'Jost', sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 36px;
+    width: 33%;
+    position: relative;
+    text-align: center;
+}
+
+.header .card .tablewrapper .Xinfo tr th{
+    font-family:'Jost', sans-serif;
+    font-variant-caps: all-small-caps;
+    font-size: 3vw;
+    width: 20%;
+    position: relative;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    /*background-color: gold;*/
+}
+.header .card .tablewrapper .Xinfo .dividerspace{
+    border-top: 2px solid rgb(150, 150, 150);
+    width: 100%;
+}
+.header .card .tablewrapper .Xinfo .tabledef{
+    font-family:'Tinos', sans-serif;
+    padding: 20px;
+    font-size: 24px;
+    position: relative;
+    text-align: left;
+    font-weight: 700;
+}
+.header .card .tablewrapper .Xinfo .tabledef_a{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 18px;
+    width: 100%;
+    position: relative;
+}
+
+.header .card .tablewrapper .Xinfo .analogy{
+    font-family:'Tinos', sans-serif;
+    padding: 20px;
+    font-size: 24px;
+    width: 100%;
+    position: relative;
+    border-top: 2px solid rgb(150, 150, 150);
+    text-align: center;
+}
+
+/************************************THE SEARCH PAGE SECTION*********************************/
+/*****SUB 700*******************/
+@media(max-width: 700px){
+.header .cardcage{
+    font-size: 32px;
+    padding: 0px 0px;
+    display:block;
+    overflow-y: hidden;
+    z-index: 1;
+    top:100px;
+}
+.header .card{
+    padding: 0px 0px;
+    align-items: center;
+    width: 80%;
+    display: block;
+}
+.header .card .bigword{
+    font-size: 7vw;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.header .card .PartOfSpeech{
+    font-size: 4vw;
+    display: inline-block;
+    width: 100%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.header .card .tablewrapper .Xinfo  .PartOfSpch{
+    color: blue;
+    font-weight: 400;
+    font-size: 12px;
+}
+.header .card .Phonetics{
+    font-size: 4vw;
+    padding: 10px;
+    position: sticky;
+    background-color: transparent;
+    transform: translate(0, -30px);
+    margin-bottom: -30px;
+    margin-top: 0px;
+}
+.header .tablewrapper{
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.header .card .tablewrapper .Xinfo {
+    width:100%;
+    position: relative;
+    overflow-y: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .card .tablewrapper .Xinfo tbody{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+.header .card .tablewrapper .Xinfo tr{
+    padding: 4px;
+    font-size: 6vw;
+    position: relative;
+    text-align: left;
+}
+
+.header .card .tablewrapper .Xinfo tr th{
+  font-size: 5vw;
+}
+
+.header .card .tablewrapper .Xinfo .dividerspace{
+    border-top: 2px solid rgb(150, 150, 150);
+    width: 100%;
+}
+
+.header .card .tablewrapper .Xinfo .analogy{
+    font-family:'Tinos', sans-serif;
+    font-size: 5vw;
+    position: relative;
+    border-top: 2px solid rgb(56, 56, 56);
+    margin-left: auto;
+    margin-right: auto;
+}
+.header .card .tablewrapper .Xinfo .tabledef{
+    font-family:'Tinos', sans-serif;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 4vw;
+    text-align: left;
+    word-wrap: break-word;
+    /*background-color: green;*/
+}
+.header .card .tablewrapper .Xinfo .tabledef_a{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
+}
+}

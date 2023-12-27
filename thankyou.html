@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TSHILUBA.co | The Online Tshiluba to French to English Dictionary</title>
 <!--Link to the style code-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/thankyou.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,14 +24,14 @@
 </head>
 <div id="wrapper">
 <body>
-<section class="searchheader4">
+<section class="header">
     <nav>
         <div class="nav-links" id="navLinks">
         <!--The X icon placed in the nav menu-->
         <i class="fa fa-times" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="about.html">INDEX</a></li>
+                <li><a href="home.html">HOME</a></li>
+                <li><a href="index.html">INDEX</a></li>
                 <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
                     <div class="dropdown">
                         <a href="wordscramble.html">WORD SCRAMBLE</a>
@@ -41,13 +42,23 @@
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
     </nav>
 
-<div class="documentarea1">
-    <h1><a href="index.html" style="text-decoration: none; color: rgb(255, 255, 255);">TUASAKIDILA</a></h1>
-    <div class="Privacy">
-<h1> Thank you for your message!</h1>
+    <div class="text-box">
+        <!--Navigation Menu LOGO image-->
+       <h1><a href="home.html">TUASAKIDILA</a></h1>
+        <p>
+    </div>
 
+
+<div class="documentarea">
+    <div class="ThankYou">
+        <h1> Thank you for your message!</h1><br>
+        <h1> Merci pour ton message!</h1><br>
+        <h1> Tuasakidila bua mukenji webe!</h1>
     </div>
 </div>
+
+</section>
+
 <footer class="footer">
     <table>
         <tr class="ft1">
@@ -66,9 +77,6 @@
         </tr>
     </table>
 </footer>
-</div>
-
-</section>
 
 <!--Java Script For Toggle Menu-->
 <script>

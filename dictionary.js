@@ -61,7 +61,7 @@ const nkongamiaku = [
     English: "Of",
     French: "De",
     Tshiluba: "--a",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=preposition">préposition</a> | <a class="links" href="nkongamiaku.html?inpt1=preposition">preposition</a> | <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=preposition">préposition</a> | <a class="links" href="search.html?inpt1=preposition">preposition</a> | <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>',
     Phonetics: "Wa·/Wah/·Ya·/yah/·Bwa·/Bwah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
     PhoneticsT: "De / Of",
     English2: " ",
@@ -130,7 +130,7 @@ of <i class="PartOfSpch">prep</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>
+                :: <a class="links" href="search.html?inpt1=kulua">kulua</a>
 <br><br></td>
 </tr>
 <tr>
@@ -345,7 +345,7 @@ Kalonji's hand :
     English: "For",
     French: "Pour",
     Tshiluba: "Bua",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=préposition">préposition</a> | <a class="links" href="nkongamiaku.html?inpt1=preposition">preposition</a> | <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a><br> conjonction | conjunction',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=préposition">préposition</a> | <a class="links" href="search.html?inpt1=preposition">preposition</a> | <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a><br> conjonction | conjunction',
     Phonetics: "Bua<p>/Bwah/</p>",
     PhoneticsT: "Pour / For",
     English2: "Because",
@@ -451,7 +451,7 @@ parler pour qqn
                 &nbsp:&nbsp<br>
 speak for someone
                 &nbsp:&nbsp<br>
-kuakula bua <a class="links" href="nkongamiaku.html?inpt1=someone">muntu</a> :
+kuakula bua <a class="links" href="search.html?inpt1=someone">muntu</a> :
 <br><br>
 
 pour moi
@@ -482,7 +482,7 @@ pourquoi <i class="PartOfSpch">adv</i>
 why, for what <i class="PartOfSpch">adv</i>
                 :<br>
                 &nbsp:&nbsp
-bua <a class="links" href="nkongamiaku.html?inpt1=what">tshinyi</a> <i class="PartOfSpch">muam</i> :
+bua <a class="links" href="search.html?inpt1=what">tshinyi</a> <i class="PartOfSpch">muam</i> :
             <br><br>
 </td>
 </tr>
@@ -504,7 +504,7 @@ Kusumba bua mfranga 10
     English: "Ten",
     French: "Dix",
     Tshiluba: "Dikumi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·ku·mi<p>/Djee-koo-mee/</p>",
     PhoneticsT: "Dix | Ten",
     English2: "10",
@@ -582,9 +582,9 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
-                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -593,7 +593,7 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
     English: "Aroma",
     French: "Arôme",
     Tshiluba: "Dipembu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·pem·bu<p>/djee-pem-boo/</p>",
     PhoneticsT: "Arôme / Aroma",
     English2: "Fragrance",
@@ -678,7 +678,7 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
     English: "Country",
     French: "Pays",
     Tshiluba: "Ditunga",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·tu·nga<p>/Jee-too-ngah/</p>",
     PhoneticsT: "Pays / Country",
     English2: "Nation",
@@ -775,7 +775,7 @@ Ditunga dia Kongu Wa Mugalata :
     English: "Cloud",
     French: "Nuage",
     Tshiluba: "Ditutu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·tu·tu<p>/Dee-too-too/</p>",
     PhoneticsT: "Nuage / Cloud",
     English2: " ",
@@ -860,7 +860,7 @@ a gray or white mass in the sky, made up of very small floating drops of water
     English: "Law",
     French: "Loi",
     Tshiluba: "Diyi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·yi<p>/Dee-yii/</p>",
     PhoneticsT: "Loi / Law",
     English2: "Legislation",
@@ -947,7 +947,7 @@ Any written or positive rule or collection of rules prescribed under the authori
     English: "Constitution",
     French: "Constitution",
     Tshiluba: "Diyi Dikulu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·yi Di·ku·lu<p>/Dee Dee-koo-loo/</p>",
     PhoneticsT: "Constitution / Constitution",
     English2: " ",
@@ -1045,7 +1045,7 @@ Diyi Dikulu dia Ditunga.
     English: "Yes",
     French: "Oui",
     Tshiluba: "Eyowa",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Ey·o·wa<p>/Eyy-yoh-wah/</p>",
     PhoneticsT: "Oui / Yes",
     English2: "of course",
@@ -1128,7 +1128,7 @@ eyowa, bualu buambi mbua bushuwa :
     English: "Two",
     French: "Deux",
     Tshiluba: "Ibidi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "I·bi·di<p>/Eee-bee-jee/</p>",
     PhoneticsT: "Deux | Two",
     English2: "2",
@@ -1206,7 +1206,7 @@ ibidi, 2 <i class="PartOfSpch">tshi</i>
     English: "Four",
     French: "Quatre",
     Tshiluba: "Inayi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "I·na·yi<p>/Eee-nah-yee/</p>",
     PhoneticsT: "Quatre | Four",
     English2: "4",
@@ -1284,7 +1284,7 @@ inayi, 4 <i class="PartOfSpch">tshi</i>
     English: "Three",
     French: "Trois",
     Tshiluba: "Isatu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "I·sa·tu<p>/Eee-sah-too/</p>",
     PhoneticsT: "Trois | Three",
     English2: "3",
@@ -1362,7 +1362,7 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
     English: "Six",
     French: "Six",
     Tshiluba: "Isambombo",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "I·sam·bom·bo<p>/Eee-sahm-bome-bo/</p>",
     PhoneticsT: "Six | Six",
     English2: "6",
@@ -1440,7 +1440,7 @@ isambombo, 6 <i class="PartOfSpch">tshi</i>
     English: "Five",
     French: "Cinq",
     Tshiluba: "Itanu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "I·ta·nu<p>/Eee-tah-noo/</p>",
     PhoneticsT: "Cinq | Five",
     English2: "5",
@@ -1518,7 +1518,7 @@ itanu, 5 <i class="PartOfSpch">tshi</i>
     English: "Preposition",
     French: "Préposition",
     Tshiluba: "Kadianjidi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Ka·di·an·ji·di<p>/kah-dyahn-jee-dee/</p>",
     PhoneticsT: "Préposition / Preposition",
     English2: " ",
@@ -1587,11 +1587,11 @@ kadianjidi <i class="PartOfSpch">tshi8</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>   
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>   
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -1728,7 +1728,7 @@ for
 
 <br></td>
 <td class="tabledef"; style="width: 100px; text-align:left;">
-<a class="links" href="nkongamiaku.html?inpt1=bua">bua</a>
+<a class="links" href="search.html?inpt1=bua">bua</a>
                 
 <br></td>
 </tr>
@@ -1903,7 +1903,7 @@ pa
     English: "Again",
     French: "Encore",
     Tshiluba: "Kabidi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Ka·bi·di<p>/Kah-bee-djee/</p>",
     PhoneticsT: "Encore | Again",
     English2: "Also",
@@ -1997,7 +1997,7 @@ Udi wakula Italiana kabidi :
     English: "Article",
     French: "Article",
     Tshiluba: "Kanungu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Ka·nun·gu<p>/Kah-noon-goo/</p>",
     PhoneticsT: "Article | Article",
     English2: "Clause",
@@ -2079,7 +2079,7 @@ Kanungu 5 :
     English: "to speak",
     French: "parler",
     Tshiluba: "Kuakula",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
     PhoneticsT: "Parler | Talk",
     English2: "Speak",
@@ -2146,7 +2146,7 @@ kuakula <i class="PartOfSpch">mn</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuamba</a>  
+                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -2179,7 +2179,7 @@ Ndi ngakula Tshiluba :
     English: "to say",
     French: "Dire",
     Tshiluba: "Kuamba",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·am·ba<p>/kwahm-bah/</p>",
     PhoneticsT: "Dire | Say",
     English2: "amba",
@@ -2246,7 +2246,7 @@ kuamba <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
+                :: <a class="links" href="search.html?inpt1=kuakula">kuakula</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -2291,7 +2291,7 @@ Kuambila ne :
     English: "to take",
     French: "Prendre",
     Tshiluba: "Kuangata",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·an·ga·ta<p>/kwah-ngah-tah/</p>",
     PhoneticsT: "Prendre / Take",
     English2: "angata",
@@ -2358,9 +2358,9 @@ kuangata <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kushila</a>
+                :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="search.html?inpt1=kupesha">kupesha</a>,
+                <a class="links" href="search.html?inpt1=kupesha">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2392,7 +2392,7 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     English: "to read",
     French: "Lire",
     Tshiluba: "Kubala",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe transitif</a> | <a class="links" href="search.html?inpt1=verb">transitive verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ba·la<p>/Koo-bah-lah/</p>",
     PhoneticsT: "Lire | Read",
     English2: "Count",
@@ -2532,7 +2532,7 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
     English: "to enter",
     French: "Entrer",
     Tshiluba: "Kubuela",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·bue·la<p>/Koo-bweh-lah/</p>",
     PhoneticsT: "Entrer | Enter",
     English2: "penetrate",
@@ -2601,12 +2601,12 @@ kubuela <i class="PartOfSpch">mn</i>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+                :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="search.html?inpt1=kuya">kuya</a>,
+                <a class="links" href="search.html?inpt1=kushila">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2639,7 +2639,7 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
     English: "to walk",
     French: "Marcher",
     Tshiluba: "Kuenda",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
     PhoneticsT: "Marcher | Walk",
     English2: "enda",
@@ -2694,16 +2694,16 @@ Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
 <tr>
 <td class="tabledef" valign=top >
 1. marcher <i class="PartOfSpch">v.tr</i> <br>
-2. <a class="links" href="nkongamiaku.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
+2. <a class="links" href="search.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
 1. walk <i class="PartOfSpch">tr.v</i> <br>
-2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
+2. <a class="links" href="search.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
 kuenda <i class="PartOfSpch">mn</i><br>
 <i class="PartOfSpch">mushilangana ne</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
+<a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
 </td>
 </td>
 </tr>
@@ -2711,12 +2711,12 @@ kuenda <i class="PartOfSpch">mn</i><br>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
+                :: <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2749,7 +2749,7 @@ Pavuaye wendakana ku muelelu :
     English: "to do",
     French: "Faire",
     Tshiluba: "Kuenza",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·za<p>/kwehn-zah/</p>",
     PhoneticsT: "Faire | Do",
     English2: "Make",
@@ -2816,7 +2816,7 @@ kuenza <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuteta">kuteta</a> 
+                :: <a class="links" href="search.html?inpt1=kuteta">kuteta</a> 
 <br><br></td>
 </tr>
 <tr>
@@ -2850,7 +2850,7 @@ Udi wenza tshinyi? :
     English: "to arrive",
     French: "Arriver",
     Tshiluba: "Kufika",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·fi·ka<p>/koo-fee-kah/</p>",
     PhoneticsT: "Arriver / Arrive",
     English2: "Fika",
@@ -2917,12 +2917,12 @@ kufika <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                :: <a class="links" href="search.html?inpt1=kufika">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2954,7 +2954,7 @@ Kadi, pa ndi mfika kuntu aku :
     English: "to write",
     French: "Écrire",
     Tshiluba: "Kufunda",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·fun·da<p>/Koo-foon-dah/</p>",
     PhoneticsT: "Écrire | Write",
     English2: "Denounce",
@@ -3050,7 +3050,7 @@ dénoncer qq'un
 denounce someone
                 :<br>
                 &nbsp:&nbsp
-kufunda <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> :
+kufunda <a class="links" href="search.html?inpt1=muntu">muntu</a> :
 <br><br></td>
 </tr>
 <tr>
@@ -3061,7 +3061,7 @@ kufunda <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> :
 write a letter to someone
                 :<br>
                 &nbsp:&nbsp
-kufundila <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> mukanda
+kufundila <a class="links" href="search.html?inpt1=muntu">muntu</a> mukanda
             <br><br>
 </td>
 </tr>
@@ -3087,7 +3087,7 @@ kufundisha
     English: "to be",
     French: "Être",
     Tshiluba: "Kuikala",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
     PhoneticsT: "Être | Be",
     English2: "be",
@@ -3192,7 +3192,7 @@ kuikala ne muntu :
     English: "to have",
     French: "Avoir",
     Tshiluba: "Kuikala ne",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
     PhoneticsT: "Avoir | Have",
     English2: "to be with",
@@ -3285,7 +3285,7 @@ kuikala ne nzala :
     English: "to cut",
     French: "Couper",
     Tshiluba: "Kukosa",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ko·sa<p>/Koo-koh-sah/</p>",
     PhoneticsT: "Couper | Cut",
     English2: "Cease",
@@ -3426,7 +3426,7 @@ Kukosa mpala
     English: "to seize",
     French: "Saisir",
     Tshiluba: "Kukuata",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·kua·ta<p>/koo-kwah-tah/</p>",
     PhoneticsT: "Saisir / Seize",
     English2: "kuata",
@@ -3493,8 +3493,8 @@ kukuata <i class="PartOfSpch">mn</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
+                :: <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
+                <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
 <br><br></td>
 </tr>
 <tr>
@@ -3526,7 +3526,7 @@ Bena Yuda bavua bakuata muntu eu :
     English: "to come",
     French: "Venir",
     Tshiluba: "Kulua",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·lua<p>/koo-lwah/</p>",
     PhoneticsT: "Venir / Come",
     English2: "Lua",
@@ -3593,12 +3593,12 @@ kulua <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3630,7 +3630,7 @@ Kadi mpindieu ndi ndua kudi :
     English: "to see",
     French: "Voir",
     Tshiluba: "Kumona",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·mo·na<p>/Koo-moh-nah/</p>",
     PhoneticsT: "Voir | See",
     English2: "Mona",
@@ -3697,7 +3697,7 @@ kumona <i class="PartOfSpch">muan</i>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
+                :: <a class="links" href="search.html?inpt1=kutangila">kutangila</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -3730,7 +3730,7 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     English: "to smell",
     French: "Sentir",
     Tshiluba: "Kununka",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe transitif</a> | <a class="links" href="search.html?inpt1=verb">transitive verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
     PhoneticsT: "Sentir | Smell",
     English2: "Nunka",
@@ -3824,7 +3824,7 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     English: "to run",
     French: "Courir",
     Tshiluba: "Kunyema",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·nyem·a<p>/Koon-yem-ah/</p>",
     PhoneticsT: "Courir | Run",
     English2: "nyema",
@@ -3894,11 +3894,11 @@ kunyema <i class="PartOfSpch">mn</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
+                :: <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>
 <br><br></td>
 </tr>
 <tr>
@@ -3930,7 +3930,7 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
     English: "to give",
     French: "Donner",
     Tshiluba: "Kupesha",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·pesh·a·ja<p>/koo-pesh-ah/</p>",
     PhoneticsT: "Donner / Give",
     English2: "pesha",
@@ -3997,8 +3997,8 @@ kupesha <i class="PartOfSpch">muan</i><p>
 <td class="tabledef_a" colspan="3" class="analogy">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
 <br><br></td>
 </tr>
 <tr>
@@ -4030,7 +4030,7 @@ Ndi nnupesha ditalala dianyi :
     English: "to return + [something]",
     French: "Rendre",
     Tshiluba: "Kupingaja",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ping·a·ja<p>/koo-peen-gah-jhah/</p>",
     PhoneticsT: "Rendre / Return",
     English2: "pingaja",
@@ -4091,7 +4091,7 @@ Ndi nnupesha ditalala dianyi :
 return [something] <i class="PartOfSpch">v</i>, <br>
 give [sth] back to <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
+<a class="links" href="search.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
 kupingaja <i class="PartOfSpch">muan</i><p>
@@ -4102,9 +4102,9 @@ kupingaja <i class="PartOfSpch">muan</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                :: <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kupesha">kupesha</a>, 
+                <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
 <br><br></td>
 </tr>
 <tr>
@@ -4136,7 +4136,7 @@ Mpindieu pingaja mukaji wa muntu awu :
     English: "to return + [somewhere]",
     French: "Revenir",
     Tshiluba: "Kupingana",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ping·a·na<p>/koo-peen-gah-nah/</p>",
     PhoneticsT: "Revenir / Return",
     English2: "pingana",
@@ -4197,7 +4197,7 @@ Mpindieu pingaja mukaji wa muntu awu :
 return [somewhere] <i class="PartOfSpch">v</i><br>
 come/go back [somewhere] <br>
 <i class="PartOfSpch">different from</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
+<a class="links" href="search.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
 kupingana <i class="PartOfSpch">muan</i><p>
@@ -4208,13 +4208,13 @@ kupingana <i class="PartOfSpch">muan</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -4246,7 +4246,7 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
     English: "to leave to",
     French: "Laisser à",
     Tshiluba: "Kushila",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·shi·la<p>/koo-shee-lah/</p>",
     PhoneticsT: "Donner / Give",
     English2: "shila",
@@ -4309,7 +4309,7 @@ leave [something] to <i class="PartOfSpch">v</i><br>
 leave [something] for someone <i class="PartOfSpch">v</i><br>
 bequeath <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kushiya">leave [positionally]</a>
+<a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
 </td>
 <td class="tabledef" valign=top >
 kushila <i class="PartOfSpch">mn</i><p>
@@ -4320,9 +4320,9 @@ kushila <i class="PartOfSpch">mn</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>
+                :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
+                <a class="links" href="search.html?inpt1=kupesha">kupesha</a>
 <br><br></td>
 </tr>
 <tr>
@@ -4354,7 +4354,7 @@ Ndi nnushila ditalala dianyi :
     English: "to leave",
     French: "Quitter",
     Tshiluba: "Kushiya",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
     PhoneticsT: "Quitter | Leave",
     English2: "leave",
@@ -4413,7 +4413,7 @@ quitter <i class="PartOfSpch">v.tr</i> <br>
 <td class="tabledef" valign=top >
 leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
 <i class="PartOfSpch">different from</i><br>
-<a class="links" href="nkongamiaku.html?inpt1=kushila">leave to []</a>
+<a class="links" href="search.html?inpt1=kushila">leave to []</a>
 </td>
 <td class="tabledef" valign=top >
 kushiya <i class="PartOfSpch">mn</i>
@@ -4424,13 +4424,13 @@ kushiya <i class="PartOfSpch">mn</i>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+                :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="search.html?inpt1=kuya">kuya</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>,
+                <a class="links" href="search.html?inpt1=kushila">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -4463,7 +4463,7 @@ Muana kena mua kushiya tatuende to :
     English: "to look",
     French: "Regarder",
     Tshiluba: "Kutangila",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
     PhoneticsT: "Regarder | Look",
     English2: "tangila",
@@ -4531,7 +4531,7 @@ kutangila <i class="PartOfSpch">muan</i>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kumona">kumona</a>  
+                :: <a class="links" href="search.html?inpt1=kumona">kumona</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -4564,7 +4564,7 @@ Tangila ku mikuna ya Tshikapa :
     English: "to listen",
     French: "écouter",
     Tshiluba: "Kuteleja",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "écouter | listen",
     English2: "Listen to",
@@ -4658,7 +4658,7 @@ Muananyi, teleja miaku yanyi :
     English: "to try",
     French: "Essayer",
     Tshiluba: "Kuteta",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·te·ta<p>/koo-teh-tah/</p>",
     PhoneticsT: "Essayer | Try",
     English2: "Attempt",
@@ -4728,7 +4728,7 @@ kuteta <i class="PartOfSpch">mn</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuenza">kuenza</a> 
+                :: <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
 <br><br></td>
 </tr>
 <tr>
@@ -4762,7 +4762,7 @@ Yeye wakateta bua kuenda :
     English: "to hear",
     French: "Entendre",
     Tshiluba: "Kuumvua",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
     English2: "hear",
@@ -4856,7 +4856,7 @@ tudi tumvua bamba ne:
     English: "to go",
     French: "Aller",
     Tshiluba: "Kuya",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
     PhoneticsT: "Aller | Go",
     English2: "Go",
@@ -4924,12 +4924,12 @@ kuya <i class="PartOfSpch">muan</i>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
 <br><br></td>
 </tr>
 <tr>
@@ -4962,7 +4962,7 @@ Tudi tuya mu tshimenga :
     English: "to limp",
     French: "Boiter",
     Tshiluba: "Kuzebuka",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
     PhoneticsT: "Boiter / Limp",
     English2: "Limp",
@@ -5046,7 +5046,7 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     English: "Hundred",
     French: "Cent",
     Tshiluba: "Lukama",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Lu·ka·ma<p>/Loo-kah-mah/</p>",
     PhoneticsT: "Cent | Hundred",
     English2: "100",
@@ -5123,9 +5123,9 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
-                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5134,7 +5134,7 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
     English: "Cold",
     French: "Froid",
     Tshiluba: "Mashika",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
     Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
     PhoneticsT: "Froid / Cold",
     English2: " ",
@@ -5212,14 +5212,14 @@ kuikala ne mashika; kuumvua ne mashika :
 },
 /*Mfundilu*/   
 {
-    English: "Writing",
+    English: "writing",
     French: "Écriture",
     Tshiluba: "Mfundilu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mfun·di·lu<p>/mm-foon-dee-loo/</p>",
     PhoneticsT: "Écriture / Writing",
     English2: "scripture",
-    French2: "Ecriture",
+    French2: "ecriture",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -5269,14 +5269,14 @@ kuikala ne mashika; kuumvua ne mashika :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-Écriture <i class="PartOfSpch">n</i>
+écriture <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 writing <i class="PartOfSpch">n</i><p>
-scripture
+scripture <i class="PartOfSpch">n</i><p>
 </td>
 <td class="tabledef" valign=top >
-mfundilu <i class="PartOfSpch">n</i>
+mfundilu <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
@@ -5297,7 +5297,7 @@ eyowa, bualu buambi mbua bulelela :
     English: "Word",
     French: "Mot",
     Tshiluba: "Muaku",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mua·ku<p>/mm-wah-koo/</p>",
     PhoneticsT: "Mot / Word",
     English2: "Words",
@@ -5391,7 +5391,7 @@ Nkonga miaku wa Tshiluba :
     English: "Language",
     French: "Langue",
     Tshiluba: "Muakulu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mua·ku·lu<p>/mm-wah-koo-loo/</p>",
     PhoneticsT: "Langue / Language",
     English2: " ",
@@ -5475,7 +5475,7 @@ A body of words and the systems for their use common to a people who are of the 
 Speak the Tshiluba language
                 :<br>
                 &nbsp:&nbsp
-<a class="links" href="nkongamiaku.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+<a class="links" href="search.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
 <br><br></td>
 </tr>
 `
@@ -5485,7 +5485,7 @@ Speak the Tshiluba language
     English: "Adverb",
     French: "Adverbe",
     Tshiluba: "Muambikila",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Muam·bi·ki·la<p>/m-wahm-bee-kee-lah/</p>",
     PhoneticsT: "Adverbe / Adverb",
     English2: " ",
@@ -5554,11 +5554,11 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -5585,7 +5585,7 @@ An adverb answers the question when?, where?, how?, how much?, how long?, or how
 The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
                 :<br>
                 &nbsp:&nbsp
-<a class="links" href="nkongamiaku.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+<a class="links" href="search.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
 <br><br></td>
 </tr>
 `
@@ -5595,7 +5595,7 @@ The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
     English: "Verb",
     French: "Verbe",
     Tshiluba: "Muanda",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Muan·da<p>/m-wahn-dah/</p>",
     PhoneticsT: "Verbe / Verb",
     English2: " ",
@@ -5663,11 +5663,11 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -5704,7 +5704,7 @@ Miaku "kunyema," "kulama," ne "kununka" badi bonso badi mianda :
     English: "Eight",
     French: "Huit",
     Tshiluba: "Muandamukulu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Muan·da·mu·ku·lu<p>/Mwah-ndah-moo-koo-loo/</p>",
     PhoneticsT: "Huit | Eight",
     English2: "8",
@@ -5782,7 +5782,7 @@ muandamukulu, 8 <i class="PartOfSpch">tshi</i>
     English: "Seven",
     French: "Sept",
     Tshiluba: "Muandamutekete",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Muan·da·mu·te·ke·te<p>/Mwah-ndah-moo-teh-keh-tah/</p>",
     PhoneticsT: "Sept| Seven",
     English2: "7",
@@ -5861,7 +5861,7 @@ muandamutekete, 7 <i class="PartOfSpch">tshi</i>
     English: "Adjective",
     French: "Adjectif",
     Tshiluba: "Mufidi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mu·fi·di<p>/moo-fee-dee/</p>",
     PhoneticsT: "Adjectif / Adjective",
     English2: " ",
@@ -5929,11 +5929,11 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a> 
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a> 
 <br><br></td>
 </tr>
 <tr style="text-align:left";>
@@ -6157,7 +6157,7 @@ Big hands :
     English: "Limit",
     French: "Limite",
     Tshiluba: "Mukalu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mu·ka·lu<p>/Moo-kah-loo/</p>",
     PhoneticsT: "Limite / Limit",
     English2: "Border",
@@ -6251,7 +6251,7 @@ Kupita mikalu:
     English: "Democracy",
     French: "Démocratie",
     Tshiluba: "Mungalata",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mun·ga·la·ta<p>/Moong-ah-lah-tah/</p>",
     PhoneticsT: "Démocratie / Democracy",
     English2: "Democratic",
@@ -6347,7 +6347,7 @@ Ditunga dia Kongu wa Mungalata :
     English: "Person",
     French: "Personne",
     Tshiluba: "Muntu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Mun·tu<p>/MOON-too/</p>",
     PhoneticsT: "Personne / Person",
     English2: "Someone",
@@ -6473,7 +6473,7 @@ Kakuena <i>muntu</i> to.
     English: "Pronoun",
     French: "Pronom",
     Tshiluba: "Mupinganyi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mu·pi·ngan·yi<p>/moo-peen-gahn-yee/</p>",
     PhoneticsT: "Pronom / Pronoun",
     English2: " ",
@@ -6540,11 +6540,11 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>,
-                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -6823,7 +6823,7 @@ nansha tshinyi/tshinganyi :
     English: "End",
     French: "Fin",
     Tshiluba: "Ndekelu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
     Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
     PhoneticsT: "Fin / End",
     English2: "Last",
@@ -6908,7 +6908,7 @@ dituku dia ndekelu :
 what is your last price?
                 :<br>
                 &nbsp:&nbsp
-Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what">tshinyi</a>?:
+Mushinga webe wa ndekelu udi <a class="links" href="search.html?inpt1=what">tshinyi</a>?:
 <br><br></td>
 </tr>
 `
@@ -6918,7 +6918,7 @@ Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what"
     English: "Who",
     French: "Qui",
     Tshiluba: "Nganyi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Ngan·yi<p>/Gahn-yi/</p>",
     PhoneticsT: "Qui / Who",
     English2: " ",
@@ -7021,8 +7021,8 @@ vuaku ne ewu udi musua
 {
         English: "Dictionary",
         French: "Dictionnaire",
-        Tshiluba: "Nkongamiaku",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        Tshiluba: "search",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
         PhoneticsT: "Dictionnaire / Dictionary",
         English2: " ",
@@ -7118,7 +7118,7 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     English: "Where",
     French: "Où",
     Tshiluba: "Penyi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
     Phonetics: "Pen·yi<p>/PEN-yee/</p>",
     PhoneticsT: "Où / Where",
     English2: " ",
@@ -7199,7 +7199,7 @@ Badi penyi? :
     English: "Hand",
     French: "Main",
     Tshiluba: "Tshianza",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshian·za<p>/chyan-zah/</p>",
     PhoneticsT: "Main / Hand",
     English2: " ",
@@ -7345,7 +7345,7 @@ tshianza tshibi : tshianza tshimpe
     English: "Room",
     French: "Chambre",
     Tshiluba: "Tshibambalu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·bam·ba·lu<p>/chee-bahm-bah-loo/</p>",
     PhoneticsT: "Chambre / Room",
     English2: "Department",
@@ -7440,7 +7440,7 @@ tshibambalu tshia mashika :
     English: "Substantive",
     French: "Substantif",
     Tshiluba: "Tshibikidilu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·bi·ki·di·lu<p>/chee-bee-kee-dee-loo/</p>",
     PhoneticsT: "Substantif / Substantive",
     English2: "Noun",
@@ -7510,11 +7510,11 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>:: 
+                :: <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>, 
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>:: 
 <br><br></td>
 </tr>
 <tr>
@@ -7570,7 +7570,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
     English: "Year",
     French: "An",
     Tshiluba: "Tshidimu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·di·mu<p>/chee-dee-moo/</p>",
     PhoneticsT: "An / Year",
     English2: " ",
@@ -7668,7 +7668,7 @@ tshidimu tshia 1999 :
     English: "Error",
     French: "Erreur",
     Tshiluba: "Tshilema",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·le·ma<p>/chee-leh-mah/</p>",
     PhoneticsT: "Erreur / Error",
     English2: "Mistake",
@@ -7763,7 +7763,7 @@ kuenza tshilema :
     English: "Bimbadi",
     French: "Tshimbadi",
     Tshiluba: "Tshimbadi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshim·ba·di<p>/Cheem-bah-dee/</p>",
     PhoneticsT: "Tshimbadi / Bimbadi",
     English2: " ",
@@ -7843,7 +7843,7 @@ Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia d
         English: "Thing",
         French: "Chose",
         Tshiluba: "Tshintu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·ntu<p>/CHEEN-too/</p>",
         PhoneticsT: "Chose / Thing",
         English2: "Object",
@@ -7966,7 +7966,7 @@ Who can bring a clean <i>thing</i> out of an unclean <i>thing?</i>
     English: "Thousand",
     French: "Mille",
     Tshiluba: "Tshinunu",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·nu·nu<p>/chee-noo-noo/</p>",
     PhoneticsT: "Mille | Thousand",
     English2: "1000",
@@ -8044,9 +8044,9 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
-                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>
+                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>
 <br><br></td>
 </tr>` 
 },
@@ -8055,7 +8055,7 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
     English: "What",
     French: "Quoi",
     Tshiluba: "Tshinyi",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "Tshin·yi<p>/CHEEN-yi/</p>",
     PhoneticsT: "Quoi / What",
     English2: " ",
@@ -8178,7 +8178,7 @@ Udi wenza tshinyi :
     English: "Objective",
     French: "Objectif",
     Tshiluba: "Tshipatshila",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·pa·tshi·la<p>/chee-pah-chee-lah/</p>",
     PhoneticsT: "Objectif / Objective",
     English2: "Goal",
@@ -8276,7 +8276,7 @@ Bua kufika ku tshipatshila etshi. :
     English: "Nine",
     French: "Neuf",
     Tshiluba: "Tshitema",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·te·ma<p>/chee-teh-mah/</p>",
     PhoneticsT: "Neuf | Nine",
     English2: "9",
@@ -8354,7 +8354,7 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
     English: "Part",
     French: "Partie",
     Tshiluba: "Tshitupa",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·tu·pa<p>/chee-too-pah/</p>",
     PhoneticsT: "Partie / Part",
     English2: "Section",
@@ -8454,7 +8454,7 @@ Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
     English: "One",
     French: "Un",
     Tshiluba: "Umwe",
-    PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Um·we<p>/Oom-way/</p>",
     PhoneticsT: "Un / One",
     English2: "1",
@@ -8530,9 +8530,9 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>, 
-                <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
-                <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                :: <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>, 
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
 }
@@ -8546,7 +8546,7 @@ const nkongamiaku2 = [
         English: "Ten",
         French: "Dix",
         Tshiluba: "Dikumi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·ku·mi<p>/Djee-koo-mee/</p>",
         PhoneticsT: "Dix | Ten",
         English2: "10",
@@ -8624,9 +8624,9 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
-                    <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -8635,7 +8635,7 @@ const nkongamiaku2 = [
         English: "Aroma",
         French: "Arôme",
         Tshiluba: "Dipembu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·pem·bu<p>/djee-pem-boo/</p>",
         PhoneticsT: "Arôme / Aroma",
         English2: "Fragrance",
@@ -8720,7 +8720,7 @@ const nkongamiaku2 = [
         English: "Country",
         French: "Pays",
         Tshiluba: "Ditunga",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·tu·nga<p>/Jee-too-ngah/</p>",
         PhoneticsT: "Pays / Country",
         English2: "Nation",
@@ -8817,7 +8817,7 @@ const nkongamiaku2 = [
         English: "Cloud",
         French: "Nuage",
         Tshiluba: "Ditutu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·tu·tu<p>/Dee-too-too/</p>",
         PhoneticsT: "Nuage / Cloud",
         English2: " ",
@@ -8902,7 +8902,7 @@ const nkongamiaku2 = [
         English: "Law",
         French: "Loi",
         Tshiluba: "Diyi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·yi<p>/Dee-yii/</p>",
         PhoneticsT: "Loi / Law",
         English2: "Legislation",
@@ -8989,7 +8989,7 @@ const nkongamiaku2 = [
         English: "Constitution",
         French: "Constitution",
         Tshiluba: "Diyi Dikulu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·yi Di·ku·lu<p>/Dee Dee-koo-loo/</p>",
         PhoneticsT: "Constitution / Constitution",
         English2: " ",
@@ -9087,7 +9087,7 @@ const nkongamiaku2 = [
         English: "Yes",
         French: "Oui",
         Tshiluba: "Eyowa",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
         Phonetics: "Ey·o·wa<p>/Eyy-yoh-wah/</p>",
         PhoneticsT: "Oui / Yes",
         English2: "of course",
@@ -9170,7 +9170,7 @@ const nkongamiaku2 = [
         English: "Two",
         French: "Deux",
         Tshiluba: "Ibidi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "I·bi·di<p>/Eee-bee-jee/</p>",
         PhoneticsT: "Deux | Two",
         English2: "2",
@@ -9248,7 +9248,7 @@ const nkongamiaku2 = [
         English: "Four",
         French: "Quatre",
         Tshiluba: "Inayi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "I·na·yi<p>/Eee-nah-yee/</p>",
         PhoneticsT: "Quatre | Four",
         English2: "4",
@@ -9326,7 +9326,7 @@ const nkongamiaku2 = [
         English: "Three",
         French: "Trois",
         Tshiluba: "Isatu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "I·sa·tu<p>/Eee-sah-too/</p>",
         PhoneticsT: "Trois | Three",
         English2: "3",
@@ -9404,7 +9404,7 @@ const nkongamiaku2 = [
         English: "Six",
         French: "Six",
         Tshiluba: "Isambombo",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "I·sam·bom·bo<p>/Eee-sahm-bome-bo/</p>",
         PhoneticsT: "Six | Six",
         English2: "6",
@@ -9482,7 +9482,7 @@ const nkongamiaku2 = [
         English: "Five",
         French: "Cinq",
         Tshiluba: "Itanu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "I·ta·nu<p>/Eee-tah-noo/</p>",
         PhoneticsT: "Cinq | Five",
         English2: "5",
@@ -9560,7 +9560,7 @@ const nkongamiaku2 = [
         English: "Preposition",
         French: "Préposition",
         Tshiluba: "Kadianjidi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ka·di·an·ji·di<p>/kah-dyahn-jee-dee/</p>",
         PhoneticsT: "Préposition / Preposition",
         English2: " ",
@@ -9629,11 +9629,11 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>   
+                    :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                    <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                    <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                    <a class="links" href="search.html?inpt1=muambikila">muambikila</a>   
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -9770,7 +9770,7 @@ const nkongamiaku2 = [
     
     <br></td>
     <td class="tabledef"; style="width: 100px; text-align:left;">
-    <a class="links" href="nkongamiaku.html?inpt1=bua">bua</a>
+    <a class="links" href="search.html?inpt1=bua">bua</a>
                     
     <br></td>
     </tr>
@@ -9945,7 +9945,7 @@ const nkongamiaku2 = [
         English: "Again",
         French: "Encore",
         Tshiluba: "Kabidi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
         Phonetics: "Ka·bi·di<p>/Kah-bee-djee/</p>",
         PhoneticsT: "Encore | Again",
         English2: "Also",
@@ -10039,7 +10039,7 @@ const nkongamiaku2 = [
         English: "Article",
         French: "Article",
         Tshiluba: "Kanungu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ka·nun·gu<p>/Kah-noon-goo/</p>",
         PhoneticsT: "Article | Article",
         English2: "Clause",
@@ -10121,7 +10121,7 @@ const nkongamiaku2 = [
         English: "to speak",
         French: "parler",
         Tshiluba: "Kuakula",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
         PhoneticsT: "Parler | Talk",
         English2: "Speak",
@@ -10188,7 +10188,7 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuamba</a>  
+                    :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -10221,7 +10221,7 @@ const nkongamiaku2 = [
         English: "to say",
         French: "Dire",
         Tshiluba: "Kuamba",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·am·ba<p>/kwahm-bah/</p>",
         PhoneticsT: "Dire | Say",
         English2: "amba",
@@ -10288,7 +10288,7 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuakula">kuakula</a>  
+                    :: <a class="links" href="search.html?inpt1=kuakula">kuakula</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -10333,7 +10333,7 @@ const nkongamiaku2 = [
         English: "to take",
         French: "Prendre",
         Tshiluba: "Kuangata",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·an·ga·ta<p>/kwah-ngah-tah/</p>",
         PhoneticsT: "Prendre / Take",
         English2: "angata",
@@ -10400,9 +10400,9 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kupesha">kushila</a>
+                    :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                    <a class="links" href="search.html?inpt1=kupesha">kupesha</a>,
+                    <a class="links" href="search.html?inpt1=kupesha">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -10434,7 +10434,7 @@ const nkongamiaku2 = [
         English: "to read",
         French: "Lire",
         Tshiluba: "Kubala",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe transitif</a> | <a class="links" href="search.html?inpt1=verb">transitive verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ba·la<p>/Koo-bah-lah/</p>",
         PhoneticsT: "Lire | Read",
         English2: "Count",
@@ -10574,7 +10574,7 @@ const nkongamiaku2 = [
         English: "to enter",
         French: "Entrer",
         Tshiluba: "Kubuela",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·bue·la<p>/Koo-bweh-lah/</p>",
         PhoneticsT: "Entrer | Enter",
         English2: "penetrate",
@@ -10643,12 +10643,12 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+                    :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                    <a class="links" href="search.html?inpt1=kuya">kuya</a>,
+                    <a class="links" href="search.html?inpt1=kushila">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -10681,7 +10681,7 @@ const nkongamiaku2 = [
         English: "to walk",
         French: "Marcher",
         Tshiluba: "Kuenda",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
         PhoneticsT: "Marcher | Walk",
         English2: "enda",
@@ -10736,16 +10736,16 @@ const nkongamiaku2 = [
     <tr>
     <td class="tabledef" valign=top >
     1. marcher <i class="PartOfSpch">v.tr</i> <br>
-    2. <a class="links" href="nkongamiaku.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
+    2. <a class="links" href="search.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     1. walk <i class="PartOfSpch">tr.v</i> <br>
-    2. <a class="links" href="nkongamiaku.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
+    2. <a class="links" href="search.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kuenda <i class="PartOfSpch">mn</i><br>
     <i class="PartOfSpch">mushilangana ne</i><br>
-    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
+    <a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
     </td>
     </td>
     </tr>
@@ -10753,12 +10753,12 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
+                    :: <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -10791,7 +10791,7 @@ const nkongamiaku2 = [
         English: "to do",
         French: "Faire",
         Tshiluba: "Kuenza",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·en·za<p>/kwehn-zah/</p>",
         PhoneticsT: "Faire | Do",
         English2: "Make",
@@ -10858,7 +10858,7 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuteta">kuteta</a> 
+                    :: <a class="links" href="search.html?inpt1=kuteta">kuteta</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -10892,7 +10892,7 @@ const nkongamiaku2 = [
         English: "to arrive",
         French: "Arriver",
         Tshiluba: "Kufika",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·fi·ka<p>/koo-fee-kah/</p>",
         PhoneticsT: "Arriver / Arrive",
         English2: "Fika",
@@ -10959,12 +10959,12 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="search.html?inpt1=kufika">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -10996,7 +10996,7 @@ const nkongamiaku2 = [
         English: "to write",
         French: "Écrire",
         Tshiluba: "Kufunda",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·fun·da<p>/Koo-foon-dah/</p>",
         PhoneticsT: "Écrire | Write",
         English2: "Denounce",
@@ -11092,7 +11092,7 @@ const nkongamiaku2 = [
     denounce someone
                     :<br>
                     &nbsp:&nbsp
-    kufunda <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> :
+    kufunda <a class="links" href="search.html?inpt1=muntu">muntu</a> :
     <br><br></td>
     </tr>
     <tr>
@@ -11103,7 +11103,7 @@ const nkongamiaku2 = [
     write a letter to someone
                     :<br>
                     &nbsp:&nbsp
-    kufundila <a class="links" href="nkongamiaku.html?inpt1=muntu">muntu</a> mukanda
+    kufundila <a class="links" href="search.html?inpt1=muntu">muntu</a> mukanda
                 <br><br>
     </td>
     </tr>
@@ -11129,7 +11129,7 @@ const nkongamiaku2 = [
         English: "to be",
         French: "Être",
         Tshiluba: "Kuikala",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
         PhoneticsT: "Être | Be",
         English2: "be",
@@ -11234,7 +11234,7 @@ const nkongamiaku2 = [
         English: "to cut",
         French: "Couper",
         Tshiluba: "Kukosa",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ko·sa<p>/Koo-koh-sah/</p>",
         PhoneticsT: "Couper | Cut",
         English2: "Cease",
@@ -11375,7 +11375,7 @@ const nkongamiaku2 = [
         English: "to seize",
         French: "Saisir",
         Tshiluba: "Kukuata",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·kua·ta<p>/koo-kwah-tah/</p>",
         PhoneticsT: "Saisir / Seize",
         English2: "kuata",
@@ -11442,8 +11442,8 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
+                    :: <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
+                    <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
     <br><br></td>
     </tr>
     <tr>
@@ -11475,7 +11475,7 @@ const nkongamiaku2 = [
         English: "to come",
         French: "Venir",
         Tshiluba: "Kulua",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·lua<p>/koo-lwah/</p>",
         PhoneticsT: "Venir / Come",
         English2: "Lua",
@@ -11542,12 +11542,12 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                    <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -11579,7 +11579,7 @@ const nkongamiaku2 = [
         English: "to see",
         French: "Voir",
         Tshiluba: "Kumona",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·mo·na<p>/Koo-moh-nah/</p>",
         PhoneticsT: "Voir | See",
         English2: "Mona",
@@ -11646,7 +11646,7 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kutangila">kutangila</a>  
+                    :: <a class="links" href="search.html?inpt1=kutangila">kutangila</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -11679,7 +11679,7 @@ const nkongamiaku2 = [
         English: "to smell",
         French: "Sentir",
         Tshiluba: "Kununka",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe transitif</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">transitive verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe transitif</a> | <a class="links" href="search.html?inpt1=verb">transitive verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
         PhoneticsT: "Sentir | Smell",
         English2: "Nunka",
@@ -11773,7 +11773,7 @@ const nkongamiaku2 = [
         English: "to run",
         French: "Courir",
         Tshiluba: "Kunyema",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·nyem·a<p>/Koon-yem-ah/</p>",
         PhoneticsT: "Courir | Run",
         English2: "nyema",
@@ -11843,11 +11843,11 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>
+                    :: <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                    <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -11879,7 +11879,7 @@ const nkongamiaku2 = [
         English: "to give",
         French: "Donner",
         Tshiluba: "Kupesha",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·pesh·a·ja<p>/koo-pesh-ah/</p>",
         PhoneticsT: "Donner / Give",
         English2: "pesha",
@@ -11946,8 +11946,8 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                    :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                    <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
     <br><br></td>
     </tr>
     <tr>
@@ -11979,7 +11979,7 @@ const nkongamiaku2 = [
         English: "to return + [something]",
         French: "Rendre",
         Tshiluba: "Kupingaja",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ping·a·ja<p>/koo-peen-gah-jhah/</p>",
         PhoneticsT: "Rendre / Return",
         English2: "pingaja",
@@ -12040,7 +12040,7 @@ const nkongamiaku2 = [
     return [something] <i class="PartOfSpch">v</i>, <br>
     give [sth] back to <i class="PartOfSpch">v</i><br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="nkongamiaku.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
+    <a class="links" href="search.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kupingaja <i class="PartOfSpch">muan</i><p>
@@ -12051,9 +12051,9 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
+                    :: <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kupesha">kupesha</a>, 
+                    <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
     <br><br></td>
     </tr>
     <tr>
@@ -12085,7 +12085,7 @@ const nkongamiaku2 = [
         English: "to return + [somewhere]",
         French: "Revenir",
         Tshiluba: "Kupingana",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ping·a·na<p>/koo-peen-gah-nah/</p>",
         PhoneticsT: "Revenir / Return",
         English2: "pingana",
@@ -12146,7 +12146,7 @@ const nkongamiaku2 = [
     return [somewhere] <i class="PartOfSpch">v</i><br>
     come/go back [somewhere] <br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="nkongamiaku.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
+    <a class="links" href="search.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kupingana <i class="PartOfSpch">muan</i><p>
@@ -12157,13 +12157,13 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                    <a class="links" href="search.html?inpt1=kuya">kuya</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kuenda">kuenda</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12195,7 +12195,7 @@ const nkongamiaku2 = [
         English: "to leave to",
         French: "Laisser à",
         Tshiluba: "Kushila",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·shi·la<p>/koo-shee-lah/</p>",
         PhoneticsT: "Donner / Give",
         English2: "shila",
@@ -12258,7 +12258,7 @@ const nkongamiaku2 = [
     leave [something] for someone <i class="PartOfSpch">v</i><br>
     bequeath <i class="PartOfSpch">v</i><br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="nkongamiaku.html?inpt1=kushiya">leave [positionally]</a>
+    <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
     </td>
     <td class="tabledef" valign=top >
     kushila <i class="PartOfSpch">mn</i><p>
@@ -12269,9 +12269,9 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kuangata">kuangata</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kupesha">kupesha</a>
+                    :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
+                    <a class="links" href="search.html?inpt1=kuangata">kuangata</a>,
+                    <a class="links" href="search.html?inpt1=kupesha">kupesha</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12303,7 +12303,7 @@ const nkongamiaku2 = [
         English: "to leave",
         French: "Quitter",
         Tshiluba: "Kushiya",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
         PhoneticsT: "Quitter | Leave",
         English2: "leave",
@@ -12362,7 +12362,7 @@ const nkongamiaku2 = [
     <td class="tabledef" valign=top >
     leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="nkongamiaku.html?inpt1=kushila">leave to []</a>
+    <a class="links" href="search.html?inpt1=kushila">leave to []</a>
     </td>
     <td class="tabledef" valign=top >
     kushiya <i class="PartOfSpch">mn</i>
@@ -12373,13 +12373,13 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kuya">kuya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushila">kushila</a>
+                    :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                    <a class="links" href="search.html?inpt1=kuya">kuya</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>,
+                    <a class="links" href="search.html?inpt1=kushila">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12412,7 +12412,7 @@ const nkongamiaku2 = [
         English: "to look",
         French: "Regarder",
         Tshiluba: "Kutangila",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
         PhoneticsT: "Regarder | Look",
         English2: "tangila",
@@ -12480,7 +12480,7 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kumona">kumona</a>  
+                    :: <a class="links" href="search.html?inpt1=kumona">kumona</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -12513,7 +12513,7 @@ const nkongamiaku2 = [
         English: "to listen",
         French: "écouter",
         Tshiluba: "Kuteleja",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
         PhoneticsT: "écouter | listen",
         English2: "Listen to",
@@ -12607,7 +12607,7 @@ const nkongamiaku2 = [
         English: "to try",
         French: "Essayer",
         Tshiluba: "Kuteta",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·te·ta<p>/koo-teh-tah/</p>",
         PhoneticsT: "Essayer | Try",
         English2: "Attempt",
@@ -12677,7 +12677,7 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuenza">kuenza</a> 
+                    :: <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -12711,7 +12711,7 @@ const nkongamiaku2 = [
         English: "to hear",
         French: "Entendre",
         Tshiluba: "Kuumvua",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
         PhoneticsT: "Entendre | Hear",
         English2: "hear",
@@ -12805,7 +12805,7 @@ const nkongamiaku2 = [
         English: "to go",
         French: "Aller",
         Tshiluba: "Kuya",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
         PhoneticsT: "Aller | Go",
         English2: "Go",
@@ -12873,12 +12873,12 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kufika">kufika</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="search.html?inpt1=kuenda">kuenda</a>, 
+                    <a class="links" href="search.html?inpt1=kupingana">kupingana</a>, 
+                    <a class="links" href="search.html?inpt1=kulua">kulua</a>, 
+                    <a class="links" href="search.html?inpt1=kufika">kufika</a>,
+                    <a class="links" href="search.html?inpt1=kushiya">kushiya</a>,
+                    <a class="links" href="search.html?inpt1=kunyema">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12911,7 +12911,7 @@ const nkongamiaku2 = [
         English: "to limp",
         French: "Boiter",
         Tshiluba: "Kuzebuka",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=verb">verbe</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">verb</a> | <a class="links" href="nkongamiaku.html?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
         Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
         PhoneticsT: "Boiter / Limp",
         English2: "Limp",
@@ -12995,7 +12995,7 @@ const nkongamiaku2 = [
         English: "Hundred",
         French: "Cent",
         Tshiluba: "Lukama",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Lu·ka·ma<p>/Loo-kah-mah/</p>",
         PhoneticsT: "Cent | Hundred",
         English2: "100",
@@ -13072,9 +13072,9 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
-                    <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                    <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -13083,7 +13083,7 @@ const nkongamiaku2 = [
         English: "Cold",
         French: "Froid",
         Tshiluba: "Mashika",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
         Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
         PhoneticsT: "Froid / Cold",
         English2: " ",
@@ -13164,7 +13164,7 @@ const nkongamiaku2 = [
         English: "Writing",
         French: "Écriture",
         Tshiluba: "Mfundilu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mfun·di·lu<p>/mm-foon-dee-loo/</p>",
         PhoneticsT: "Écriture / Writing",
         English2: "scripture",
@@ -13246,7 +13246,7 @@ const nkongamiaku2 = [
         English: "Word",
         French: "Mot",
         Tshiluba: "Muaku",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mua·ku<p>/mm-wah-koo/</p>",
         PhoneticsT: "Mot / Word",
         English2: "Words",
@@ -13340,7 +13340,7 @@ const nkongamiaku2 = [
         English: "Language",
         French: "Langue",
         Tshiluba: "Muakulu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mua·ku·lu<p>/mm-wah-koo-loo/</p>",
         PhoneticsT: "Langue / Language",
         English2: " ",
@@ -13424,7 +13424,7 @@ const nkongamiaku2 = [
     Speak the Tshiluba language
                     :<br>
                     &nbsp:&nbsp
-    <a class="links" href="nkongamiaku.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+    <a class="links" href="search.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
     <br><br></td>
     </tr>
     `
@@ -13434,7 +13434,7 @@ const nkongamiaku2 = [
         English: "Adverb",
         French: "Adverbe",
         Tshiluba: "Muambikila",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Muam·bi·ki·la<p>/m-wahm-bee-kee-lah/</p>",
         PhoneticsT: "Adverbe / Adverb",
         English2: " ",
@@ -13503,11 +13503,11 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                    :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                    <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                    <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                    <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -13534,7 +13534,7 @@ const nkongamiaku2 = [
     The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
                     :<br>
                     &nbsp:&nbsp
-    <a class="links" href="nkongamiaku.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+    <a class="links" href="search.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
     <br><br></td>
     </tr>
     `
@@ -13544,7 +13544,7 @@ const nkongamiaku2 = [
         English: "Verb",
         French: "Verbe",
         Tshiluba: "Muanda",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Muan·da<p>/m-wahn-dah/</p>",
         PhoneticsT: "Verbe / Verb",
         English2: " ",
@@ -13612,11 +13612,11 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                    :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                    <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                    <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -13653,7 +13653,7 @@ const nkongamiaku2 = [
         English: "Eight",
         French: "Huit",
         Tshiluba: "Muandamukulu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Muan·da·mu·ku·lu<p>/Mwah-ndah-moo-koo-loo/</p>",
         PhoneticsT: "Huit | Eight",
         English2: "8",
@@ -13731,7 +13731,7 @@ const nkongamiaku2 = [
         English: "Seven",
         French: "Sept",
         Tshiluba: "Muandamutekete",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Muan·da·mu·te·ke·te<p>/Mwah-ndah-moo-teh-keh-tah/</p>",
         PhoneticsT: "Sept| Seven",
         English2: "7",
@@ -13810,7 +13810,7 @@ const nkongamiaku2 = [
         English: "Adjective",
         French: "Adjectif",
         Tshiluba: "Mufidi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mu·fi·di<p>/moo-fee-dee/</p>",
         PhoneticsT: "Adjectif / Adjective",
         English2: " ",
@@ -13878,11 +13878,11 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a> 
+                    :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                    <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                    <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                    <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a> 
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -14106,7 +14106,7 @@ const nkongamiaku2 = [
         English: "Limit",
         French: "Limite",
         Tshiluba: "Mukalu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mu·ka·lu<p>/Moo-kah-loo/</p>",
         PhoneticsT: "Limite / Limit",
         English2: "Border",
@@ -14200,7 +14200,7 @@ const nkongamiaku2 = [
         English: "Democracy",
         French: "Démocratie",
         Tshiluba: "Mungalata",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mun·ga·la·ta<p>/Moong-ah-lah-tah/</p>",
         PhoneticsT: "Démocratie / Democracy",
         English2: "Democratic",
@@ -14296,7 +14296,7 @@ const nkongamiaku2 = [
         English: "Person",
         French: "Personne",
         Tshiluba: "Muntu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
         Phonetics: "Mun·tu<p>/MOON-too/</p>",
         PhoneticsT: "Personne / Person",
         English2: "Someone",
@@ -14422,7 +14422,7 @@ const nkongamiaku2 = [
         English: "Pronoun",
         French: "Pronom",
         Tshiluba: "Mupinganyi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mu·pi·ngan·yi<p>/moo-peen-gahn-yee/</p>",
         PhoneticsT: "Pronom / Pronoun",
         English2: " ",
@@ -14489,11 +14489,11 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>,
-                    <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>  
+                    :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                    <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                    <a class="links" href="search.html?inpt1=mufidi">mufidi</a>,
+                    <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -14772,7 +14772,7 @@ const nkongamiaku2 = [
         English: "End",
         French: "Fin",
         Tshiluba: "Ndekelu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="nkongamiaku.html?inpt1=adjectif">adjectif</a> | <a class="links" href="nkongamiaku.html?inpt1=adjective">adjective</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
         Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
         PhoneticsT: "Fin / End",
         English2: "Last",
@@ -14857,7 +14857,7 @@ const nkongamiaku2 = [
     what is your last price?
                     :<br>
                     &nbsp:&nbsp
-    Mushinga webe wa ndekelu udi <a class="links" href="nkongamiaku.html?inpt1=what">tshinyi</a>?:
+    Mushinga webe wa ndekelu udi <a class="links" href="search.html?inpt1=what">tshinyi</a>?:
     <br><br></td>
     </tr>
     `
@@ -14867,7 +14867,7 @@ const nkongamiaku2 = [
         English: "Who",
         French: "Qui",
         Tshiluba: "Nganyi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
         Phonetics: "Ngan·yi<p>/Gahn-yi/</p>",
         PhoneticsT: "Qui / Who",
         English2: " ",
@@ -14970,8 +14970,8 @@ const nkongamiaku2 = [
     {
             English: "Dictionary",
             French: "Dictionnaire",
-            Tshiluba: "Nkongamiaku",
-            PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+            Tshiluba: "search",
+            PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
             Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
             PhoneticsT: "Dictionnaire / Dictionary",
             English2: " ",
@@ -15067,7 +15067,7 @@ const nkongamiaku2 = [
         English: "Where",
         French: "Où",
         Tshiluba: "Penyi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=adverbe">adverbe</a> | <a class="links" href="nkongamiaku.html?inpt1=adverb">adverb</a> | <a class="links" href="nkongamiaku.html?inpt1=mufidi">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=adverbe">adverbe</a> | <a class="links" href="search.html?inpt1=adverb">adverb</a> | <a class="links" href="search.html?inpt1=mufidi">muambikila</a>',
         Phonetics: "Pen·yi<p>/PEN-yee/</p>",
         PhoneticsT: "Où / Where",
         English2: " ",
@@ -15148,7 +15148,7 @@ const nkongamiaku2 = [
         English: "Hand",
         French: "Main",
         Tshiluba: "Tshianza",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshian·za<p>/chyan-zah/</p>",
         PhoneticsT: "Main / Hand",
         English2: " ",
@@ -15294,7 +15294,7 @@ const nkongamiaku2 = [
         English: "Room",
         French: "Chambre",
         Tshiluba: "Tshibambalu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·bam·ba·lu<p>/chee-bahm-bah-loo/</p>",
         PhoneticsT: "Chambre / Room",
         English2: "Department",
@@ -15389,7 +15389,7 @@ const nkongamiaku2 = [
         English: "Substantive",
         French: "Substantif",
         Tshiluba: "Tshibikidilu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·bi·ki·di·lu<p>/chee-bee-kee-dee-loo/</p>",
         PhoneticsT: "Substantif / Substantive",
         English2: "Noun",
@@ -15459,11 +15459,11 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=mufidi">mufidi</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muambikila">muambikila</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=kadianjidi">kadianjidi</a>:: 
+                    :: <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                    <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>, 
+                    <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>:: 
     <br><br></td>
     </tr>
     <tr>
@@ -15519,7 +15519,7 @@ const nkongamiaku2 = [
         English: "Year",
         French: "An",
         Tshiluba: "Tshidimu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·di·mu<p>/chee-dee-moo/</p>",
         PhoneticsT: "An / Year",
         English2: " ",
@@ -15617,7 +15617,7 @@ const nkongamiaku2 = [
         English: "Error",
         French: "Erreur",
         Tshiluba: "Tshilema",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·le·ma<p>/chee-leh-mah/</p>",
         PhoneticsT: "Erreur / Error",
         English2: "Mistake",
@@ -15712,7 +15712,7 @@ const nkongamiaku2 = [
         English: "Bimbadi",
         French: "Tshimbadi",
         Tshiluba: "Tshimbadi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshim·ba·di<p>/Cheem-bah-dee/</p>",
         PhoneticsT: "Tshimbadi / Bimbadi",
         English2: " ",
@@ -15792,7 +15792,7 @@ const nkongamiaku2 = [
             English: "Thing",
             French: "Chose",
             Tshiluba: "Tshintu",
-            PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+            PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
             Phonetics: "Tshi·ntu<p>/CHEEN-too/</p>",
             PhoneticsT: "Chose / Thing",
             English2: "Object",
@@ -15915,7 +15915,7 @@ const nkongamiaku2 = [
         English: "Thousand",
         French: "Mille",
         Tshiluba: "Tshinunu",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·nu·nu<p>/chee-noo-noo/</p>",
         PhoneticsT: "Mille | Thousand",
         English2: "1000",
@@ -15993,9 +15993,9 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>,  
-                    <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>
+                    :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                    <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>
     <br><br></td>
     </tr>` 
     },
@@ -16004,7 +16004,7 @@ const nkongamiaku2 = [
         English: "What",
         French: "Quoi",
         Tshiluba: "Tshinyi",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=pronom">pronom</a> | <a class="links" href="nkongamiaku.html?inpt1=pronoun">pronoun</a> | <a class="links" href="nkongamiaku.html?inpt1=mupinganyi">mupinganyi</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=pronom">pronom</a> | <a class="links" href="search.html?inpt1=pronoun">pronoun</a> | <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>',
         Phonetics: "Tshin·yi<p>/CHEEN-yi/</p>",
         PhoneticsT: "Quoi / What",
         English2: " ",
@@ -16127,7 +16127,7 @@ const nkongamiaku2 = [
         English: "Objective",
         French: "Objectif",
         Tshiluba: "Tshipatshila",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·pa·tshi·la<p>/chee-pah-chee-lah/</p>",
         PhoneticsT: "Objectif / Objective",
         English2: "Goal",
@@ -16225,7 +16225,7 @@ const nkongamiaku2 = [
         English: "Nine",
         French: "Neuf",
         Tshiluba: "Tshitema",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·te·ma<p>/chee-teh-mah/</p>",
         PhoneticsT: "Neuf | Nine",
         English2: "9",
@@ -16303,7 +16303,7 @@ const nkongamiaku2 = [
         English: "Part",
         French: "Partie",
         Tshiluba: "Tshitupa",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·tu·pa<p>/chee-too-pah/</p>",
         PhoneticsT: "Partie / Part",
         English2: "Section",
@@ -16403,7 +16403,7 @@ const nkongamiaku2 = [
         English: "One",
         French: "Un",
         Tshiluba: "Umwe",
-        PartOfSpeech: '<a class="links" href="nkongamiaku.html?inpt1=noun">nom</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">noun</a> | <a class="links" href="nkongamiaku.html?inpt1=noun">tshibikidilu</a>',
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Um·we<p>/Oom-way/</p>",
         PhoneticsT: "Un / One",
         English2: "1",
@@ -16479,9 +16479,9 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="nkongamiaku.html?inpt1=dikumi">dikumi [10]</a>, 
-                    <a class="links" href="nkongamiaku.html?inpt1=lukama">lukama [100]</a>,  
-                    <a class="links" href="nkongamiaku.html?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>, 
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     }

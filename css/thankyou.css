@@ -1,0 +1,72 @@
+
+.header .ThankYou h1{
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    width: 90%;
+    height: fit-content;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    margin: 0 auto;
+}
+
+.header .ThankYou{
+    text-align: center;
+    background-color:transparent;
+    width: 100%;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+
+@media(max-width: 700px){
+
+    .header {
+        position: relative;
+        height: fit-content;
+    }
+
+    .header .documentarea{
+        position: relative;
+        height: fit-content;
+        top:100px;
+    }
+
+    .header .ThankYou{
+        text-align: center;
+        background-color:transparent;
+        width: 100%;
+        font-family: 'Jost', sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        height: fit-content;
+        padding-bottom: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        overflow:hidden;
+        position: relative;
+    }
+    
+   
+    .header .ThankYou h1{
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        width: 90%;
+        height: fit-content;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Jost', sans-serif;
+        margin: 0 auto;
+        position: relative;
+    }
+
+
+}

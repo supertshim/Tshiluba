@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TSHILUBA.co | The Online Tshiluba to French to English Dictionary</title>
+    <iframe src="about.html" style="display:none"></iframe>
 <!--Link to the style code-->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/contactus.css">
+    <link rel="stylesheet" href="css/search.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
@@ -17,14 +19,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Tinos:ital@0;1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
 <!--Font Awesome Mobile Menu Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="icon" href="images/Tco_logo2.jpg">
-    <!--Recapcha-->
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
-<div id="wrapper">
 <body>
 <section class="header">
     <nav>
@@ -44,32 +42,33 @@
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
     </nav>
 
-    <div class="text-box">
-        <!--Navigation Menu LOGO image-->
-       <h1>CONTACT.us</h1>
-        <p>
-    </div>
+<div class="text-box">
+    <!--Navigation Menu LOGO image-->
+   <h1><a href="home.html">TSHILUBA.co</a></h1>
+    <p><br><br>
+        <div class="container">
+            <form action="" class="search-bar" method="get" target="_self">
+                <input type="text" placeholder="Cherchez...Search...Keba" id="inpt1" name="inpt1" autocomplete="off">
+                <button type="submit" id="btn1"><img src="images/search-bar-01.png"></button>
+            </form>
+        </div>
+    </p>
+</div>
 
-<div class="documentarea">
- <div class="ContactUs">
-    <form action="https://formsubmit.co/2e721393200729b1c15000f18b84160d" method="POST">
-        <p><b>NAME | DINA</b></p>
-        <input class="contactform" autocomplete="off" type="text" name="name" required><br>
-        <p><b>SUBJECT | BUALU</b></p>
-        <input class="contactform" autocomplete="off" type="text" name="subject" required><br>
-        <p><b>EMAIL ADDRESS</b></p>
-        <input class="contactform" autocomplete="off" type="email" name="email" required><br>
-        <p><b>MESSAGE | MUKENJI</b></p>
-        <textarea class="contactformmessage" autocomplete="off" type="text" name="message" required></textarea>
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="https://tshiluba.co/thankyou.html"><br>
-            <div class="gcaptcha-box">
-            <div class="g-recaptcha" data-sitekey="6LfMdjkpAAAAAA5pvm55qNPBGE1UbYcfwZ_KC8wi"></div>
-            </div>
-        <button class="buttxn" type="submit">SEND | TUMA</button>
-   </form>
-
-    </div>
+<div class="cardcage">
+    
+<div class="card">
+    <h1 class="bigword" id="inf1"></h1>
+    <h1 class="PartOfSpeech" id="PoS"></h1>
+    <h1 class="Phonetics" id="Phon"></h1>
+<div>
+    <table class="h-lines" id="h-lines"></table> 
+</div>
+<div class="tablewrapper">
+    <table class="Xinfo" id="Xinfo">
+    </table> 
+</div>
+</div>
 </div>
 
 </section>
@@ -78,7 +77,7 @@
     <table>
         <tr class="ft1">
             <th style="width: 100px; height: 100px; text-align:center;"><a href="aboutus.html" style="text-decoration: none;">ABOUT US</a><br><br><a href="contactus.html" style="text-decoration: none;">CONTACT US</a></th>
-            <th style="width: 100px; height: 100px;"><a href="index.html"><img src="images/Tco_logo2.jpg"></a><br><br>TSHILUBA.co, LLC 2023<br>
+            <th style="width: 100px; height: 100px;"><a href="index.html"><img src="images/Tco_logo2.jpg"></a><br>TSHILUBA.co, LLC 2023<br>
                 </th>
             <th style="width: 100px; height: 100px;"><a href="privacypolicy.html" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
         </tr>
@@ -92,7 +91,6 @@
         </tr>
     </table>
 </footer>
-
 <!--Java Script For Toggle Menu-->
 <script>
 
@@ -105,31 +103,31 @@
     }
 
 </script>
+<!--Java Script For Dictionary Search-->
+<script src="dictionary.js">
+</script>
+
+<!--Script For Enter Button-->
 <script>
 
-    const form = document.querySelector('form');
-    form.addEventListener('submit', (e) => {
-
-            e.preventDefault();
-
-            const CaptchaResponse = grecaptcha.getResponse();
-
-            if (!CaptchaResponse.length > 0) {
-
-                throw new Error("Captcha Not Complete")
-            }
-
-            const fd = new FormData(e.target);
-            const params = new URLSearchParams(fd);
-
-            fetch('https://formsubmit.co/2e721393200729b1c15000f18b84160d', {
-                method: "POST",
-                body: params,
-            })
-            
-            window.location = 'https://tshiluba.co/thankyou.html';
+    var input = document.getElementById("inpt1");
+    input.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        document.getElementById("btn1").click();
+      }
     });
+    
 </script>
+<!--Script for main page to get the searched input word-->
+<script>
+
+    var getitem = window.location.search;
+    var homeindexword = getitem.slice(7,getitem.length);
+    window.onload = maininpt();
+    
+</script>
+
 </body>
-</div>
+
 </html>
