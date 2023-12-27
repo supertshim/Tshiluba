@@ -393,11 +393,11 @@ nav .fa-solid{
 
     .header .text-box {
         width: 100%;
-        height: 100%;
+        height: 170px;
         color: #fff;
         position: relative;
         padding: 0px 0px;
-        top: 80px;
+        top: 40px;
         font-family: 'Jost', sans-serif;
         overflow: hidden;
         display: block;
@@ -409,7 +409,8 @@ nav .fa-solid{
         display: block;
         position: relative;
         left: 0px;
-        font-size: 8vw;
+        font-size: 30px;
+        margin-bottom: -40px;
     }
     .search-bar input{
         font-size: 18px;

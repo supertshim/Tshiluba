@@ -189,22 +189,28 @@ a.links:visited {
 @media(max-width: 700px){
 .header .cardcage{
     font-size: 32px;
-    padding: 0px 0px;
     display:block;
     overflow-y: hidden;
     z-index: 1;
-    top:100px;
+    top:0px;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
 }
-.header .card{
+.header .cardcage .card{
     padding: 0px 0px;
     align-items: center;
-    width: 80%;
+    width: 100%;
     display: block;
+    position: relative;
 }
 .header .card .bigword{
-    font-size: 7vw;
+    font-size: 40px;
     padding-top: 30px;
     padding-bottom: 20px;
+    word-wrap: break-word;
+    width: 90%;
 }
 .header .card .PartOfSpeech{
     font-size: 4vw;
