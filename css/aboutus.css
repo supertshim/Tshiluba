@@ -7,7 +7,7 @@
     height: fit-content;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     position: relative;
     top:10px;
     width: 100%;
@@ -87,9 +87,9 @@
         display:block;
         overflow-y: hidden;
         z-index: 1;
-        top:100px;
+        top:-50px;
         padding-top: 20px;
-        padding-bottom: 100px;
+        padding-bottom: 20px;
     }
     .header .documentarea .AboutUs{
         padding: 20px;

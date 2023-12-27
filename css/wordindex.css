@@ -60,9 +60,9 @@
     align-items: center;
     width: 80%;
     display: block;
-    top:100px;
+    top:-40px;
     padding: 20px;
-    margin-bottom: 200px;
+    margin-bottom: 0px;
 }
 .header .IndexBox ol{
     list-style-position: inside;
