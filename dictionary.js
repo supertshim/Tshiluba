@@ -16579,7 +16579,7 @@ function maininpt(){
         wordinput = decodeURIComponent(wordinput);   // 'Friday September 13th
         wordinput = wordinput.trim();
     
-        wordinfo.innerHTML = `${nkongamiaku.find(findmiaku3).French.toUpperCase()} | ${nkongamiaku.find(findmiaku3).English.toUpperCase()}`;
+        wordinfo.innerHTML = `${nkongamiaku.find(findmiaku3).French.toUpperCase()}<br>${nkongamiaku.find(findmiaku3).English.toUpperCase()}`;
         wordPhon.innerHTML = `${nkongamiaku.find(findmiaku3).Phonetics.toUpperCase()}`;
         function findmiaku3(miaku){
         return miaku.French.toLowerCase() === wordinput||
