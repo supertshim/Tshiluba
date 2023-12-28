@@ -946,21 +946,21 @@ dikumi ne ibidi, 12 <i class="PartOfSpch">tshi4</i><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
                 <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
                 <a class="links" href="search.html?inpt1=20">makumi abidi[20]</a>,  
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>.
+                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>.
                 <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Asatu*/  
+/*Dikumi ne Isatu*/  
 {
     English: "Thirteen",
     French: "Treize",
-    Tshiluba: "Dikumi Ne Asatu",
+    Tshiluba: "Dikumi Ne Isatu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "Di·ku·mi ne A·sa·tu<p>/Djee-koo-mee ne ah-sah-tuu/</p>",
+    Phonetics: "Di·ku·mi ne I·sa·tu<p>/Djee-koo-mee ne Ee-sah-tuu/</p>",
     PhoneticsT: "Treize | Thirteen",
     English2: "13",
-    French2: "Dikumi ne Asatu: 13",
+    French2: "Dikumi ne Isatu: 13",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1016,7 +1016,7 @@ treize, 13 <i class="PartOfSpch">n</i>
 thirteen, 13 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dikumi ne asatu, 13 <i class="PartOfSpch">tshi4</i><br>
+dikumi ne isatu, 13 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -1036,21 +1036,21 @@ dikumi ne asatu, 13 <i class="PartOfSpch">tshi4</i><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
                 <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
                 <a class="links" href="search.html?inpt1=30">makumi asatu[30]</a>,  
-                <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>.
+                <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>.
                 <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Anayi*/  
+/*Dikumi ne Inayi*/  
 {
     English: "Fourteen",
     French: "Quatorze",
-    Tshiluba: "Dikumi Ne Anayi",
+    Tshiluba: "Dikumi Ne Inayi",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "Di·ku·mi ne A·na·yi<p>/Djee-koo-mee ne ah-nahy/</p>",
+    Phonetics: "Di·ku·mi ne I·na·yi<p>/Djee-koo-mee ne Ee-nahy/</p>",
     PhoneticsT: "Quatorze | Fourteen",
     English2: "14",
-    French2: "Dikumi ne Anayi: 14",
+    French2: "Dikumi ne Inayi: 14",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1126,21 +1126,21 @@ dikumi ne inayi, 14 <i class="PartOfSpch">tshi4</i><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
                 <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
                 <a class="links" href="search.html?inpt1=40">makumi anayi[40]</a>,  
-                <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>.
+                <a class="links" href="search.html?inpt1=400">nkama inayi [400]</a>.
                 <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Atanu*/  
+/*Dikumi ne Itanu*/  
 {
     English: "Fifteen",
     French: "Quinze",
-    Tshiluba: "Dikumi Ne Atanu",
+    Tshiluba: "Dikumi Ne Itanu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "Di·ku·mi ne A·ta·nu<p>/Djee-koo-mee ne ah-tah-noo/</p>",
+    Phonetics: "Di·ku·mi ne I·ta·nu<p>/Djee-koo-mee ne Ee-tah-noo/</p>",
     PhoneticsT: "Quinze | Fifteen",
     English2: "15",
-    French2: "Dikumi ne Atanu: 15",
+    French2: "Dikumi ne Itanu: 15",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1196,7 +1196,7 @@ Quinze, 15 <i class="PartOfSpch">n</i>
 fifteen, 15 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dikumi ne atanu, 15 <i class="PartOfSpch">tshi4</i><br>
+dikumi ne itanu, 15 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -1216,21 +1216,21 @@ dikumi ne atanu, 15 <i class="PartOfSpch">tshi4</i><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
                 <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
                 <a class="links" href="search.html?inpt1=50">makumi atanu[50]</a>,  
-                <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>.
+                <a class="links" href="search.html?inpt1=500">nkama itanu [500]</a>.
                 <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Asambombo*/  
+/*Dikumi ne Isambombo*/  
 {
     English: "Sixteen",
     French: "Seize",
-    Tshiluba: "Dikumi Ne Asambombo",
+    Tshiluba: "Dikumi Ne Isambombo",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "Di·ku·mi ne A·sam·bom·bo<p>/Djee-koo-mee ne ah-sahm-bohm-boh/</p>",
+    Phonetics: "Di·ku·mi ne I·sam·bom·bo<p>/Djee-koo-mee ne Ee-sahm-bohm-boh/</p>",
     PhoneticsT: "Seize | Sixteen",
     English2: "16",
-    French2: "Dikumi ne Asambombo: 16",
+    French2: "Dikumi ne Isambombo: 16",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1286,7 +1286,7 @@ Seize, 16 <i class="PartOfSpch">n</i>
 sixteen, 16 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dikumi ne asambombo, 16 <i class="PartOfSpch">tshi4</i><br>
+dikumi ne isambombo, 16 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -1306,21 +1306,21 @@ dikumi ne asambombo, 16 <i class="PartOfSpch">tshi4</i><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
                 <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
                 <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
-                <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>.
+                <a class="links" href="search.html?inpt1=600">nkama isambombo [600]</a>.
                 <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Muandamutekete*/  
+/*Dikumi ne Muanda-mutekete*/  
 {
     English: "Seventeen",
     French: "Dix-sept",
-    Tshiluba: "Dikumi Ne Muandamutekete",
+    Tshiluba: "Dikumi Ne Muanda-mutekete",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·ku·mi ne Muan·da·mu·te·ke·te<p>/Djee-koo-mee ne mwahn-dah-moo-teh-keh-tah/</p>",
     PhoneticsT: "Dix-sept | Seventeen",
     English2: "17",
-    French2: "Dikumi ne Muandamutekete: 17",
+    French2: "Dikumi ne Muanda-mutekete: 17",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1376,7 +1376,7 @@ dix-sept, 17 <i class="PartOfSpch">n</i>
 seventeen, 17 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dikumi ne muandamutekete, 17 <i class="PartOfSpch">tshi4</i><br>
+dikumi ne muanda-mutekete, 17 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -1394,23 +1394,23 @@ dikumi ne muandamutekete, 17 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=7">muandamutekete [7]</a>, 
-                <a class="links" href="search.html?inpt1=70">makumi muandamutekete [70]</a>,  
-                <a class="links" href="search.html?inpt1=700">nkama muandamutekete [700]</a>.
-                <a class="links" href="search.html?inpt1=7000">binunu muandamutekete [7000]</a>
+                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>, 
+                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>,  
+                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>.
+                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
 <br><br></td>
 </tr>` 
 },
-/*Dikumi ne Muandamukulu*/  
+/*Dikumi ne Muanda-mukulu*/  
 {
     English: "Eighteen",
     French: "Dix-huit",
-    Tshiluba: "Dikumi Ne Muandamukulu",
+    Tshiluba: "Dikumi Ne Muanda-mukulu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Di·ku·mi ne Muan·da·mu·ku·lu<p>/Djee-koo-mee ne mwahn-dah-moo-koo-loo/</p>",
     PhoneticsT: "Dix-huit | Eighteen",
     English2: "18",
-    French2: "Dikumi ne Muandamukulu: 18",
+    French2: "Dikumi ne Muanda-mukulu: 18",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -1466,7 +1466,7 @@ dix-huit, 18 <i class="PartOfSpch">n</i>
 eighteen, 18 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dikumi ne muandamukulu, 18 <i class="PartOfSpch">tshi4</i><br>
+dikumi ne muanda-mukulu, 18 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -1484,10 +1484,10 @@ dikumi ne muandamukulu, 18 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>, 
-                <a class="links" href="search.html?inpt1=80">makumi muandamukulu [80]</a>,  
-                <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>.
-                <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>, 
+                <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>,  
+                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>.
+                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -6628,7 +6628,7 @@ nkama isambombo, 600 <i class="PartOfSpch">tshi5</i><br>
 <br><br></td>
 </tr>` 
 },
-/*Nkama Muandamutekete*/  
+/*Nkama Muanda-mutekete*/  
 {
     English: "Seven Hundred",
     French: "Sept-cents",
@@ -8234,12 +8234,12 @@ makumi muanda-mutekete, 70 <i class="PartOfSpch">tshi4</i><br>
 {
     English: "Eighty",
     French: "Quatre-vingt",
-    Tshiluba: "Makumi Muandamukulu",
+    Tshiluba: "Makumi Muanda-mukulu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Ma·ku·mi Muan·da·mu·ku·lu<p>/Mah-koo-mee neh mwahn-dah-moo-koo-luu/</p>",
     PhoneticsT: "Quatre-vingt | Eighty",
     English2: "80",
-    French2: "Makumi Muandamukulu: 80",
+    French2: "Makumi Muanda-mukulu: 80",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: " ",
@@ -8295,7 +8295,7 @@ quatre-vingt, 80 <i class="PartOfSpch">n</i>
 eighty, 80 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-makumi muandamukulu, 80 <i class="PartOfSpch">tshi4</i><br>
+makumi muanda-mukulu, 80 <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
@@ -8312,10 +8312,10 @@ makumi muandamukulu, 80 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>,
-                <a class="links" href="search.html?inpt1=18">dikumi ne muandamukulu [18]</a>,
-                <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>,  
-                <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>,  
+                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12841,7 +12841,7 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Ibidi*/  
+   /*Dikumi ne Ibidi*/  
     {
         English: "Twelve",
         French: "Douze",
@@ -12923,23 +12923,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
                     <a class="links" href="search.html?inpt1=20">makumi abidi[20]</a>,  
-                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>.
+                    <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>.
                     <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Asatu*/  
+    /*Dikumi ne Isatu*/  
     {
         English: "Thirteen",
         French: "Treize",
-        Tshiluba: "Dikumi Ne Asatu",
+        Tshiluba: "Dikumi Ne Isatu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Di·ku·mi ne A·sa·tu<p>/Djee-koo-mee ne ah-sah-tuu/</p>",
+        Phonetics: "Di·ku·mi ne I·sa·tu<p>/Djee-koo-mee ne Ee-sah-tuu/</p>",
         PhoneticsT: "Treize | Thirteen",
         English2: "13",
-        French2: "Dikumi ne Asatu: 13",
+        French2: "Dikumi ne Isatu: 13",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -12995,7 +12996,7 @@ const nkongamiaku2 = [
     thirteen, 13 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    dikumi ne asatu, 13 <i class="PartOfSpch">tshi4</i><br>
+    dikumi ne isatu, 13 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -13012,23 +13013,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
                     <a class="links" href="search.html?inpt1=30">makumi asatu[30]</a>,  
-                    <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>.
+                    <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>.
                     <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Anayi*/  
+    /*Dikumi ne Inayi*/  
     {
         English: "Fourteen",
         French: "Quatorze",
-        Tshiluba: "Dikumi Ne Anayi",
+        Tshiluba: "Dikumi Ne Inayi",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Di·ku·mi ne A·na·yi<p>/Djee-koo-mee ne ah-nahy/</p>",
+        Phonetics: "Di·ku·mi ne I·na·yi<p>/Djee-koo-mee ne Ee-nahy/</p>",
         PhoneticsT: "Quatorze | Fourteen",
         English2: "14",
-        French2: "Dikumi ne Anayi: 14",
+        French2: "Dikumi ne Inayi: 14",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -13101,23 +13103,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
                     <a class="links" href="search.html?inpt1=40">makumi anayi[40]</a>,  
-                    <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>.
+                    <a class="links" href="search.html?inpt1=400">nkama inayi [400]</a>.
                     <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Atanu*/  
+    /*Dikumi ne Itanu*/  
     {
         English: "Fifteen",
         French: "Quinze",
-        Tshiluba: "Dikumi Ne Atanu",
+        Tshiluba: "Dikumi Ne Itanu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Di·ku·mi ne A·ta·nu<p>/Djee-koo-mee ne ah-tah-noo/</p>",
+        Phonetics: "Di·ku·mi ne I·ta·nu<p>/Djee-koo-mee ne Ee-tah-noo/</p>",
         PhoneticsT: "Quinze | Fifteen",
         English2: "15",
-        French2: "Dikumi ne Atanu: 15",
+        French2: "Dikumi ne Itanu: 15",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -13173,7 +13176,7 @@ const nkongamiaku2 = [
     fifteen, 15 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    dikumi ne atanu, 15 <i class="PartOfSpch">tshi4</i><br>
+    dikumi ne itanu, 15 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -13190,23 +13193,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
                     <a class="links" href="search.html?inpt1=50">makumi atanu[50]</a>,  
-                    <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>.
+                    <a class="links" href="search.html?inpt1=500">nkama itanu [500]</a>.
                     <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Asambombo*/  
+    /*Dikumi ne Isambombo*/  
     {
         English: "Sixteen",
         French: "Seize",
-        Tshiluba: "Dikumi Ne Asambombo",
+        Tshiluba: "Dikumi Ne Isambombo",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Di·ku·mi ne A·sam·bom·bo<p>/Djee-koo-mee ne ah-sahm-bohm-boh/</p>",
+        Phonetics: "Di·ku·mi ne I·sam·bom·bo<p>/Djee-koo-mee ne Ee-sahm-bohm-boh/</p>",
         PhoneticsT: "Seize | Sixteen",
         English2: "16",
-        French2: "Dikumi ne Asambombo: 16",
+        French2: "Dikumi ne Isambombo: 16",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -13262,7 +13266,7 @@ const nkongamiaku2 = [
     sixteen, 16 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    dikumi ne asambombo, 16 <i class="PartOfSpch">tshi4</i><br>
+    dikumi ne isambombo, 16 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -13279,23 +13283,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
                     <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
-                    <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>.
+                    <a class="links" href="search.html?inpt1=600">nkama isambombo [600]</a>.
                     <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Muandamutekete*/  
+    /*Dikumi ne Muanda-mutekete*/  
     {
         English: "Seventeen",
         French: "Dix-sept",
-        Tshiluba: "Dikumi Ne Muandamutekete",
+        Tshiluba: "Dikumi Ne Muanda-mutekete",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·ku·mi ne Muan·da·mu·te·ke·te<p>/Djee-koo-mee ne mwahn-dah-moo-teh-keh-tah/</p>",
         PhoneticsT: "Dix-sept | Seventeen",
         English2: "17",
-        French2: "Dikumi ne Muandamutekete: 17",
+        French2: "Dikumi ne Muanda-mutekete: 17",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -13351,7 +13356,7 @@ const nkongamiaku2 = [
     seventeen, 17 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    dikumi ne muandamutekete, 17 <i class="PartOfSpch">tshi4</i><br>
+    dikumi ne muanda-mutekete, 17 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -13368,23 +13373,24 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=7">muandamutekete [7]</a>, 
-                    <a class="links" href="search.html?inpt1=70">makumi muandamutekete [70]</a>,  
-                    <a class="links" href="search.html?inpt1=700">nkama muandamutekete [700]</a>.
-                    <a class="links" href="search.html?inpt1=7000">binunu muandamutekete [7000]</a>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>, 
+                    <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>,  
+                    <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>.
+                    <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
     <br><br></td>
     </tr>` 
     },
-    /*Dikumi ne Muandamukulu*/  
+    /*Dikumi ne Muanda-mukulu*/  
     {
         English: "Eighteen",
         French: "Dix-huit",
-        Tshiluba: "Dikumi Ne Muandamukulu",
+        Tshiluba: "Dikumi Ne Muanda-mukulu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·ku·mi ne Muan·da·mu·ku·lu<p>/Djee-koo-mee ne mwahn-dah-moo-koo-loo/</p>",
         PhoneticsT: "Dix-huit | Eighteen",
         English2: "18",
-        French2: "Dikumi ne Muandamukulu: 18",
+        French2: "Dikumi ne Muanda-mukulu: 18",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -13440,7 +13446,7 @@ const nkongamiaku2 = [
     eighteen, 18 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    dikumi ne muandamukulu, 18 <i class="PartOfSpch">tshi4</i><br>
+    dikumi ne muanda-mukulu, 18 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -13457,10 +13463,11 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>, 
-                    <a class="links" href="search.html?inpt1=80">makumi muandamukulu [80]</a>,  
-                    <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>.
-                    <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>, 
+                    <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>,  
+                    <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>.
+                    <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -13546,7 +13553,8 @@ const nkongamiaku2 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=9">tshitema [9]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=9">tshitema [9]</a>, 
                     <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>,  
                     <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,
                     <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
@@ -18005,7 +18013,7 @@ const nkongamiaku2 = [
     /*Nkama Ibidi*/  
     {
         English: "Two Hundred",
-        French: "Deux-cent",
+        French: "Deux-cents",
         Tshiluba: "Nkama Ibidi",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma I·bi·di<p>/Nkah-mah ee-bee-djee/</p>",
@@ -18015,7 +18023,7 @@ const nkongamiaku2 = [
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
-        French3: " ",
+        French3: "Deux cents",
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: " ",
@@ -18061,7 +18069,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    deux-cent, 200 <i class="PartOfSpch">n</i>
+    deux-cents, 200 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     two hundred, 200 <i class="PartOfSpch">n</i>
@@ -18094,7 +18102,7 @@ const nkongamiaku2 = [
     /*Nkama Isatu*/  
     {
         English: "Three Hundred",
-        French: "Troix-cent",
+        French: "Trois-cents",
         Tshiluba: "Nkama Isatu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma I·sa·tu<p>/Nkah-mah Ee-sah-too/</p>",
@@ -18103,7 +18111,7 @@ const nkongamiaku2 = [
         French2: "Nkama Isatu: 300",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Trois cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18150,7 +18158,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    troix-cent, 300 <i class="PartOfSpch">n</i>
+    trois-cents, 300 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     three hundred, 300 <i class="PartOfSpch">n</i>
@@ -18183,7 +18191,7 @@ const nkongamiaku2 = [
     /*Nkama Inayi*/  
     {
         English: "Four Hundred",
-        French: "Quatre-cent",
+        French: "Quatre-cents",
         Tshiluba: "Nkama Inayi",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma I·na·yi<p>/Nkah-mah Ee-nahy/</p>",
@@ -18192,7 +18200,7 @@ const nkongamiaku2 = [
         French2: "Nkama Inayi: 400",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Quatre cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18239,7 +18247,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    quatre-cent, 400 <i class="PartOfSpch">n</i>
+    quatre-cents, 400 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     four hundred, 400 <i class="PartOfSpch">n</i>
@@ -18272,7 +18280,7 @@ const nkongamiaku2 = [
     /*Nkama Itanu*/  
     {
         English: "Five Hundred",
-        French: "Cinq-cent",
+        French: "Cinq-cents",
         Tshiluba: "Nkama Itanu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma I·ta·nu<p>/Nkah-mah Ee-tah-nuu/</p>",
@@ -18281,7 +18289,7 @@ const nkongamiaku2 = [
         French2: "Nkama Itanu: 500",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Cinq Cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18328,7 +18336,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    cinq-cent, 500 <i class="PartOfSpch">n</i>
+    cinq-cents, 500 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     five hundred, 500 <i class="PartOfSpch">n</i>
@@ -18361,7 +18369,7 @@ const nkongamiaku2 = [
     /*Nkama Isambombo*/  
     {
         English: "Six Hundred",
-        French: "Six-cent",
+        French: "Six-cents",
         Tshiluba: "Nkama Isambombo",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma I·sam·bom·bo<p>/Nkah-mah Ee-sahm-bohm-boh/</p>",
@@ -18370,7 +18378,7 @@ const nkongamiaku2 = [
         French2: "Nkama Isambombo: 600",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Six cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18417,7 +18425,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    six-cent, 600 <i class="PartOfSpch">n</i>
+    six-cents, 600 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     six hundred, 600 <i class="PartOfSpch">n</i>
@@ -18450,7 +18458,7 @@ const nkongamiaku2 = [
     /*Nkama Muandamutekete*/  
     {
         English: "Seven Hundred",
-        French: "Sept-cent",
+        French: "Sept-cents",
         Tshiluba: "Nkama Muanda-mutekete",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma Muan·da·mu·te·ke·te<p>/Mah-koo-mee mwahn-dah-moo-teh-keh-tah/</p>",
@@ -18459,7 +18467,7 @@ const nkongamiaku2 = [
         French2: "Nkama Muanda-mutekete: 700",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "sept cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18506,7 +18514,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    sept-cent, 700 <i class="PartOfSpch">n</i>
+    sept-cents, 700 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     seven hundred, 700 <i class="PartOfSpch">n</i>
@@ -18539,7 +18547,7 @@ const nkongamiaku2 = [
     /*Nkama Muanda-mukulu*/  
     {
         English: "Eight Hundred",
-        French: "Huit-cent",
+        French: "Huit-cents",
         Tshiluba: "Nkama Muanda-mukulu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "NKa·ma Muan·da·mu·ku·lu<p>/Nkah-mah mwahn-dah-moo-koo-luu/</p>",
@@ -18548,7 +18556,7 @@ const nkongamiaku2 = [
         French2: "Makumi Muanda-mukulu: 800",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "huit cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18595,7 +18603,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    huit-cent, 800 <i class="PartOfSpch">n</i>
+    huit-cents, 800 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     eight hundred, 800 <i class="PartOfSpch">n</i>
@@ -18628,7 +18636,7 @@ const nkongamiaku2 = [
     /*Nkama Tshitema*/  
     {
         English: "Nine Hundred",
-        French: "Neuf-cent",
+        French: "Neuf-cents",
         Tshiluba: "Nkama Tshitema",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nka·ma Tshi·te·ma<p>/Nkah-mah chee-teh-mah/</p>",
@@ -18637,7 +18645,7 @@ const nkongamiaku2 = [
         French2: "Nkama Tshitema: 900",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "neuf cents",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18684,7 +18692,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    neuf-cent, 900 <i class="PartOfSpch">n</i>
+    neuf-cents, 900 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     nine hundred, 900 <i class="PartOfSpch">n</i>
@@ -18904,7 +18912,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Ibidi: 22",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt et un",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -18984,7 +18992,7 @@ const nkongamiaku2 = [
     /*Makumi Abidi Ne Isatu*/  
     {
         English: "Twenty Three",
-        French: "Vingt-troix",
+        French: "Vingt-trois",
         Tshiluba: "Makumi Abidi Ne Isatu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ma·ku·mi A·bi·di ne I·sa·tu<p>/Mah-koo-mee Ah-bee-djee Neh ee-sah-too/</p>",
@@ -18993,7 +19001,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Isatu: 23",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt trois",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19040,7 +19048,7 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    vingt-troix, 23 <i class="PartOfSpch">n</i>
+    vingt-trois, 23 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
     twenty three, 23 <i class="PartOfSpch">n</i>
@@ -19082,7 +19090,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Inayi: 24",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt quatre",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19171,7 +19179,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Cinq: 25",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt cinq",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19260,7 +19268,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Isambombo: 26",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt six",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19349,7 +19357,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Muanda-mutekete: 27",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt sept",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19438,7 +19446,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Muanda-mukulu: 28",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt huit",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -19527,7 +19535,7 @@ const nkongamiaku2 = [
         French2: "Makumi Abidi ne Tshitema: 29",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "vingt neuf",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -20053,12 +20061,12 @@ const nkongamiaku2 = [
     {
         English: "Eighty",
         French: "Quatre-vingt",
-        Tshiluba: "Makumi Muandamukulu",
+        Tshiluba: "Makumi Muanda-mukulu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ma·ku·mi Muan·da·mu·ku·lu<p>/Mah-koo-mee neh mwahn-dah-moo-koo-luu/</p>",
         PhoneticsT: "Quatre-vingt | Eighty",
         English2: "80",
-        French2: "Makumi Muandamukulu: 80",
+        French2: "Makumi Muanda-mukulu: 80",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -20114,7 +20122,7 @@ const nkongamiaku2 = [
     eighty, 80 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    makumi muandamukulu, 80 <i class="PartOfSpch">tshi4</i><br>
+    makumi muanda-mukulu, 80 <i class="PartOfSpch">tshi4</i><br>
     </td>
     </tr>
     <tr>
@@ -20131,10 +20139,10 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>,
-                    <a class="links" href="search.html?inpt1=18">dikumi ne muandamukulu [18]</a>,
-                    <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>,  
-                    <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+                    <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                    <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>,  
+                    <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -23166,7 +23174,7 @@ const nkongamiaku2 = [
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: "A thousand",
-        French4: " ",
+        French4: "Binunu",
         Tshiluba4: " ",
         PhoneticsT4: " ",
         English5: " ",
@@ -23216,13 +23224,13 @@ const nkongamiaku2 = [
     <td class="tabledef" valign=top >
     tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
     <i class="PartOfSpch">pl.</i> binunu
-    
+
     </td>
     </tr>
     <tr>
     <td colspan="3" class="analogy"><br>
     <b><i>Nombre Cardinale: 1000</i></b><br>
-    
+
     <b><i>Cardinal Number: 1000</i></b><br>
                 
     <b><i>Bungi Bua Dibala: 1000</i></b><br>
@@ -23241,7 +23249,7 @@ const nkongamiaku2 = [
     /*Binunu Bibidi*/  
     {
         English: "Two Thousand",
-        French: "Vingt-mille",
+        French: "Deux-mille",
         Tshiluba: "Binunu Bibidi",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Bi·nu·nu Bi·bi·di<p>/bee-noo-noo bee-bee-djee/</p>",
@@ -23251,7 +23259,7 @@ const nkongamiaku2 = [
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
-        French3: " ",
+        French3: "Deux mille",
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: " ",
@@ -23330,17 +23338,17 @@ const nkongamiaku2 = [
     /*Binunu Bisatu*/  
     {
         English: "Three Thousand",
-        French: "Troix-Mille",
+        French: "Trois-Mille",
         Tshiluba: "Binunu Bisatu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Bi·nu·nu Bi·bi·di<p>/Bee-noo-new Bee-sah-too/</p>",
-        PhoneticsT: "Troix-Mille | Three Thousand",
+        PhoneticsT: "Trois-Mille | Three Thousand",
         English2: "3000",
         French2: "Binunu Bisatu: 3000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
-        French3: " ",
+        French3: "Trois mille",
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: " ",
@@ -23429,7 +23437,7 @@ const nkongamiaku2 = [
         French2: "Binunu Binayi: 4000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Quatre Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -23519,7 +23527,7 @@ const nkongamiaku2 = [
         French2: "Binunu Bitanu: 5000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Cinq Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -23609,7 +23617,7 @@ const nkongamiaku2 = [
         French2: "Binunu Bisambombo: 6000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Six Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -23690,7 +23698,7 @@ const nkongamiaku2 = [
     /*Binunu Muanda-mutekete*/  
     {
         English: "Seven Thousand",
-        French: "Vingt-Mille",
+        French: "Sept-Mille",
         Tshiluba: "Binunu Muanda-mutekete",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Bi·nu·nu Muan·da·mu·te·ke·te<p>/Bee-noo-noo muan-dah-moo-teh-keh-tah/</p>",
@@ -23699,7 +23707,7 @@ const nkongamiaku2 = [
         French2: "Binunu Muanda-Mutekete: 7000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Sept Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -23789,7 +23797,7 @@ const nkongamiaku2 = [
         French2: "Binunu Muanda-Mukulu: 8000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Huit Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -23879,7 +23887,7 @@ const nkongamiaku2 = [
         French2: "Binunu Tshitema: 9000",
         Tshiluba2: " ",
         PhoneticsT2: " ",
-        English3: " ",
+        English3: "Neuf Mille",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
