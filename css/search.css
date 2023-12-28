@@ -135,9 +135,9 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo tr td{
     font-family:'Jost', sans-serif;
     padding-left: 20px;
-    padding-right: 20px;
+    padding-right: 0px;
     font-size: 36px;
-    width: 33%;
+    width: 30%;
     position: relative;
     text-align: center;
 }
@@ -160,11 +160,11 @@ a.links:visited {
 }
 .header .card .tablewrapper .Xinfo .tabledef{
     font-family:'Tinos', sans-serif;
-    padding: 20px;
-    font-size: 30px;
+    padding: 0px;
     position: relative;
     text-align: left;
     font-weight: 700;
+    font-size: 30px;
 }
 .header .card .tablewrapper .Xinfo .tabledef_a{
     font-family:'Tinos', sans-serif;
@@ -218,7 +218,7 @@ a.links:visited {
     overflow: hidden;
 }
 .header .card .bigword{
-    font-size: 60px;
+    font-size: 59px;
     padding-top: 10px;
     padding-bottom: 20px;
     word-wrap: break-word;
@@ -267,7 +267,6 @@ a.links:visited {
 
 .header .card .tablewrapper .Xinfo tr{
     padding: 0px;
-    font-size: 6vw;
     position: relative;
     text-align: left;
 }
@@ -300,11 +299,12 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo .tabledef{
     font-family:'Tinos', sans-serif;
     position: relative;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-size: 6vw;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 4vw;
     text-align: left;
     word-wrap: break-word;
+    width: 30vw;
     /*background-color: green;*/
 }
 .header .card .tablewrapper .Xinfo .tabledef_a{
