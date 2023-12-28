@@ -218,7 +218,7 @@ a.links:visited {
     overflow: hidden;
 }
 .header .card .bigword{
-    font-size: 59px;
+    font-size: 10vw;
     padding-top: 10px;
     padding-bottom: 20px;
     word-wrap: break-word;
