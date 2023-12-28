@@ -58,7 +58,7 @@
             </div>
             <div class="ws_details">
                 <p class="ws_hint">Meaning: <span></span></p>
-                <p class="ws_timeleft">Time Left:<br><span><b>20</b>s</span></p>
+                <p class="ws_timeleft">Time Left:<br><span><b>30</b>s</span></p>
             </div>
             <input type="text" id="ws_input" placeholder="DEVINEZ...GUESS..." autocomplete="off">
             <div class="ws_buttons">
@@ -142,7 +142,7 @@
 
     }
     const initwsGame = () => {
-            initTimer(20);
+            initTimer(30);
             let randomChoice = nkongamiaku2[Math.floor(Math.random() * nkongamiaku2.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
@@ -158,10 +158,10 @@
 
     const refreshIt = () => {
             clearInterval(timer);
-            timeText2.innerHTML = `<b>20</b>s`;
+            timeText2.innerHTML = `<b>30</b>s`;
             timeText = document.querySelector(".ws_timeleft b");
             console.log(timeText);
-            initTimer(20);
+            initTimer(30);
             let randomChoice = nkongamiaku2[Math.floor(Math.random() * nkongamiaku2.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
@@ -178,7 +178,7 @@
                     document.getElementById('ws_input').value = "";
                 }, 0);
     }
-    initwsGame(20);
+    initwsGame(30);
 
     var wrongAnswer = '.ws_gamebox .ws_check:active {animation: tilt-shaking 0.12s infinite;}';
     var doWrongAnswer = document.createElement('style');
