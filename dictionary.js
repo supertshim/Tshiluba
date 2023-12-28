@@ -62,7 +62,7 @@ const nkongamiaku = [
     French: "De",
     Tshiluba: "--a",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=preposition">préposition</a> | <a class="links" href="search.html?inpt1=preposition">preposition</a> | <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>',
-    Phonetics: "Wa·/Wah/·Ya·/yah/·Bwa·/Bwah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
+    Phonetics: "Wa·/Wah/·Ya·/yah/·Bua·/Buah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
     PhoneticsT: "De / Of",
     English2: " ",
     French2: " ",
@@ -74,7 +74,7 @@ const nkongamiaku = [
     PhoneticsT3: " ",
     English4: " ",
     French4: " ",
-    Tshiluba4: "Bwa",
+    Tshiluba4: "Bua",
     PhoneticsT4: " ",
     English5: " ",
     French5: " ",
@@ -123,7 +123,7 @@ of <i class="PartOfSpch">prep</i><p>
 <i class="PartOfSpch">(indicates possession)</i>
 </td>
 <td class="tabledef" valign=top >
---a, wa, ya, bwa, a, dia, lua, ka, tshia, bia <i class="PartOfSpch">kad</i><p>
+--a, wa, ya, Bua, a, dia, lua, ka, tshia, bia <i class="PartOfSpch">kad</i><p>
 <i class="PartOfSpch">(kuleja ku)</i>
 </td>
 <tr>
@@ -194,7 +194,7 @@ Mpiana's trees :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
-<i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Bu</i>dimi <b>bwa</b> Mukendi
+<i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Bu</i>dimi <b>Bua</b> Mukendi
                 :<br>
                 &nbsp:
 Champ de Mukendi
@@ -278,7 +278,7 @@ Tshituka's birds :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
-<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>bwa <b>wa</b> Tshisungu
+<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>Bua <b>wa</b> Tshisungu
                 :<br>
                 &nbsp:
 Le chien de Tshisungu
@@ -287,7 +287,7 @@ Le chien de Tshisungu
 Tshisungu's dog :
 <br><br>
 <i class="PartOfSpch">classe 7 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>bwa <b>ya</b> Tshisungu
+<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>Bua <b>ya</b> Tshisungu
                 :<br>
                 &nbsp:
 Les chiens de Tshisungu
@@ -346,7 +346,7 @@ Kalonji's hand :
     French: "Pour",
     Tshiluba: "Bua",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=préposition">préposition</a> | <a class="links" href="search.html?inpt1=preposition">preposition</a> | <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a><br> conjonction | conjunction',
-    Phonetics: "Bua<p>/Bwah/</p>",
+    Phonetics: "Bua<p>/Buah/</p>",
     PhoneticsT: "Pour / For",
     English2: "Because",
     French2: "Parce que",
@@ -458,7 +458,7 @@ pour moi
                 &nbsp:&nbsp
 for me
                 &nbsp:&nbsp
-bwanyi meme
+Buanyi meme
 <br><br>
 </td>
 </tr>
@@ -498,6 +498,189 @@ Kusumba bua mfranga 10
             <br><br>
 </td>
 </tr>`
+},
+/*Ba Bungi*/  
+{
+    English: "Numbers",
+    French: "Nombres",
+    Tshiluba: "Ba Bungi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ba Bun·gi<p>/Bah Boon-gee/</p>",
+    PhoneticsT: "Nombres | Numbers",
+    English2: "Number",
+    French2: "numéro",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "Nombre",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+nombres <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+numbers <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+ba bungi, <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">s.</i> bungi
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinales: 0-9000</i></b><br>
+
+<b><i>Cardinal Numbers: 0-9000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 0-9000</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>1: UMWE</i></b><br><br>
+
+<b><i>2: IBIDI</i></b><br><br>
+            
+<b><i>3: ISATU</i></b><br><br>
+
+<b><i>4: INAYI</i></b><br><br>
+
+<b><i>5: ITANU</i></b><br><br>
+
+<b><i>6: ISAMBOMBO</i></b><br><br>
+
+<b><i>7: MUANDA-MUTEKETE</i></b><br><br>
+
+<b><i>8: MUANDA-MUKULU</i></b><br><br>
+
+<b><i>9: TSHITEMA</i></b><br><br>
+
+<b><i>10: DIKUMI</i></b><br><br>
+<br></td>
+
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>11: DIKUMI NE UMWE</i></b><br><br>
+
+<b><i>12: DIKUMI NE IBIDI</i></b><br><br>
+            
+<b><i>13: DIKUMI NE ISATU</i></b><br><br>
+
+<b><i>14: DIKUMI NE INAYI</i></b><br><br>
+
+<b><i>15: DIKUMI NE ITANU</i></b><br><br>
+
+<b><i>16: DIKUMI NE ISAMBOMBO</i></b><br><br>
+
+<b><i>17: DIKUMI NE MUANDA-MUTEKETE</i></b><br><br>
+
+<b><i>18: DIKUMI NE MUANDA-MUKULU</i></b><br><br>
+
+<b><i>19: DIKUMI NE TSHITEMA</i></b><br><br>
+
+<b><i>20: MAKUMI ABIDI</i></b><br><br>
+</td>
+
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>30: MAKUMI ASATU</i></b><br><br>
+
+<b><i>40: MAKUMI ANAYI</i></b><br><br>
+            
+<b><i>50: MAKUMI ATANU</i></b><br><br>
+
+<b><i>60: MAKUMI ASAMBOMBO</i></b><br><br>
+
+<b><i>70: MAKUMI MUANDA-MUTEKETE</i></b><br><br>
+
+<b><i>80: MAKUMI MUANDA-MUKULU</i></b><br><br>
+
+<b><i>90: MAKUMI TSHITEMA</i></b><br><br>
+
+<b><i>100: LUKAMA</i></b><br><br>
+</td>
+
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>200: NKAMA IBIDI</i></b><br><br>
+
+<b><i>300: NKAMA ISATU</i></b><br><br>
+            
+<b><i>1000: TSHINUNU</i></b><br><br>
+
+<b><i>2000: BINUNU BIBIDI</i></b><br><br>
+
+<b><i>3000: BINUNU BISATU</i></b><br><br>
+
+<b><i>4000: BINUNU BINAYI</i></b><br><br>
+
+<b><i>5000: BINUNU BITANU</i></b><br><br>
+
+<b><i>6000: BINUNU BISAMBOMBO</i></b><br><br>
+
+<b><i>7000: BINUNU MUANDA-MUTEKETE</i></b><br><br>
+
+<b><i>8000: BINUNU MUANDA-MUKULU</i></b><br><br>
+
+<b><i>9000: BINUNU TSHITEMA</i></b><br><br>
+</td>
+
+</tr>` 
 },
 /*Dikumi*/  
 {
@@ -574,7 +757,7 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
 
 <b><i>Cardinal Number: 10</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 10</i></b><br>
+<b><i>Bungi Bua Dibala: 10</i></b><br>
 <br></td>
 
 </tr>
@@ -582,9 +765,819 @@ dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                 <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
                 <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Umwe*/  
+{
+    English: "Eleven",
+    French: "Onze",
+    Tshiluba: "Dikumi Ne Umwe",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne Um·we<p>/Djee-koo-mee ne oom-weh/</p>",
+    PhoneticsT: "Onze | Eleven",
+    English2: "11",
+    French2: "Dikumi ne Umwe: 11",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "11",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+onze, 11 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+eleven, 11 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne umwe, 11 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 11</i></b><br>
+
+<b><i>Cardinal Number: 11</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 11</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=1">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Ibidi*/  
+{
+    English: "Twelve",
+    French: "Douze",
+    Tshiluba: "Dikumi Ne Ibidi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne I·bi·di<p>/Djee-koo-mee ne eee-bee-djee/</p>",
+    PhoneticsT: "Douze | Twelve",
+    English2: "12",
+    French2: "Dikumi ne Ibidi: 12",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "12",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+douze, 12 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twelve, 12 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne ibidi, 12 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 12</i></b><br>
+
+<b><i>Cardinal Number: 12</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 12</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=20">makumi abidi[20]</a>,  
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>.
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Asatu*/  
+{
+    English: "Thirteen",
+    French: "Treize",
+    Tshiluba: "Dikumi Ne Asatu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne A·sa·tu<p>/Djee-koo-mee ne ah-sah-tuu/</p>",
+    PhoneticsT: "Treize | Thirteen",
+    English2: "13",
+    French2: "Dikumi ne Asatu: 13",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "13",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+treize, 13 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+thirteen, 13 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne asatu, 13 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 13</i></b><br>
+
+<b><i>Cardinal Number: 13</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 13</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
+                <a class="links" href="search.html?inpt1=30">makumi asatu[30]</a>,  
+                <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>.
+                <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Anayi*/  
+{
+    English: "Fourteen",
+    French: "Quatorze",
+    Tshiluba: "Dikumi Ne Anayi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne A·na·yi<p>/Djee-koo-mee ne ah-nahy/</p>",
+    PhoneticsT: "Quatorze | Fourteen",
+    English2: "14",
+    French2: "Dikumi ne Anayi: 14",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "14",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quatorze, 14 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+fourteen, 14 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne inayi, 14 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 14</i></b><br>
+
+<b><i>Cardinal Number: 14</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 14</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
+                <a class="links" href="search.html?inpt1=40">makumi anayi[40]</a>,  
+                <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>.
+                <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Atanu*/  
+{
+    English: "Fifteen",
+    French: "Quinze",
+    Tshiluba: "Dikumi Ne Atanu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne A·ta·nu<p>/Djee-koo-mee ne ah-tah-noo/</p>",
+    PhoneticsT: "Quinze | Fifteen",
+    English2: "15",
+    French2: "Dikumi ne Atanu: 15",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "15",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Quinze, 15 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+fifteen, 15 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne atanu, 15 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 15</i></b><br>
+
+<b><i>Cardinal Number: 15</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 15</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
+                <a class="links" href="search.html?inpt1=50">makumi atanu[50]</a>,  
+                <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>.
+                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Asambombo*/  
+{
+    English: "Sixteen",
+    French: "Seize",
+    Tshiluba: "Dikumi Ne Asambombo",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne A·sam·bom·bo<p>/Djee-koo-mee ne ah-sahm-bohm-boh/</p>",
+    PhoneticsT: "Seize | Sixteen",
+    English2: "16",
+    French2: "Dikumi ne Asambombo: 16",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "16",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Seize, 16 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+sixteen, 16 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne asambombo, 16 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 16</i></b><br>
+
+<b><i>Cardinal Number: 16</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 16</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
+                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
+                <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>.
+                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Muandamutekete*/  
+{
+    English: "Seventeen",
+    French: "Dix-sept",
+    Tshiluba: "Dikumi Ne Muandamutekete",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne Muan·da·mu·te·ke·te<p>/Djee-koo-mee ne mwahn-dah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Dix-sept | Seventeen",
+    English2: "17",
+    French2: "Dikumi ne Muandamutekete: 17",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "17",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+dix-sept, 17 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+seventeen, 17 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne muandamutekete, 17 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 17</i></b><br>
+
+<b><i>Cardinal Number: 17</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 17</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=7">muandamutekete [7]</a>, 
+                <a class="links" href="search.html?inpt1=70">makumi muandamutekete [70]</a>,  
+                <a class="links" href="search.html?inpt1=700">nkama muandamutekete [700]</a>.
+                <a class="links" href="search.html?inpt1=7000">binunu muandamutekete [7000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Muandamukulu*/  
+{
+    English: "Eighteen",
+    French: "Dix-huit",
+    Tshiluba: "Dikumi Ne Muandamukulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne Muan·da·mu·ku·lu<p>/Djee-koo-mee ne mwahn-dah-moo-koo-loo/</p>",
+    PhoneticsT: "Dix-huit | Eighteen",
+    English2: "18",
+    French2: "Dikumi ne Muandamukulu: 18",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "18",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+dix-huit, 18 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+eighteen, 18 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne muandamukulu, 18 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 18</i></b><br>
+
+<b><i>Cardinal Number: 18</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 18</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>, 
+                <a class="links" href="search.html?inpt1=80">makumi muandamukulu [80]</a>,  
+                <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>.
+                <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dikumi ne Tshitema*/  
+{
+    English: "Nineteen",
+    French: "Dix-neuf",
+    Tshiluba: "Dikumi Ne Tshitema",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi ne Tshi·te·ma<p>/Djee-koo-mee ne chee-teh-mah/</p>",
+    PhoneticsT: "Dix-neuf | Nineteen",
+    English2: "19",
+    French2: "Dikumi ne Tshitema: 19",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "19",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+dix-neuf, 19 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nineteen, 19 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 19</i></b><br>
+
+<b><i>Cardinal Number: 19</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 19</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>, 
+                <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>,  
+                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,
+                <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -1172,11 +2165,11 @@ eyowa, bualu buambi mbua bushuwa :
     Tshiluba11: " ",
     PhoneticsT11: " ",
     InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
@@ -1197,8 +2190,20 @@ ibidi, 2 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 2</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 2</i></b><br>
+<b><i>Bungi Bua Dibala: 2</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>,
+                <a class="links" href="search.html?inpt1=22">makumi abidi ne ibidi [22]</a>,
+                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>, 
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Inayi*/  
@@ -1275,8 +2280,20 @@ inayi, 4 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 4</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 4</i></b><br>
+<b><i>Bungi Bua Dibala: 4</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
+                <a class="links" href="search.html?inpt1=24">makumi abidi ne inayi [24]</a>,
+                <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>,
+                <a class="links" href="search.html?inpt1=400">nkama inayi [400]</a>, 
+                <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Isatu*/  
@@ -1353,8 +2370,20 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 3</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 3</i></b><br>
+<b><i>Bungi Bua Dibala: 3</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a>,
+                <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>, 
+                <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Isambombo*/  
@@ -1431,8 +2460,20 @@ isambombo, 6 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 6</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 6</i></b><br>
+<b><i>Bungi Bua Dibala: 6</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
+                <a class="links" href="search.html?inpt1=26">makumi abidi ne isambombo [26]</a>,
+                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,
+                <a class="links" href="search.html?inpt1=600">nkama isambombo [600]</a>, 
+                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Itanu*/  
@@ -1509,8 +2550,20 @@ itanu, 5 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 5</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 5</i></b><br>
+<b><i>Bungi Bua Dibala: 5</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
+                <a class="links" href="search.html?inpt1=25">makumi abidi ne itanu [25]</a>,
+                <a class="links" href="search.html?inpt1=50">makumi atanu [50]</a>,
+                <a class="links" href="search.html?inpt1=500">nkama itanu [500]</a>, 
+                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Kadianjidi*/   
@@ -5106,7 +6159,7 @@ cent, 100 <i class="PartOfSpch">n</i>
 hundred, 100 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-lukama, 100 <i class="PartOfSpch">tshi6</i><br>
+lukama, 100 <i class="PartOfSpch">tshi5</i><br>
 <i class="PartOfSpch">pl.</i> nkama
 </td>
 </tr>
@@ -5116,16 +6169,2242 @@ lukama, 100 <i class="PartOfSpch">tshi6</i><br>
 
 <b><i>Cardinal Number: 100</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 100</i></b><br>
+<b><i>Bungi Bua Dibala: 100</i></b><br>
 <br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                 <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
                 <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Ibidi*/  
+{
+    English: "Two Hundred",
+    French: "Deux-cent",
+    Tshiluba: "Nkama Ibidi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma I·bi·di<p>/Nkah-mah ee-bee-djee/</p>",
+    PhoneticsT: "Deux-cent | Two Hundred",
+    English2: "200",
+    French2: "Nkama Ibidi: 200",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "200",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+deux-cent, 200 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+two hundred, 200 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama ibidi, 200 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 200</i></b><br>
+
+<b><i>Cardinal Number: 200</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 200</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Isatu*/  
+{
+    English: "Three Hundred",
+    French: "Troix-cent",
+    Tshiluba: "Nkama Isatu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma I·sa·tu<p>/Nkah-mah Ee-sah-too/</p>",
+    PhoneticsT: "Troix-cent | Three Hundred",
+    English2: "300",
+    French2: "Nkama Isatu: 300",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "300",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+troix-cent, 300 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+three hundred, 300 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama isatu, 300 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 300</i></b><br>
+
+<b><i>Cardinal Number: 300</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 300</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=3">isatu [3]</a>,
+                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a>,  
+                <a class="links" href="search.html?inpt1=3000">binunu bisatu[3000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Inayi*/  
+{
+    English: "Four Hundred",
+    French: "Quatre-cent",
+    Tshiluba: "Nkama Inayi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma I·na·yi<p>/Nkah-mah Ee-nahy/</p>",
+    PhoneticsT: "Quatre-cent| Four Hundred",
+    English2: "400",
+    French2: "Nkama Inayi: 400",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "400",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quatre-cent, 400 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+four hundred, 400 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama inayi, 400 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 400</i></b><br>
+
+<b><i>Cardinal Number: 400</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 400</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=4">inayi [4]</a>,
+                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
+                <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>,  
+                <a class="links" href="search.html?inpt1=4000">binunu binayi[4000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Itanu*/  
+{
+    English: "Five Hundred",
+    French: "Cinq-cent",
+    Tshiluba: "Nkama Itanu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma I·ta·nu<p>/Nkah-mah Ee-tah-nuu/</p>",
+    PhoneticsT: "Cinq-cent | Five Hundred",
+    English2: "500",
+    French2: "Nkama Itanu: 500",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "500",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cinq-cent, 500 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+five hundred, 500 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama itanu, 500 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 500</i></b><br>
+
+<b><i>Cardinal Number: 500</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 500</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
+                <a class="links" href="search.html?inpt1=50">makumi itanu [50]</a>,  
+                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Isambombo*/  
+{
+    English: "Six Hundred",
+    French: "Six-cent",
+    Tshiluba: "Nkama Isambombo",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma I·sam·bom·bo<p>/Nkah-mah Ee-sahm-bohm-boh/</p>",
+    PhoneticsT: "Six-cent | Six Hundred",
+    English2: "600",
+    French2: "Nkama Isambombo: 600",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "600",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+six-cent, 600 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+six hundred, 600 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama isambombo, 600 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 600</i></b><br>
+
+<b><i>Cardinal Number: 600</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 600</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
+                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
+                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Muandamutekete*/  
+{
+    English: "Seven Hundred",
+    French: "Sept-cent",
+    Tshiluba: "Nkama Muanda-mutekete",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma Muan·da·mu·te·ke·te<p>/Mah-koo-mee mwahn-dah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Sept-cent | Seven Hundred",
+    English2: "700",
+    French2: "Nkama Muanda-mutekete: 700",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "700",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sept-cent, 700 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+seven hundred, 700 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama muanda-mutekete, 700 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 700</i></b><br>
+
+<b><i>Cardinal Number: 700</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 700</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
+                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>,  
+                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Muanda-mukulu*/  
+{
+    English: "Eight Hundred",
+    French: "Huit-cent",
+    Tshiluba: "Nkama Muanda-mukulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "NKa·ma Muan·da·mu·ku·lu<p>/Nkah-mah mwahn-dah-moo-koo-luu/</p>",
+    PhoneticsT: "Quatre-vingt | Eighty",
+    English2: "800",
+    French2: "Makumi Muanda-mukulu: 800",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "800",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+huit-cent, 800 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+eight hundred, 800 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama muanda-mukulu, 800 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 800</i></b><br>
+
+<b><i>Cardinal Number: 800</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 800</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>,  
+                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Nkama Tshitema*/  
+{
+    English: "Nine Hundred",
+    French: "Neuf-cent",
+    Tshiluba: "Nkama Tshitema",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nka·ma Tshi·te·ma<p>/Nkah-mah chee-teh-mah/</p>",
+    PhoneticsT: "Neuf-cent | Nine Hundred",
+    English2: "900",
+    French2: "Nkama Tshitema: 900",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "900",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+neuf-cent, 900 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nine hundred, 900 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nkama tshitema, 900 <i class="PartOfSpch">tshi5</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 900</i></b><br>
+
+<b><i>Cardinal Number: 900</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 900</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=90">makumi tshitema [900]</a>,  
+                <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi*/  
+{
+    English: "Twenty",
+    French: "Vingt",
+    Tshiluba: "Makumi Abidi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di<p>/Mah-koo-mee Ah-bee-djee/</p>",
+    PhoneticsT: "Vingt | Twenty",
+    English2: "20",
+    French2: "Makumi Abidi: 20",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "20",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt, 20 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty, 20 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi, 20 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 20</i></b><br>
+
+<b><i>Cardinal Number: 20</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 20</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Umwe*/  
+{
+    English: "Twenty One",
+    French: "Vingt-et-un",
+    Tshiluba: "Makumi Abidi Ne Umwe",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne Um·we<p>/Mah-koo-mee Ah-bee-djee Neh Oom-weh/</p>",
+    PhoneticsT: "Vingt-et-Un | Twenty One",
+    English2: "21",
+    French2: "Makumi Abidi ne Umwe: 21",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "21",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-et-un, 21 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty one, 21 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne umwe, 21 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 21</i></b><br>
+
+<b><i>Cardinal Number: 21</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 21</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">umwe [2]</a>,
+                <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Ibidi*/  
+{
+    English: "Twenty Two",
+    French: "Vingt-et-un",
+    Tshiluba: "Makumi Abidi Ne Ibidi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne I·bi·di<p>/Mah-koo-mee Ah-bee-djee Neh ee-bee-djee/</p>",
+    PhoneticsT: "Vingt-deux | Twenty Two",
+    English2: "22",
+    French2: "Makumi Abidi ne Ibidi: 22",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "22",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-deux, 22 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty two, 22 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne ibidi, 22 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 22</i></b><br>
+
+<b><i>Cardinal Number: 22</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 22</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Isatu*/  
+{
+    English: "Twenty Three",
+    French: "Vingt-troix",
+    Tshiluba: "Makumi Abidi Ne Isatu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne I·sa·tu<p>/Mah-koo-mee Ah-bee-djee Neh ee-sah-too/</p>",
+    PhoneticsT: "Vingt-toix | Twenty Three",
+    English2: "23",
+    French2: "Makumi Abidi ne Isatu: 23",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "23",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-troix, 23 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty three, 23 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne isatu, 23 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 23</i></b><br>
+
+<b><i>Cardinal Number: 23</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 23</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Inayi*/  
+{
+    English: "Twenty Four",
+    French: "Vingt-quatre",
+    Tshiluba: "Makumi Abidi Ne Inayi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne I·na·yi<p>/Mah-koo-mee Ah-bee-djee Neh ee-nahy/</p>",
+    PhoneticsT: "Vingt-quatre | Twenty Four",
+    English2: "24",
+    French2: "Makumi Abidi ne Inayi: 24",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "24",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-quatre, 24 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty four, 24 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne inayi, 24 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 24</i></b><br>
+
+<b><i>Cardinal Number: 24</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 24</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Itanu*/  
+{
+    English: "Twenty Five",
+    French: "Vingt-cinq",
+    Tshiluba: "Makumi Abidi Ne Itanu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne I·ta·nu<p>/Mah-koo-mee Ah-bee-djee Neh ee-tah-nuu/</p>",
+    PhoneticsT: "Vingt-cinq | Twenty Five",
+    English2: "25",
+    French2: "Makumi Abidi ne Cinq: 25",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "25",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-cinq, 25 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty five, 25 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne itanu, 25 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 25</i></b><br>
+
+<b><i>Cardinal Number: 25</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 25</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Isambombo*/  
+{
+    English: "Twenty Six",
+    French: "Vingt-six",
+    Tshiluba: "Makumi Abidi Ne Isambombo",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne I·sam·bom·bo<p>/Mah-koo-mee Ah-bee-djee Neh ee-sahm-bohm-boh/</p>",
+    PhoneticsT: "Vingt-six | Twenty Six",
+    English2: "26",
+    French2: "Makumi Abidi ne Isambombo: 26",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "26",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-six, 26 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty six, 26 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne isambombo, 26 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 26</i></b><br>
+
+<b><i>Cardinal Number: 26</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 26</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Muanda-mutekete*/  
+{
+    English: "Twenty Seven",
+    French: "Vingt-sept",
+    Tshiluba: "Makumi Abidi Ne Muanda-mutekete",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne Muan·da·mu·te·ke·te<p>/Mah-koo-mee Ah-bee-djee Neh muan-dah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Vingt-sept | Twenty Seven",
+    English2: "27",
+    French2: "Makumi Abidi ne Muanda-mutekete: 27",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "27",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-sept, 27 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty seven, 27 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne muanda-mutekete, 27 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 27</i></b><br>
+
+<b><i>Cardinal Number: 27</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 27</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=7">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
+                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
+                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Muanda-mukulu*/  
+{
+    English: "Twenty Eight",
+    French: "Vingt-huit",
+    Tshiluba: "Makumi Abidi Ne Muanda-Mukulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne Muan·da·mu·ku·lu·te<p>/Mah-koo-mee Ah-bee-djee Neh muan-dah-moo-koo-loo/</p>",
+    PhoneticsT: "Vingt-huit | Twenty Eight",
+    English2: "28",
+    French2: "Makumi Abidi ne Muanda-mukulu: 28",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "28",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-huit, 28 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty eight, 28 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne muanda-mukulu, 28 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 28</i></b><br>
+
+<b><i>Cardinal Number: 28</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 28</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Abidi Ne Tshitema*/  
+{
+    English: "Twenty Nine",
+    French: "Vingt-neuf",
+    Tshiluba: "Makumi Abidi Ne Tshitema",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·bi·di ne Tshi·tem·a<p>/Mah-koo-mee Ah-bee-djee Neh chee-teh-mah/</p>",
+    PhoneticsT: "Vingt-neuf | Twenty Nine",
+    English2: "29",
+    French2: "Makumi Abidi ne Tshitema: 29",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "29",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-neuf, 29 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+twenty nine, 29 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi abidi ne tshitema, 29 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 29</i></b><br>
+
+<b><i>Cardinal Number: 29</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 29</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Asatu*/  
+{
+    English: "Thirty",
+    French: "Trente",
+    Tshiluba: "Makumi Asatu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·sa·tu<p>/Mah-koo-mee Ah-sah-too/</p>",
+    PhoneticsT: "Trente | Thirty",
+    English2: "30",
+    French2: "Makumi Asatu: 30",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "30",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+trente, 30 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+thirty, 30 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi asatu, 30 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 30</i></b><br>
+
+<b><i>Cardinal Number: 30</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 30</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=3">isatu [3]</a>,
+                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>,  
+                <a class="links" href="search.html?inpt1=3000">binunu bisatu[3000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Anayi*/  
+{
+    English: "Forty",
+    French: "Quarante",
+    Tshiluba: "Makumi Anayi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·na·yi<p>/Mah-koo-mee Ah-nahy/</p>",
+    PhoneticsT: "Quarante | Forty",
+    English2: "40",
+    French2: "Makumi Anayi: 40",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "40",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quarante, 40 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+forty, 40 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi anayi, 40 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 40</i></b><br>
+
+<b><i>Cardinal Number: 40</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 40</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=4">inayi [4]</a>,
+                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
+                <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>,  
+                <a class="links" href="search.html?inpt1=4000">binunu binayi[4000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Atanu*/  
+{
+    English: "Fifty",
+    French: "Cinquante",
+    Tshiluba: "Makumi Atanu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·ta·nu<p>/Mah-koo-mee Ah-tah-nuu/</p>",
+    PhoneticsT: "Cinquante | Fifty",
+    English2: "50",
+    French2: "Makumi Atanu: 50",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "50",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cinquante, 50 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+fifty, 50 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi atanu, 50 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 50</i></b><br>
+
+<b><i>Cardinal Number: 50</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 50</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
+                <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>,  
+                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Asambombo*/  
+{
+    English: "Sixty",
+    French: "Soixante",
+    Tshiluba: "Makumi Asambombo",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi A·sam·bom·bo<p>/Mah-koo-mee Ah-sahm-bohm-boh/</p>",
+    PhoneticsT: "Soixante | Sixty",
+    English2: "60",
+    French2: "Makumi Asambombo: 60",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "60",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+soixante, 60 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+sixty, 60 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi asambombo, 60 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 60</i></b><br>
+
+<b><i>Cardinal Number: 60</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 60</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
+                <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>,  
+                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Muanda-mutekete*/  
+{
+    English: "Seventy",
+    French: "Soixante-dix",
+    Tshiluba: "Makumi Muanda-mutekete",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi Muan·da·mu·te·ke·te<p>/Mah-koo-mee mwahn-dah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Soixante-dix | Seventy",
+    English2: "70",
+    French2: "Makumi Muanda-mutekete: 70",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "70",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+soixante-dix, 70 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+seventy, 70 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi muanda-mutekete, 70 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 70</i></b><br>
+
+<b><i>Cardinal Number: 70</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 70</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
+                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
+                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Muanda-mukulu*/  
+{
+    English: "Eighty",
+    French: "Quatre-vingt",
+    Tshiluba: "Makumi Muandamukulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi Muan·da·mu·ku·lu<p>/Mah-koo-mee neh mwahn-dah-moo-koo-luu/</p>",
+    PhoneticsT: "Quatre-vingt | Eighty",
+    English2: "80",
+    French2: "Makumi Muandamukulu: 80",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "80",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quatre-vingt, 80 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+eighty, 80 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi muandamukulu, 80 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 80</i></b><br>
+
+<b><i>Cardinal Number: 80</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 80</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=18">dikumi ne muandamukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>,  
+                <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Makumi Tshitema*/  
+{
+    English: "Ninety",
+    French: "Quatre-vingt-dix",
+    Tshiluba: "Makumi Tshitema",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·ku·mi Tshi·te·ma<p>/Mah-koo-mee chee-teh-mah/</p>",
+    PhoneticsT: "Quatre-vingt-dix | Ninety",
+    English2: "90",
+    French2: "Makumi Tshitema: 90",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "90",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quatre-vingt-dix, 90 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+ninety, 90 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+makumi tshitema, 90 <i class="PartOfSpch">tshi4</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 90</i></b><br>
+
+<b><i>Cardinal Number: 90</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 90</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,  
+                <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5699,7 +8978,7 @@ Miaku "kunyema," "kulama," ne "kununka" badi bonso badi mianda :
 </tr>
 `
 },
-/*Muandamukulu*/  
+/*Muanda-mukulu*/  
 {
     English: "Eight",
     French: "Huit",
@@ -5773,28 +9052,38 @@ muandamukulu, 8 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 8</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 8</i></b><br>
+<b><i>Bungi Bua Dibala: 8</i></b><br>
 <br></td>
-</tr>` 
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>, 
+                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>,  
+                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
+<br><br></td>
+</tr>`
 },
-/*Muandamutekete*/  
+/*Muanda-mutekete*/  
 {
     English: "Seven",
     French: "Sept",
-    Tshiluba: "Muandamutekete",
+    Tshiluba: "Muanda-mutekete",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Muan·da·mu·te·ke·te<p>/Mwah-ndah-moo-teh-keh-tah/</p>",
     PhoneticsT: "Sept| Seven",
     English2: "7",
-    French2: "Muandamutekete: 7",
+    French2: "Muanda-mutekete: 7",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "Muandamuteketa",
-    French3: "Muanda muteketa",
+    French3: "Muanda-muteketa",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "Muanda mutekete",
-    French4: " ",
+    French4: "Muanda-mutekete",
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: " ",
@@ -5843,7 +9132,7 @@ sept, 7 <i class="PartOfSpch">n</i>
 seven, 7 <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top>
-muandamutekete, 7 <i class="PartOfSpch">tshi</i>
+muanda-mutekete, 7 <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
@@ -5852,8 +9141,18 @@ muandamutekete, 7 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 7</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 7</i></b><br>
+<b><i>Bungi Bua Dibala: 7</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>, 
+                <a class="links" href="search.html?inpt1=700">nkama muanda-mukulu [700]</a>,  
+                <a class="links" href="search.html?inpt1=7000">binunu muanda-mukulu [7000]</a>
+<br><br></td>
 </tr>` 
 },
 /*Mufidi*/   
@@ -6090,7 +9389,7 @@ The big birds :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
-<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>bwa <b>mu</b>nene
+<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>Bua <b>mu</b>nene
                 :<br>
                 &nbsp:
 Le grand chien
@@ -6099,7 +9398,7 @@ Le grand chien
 The big dog :
 <br><br>
 <i class="PartOfSpch">classe 7 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>bwa <b>mi</b>nene
+<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>Bua <b>mi</b>nene
                 :<br>
                 &nbsp:
 Les grands chiens
@@ -7556,7 +10855,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 6 : <b>n-n</b><br>
 <b>N</b>yunyu - <b>N</b>yunyu<br><br>
 7 : <b>m-m</b><br>
-<b>Mbwa</b>ntu - <b>M</b>bwa<br><br>
+<b>MBua</b>ntu - <b>M</b>Bua<br><br>
 8 : <b>ka-tu</b><br>
 <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
 9 : <b>tshi-bi</b><br>
@@ -7662,6 +10961,96 @@ tshidimu tshia 1999 :
 </tr>
 <tr>
 `
+},
+/*Tshijengu*/  
+{
+    English: "Zero",
+    French: "Zéro",
+    Tshiluba: "Tshijengu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Tshi·jeng·u<p>/Chee-jeng-ouu/</p>",
+    PhoneticsT: "Zéro | Zero",
+    English2: "0",
+    French2: "Tshijengu: 0",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "0",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+zéro, 0 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+zero, 0 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+tshijengu, 0 <i class="PartOfSpch">tshi</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 0</i></b><br>
+
+<b><i>Cardinal Number: 0</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 0</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=1">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
 },
 /*Tshilema*/   
 {
@@ -8037,7 +11426,7 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
 
 <b><i>Cardinal Number: 1000</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 1000</i></b><br>
+<b><i>Bungi Bua Dibala: 1000</i></b><br>
 <br></td>
 </tr>
 <tr>
@@ -8047,6 +11436,725 @@ tshinunu, 1000 <i class="PartOfSpch">tshi9</i><br>
                 :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                 <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
                 <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>
+<br><br></td>
+</tr>` 
+},
+/*Binunu Bibidi*/  
+{
+    English: "Two Thousand",
+    French: "Vingt-mille",
+    Tshiluba: "Binunu Bibidi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Bi·bi·di<p>/bee-noo-noo bee-bee-djee/</p>",
+    PhoneticsT: "Vingt-mille | Two Thousand",
+    English2: "2000",
+    French2: "Binunu Bibidi: 2000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "2000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vingt-mille, 2000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+two thousand, 2000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu bibidi, 2000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 22</i></b><br>
+
+<b><i>Cardinal Number: 22</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 22</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
+                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Binunu Bisatu*/  
+{
+    English: "Three Thousand",
+    French: "Troix-Mille",
+    Tshiluba: "Binunu Bisatu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Bi·bi·di<p>/Bee-noo-new Bee-sah-too/</p>",
+    PhoneticsT: "Troix-Mille | Three Thousand",
+    English2: "3000",
+    French2: "Binunu Bisatu: 3000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "3000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+troix-mille, 3000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+three thousand, 3000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu bisatu, 3000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 3000</i></b><br>
+
+<b><i>Cardinal Number: 3000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 3000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=3">ibidi [3]</a>,
+                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>
+                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>,
+                <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a> 
+                <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>,  
+<br><br></td>
+</tr>` 
+},
+/*Binunu Binayi*/  
+{
+    English: "Four Thousand",
+    French: "Quatre-mille",
+    Tshiluba: "Binunu Binayi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Bi·na·yi<p>/Bee-noo-noo bee-nahy/</p>",
+    PhoneticsT: "Quatre-Mille | Four Thousand",
+    English2: "4000",
+    French2: "Binunu Binayi: 4000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "4000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quatre-mille, 4000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+four thousand, 4000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu binayi, 4000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 4000</i></b><br>
+
+<b><i>Cardinal Number: 4000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 4000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=4">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>
+                <a class="links" href="search.html?inpt1=24">makumi abidi ne isatu [24]</a>,
+                <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>, 
+                <a class="links" href="search.html?inpt1=400">nkama abidi [400]</a>,  
+<br><br></td>
+</tr>` 
+},
+/*Binunu Bitanu*/  
+{
+    English: "Five Thousand",
+    French: "Cinq-Mille",
+    Tshiluba: "Binunu Bitanu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Bi·ta·nu<p>/Bee-noo-noo bee-tah-nuu/</p>",
+    PhoneticsT: "Cinq-Mille | Five Thousand",
+    English2: "5000",
+    French2: "Binunu Bitanu: 5000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "5000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cinq-mille, 5000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+five thousand, 5000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu bitanu, 5000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 5000</i></b><br>
+
+<b><i>Cardinal Number: 5000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 5000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=15">dikumi ne ibidi [15]</a>, 
+                <a class="links" href="search.html?inpt1=50">makumi atanu [50]</a>,
+                <a class="links" href="search.html?inpt1=500">nkama abidi [500]</a>  
+                
+<br><br></td>
+</tr>` 
+},
+/*Binunu Bisambombo*/  
+{
+    English: "Six Thousand",
+    French: "Six-Mille",
+    Tshiluba: "Binunu Bisambombo",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Bi·sam·bom·bo<p>/Bee-noo-noo Bee-sahm-bohm-boh/</p>",
+    PhoneticsT: "Six-Mille | Six Thousand",
+    English2: "6000",
+    French2: "Binunu Bisambombo: 6000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "6000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+six-mille, 6000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+six thousand, 6000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu bisambombo, 6000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 6000</i></b><br>
+
+<b><i>Cardinal Number: 6000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 6000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>, 
+                <a class="links" href="search.html?inpt1=26">makumi abidi ne isambombo [26]</a>,
+                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,
+                <a class="links" href="search.html?inpt1=600">nkama abidi [600]</a>  
+<br><br></td>
+</tr>` 
+},
+/*Binunu Muanda-mutekete*/  
+{
+    English: "Seven Thousand",
+    French: "Vingt-Mille",
+    Tshiluba: "Binunu Muanda-mutekete",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Muan·da·mu·te·ke·te<p>/Bee-noo-noo muan-dah-moo-teh-keh-tah/</p>",
+    PhoneticsT: "Sept-Mille | Seven Thousand",
+    English2: "7000",
+    French2: "Binunu Muanda-Mutekete: 7000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "7000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sept-mille, 7000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+seven thousand, 7000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu muanda-mutekete, 7000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 7000</i></b><br>
+
+<b><i>Cardinal Number: 7000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 7000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [12]</a>,
+                <a class="links" href="search.html?inpt1=27">makumi abidi ne muanda-mutekete [27]</a>,
+                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
+                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>
+<br><br></td>
+</tr>` 
+},
+/*Binunu Muanda-mukulu*/  
+{
+    English: "Eight Thousand",
+    French: "Huit-Mille",
+    Tshiluba: "Binunu Muanda-Mukulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Muan·da·mu·ku·lu·te<p>/Bee-noo-noo Muan-dah-moo-koo-loo/</p>",
+    PhoneticsT: "Huit-Mille | Eight Thousand",
+    English2: "8000",
+    French2: "Binunu Muanda-Mukulu: 8000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "8000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+huit-mille, 8000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+eight thousand, 8000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu muanda-mukulu, 8000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 8000</i></b><br>
+
+<b><i>Cardinal Number: 8000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 8000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=28">makumi abidi ne muanda-mukulu [28]</a>,
+                <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>, 
+                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>
+<br><br></td>
+</tr>` 
+},
+/*Binunu Tshitema*/  
+{
+    English: "Nine Thousand",
+    French: "Neuf-Mille",
+    Tshiluba: "Binunu Tshitema",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·nu·nu Tshi·tem·a<p>/Bee-noo-noo chee-teh-mah/</p>",
+    PhoneticsT: "Neuf-Mille | Nine Thousand",
+    English2: "9000",
+    French2: "Binunu Tshitema: 9000",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "9000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+neuf-mille, 9000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+nine thousand, 9000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+binunu tshitema, 9000 <i class="PartOfSpch">tshi9</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 9000</i></b><br>
+
+<b><i>Cardinal Number: 9000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 9000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi abidi ne tshitema [29]</a>,
+                <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>, 
+                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>
 <br><br></td>
 </tr>` 
 },
@@ -8345,8 +12453,20 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 9</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 9</i></b><br>
+<b><i>Bungi Bua Dibala: 9</i></b><br>
 <br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=19">dikumi abidi ne tshitema [29]</a>,
+                <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>, 
+                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>
+<br><br></td>
 </tr>` 
 },
 /*Tshitupa*/  
@@ -8523,23 +12643,26 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
 
 <b><i>Cardinal Number: 1</i></b><br>
             
-<b><i>Bungi Bwa Dibala: 1</i></b><br>
+<b><i>Bungi Bua Dibala: 1</i></b><br>
 <br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>, 
-                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
-                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=10">umwe [10]</a>,
+                <a class="links" href="search.html?inpt1=11">dikumi ne umwe [11]</a>,
+                <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>,
+                <a class="links" href="search.html?inpt1=100">lukama [100]</a>, 
+                <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
 <br><br></td>
-</tr>` 
+</tr>`  
 }
 ];
 /**********************************/
 
-/***********THE CLEAN DICTIONARY*********/
+/***********THE CLEAN DICTIONARY********* WORD SCRAMBLE*/
 const nkongamiaku2 = [
     /*Dikumi*/  
     {
@@ -8616,7 +12739,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 10</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 10</i></b><br>
+    <b><i>Bungi Bua Dibala: 10</i></b><br>
     <br></td>
     
     </tr>
@@ -8627,6 +12750,806 @@ const nkongamiaku2 = [
                     :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                     <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
                     <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Umwe*/  
+    {
+        English: "Eleven",
+        French: "Onze",
+        Tshiluba: "Dikumi Ne Umwe",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne Um·we<p>/Djee-koo-mee ne oom-weh/</p>",
+        PhoneticsT: "Onze | Eleven",
+        English2: "11",
+        French2: "Dikumi ne Umwe: 11",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "11",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    onze, 11 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    eleven, 11 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne umwe, 11 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 11</i></b><br>
+
+    <b><i>Cardinal Number: 11</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 11</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Ibidi*/  
+    {
+        English: "Twelve",
+        French: "Douze",
+        Tshiluba: "Dikumi Ne Ibidi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne I·bi·di<p>/Djee-koo-mee ne eee-bee-djee/</p>",
+        PhoneticsT: "Douze | Twelve",
+        English2: "12",
+        French2: "Dikumi ne Ibidi: 12",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "12",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    douze, 12 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twelve, 12 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne ibidi, 12 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 12</i></b><br>
+
+    <b><i>Cardinal Number: 12</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 12</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
+                    <a class="links" href="search.html?inpt1=20">makumi abidi[20]</a>,  
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>.
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Asatu*/  
+    {
+        English: "Thirteen",
+        French: "Treize",
+        Tshiluba: "Dikumi Ne Asatu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne A·sa·tu<p>/Djee-koo-mee ne ah-sah-tuu/</p>",
+        PhoneticsT: "Treize | Thirteen",
+        English2: "13",
+        French2: "Dikumi ne Asatu: 13",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "13",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    treize, 13 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    thirteen, 13 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne asatu, 13 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 13</i></b><br>
+
+    <b><i>Cardinal Number: 13</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 13</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
+                    <a class="links" href="search.html?inpt1=30">makumi asatu[30]</a>,  
+                    <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>.
+                    <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Anayi*/  
+    {
+        English: "Fourteen",
+        French: "Quatorze",
+        Tshiluba: "Dikumi Ne Anayi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne A·na·yi<p>/Djee-koo-mee ne ah-nahy/</p>",
+        PhoneticsT: "Quatorze | Fourteen",
+        English2: "14",
+        French2: "Dikumi ne Anayi: 14",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "14",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quatorze, 14 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    fourteen, 14 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne inayi, 14 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 14</i></b><br>
+
+    <b><i>Cardinal Number: 14</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 14</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
+                    <a class="links" href="search.html?inpt1=40">makumi anayi[40]</a>,  
+                    <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>.
+                    <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Atanu*/  
+    {
+        English: "Fifteen",
+        French: "Quinze",
+        Tshiluba: "Dikumi Ne Atanu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne A·ta·nu<p>/Djee-koo-mee ne ah-tah-noo/</p>",
+        PhoneticsT: "Quinze | Fifteen",
+        English2: "15",
+        French2: "Dikumi ne Atanu: 15",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "15",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    Quinze, 15 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    fifteen, 15 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne atanu, 15 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 15</i></b><br>
+
+    <b><i>Cardinal Number: 15</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 15</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
+                    <a class="links" href="search.html?inpt1=50">makumi atanu[50]</a>,  
+                    <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>.
+                    <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Asambombo*/  
+    {
+        English: "Sixteen",
+        French: "Seize",
+        Tshiluba: "Dikumi Ne Asambombo",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne A·sam·bom·bo<p>/Djee-koo-mee ne ah-sahm-bohm-boh/</p>",
+        PhoneticsT: "Seize | Sixteen",
+        English2: "16",
+        French2: "Dikumi ne Asambombo: 16",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "16",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    Seize, 16 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    sixteen, 16 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne asambombo, 16 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 16</i></b><br>
+
+    <b><i>Cardinal Number: 16</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 16</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
+                    <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
+                    <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>.
+                    <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Muandamutekete*/  
+    {
+        English: "Seventeen",
+        French: "Dix-sept",
+        Tshiluba: "Dikumi Ne Muandamutekete",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne Muan·da·mu·te·ke·te<p>/Djee-koo-mee ne mwahn-dah-moo-teh-keh-tah/</p>",
+        PhoneticsT: "Dix-sept | Seventeen",
+        English2: "17",
+        French2: "Dikumi ne Muandamutekete: 17",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "17",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    dix-sept, 17 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    seventeen, 17 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne muandamutekete, 17 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 17</i></b><br>
+
+    <b><i>Cardinal Number: 17</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 17</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=7">muandamutekete [7]</a>, 
+                    <a class="links" href="search.html?inpt1=70">makumi muandamutekete [70]</a>,  
+                    <a class="links" href="search.html?inpt1=700">nkama muandamutekete [700]</a>.
+                    <a class="links" href="search.html?inpt1=7000">binunu muandamutekete [7000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Muandamukulu*/  
+    {
+        English: "Eighteen",
+        French: "Dix-huit",
+        Tshiluba: "Dikumi Ne Muandamukulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne Muan·da·mu·ku·lu<p>/Djee-koo-mee ne mwahn-dah-moo-koo-loo/</p>",
+        PhoneticsT: "Dix-huit | Eighteen",
+        English2: "18",
+        French2: "Dikumi ne Muandamukulu: 18",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "18",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    dix-huit, 18 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    eighteen, 18 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne muandamukulu, 18 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 18</i></b><br>
+
+    <b><i>Cardinal Number: 18</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 18</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>, 
+                    <a class="links" href="search.html?inpt1=80">makumi muandamukulu [80]</a>,  
+                    <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>.
+                    <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Dikumi ne Tshitema*/  
+    {
+        English: "Nineteen",
+        French: "Dix-neuf",
+        Tshiluba: "Dikumi Ne Tshitema",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku·mi ne Tshi·te·ma<p>/Djee-koo-mee ne chee-teh-mah/</p>",
+        PhoneticsT: "Dix-neuf | Nineteen",
+        English2: "19",
+        French2: "Dikumi ne Tshitema: 19",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "19",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    dix-neuf, 19 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nineteen, 19 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 19</i></b><br>
+
+    <b><i>Cardinal Number: 19</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 19</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=9">tshitema [9]</a>, 
+                    <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>,  
+                    <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,
+                    <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -9239,7 +14162,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 2</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 2</i></b><br>
+    <b><i>Bungi Bua Dibala: 2</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -9317,7 +14240,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 4</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 4</i></b><br>
+    <b><i>Bungi Bua Dibala: 4</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -9395,7 +14318,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 3</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 3</i></b><br>
+    <b><i>Bungi Bua Dibala: 3</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -9473,7 +14396,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 6</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 6</i></b><br>
+    <b><i>Bungi Bua Dibala: 6</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -9551,7 +14474,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 5</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 5</i></b><br>
+    <b><i>Bungi Bua Dibala: 5</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -13055,26 +17978,2252 @@ const nkongamiaku2 = [
     hundred, 100 <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    lukama, 100 <i class="PartOfSpch">tshi6</i><br>
+    lukama, 100 <i class="PartOfSpch">tshi5</i><br>
     <i class="PartOfSpch">pl.</i> nkama
     </td>
     </tr>
     <tr>
     <td colspan="3" class="analogy"><br>
     <b><i>Nombre Cardinale: 100</i></b><br>
-    
+
     <b><i>Cardinal Number: 100</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 100</i></b><br>
+    <b><i>Bungi Bua Dibala: 100</i></b><br>
     <br></td>
     </tr>
     <tr>
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                     <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
                     <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Ibidi*/  
+    {
+        English: "Two Hundred",
+        French: "Deux-cent",
+        Tshiluba: "Nkama Ibidi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma I·bi·di<p>/Nkah-mah ee-bee-djee/</p>",
+        PhoneticsT: "Deux-cent | Two Hundred",
+        English2: "200",
+        French2: "Nkama Ibidi: 200",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "200",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    deux-cent, 200 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    two hundred, 200 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama ibidi, 200 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 200</i></b><br>
+
+    <b><i>Cardinal Number: 200</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 200</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
+                    <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Isatu*/  
+    {
+        English: "Three Hundred",
+        French: "Troix-cent",
+        Tshiluba: "Nkama Isatu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma I·sa·tu<p>/Nkah-mah Ee-sah-too/</p>",
+        PhoneticsT: "Troix-cent | Three Hundred",
+        English2: "300",
+        French2: "Nkama Isatu: 300",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "300",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    troix-cent, 300 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    three hundred, 300 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama isatu, 300 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 300</i></b><br>
+
+    <b><i>Cardinal Number: 300</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 300</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=3">isatu [3]</a>,
+                    <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
+                    <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a>,  
+                    <a class="links" href="search.html?inpt1=3000">binunu bisatu[3000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Inayi*/  
+    {
+        English: "Four Hundred",
+        French: "Quatre-cent",
+        Tshiluba: "Nkama Inayi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma I·na·yi<p>/Nkah-mah Ee-nahy/</p>",
+        PhoneticsT: "Quatre-cent| Four Hundred",
+        English2: "400",
+        French2: "Nkama Inayi: 400",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "400",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quatre-cent, 400 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    four hundred, 400 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama inayi, 400 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 400</i></b><br>
+
+    <b><i>Cardinal Number: 400</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 400</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=4">inayi [4]</a>,
+                    <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
+                    <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>,  
+                    <a class="links" href="search.html?inpt1=4000">binunu binayi[4000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Itanu*/  
+    {
+        English: "Five Hundred",
+        French: "Cinq-cent",
+        Tshiluba: "Nkama Itanu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma I·ta·nu<p>/Nkah-mah Ee-tah-nuu/</p>",
+        PhoneticsT: "Cinq-cent | Five Hundred",
+        English2: "500",
+        French2: "Nkama Itanu: 500",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "500",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cinq-cent, 500 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    five hundred, 500 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama itanu, 500 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 500</i></b><br>
+
+    <b><i>Cardinal Number: 500</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 500</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                    <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
+                    <a class="links" href="search.html?inpt1=50">makumi itanu [50]</a>,  
+                    <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Isambombo*/  
+    {
+        English: "Six Hundred",
+        French: "Six-cent",
+        Tshiluba: "Nkama Isambombo",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma I·sam·bom·bo<p>/Nkah-mah Ee-sahm-bohm-boh/</p>",
+        PhoneticsT: "Six-cent | Six Hundred",
+        English2: "600",
+        French2: "Nkama Isambombo: 600",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "600",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    six-cent, 600 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    six hundred, 600 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama isambombo, 600 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 600</i></b><br>
+
+    <b><i>Cardinal Number: 600</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 600</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                    <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
+                    <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
+                    <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Muandamutekete*/  
+    {
+        English: "Seven Hundred",
+        French: "Sept-cent",
+        Tshiluba: "Nkama Muanda-mutekete",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma Muan·da·mu·te·ke·te<p>/Mah-koo-mee mwahn-dah-moo-teh-keh-tah/</p>",
+        PhoneticsT: "Sept-cent | Seven Hundred",
+        English2: "700",
+        French2: "Nkama Muanda-mutekete: 700",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "700",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sept-cent, 700 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    seven hundred, 700 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama muanda-mutekete, 700 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 700</i></b><br>
+
+    <b><i>Cardinal Number: 700</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 700</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                    <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
+                    <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>,  
+                    <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Muanda-mukulu*/  
+    {
+        English: "Eight Hundred",
+        French: "Huit-cent",
+        Tshiluba: "Nkama Muanda-mukulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "NKa·ma Muan·da·mu·ku·lu<p>/Nkah-mah mwahn-dah-moo-koo-luu/</p>",
+        PhoneticsT: "Quatre-vingt | Eighty",
+        English2: "800",
+        French2: "Makumi Muanda-mukulu: 800",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "800",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    huit-cent, 800 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    eight hundred, 800 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama muanda-mukulu, 800 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 800</i></b><br>
+
+    <b><i>Cardinal Number: 800</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 800</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                    <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>,  
+                    <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Nkama Tshitema*/  
+    {
+        English: "Nine Hundred",
+        French: "Neuf-cent",
+        Tshiluba: "Nkama Tshitema",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nka·ma Tshi·te·ma<p>/Nkah-mah chee-teh-mah/</p>",
+        PhoneticsT: "Neuf-cent | Nine Hundred",
+        English2: "900",
+        French2: "Nkama Tshitema: 900",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "900",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    neuf-cent, 900 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nine hundred, 900 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nkama tshitema, 900 <i class="PartOfSpch">tshi5</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 900</i></b><br>
+
+    <b><i>Cardinal Number: 900</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 900</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                    <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="search.html?inpt1=90">makumi tshitema [900]</a>,  
+                    <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi*/  
+    {
+        English: "Twenty",
+        French: "Vingt",
+        Tshiluba: "Makumi Abidi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di<p>/Mah-koo-mee Ah-bee-djee/</p>",
+        PhoneticsT: "Vingt | Twenty",
+        English2: "20",
+        French2: "Makumi Abidi: 20",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "20",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt, 20 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty, 20 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi, 20 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 20</i></b><br>
+
+    <b><i>Cardinal Number: 20</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 20</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Umwe*/  
+    {
+        English: "Twenty One",
+        French: "Vingt-et-un",
+        Tshiluba: "Makumi Abidi Ne Umwe",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne Um·we<p>/Mah-koo-mee Ah-bee-djee Neh Oom-weh/</p>",
+        PhoneticsT: "Vingt-et-Un | Twenty One",
+        English2: "21",
+        French2: "Makumi Abidi ne Umwe: 21",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "21",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-et-un, 21 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty one, 21 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne umwe, 21 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 21</i></b><br>
+
+    <b><i>Cardinal Number: 21</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 21</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">umwe [2]</a>,
+                    <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Ibidi*/  
+    {
+        English: "Twenty Two",
+        French: "Vingt-et-un",
+        Tshiluba: "Makumi Abidi Ne Ibidi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne I·bi·di<p>/Mah-koo-mee Ah-bee-djee Neh ee-bee-djee/</p>",
+        PhoneticsT: "Vingt-deux | Twenty Two",
+        English2: "22",
+        French2: "Makumi Abidi ne Ibidi: 22",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "22",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-deux, 22 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty two, 22 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne ibidi, 22 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 22</i></b><br>
+
+    <b><i>Cardinal Number: 22</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 22</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Isatu*/  
+    {
+        English: "Twenty Three",
+        French: "Vingt-troix",
+        Tshiluba: "Makumi Abidi Ne Isatu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne I·sa·tu<p>/Mah-koo-mee Ah-bee-djee Neh ee-sah-too/</p>",
+        PhoneticsT: "Vingt-toix | Twenty Three",
+        English2: "23",
+        French2: "Makumi Abidi ne Isatu: 23",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "23",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-troix, 23 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty three, 23 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne isatu, 23 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 23</i></b><br>
+
+    <b><i>Cardinal Number: 23</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 23</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Inayi*/  
+    {
+        English: "Twenty Four",
+        French: "Vingt-quatre",
+        Tshiluba: "Makumi Abidi Ne Inayi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne I·na·yi<p>/Mah-koo-mee Ah-bee-djee Neh ee-nahy/</p>",
+        PhoneticsT: "Vingt-quatre | Twenty Four",
+        English2: "24",
+        French2: "Makumi Abidi ne Inayi: 24",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "24",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-quatre, 24 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty four, 24 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne inayi, 24 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 24</i></b><br>
+
+    <b><i>Cardinal Number: 24</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 24</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Itanu*/  
+    {
+        English: "Twenty Five",
+        French: "Vingt-cinq",
+        Tshiluba: "Makumi Abidi Ne Itanu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne I·ta·nu<p>/Mah-koo-mee Ah-bee-djee Neh ee-tah-nuu/</p>",
+        PhoneticsT: "Vingt-cinq | Twenty Five",
+        English2: "25",
+        French2: "Makumi Abidi ne Cinq: 25",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "25",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-cinq, 25 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty five, 25 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne itanu, 25 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 25</i></b><br>
+
+    <b><i>Cardinal Number: 25</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 25</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Isambombo*/  
+    {
+        English: "Twenty Six",
+        French: "Vingt-six",
+        Tshiluba: "Makumi Abidi Ne Isambombo",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne I·sam·bom·bo<p>/Mah-koo-mee Ah-bee-djee Neh ee-sahm-bohm-boh/</p>",
+        PhoneticsT: "Vingt-six | Twenty Six",
+        English2: "26",
+        French2: "Makumi Abidi ne Isambombo: 26",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "26",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-six, 26 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty six, 26 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne isambombo, 26 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 26</i></b><br>
+
+    <b><i>Cardinal Number: 26</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 26</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Muanda-mutekete*/  
+    {
+        English: "Twenty Seven",
+        French: "Vingt-sept",
+        Tshiluba: "Makumi Abidi Ne Muanda-mutekete",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne Muan·da·mu·te·ke·te<p>/Mah-koo-mee Ah-bee-djee Neh muan-dah-moo-teh-keh-tah/</p>",
+        PhoneticsT: "Vingt-sept | Twenty Seven",
+        English2: "27",
+        French2: "Makumi Abidi ne Muanda-mutekete: 27",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "27",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-sept, 27 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty seven, 27 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne muanda-mutekete, 27 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 27</i></b><br>
+
+    <b><i>Cardinal Number: 27</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 27</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=7">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
+                    <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
+                    <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Muanda-mukulu*/  
+    {
+        English: "Twenty Eight",
+        French: "Vingt-huit",
+        Tshiluba: "Makumi Abidi Ne Muanda-Mukulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne Muan·da·mu·ku·lu·te<p>/Mah-koo-mee Ah-bee-djee Neh muan-dah-moo-koo-loo/</p>",
+        PhoneticsT: "Vingt-huit | Twenty Eight",
+        English2: "28",
+        French2: "Makumi Abidi ne Muanda-mukulu: 28",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "28",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-huit, 28 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty eight, 28 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne muanda-mukulu, 28 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 28</i></b><br>
+
+    <b><i>Cardinal Number: 28</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 28</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Abidi Ne Tshitema*/  
+    {
+        English: "Twenty Nine",
+        French: "Vingt-neuf",
+        Tshiluba: "Makumi Abidi Ne Tshitema",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·bi·di ne Tshi·tem·a<p>/Mah-koo-mee Ah-bee-djee Neh chee-teh-mah/</p>",
+        PhoneticsT: "Vingt-neuf | Twenty Nine",
+        English2: "29",
+        French2: "Makumi Abidi ne Tshitema: 29",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "29",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-neuf, 29 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    twenty nine, 29 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi abidi ne tshitema, 29 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 29</i></b><br>
+
+    <b><i>Cardinal Number: 29</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 29</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Asatu*/  
+    {
+        English: "Thirty",
+        French: "Trente",
+        Tshiluba: "Makumi Asatu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·sa·tu<p>/Mah-koo-mee Ah-sah-too/</p>",
+        PhoneticsT: "Trente | Thirty",
+        English2: "30",
+        French2: "Makumi Asatu: 30",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "30",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    trente, 30 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    thirty, 30 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi asatu, 30 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 30</i></b><br>
+
+    <b><i>Cardinal Number: 30</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 30</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=3">isatu [3]</a>,
+                    <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
+                    <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>,  
+                    <a class="links" href="search.html?inpt1=3000">binunu bisatu[3000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Anayi*/  
+    {
+        English: "Forty",
+        French: "Quarante",
+        Tshiluba: "Makumi Anayi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·na·yi<p>/Mah-koo-mee Ah-nahy/</p>",
+        PhoneticsT: "Quarante | Forty",
+        English2: "40",
+        French2: "Makumi Anayi: 40",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "40",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quarante, 40 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    forty, 40 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi anayi, 40 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 40</i></b><br>
+
+    <b><i>Cardinal Number: 40</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 40</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=4">inayi [4]</a>,
+                    <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
+                    <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>,  
+                    <a class="links" href="search.html?inpt1=4000">binunu binayi[4000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Atanu*/  
+    {
+        English: "Fifty",
+        French: "Cinquante",
+        Tshiluba: "Makumi Atanu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·ta·nu<p>/Mah-koo-mee Ah-tah-nuu/</p>",
+        PhoneticsT: "Cinquante | Fifty",
+        English2: "50",
+        French2: "Makumi Atanu: 50",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "50",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cinquante, 50 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    fifty, 50 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi atanu, 50 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 50</i></b><br>
+
+    <b><i>Cardinal Number: 50</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 50</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                    <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
+                    <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>,  
+                    <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Asambombo*/  
+    {
+        English: "Sixty",
+        French: "Soixante",
+        Tshiluba: "Makumi Asambombo",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi A·sam·bom·bo<p>/Mah-koo-mee Ah-sahm-bohm-boh/</p>",
+        PhoneticsT: "Soixante | Sixty",
+        English2: "60",
+        French2: "Makumi Asambombo: 60",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "60",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    soixante, 60 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    sixty, 60 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi asambombo, 60 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 60</i></b><br>
+
+    <b><i>Cardinal Number: 60</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 60</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                    <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
+                    <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>,  
+                    <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Muanda-mutekete*/  
+    {
+        English: "Seventy",
+        French: "Soixante-dix",
+        Tshiluba: "Makumi Muanda-mutekete",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi Muan·da·mu·te·ke·te<p>/Mah-koo-mee mwahn-dah-moo-teh-keh-tah/</p>",
+        PhoneticsT: "Soixante-dix | Seventy",
+        English2: "70",
+        French2: "Makumi Muanda-mutekete: 70",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "70",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    soixante-dix, 70 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    seventy, 70 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi muanda-mutekete, 70 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 70</i></b><br>
+
+    <b><i>Cardinal Number: 70</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 70</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                    <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
+                    <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
+                    <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Muanda-mukulu*/  
+    {
+        English: "Eighty",
+        French: "Quatre-vingt",
+        Tshiluba: "Makumi Muandamukulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi Muan·da·mu·ku·lu<p>/Mah-koo-mee neh mwahn-dah-moo-koo-luu/</p>",
+        PhoneticsT: "Quatre-vingt | Eighty",
+        English2: "80",
+        French2: "Makumi Muandamukulu: 80",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "80",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quatre-vingt, 80 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    eighty, 80 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi muandamukulu, 80 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 80</i></b><br>
+
+    <b><i>Cardinal Number: 80</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 80</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=8">muandamukulu [8]</a>,
+                    <a class="links" href="search.html?inpt1=18">dikumi ne muandamukulu [18]</a>,
+                    <a class="links" href="search.html?inpt1=800">nkama muandamukulu [800]</a>,  
+                    <a class="links" href="search.html?inpt1=8000">binunu muandamukulu [8000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Makumi Tshitema*/  
+    {
+        English: "Ninety",
+        French: "Quatre-vingt-dix",
+        Tshiluba: "Makumi Tshitema",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·ku·mi Tshi·te·ma<p>/Mah-koo-mee chee-teh-mah/</p>",
+        PhoneticsT: "Quatre-vingt-dix | Ninety",
+        English2: "90",
+        French2: "Makumi Tshitema: 90",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "90",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quatre-vingt-dix, 90 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    ninety, 90 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    makumi tshitema, 90 <i class="PartOfSpch">tshi4</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 90</i></b><br>
+
+    <b><i>Cardinal Number: 90</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 90</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                    <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,  
+                    <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -13722,7 +20871,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 8</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 8</i></b><br>
+    <b><i>Bungi Bua Dibala: 8</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -13801,7 +20950,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 7</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 7</i></b><br>
+    <b><i>Bungi Bua Dibala: 7</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -14039,7 +21188,7 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="analogy"><br>
     <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
-    <i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>bwa <b>mu</b>nene
+    <i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>Bua <b>mu</b>nene
                     :<br>
                     &nbsp:
     Le grand chien
@@ -14048,7 +21197,7 @@ const nkongamiaku2 = [
     The big dog :
     <br><br>
     <i class="PartOfSpch">classe 7 nom pluriel -- mi</i><p>
-    <i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>bwa <b>mi</b>nene
+    <i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>Bua <b>mi</b>nene
                     :<br>
                     &nbsp:
     Les grands chiens
@@ -15505,7 +22654,7 @@ const nkongamiaku2 = [
     6 : <b>n-n</b><br>
     <b>N</b>yunyu - <b>N</b>yunyu<br><br>
     7 : <b>m-m</b><br>
-    <b>Mbwa</b>ntu - <b>M</b>bwa<br><br>
+    <b>MBua</b>ntu - <b>M</b>Bua<br><br>
     8 : <b>ka-tu</b><br>
     <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
     9 : <b>tshi-bi</b><br>
@@ -15611,6 +22760,96 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     `
+    },
+    /*Tshijengu*/  
+    {
+        English: "Zero",
+        French: "Zéro",
+        Tshiluba: "Tshijengu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Tshi·jeng·u<p>/Chee-jeng-ouu/</p>",
+        PhoneticsT: "Zéro | Zero",
+        English2: "0",
+        French2: "Tshijengu: 0",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "0",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    zéro, 0 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    zero, 0 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    tshijengu, 0 <i class="PartOfSpch">tshi</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 0</i></b><br>
+
+    <b><i>Cardinal Number: 0</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 0</i></b><br>
+    <br></td>
+
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=1">umwe [1]</a>, 
+                    <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+    <br><br></td>
+    </tr>` 
     },
     /*Tshilema*/   
     {
@@ -15986,7 +23225,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 1000</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 1000</i></b><br>
+    <b><i>Bungi Bua Dibala: 1000</i></b><br>
     <br></td>
     </tr>
     <tr>
@@ -15996,6 +23235,725 @@ const nkongamiaku2 = [
                     :: <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                     <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,  
                     <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Bibidi*/  
+    {
+        English: "Two Thousand",
+        French: "Vingt-mille",
+        Tshiluba: "Binunu Bibidi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Bi·bi·di<p>/bee-noo-noo bee-bee-djee/</p>",
+        PhoneticsT: "Vingt-mille | Two Thousand",
+        English2: "2000",
+        French2: "Binunu Bibidi: 2000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "2000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vingt-mille, 2000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    two thousand, 2000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu bibidi, 2000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 22</i></b><br>
+
+    <b><i>Cardinal Number: 22</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 22</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
+                    <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
+                    <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Bisatu*/  
+    {
+        English: "Three Thousand",
+        French: "Troix-Mille",
+        Tshiluba: "Binunu Bisatu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Bi·bi·di<p>/Bee-noo-new Bee-sah-too/</p>",
+        PhoneticsT: "Troix-Mille | Three Thousand",
+        English2: "3000",
+        French2: "Binunu Bisatu: 3000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "3000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    troix-mille, 3000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    three thousand, 3000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu bisatu, 3000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 3000</i></b><br>
+
+    <b><i>Cardinal Number: 3000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 3000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=3">ibidi [3]</a>,
+                    <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>
+                    <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>,
+                    <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a> 
+                    <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>,  
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Binayi*/  
+    {
+        English: "Four Thousand",
+        French: "Quatre-mille",
+        Tshiluba: "Binunu Binayi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Bi·na·yi<p>/Bee-noo-noo bee-nahy/</p>",
+        PhoneticsT: "Quatre-Mille | Four Thousand",
+        English2: "4000",
+        French2: "Binunu Binayi: 4000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "4000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quatre-mille, 4000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    four thousand, 4000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu binayi, 4000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 4000</i></b><br>
+
+    <b><i>Cardinal Number: 4000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 4000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=4">ibidi [2]</a>,
+                    <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>
+                    <a class="links" href="search.html?inpt1=24">makumi abidi ne isatu [24]</a>,
+                    <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>, 
+                    <a class="links" href="search.html?inpt1=400">nkama abidi [400]</a>,  
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Bitanu*/  
+    {
+        English: "Five Thousand",
+        French: "Cinq-Mille",
+        Tshiluba: "Binunu Bitanu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Bi·ta·nu<p>/Bee-noo-noo bee-tah-nuu/</p>",
+        PhoneticsT: "Cinq-Mille | Five Thousand",
+        English2: "5000",
+        French2: "Binunu Bitanu: 5000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "5000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cinq-mille, 5000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    five thousand, 5000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu bitanu, 5000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 5000</i></b><br>
+
+    <b><i>Cardinal Number: 5000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 5000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
+                    <a class="links" href="search.html?inpt1=15">dikumi ne ibidi [15]</a>, 
+                    <a class="links" href="search.html?inpt1=50">makumi atanu [50]</a>,
+                    <a class="links" href="search.html?inpt1=500">nkama abidi [500]</a>  
+                    
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Bisambombo*/  
+    {
+        English: "Six Thousand",
+        French: "Six-Mille",
+        Tshiluba: "Binunu Bisambombo",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Bi·sam·bom·bo<p>/Bee-noo-noo Bee-sahm-bohm-boh/</p>",
+        PhoneticsT: "Six-Mille | Six Thousand",
+        English2: "6000",
+        French2: "Binunu Bisambombo: 6000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "6000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    six-mille, 6000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    six thousand, 6000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu bisambombo, 6000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 6000</i></b><br>
+
+    <b><i>Cardinal Number: 6000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 6000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
+                    <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>, 
+                    <a class="links" href="search.html?inpt1=26">makumi abidi ne isambombo [26]</a>,
+                    <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,
+                    <a class="links" href="search.html?inpt1=600">nkama abidi [600]</a>  
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Muanda-mutekete*/  
+    {
+        English: "Seven Thousand",
+        French: "Vingt-Mille",
+        Tshiluba: "Binunu Muanda-mutekete",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Muan·da·mu·te·ke·te<p>/Bee-noo-noo muan-dah-moo-teh-keh-tah/</p>",
+        PhoneticsT: "Sept-Mille | Seven Thousand",
+        English2: "7000",
+        French2: "Binunu Muanda-Mutekete: 7000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "7000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sept-mille, 7000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    seven thousand, 7000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu muanda-mutekete, 7000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 7000</i></b><br>
+
+    <b><i>Cardinal Number: 7000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 7000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
+                    <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [12]</a>,
+                    <a class="links" href="search.html?inpt1=27">makumi abidi ne muanda-mutekete [27]</a>,
+                    <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
+                    <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Muanda-mukulu*/  
+    {
+        English: "Eight Thousand",
+        French: "Huit-Mille",
+        Tshiluba: "Binunu Muanda-Mukulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Muan·da·mu·ku·lu·te<p>/Bee-noo-noo Muan-dah-moo-koo-loo/</p>",
+        PhoneticsT: "Huit-Mille | Eight Thousand",
+        English2: "8000",
+        French2: "Binunu Muanda-Mukulu: 8000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "8000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    huit-mille, 8000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    eight thousand, 8000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu muanda-mukulu, 8000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 8000</i></b><br>
+
+    <b><i>Cardinal Number: 8000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 8000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
+                    <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="search.html?inpt1=28">makumi abidi ne muanda-mukulu [28]</a>,
+                    <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>, 
+                    <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>
+    <br><br></td>
+    </tr>` 
+    },
+    /*Binunu Tshitema*/  
+    {
+        English: "Nine Thousand",
+        French: "Neuf-Mille",
+        Tshiluba: "Binunu Tshitema",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·nu·nu Tshi·tem·a<p>/Bee-noo-noo chee-teh-mah/</p>",
+        PhoneticsT: "Neuf-Mille | Nine Thousand",
+        English2: "9000",
+        French2: "Binunu Tshitema: 9000",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: "9000",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    neuf-mille, 9000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    nine thousand, 9000 <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    binunu tshitema, 9000 <i class="PartOfSpch">tshi9</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Nombre Cardinale: 9000</i></b><br>
+
+    <b><i>Cardinal Number: 9000</i></b><br>
+                
+    <b><i>Bungi Bua Dibala: 9000</i></b><br>
+    <br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                    <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
+                    <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="search.html?inpt1=19">dikumi abidi ne tshitema [29]</a>,
+                    <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>, 
+                    <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>
     <br><br></td>
     </tr>` 
     },
@@ -16294,7 +24252,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 9</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 9</i></b><br>
+    <b><i>Bungi Bua Dibala: 9</i></b><br>
     <br></td>
     </tr>` 
     },
@@ -16472,7 +24430,7 @@ const nkongamiaku2 = [
     
     <b><i>Cardinal Number: 1</i></b><br>
                 
-    <b><i>Bungi Bwa Dibala: 1</i></b><br>
+    <b><i>Bungi Bua Dibala: 1</i></b><br>
     <br></td>
     </tr>
     <tr>

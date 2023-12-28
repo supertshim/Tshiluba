@@ -3,10 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TSHILUBA.co | The Online Tshiluba to French to English Dictionary</title>
+    <title>TSHILUBA.co</title>
 <!--Link to the style code-->
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/wordindex.css">
+    <link rel="stylesheet" href="style.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,54 +21,32 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="icon" href="images/Tco_logo2.jpg">
 </head>
+<div id="wrapper">
 <body>
-
-
-<section class="header">
+<section class="searchheader">
     <nav>
         <div class="nav-links" id="navLinks">
         <!--The X icon placed in the nav menu-->
         <i class="fa fa-times" onclick="hideMenu()"></i>
             <ul>
                 <li><a href="index.html">HOME</a></li>
-                <li><a href="wordindex.html">INDEX</a></li>
-                <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
-                    <div class="dropdown">
-                        <a href="wordscramble.html">WORD SCRAMBLE</a>
-                    </div>
-                </li>
+                <li><a href="about.html">INDEX</a></li>
             </ul>
         </div>
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
     </nav>
-
-
-
+<div class="cage">
 <div class="text-box">
     <!--Navigation Menu LOGO image-->
-    <h1><a href="index.html">TSHILUBA.co</a></h1>
-    <p>
 </div>
-
-
-
-<div class="IndexBox">
+</div>
+<div class="tablewrapper2">
+    <img class="biglogo" src="images/Tco_logo2.jpg">
     <table class="IndexTable" id="IndexTable">
-        <tr> <!--TSHILUBA WORD LIST-->
-            <td><ol class="indexlist" id="indexlist" type="1">
-                    <li><a class="links" href="search.html?inpt1=wa">--A</a></li>
-                    <li><a class="links" href="search.html?inpt1=for">BUA</a></li>
-                    <li><a class="links" href="search.html?inpt1=number">BUNGI</a></li>
+        <tr> <!--TSHILUBA WORD OF THE DAY LIST-->
+            <td><ol class="indexlist" id="indexlist" type="1"><li><a class="links" href="search.html?inpt1=for">BUA</a></li>
+                    <li><a class="links" href="search.html?inpt1=number">BUNGI</a></li>    
                     <li><a class="links" href="search.html?inpt1=ten">DIKUMI: 10</a></li>
-                    <li><a class="links" href="search.html?inpt1=11">DIKUMI NE UMWE: 11</a></li>
-                    <li><a class="links" href="search.html?inpt1=12">DIKUMI NE IBIDI: 12</a></li>
-                    <li><a class="links" href="search.html?inpt1=13">DIKUMI NE ISATU: 13</a></li>
-                    <li><a class="links" href="search.html?inpt1=14">DIKUMI NE INAYI: 14</a></li>
-                    <li><a class="links" href="search.html?inpt1=15">DIKUMI NE ITANU: 15</a></li>
-                    <li><a class="links" href="search.html?inpt1=16">DIKUMI NE ISAMBOMBO: 16</a></li>
-                    <li><a class="links" href="search.html?inpt1=17">DIKUMI NE MUANDAMUTEKETE: 17</a></li>
-                    <li><a class="links" href="search.html?inpt1=18">DIKUMI NE MUANDAMUKULU: 18</a></li>
-                    <li><a class="links" href="search.html?inpt1=19">DIKUMI NE TSHITEMA: 19</a></li>
                     <li><a class="links" href="search.html?inpt1=aroma">DIPEMBU</a></li>
                     <li><a class="links" href="search.html?inpt1=pays">DITUNGA</a></li>
                     <li><a class="links" href="search.html?inpt1=ditutu">DITUTU</a></li>
@@ -113,39 +90,14 @@
                     <li><a class="links" href="search.html?inpt1=kuya">KUYA</a></li>
                     <li><a class="links" href="search.html?inpt1=boiter">KUZEBUKA</a></li>
                     <li><a class="links" href="search.html?inpt1=100">LUKAMA: 100</a></li>
-                    <li><a class="links" href="search.html?inpt1=200">NKAMA IBIDI: 200</a></li>
-                    <li><a class="links" href="search.html?inpt1=300">NKAMA ISATU: 300</a></li>
-                    <li><a class="links" href="search.html?inpt1=400">NKAMA INAYI: 400</a></li>
-                    <li><a class="links" href="search.html?inpt1=500">NKAMA ITANU: 500</a></li>
-                    <li><a class="links" href="search.html?inpt1=600">NKAMA ISAMBOMBO: 600</a></li>
-                    <li><a class="links" href="search.html?inpt1=700">NKAMA MUANDA-MUTEKETE: 700</a></li>
-                    <li><a class="links" href="search.html?inpt1=800">NKAMA MUANDA-MUKULU: 800</a></li>
-                    <li><a class="links" href="search.html?inpt1=900">NKAMA TSHITEMA: 900</a></li>
-                    <li><a class="links" href="search.html?inpt1=20">MAKUMI ABIDI: 20</a></li>
-                    <li><a class="links" href="search.html?inpt1=21">MAKUMI ABIDI NE UMWE: 21</a></li>
-                    <li><a class="links" href="search.html?inpt1=22">MAKUMI ABIDI NE IBIDI: 22</a></li>
-                    <li><a class="links" href="search.html?inpt1=23">MAKUMI ABIDI NE ISATU: 23</a></li>
-                    <li><a class="links" href="search.html?inpt1=24">MAKUMI ABIDI NE INAYI: 24</a></li>
-                    <li><a class="links" href="search.html?inpt1=25">MAKUMI ABIDI NE ITANU: 25</a></li>
-                    <li><a class="links" href="search.html?inpt1=26">MAKUMI ABIDI NE ISAMBOMBO: 26</a></li>
-                    <li><a class="links" href="search.html?inpt1=27">MAKUMI ABIDI NE MUANDAMUTEKETE: 27</a></li>
-                    <li><a class="links" href="search.html?inpt1=28">MAKUMI ABIDI NE MUANDAMUKULU: 28</a></li>
-                    <li><a class="links" href="search.html?inpt1=29">MAKUMI ABIDI NE TSHITEMA: 29</a></li>
-                    <li><a class="links" href="search.html?inpt1=30">MAKUMI ASATU: 30</a></li>
-                    <li><a class="links" href="search.html?inpt1=40">MAKUMI ANAYI: 40</a></li>
-                    <li><a class="links" href="search.html?inpt1=50">MAKUMI ATANU: 50</a></li>
-                    <li><a class="links" href="search.html?inpt1=60">MAKUMI ASAMBOMBO: 60</a></li>
-                    <li><a class="links" href="search.html?inpt1=70">MAKUMI MUANDA-MUTEKETE: 70</a></li>
-                    <li><a class="links" href="search.html?inpt1=80">MAKUMI MUANDA-MUKULU: 80</a></li>
-                    <li><a class="links" href="search.html?inpt1=90">MAKUMI TSHITEMA: 90</a></li>
                     <li><a class="links" href="search.html?inpt1=froid">MASHIKA</a></li>
                     <li><a class="links" href="search.html?inpt1=writing">MFUNDILU</a></li>
                     <li><a class="links" href="search.html?inpt1=word">MUAKU</a></li>
                     <li><a class="links" href="search.html?inpt1=language">MUAKULU</a></li>
                     <li><a class="links" href="search.html?inpt1=muambikila">MUAMBIKILA</a></li>
                     <li><a class="links" href="search.html?inpt1=muanda">MUANDA</a></li>
-                    <li><a class="links" href="search.html?inpt1=eight">MUANDAMUKULU: 8</a></li>
-                    <li><a class="links" href="search.html?inpt1=seven">MUANDAMUTEKETE: 7</a></li>
+                    <li><a class="links" href="search.html?inpt1=eight">MUANDA-MUKULU: 8</a></li>
+                    <li><a class="links" href="search.html?inpt1=seven">MUANDA-MUTEKETE: 7</a></li>
                     <li><a class="links" href="search.html?inpt1=limite">MUKALU</a></li>
                     <li><a class="links" href="search.html?inpt1=democracy">MUNGALATA</a></li>
                     <li><a class="links" href="search.html?inpt1=someone">MUNTU</a></li>
@@ -164,49 +116,23 @@
                     <li><a class="links" href="search.html?inpt1=tshimbadi">TSHIMBADI</a></li>
                     <li><a class="links" href="search.html?inpt1=thing">TSHINTU</a></li>
                     <li><a class="links" href="search.html?inpt1=1000">TSHINUNU: 1000</a></li>
-                    <li><a class="links" href="search.html?inpt1=2000">BINUNU BIBIDI: 2000</a></li>
-                    <li><a class="links" href="search.html?inpt1=3000">BINUNU BISATU: 3000</a></li>
-                    <li><a class="links" href="search.html?inpt1=4000">BINUNU BINAYI: 4000</a></li>
-                    <li><a class="links" href="search.html?inpt1=5000">BINUNU BITANU: 5000</a></li>
-                    <li><a class="links" href="search.html?inpt1=6000">BINUNU BISAMBOMBO: 6000</a></li>
-                    <li><a class="links" href="search.html?inpt1=7000">BINUNU MUANDA-MUTEKETE: 7000</a></li>
-                    <li><a class="links" href="search.html?inpt1=8000">BINUNU MUANDA-MUKULU: 8000</a></li>
-                    <li><a class="links" href="search.html?inpt1=9000">BINUNU TSHITEMA: 9000</a></li>
                     <li><a class="links" href="search.html?inpt1=what">TSHINYI</a></li>
                     <li><a class="links" href="search.html?inpt1=objective">TSHIPATSHILA</a></li>
                     <li><a class="links" href="search.html?inpt1=nine">TSHITEMA: 9</a></li>
                     <li><a class="links" href="search.html?inpt1=morceau">TSHITUPA</a></li>
-                    <li><a class="links" href="search.html?inpt1=one">UMWE: 1</a></li>
-                </ol>    
+                    <li><a class="links" href="search.html?inpt1=one">UMWE: 1</a></li></ol>    
             </td>
 
         </tr>
-    </table> 
-<div class="space"></div>
-</div>
-
-
-</section>
-
-
-<footer class="footer">
-    <table>
-        <tr class="ft1">
-            <th style="width: 100px; height: 100px; text-align:center;"><a href="aboutus.html" style="text-decoration: none;">ABOUT US</a><br><br><a href="contactus.html" style="text-decoration: none;">CONTACT US</a></th>
-            <th style="width: 100px; height: 100px;"><a href="index.html"><img src="images/Tco_logo2.jpg"></a><br>TSHILUBA.co, LLC 2023<br>
-                </th>
-            <th style="width: 100px; height: 100px;"><a href="privacypolicy.html" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
-        </tr>
-        <tr >
-           <th colspan="3">
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="images/x-social-media-logo-icon.webp"></a>
-           </th>
-        </tr>
     </table>
-</footer>
+<table class="h-lines" id="h-lines"></table> 
+    <footer class="footer">
+        <h1 class="ft1"><img src="images/Tshisumbu Tshia Dikeba Dia Tshiluba 2023.png"><br>Tshisumbu Tshia Dikeba Dia Tshiluba 2023</h1>
+    </footer>
+</div>
+</div>
+</div>
+</section>
 <!--Java Script For Toggle Menu-->
 <script>
 
@@ -244,12 +170,39 @@
     var getitem = window.location.search;
     var homeindexword = getitem.slice(7,getitem.length);
     
-    var listy = document.querySelectorAll(".indexlist li");
+    //LISTY ARRAY IS THE WORDS ARRAY FUNCTION// AS WORDS UPDATE, THIS GETS BIGGER
+    var listy = document.getElementById("indexlist").innerText.split("\n");
+    console.log(listy);
     listsize = listy.length;
+
+
     const mwdarray = new Array(listsize);
     const mwdarrayx = mwdarray.fill().map((item, index) => index);
     shuffle(mwdarrayx);
+    console.log(mwdarrayx);
     const xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 75, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
+    console.log(xnum);
+    var xnumsize = xnum.length;
+
+    //xnumremove is used to make the month length either 30, 31, or 28 for february, but it
+    //doesn't really matter as the month xnum2 will reset to 1 every month.
+    var xnumremove = xnum.slice(0, 31);
+    //.sort((a,b) => a-b);
+    var xnum2;
+    
+    //mwdarrayx is the new array to use every month. Whenever the list updates, mwdarrayx will be
+    //the randomized list shuffled again, removing the words already used.
+    // this makes it so that you can update the word list and not worry about repeating words month
+    //to month.
+    //So TAKE the new raw result of mwdarrayx and paste into xnum every month
+    let z=0;
+    while (z < xnumremove.length){
+        let xx = mwdarrayx.indexOf(xnumremove[z]);
+        console.log(xx);
+        mwdarrayx.splice(xx, 1);
+        z++;
+        console.log(mwdarrayx);
+    }
 
     function wordotd(){
         var xdate = new Date(),
@@ -258,23 +211,26 @@
         xyear = xdate.getFullYear();
     var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
         xmonth = xmonths[xmonth];
-        window.localStorage.setItem("xmonth", xmonth);
-        window.localStorage.setItem("xday", xday);
-        window.localStorage.setItem("xyear", xyear);
-        xnum2 = xnum[xday];
-        console.log(xnum);
+        var xnum2 = xnum[xday];
     }
 
     var now = new Date();
-    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 16, 5, 0, 0) - now;
+    var til12am = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 0, 0, 0, 0) - now;
     if (til12am < 0 ) {
         til12am += 86400000;// its after 12am, try 12am tomorrow!
     }
     setTimeout(wordotd, til12am);
-    console.log(til12am);
-
+    if (xnum2 === undefined){
+        let xdate = new Date();
+        xmonth = xdate.getMonth(),
+        xday = xdate.getDate(),
+        xyear = xdate.getFullYear();
+        xnum2 = xnum[xday];
+    }
+    var wordoftheday = listy[xnum2];
 
 
 </script>
 </body>
+</div>
 </html>
