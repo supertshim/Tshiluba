@@ -228,8 +228,9 @@ a.links:visited {
     font-size: 4vw;
     display: inline-block;
     width: 100%;
-    margin-top: 0px;
+    margin-top: 10px;
     margin-bottom: 10px;
+    position: sticky;
 }
 
 .header .card .tablewrapper .Xinfo  .PartOfSpch{
@@ -239,12 +240,12 @@ a.links:visited {
 }
 .header .card .Phonetics{
     font-size: 4vw;
-    padding: 10px;
-    position: sticky;
+    padding-bottom: 10px;
+    position: relative;
     background-color: transparent;
     transform: translate(0, -30px);
-    margin-bottom: -30px;
-    margin-top: 0px;
+    margin-bottom: 0px;
+    top: 20px;
 }
 .header .tablewrapper{
     width: 100%;
