@@ -184,6 +184,15 @@ a.links:visited {
     text-align: center;
 }
 
+.header .card .tablewrapper .Xinfo .tabledef_a .links{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%; 
+    font-weight: 700;
+}
+
 /************************************THE SEARCH PAGE SECTION*********************************/
 /*****SUB 700*******************/
 @media(max-width: 700px){
@@ -313,6 +322,16 @@ a.links:visited {
     padding: 2px;
     font-size: 16px;
     text-align: center;
-    width: 100%;
+    width: 100%; 
 }
+
+.header .card .tablewrapper .Xinfo .tabledef_a .links{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%; 
+    font-weight: 700;
+}
+
 }
