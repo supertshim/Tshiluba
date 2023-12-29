@@ -3144,7 +3144,7 @@ Kanungu 5 :
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "Talk",
-    French3: " ",
+    French3: "ngakula",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -3193,7 +3193,8 @@ Kanungu 5 :
 parler <i class="PartOfSpch">v</i><p>
 </td>
 <td class="tabledef" valign=top >
-speak <i class="PartOfSpch">v</i>, talk <i class="PartOfSpch">v</i>
+speak <i class="PartOfSpch">v</i>,<br>
+talk <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
 kuakula <i class="PartOfSpch">mn</i><p>
@@ -3966,7 +3967,8 @@ Pavuaye wendakana ku muelelu :
 faire <i class="PartOfSpch">vtr</i><p>
 </td>
 <td class="tabledef" valign=top >
-do, make <i class="PartOfSpch">vtr</i>
+do <i class="PartOfSpch">vtr</i>,<br>
+make <i class="PartOfSpch">vtr</i>
 </td>
 <td class="tabledef" valign=top >
 kuenza <i class="PartOfSpch">muan</i><p>
@@ -4304,7 +4306,7 @@ kufundisha
 être <i class="PartOfSpch">v.in</i> <br>
 </td>
 <td class="tabledef" valign=top >
-be <i class="PartOfSpch">v.in</i> <br>
+to be <i class="PartOfSpch">v.in</i> <br>
 </td>
 <td class="tabledef" valign=top >
 kuikala <i class="PartOfSpch">muan</i>
@@ -4906,8 +4908,8 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: " ",
-    French5: " ",
-    Tshiluba5: "Kununkila",
+    French5: "Kununkila",
+    Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
     French6: " ",
