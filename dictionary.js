@@ -3343,6 +3343,109 @@ Kuambila ne :
 <tr>
 ` 
 },
+/*Kuambakaja*/  
+{
+    English: "to stack",
+    French: "superposer",
+    Tshiluba: "Kuambakaja",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·am·ba·ka·ja<p>/kwahm-bak-kah-jah/</p>",
+    PhoneticsT: "superposer | stack",
+    English2: "stack",
+    French2: "empiler",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "tuambakaja",
+    French3: "ambakaja",
+    Tshiluba3: " ",
+    PhoneticsT3: "tutuambakaja",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. superposer <i class="PartOfSpch">v</i><br>, empiler <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+1. to stack <i class="PartOfSpch">v</i>, to pile up <i class="PartOfSpch">v</i><br>,
+ to put on top of
+</td>
+<td class="tabledef" valign=top >
+kuambakaja <i class="PartOfSpch">mn</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kuamba">kuamba</a> 
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je superimpose | I'm stacking | <b>ndi ngambakaja</b><br><br>
+2. tu superimposes | you're stacking | <b>udi wambakaja</b><br><br>
+3. il/elle superimpose | he/she's stacking | <b>udi wambakaja</b><br><br>
+4. nous superimposons | we're stacking | <b>tudi tuambakaja</b><br><br>
+5. vous superimposez | you're stacking | <b>nudi nuambakaja</b><br><br>
+6. ils superimposent | they're stacking | <b>badi bambakaja</b><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>:
+2ieme mandat, nous superimposons
+                :<br>
+                &nbsp:
+For the 2nd mandate, we're stacking
+                :<br>
+                &nbsp:&nbsp
+Mandat ibidi, tuji tuambakaja. Fatshi beton tutuambakaja :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
 /*Kuangata*/   
 {
     English: "to take",
@@ -10859,7 +10962,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 6 : <b>n-n</b><br>
 <b>N</b>yunyu - <b>N</b>yunyu<br><br>
 7 : <b>m-m</b><br>
-<b>Mbua</b> - <b>M</b>bua<br><br>
+<b>M</b>bua - <b>M</b>bua<br><br>
 8 : <b>ka-tu</b><br>
 <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
 9 : <b>tshi-bi</b><br>
