@@ -10431,12 +10431,12 @@ vuaku ne ewu udi musua
 {
         English: "Dictionary",
         French: "Dictionnaire",
-        Tshiluba: "search",
+        Tshiluba: "Nkongamiaku",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
         PhoneticsT: "Dictionnaire / Dictionary",
         English2: " ",
-        French2: " ",
+        French2: "Nkonga miaku",
         Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
@@ -22526,7 +22526,7 @@ const nkongamiaku2 = [
     {
             English: "Dictionary",
             French: "Dictionnaire",
-            Tshiluba: "search",
+            Tshiluba: "Nkongamiaku",
             PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
             Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
             PhoneticsT: "Dictionnaire / Dictionary",
