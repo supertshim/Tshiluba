@@ -1911,11 +1911,13 @@ a gray or white mass in the sky, made up of very small floating drops of water
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-loi, législation <i class="PartOfSpch">n</i><p>
+loi <i class="PartOfSpch">n</i>,<br>
+législation <i class="PartOfSpch">n</i><p>
 <i>(politique)</i>
 </td>
 <td class="tabledef" valign=top >
-law, legislation <i class="PartOfSpch">n</i>
+law <i class="PartOfSpch">n</i>,<br>
+legislation <i class="PartOfSpch">n</i>
 <i>(political)</i>
 </td>
 <td class="tabledef" valign=top >
