@@ -6072,10 +6072,10 @@ tudi tumvua bamba ne:
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. aller <i class="PartOfSpch">v.tr</i> <br>
+aller <i class="PartOfSpch">v.tr</i> <br>
 </td>
 <td class="tabledef" valign=top >
-1. go <i class="PartOfSpch">tr.v</i> <br>
+to go <i class="PartOfSpch">tr.v</i> <br>
 </td>
 <td class="tabledef" valign=top >
 kuya <i class="PartOfSpch">muan</i>
@@ -12818,12 +12818,16 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. morceau, fraction, portion <i class="PartOfSpch">n</i><p>
+1. morceau <i class="PartOfSpch">n</i>,<br>
+fraction <i class="PartOfSpch">n</i>,<br>
+portion <i class="PartOfSpch">n</i><br>
 2. chapitre
 </td>
 <td class="tabledef" valign=top >
-1. part, piece, fraction <i class="PartOfSpch">n</i>
-2. chapter
+1. part <i class="PartOfSpch">n</i>,<br>
+piece<i class="PartOfSpch">n</i>,<br>
+fraction <i class="PartOfSpch">n</i><br>
+2. chapter <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 tshitupa <i class="PartOfSpch">tshi9</i><p>
