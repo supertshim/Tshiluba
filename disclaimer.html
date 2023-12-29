@@ -8,7 +8,7 @@
     <title>TSHILUBA.co | The Online Tshiluba to French to English Dictionary</title>
 <!--Link to the style code-->
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/contactus.css">
+    <link rel="stylesheet" href="css/disclaimer.css">
 <!-- Montserrat Font link from Google Fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,12 +23,11 @@
 <!--Font Awesome Mobile Menu Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="icon" href="images/Tco_logo2.jpg">
-    <!--Recapcha-->
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <div id="wrapper">
 <body>
 <section class="header">
+
     <nav>
         <div class="nav-links" id="navLinks">
         <!--The X icon placed in the nav menu-->
@@ -48,31 +47,32 @@
 
     <div class="text-box">
         <!--Navigation Menu LOGO image-->
-       <h1>CONTACT.us</h1>
+       <h1><a href="disclaimer.html">DISCLAIMER</a></h1>
         <p>
     </div>
 
 <div class="documentarea">
- <div class="ContactUs">
-    <form action="https://formsubmit.co/2e721393200729b1c15000f18b84160d" method="POST">
-        <p><b>NAME | DINA</b></p>
-        <input class="contactform" autocomplete="off" type="text" name="name" required><br>
-        <p><b>SUBJECT | BUALU</b></p>
-        <input class="contactform" autocomplete="off" type="text" name="subject" required><br>
-        <p><b>EMAIL ADDRESS</b></p>
-        <input class="contactform" autocomplete="off" type="email" name="email" required><br>
-        <p><b>MESSAGE | MUKENJI</b></p>
-        <textarea class="contactformmessage" autocomplete="off" type="text" name="message" required></textarea>
-        <input type="hidden" name="_captcha" value="false">
-        <input type="hidden" name="_next" value="https://tshiluba.co/thankyou.html"><br>
-            <div class="gcaptcha-box">
-            <div class="g-recaptcha" data-sitekey="6LfMdjkpAAAAAA5pvm55qNPBGE1UbYcfwZ_KC8wi"></div>
-            </div>
-        <button class="buttxn" type="submit">SEND | TUMA</button>
-   </form>
-
+    <div class="Disclaimer">
+    <h1>General Information</h1>
+    <p>The information provided on Tshiluba.co is for general informational purposes only. While we strive to keep the information up-to-date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose.</p>
+    
+    <h1>Limitation of Liability</h1>
+    <p>Any reliance you place on such information is strictly at your own risk. We will not be liable for any loss or damage, including but not limited to indirect or consequential loss or damage, arising out of, or in connection with, the use of this website.</p>
+    
+    <h1>External Links</h1>
+    <p>Through this website, you are able to link to other websites that are not under the control of Tshiluba.co. We have no control over the nature, content, and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.</p>
+    
+    <h1>Professional Advice</h1>
+    <p>The information provided on Tshiluba.co is not intended to constitute professional advice. It is for informational purposes only and should not be substituted for professional or specific advice pertaining to any individual situation.</p>
+    
+    <h1>Updates and Revisions</h1>
+    <p>We strive to ensure that the information provided on Tshiluba.co remains accurate and up-to-date. However, we reserve the right to update, change, or modify any information on this website at any time without prior notice.<br><br>
+    
+    By using Tshiluba.co, you agree to accept all terms and conditions outlined in this disclaimer. If you have any questions or concerns about this disclaimer, please <a href="contactus.html">contact us</a>.</p>
+        </p>
     </div>
 </div>
+
 
 </section>
 
@@ -106,31 +106,6 @@
         navLinks.style.right = "-200px"
     }
 
-</script>
-<script>
-
-    const form = document.querySelector('form');
-    form.addEventListener('submit', (e) => {
-
-            e.preventDefault();
-
-            const CaptchaResponse = grecaptcha.getResponse();
-
-            if (!CaptchaResponse.length > 0) {
-
-                throw new Error("Captcha Not Complete")
-            }
-
-            const fd = new FormData(e.target);
-            const params = new URLSearchParams(fd);
-
-            fetch('https://formsubmit.co/2e721393200729b1c15000f18b84160d', {
-                method: "POST",
-                body: params,
-            })
-            
-            window.location = 'https://tshiluba.co/thankyou.html';
-    });
 </script>
 </body>
 </div>
