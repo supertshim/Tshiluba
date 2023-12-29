@@ -7187,7 +7187,7 @@ makumi abidi ne umwe, 21 <i class="PartOfSpch">tshi4</i><br>
 /*Makumi Abidi Ne Ibidi*/  
 {
     English: "Twenty Two",
-    French: "Vingt-et-un",
+    French: "Vingt-deux",
     Tshiluba: "Makumi Abidi Ne Ibidi",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Ma·ku·mi A·bi·di ne I·bi·di<p>/Mah-koo-mee Ah-bee-djee Neh ee-bee-djee/</p>",
@@ -19302,7 +19302,7 @@ const nkongamiaku2 = [
     /*Makumi Abidi Ne Ibidi*/  
     {
         English: "Twenty Two",
-        French: "Vingt-et-un",
+        French: "Vingt-deux",
         Tshiluba: "Makumi Abidi Ne Ibidi",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ma·ku·mi A·bi·di ne I·bi·di<p>/Mah-koo-mee Ah-bee-djee Neh ee-bee-djee/</p>",
