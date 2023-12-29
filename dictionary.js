@@ -10859,7 +10859,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 6 : <b>n-n</b><br>
 <b>N</b>yunyu - <b>N</b>yunyu<br><br>
 7 : <b>m-m</b><br>
-<b>MBua</b>ntu - <b>M</b>Bua<br><br>
+<b>Mbua</b> - <b>M</b>bua<br><br>
 8 : <b>ka-tu</b><br>
 <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
 9 : <b>tshi-bi</b><br>
