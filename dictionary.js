@@ -1585,7 +1585,7 @@ dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
 <br><br></td>
 </tr>` 
 },
-/*Dipembu Dihembu*/  
+/*Dipembu*/  
 {
     English: "Aroma",
     French: "Arôme",
@@ -1597,7 +1597,7 @@ dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
     French2: "Arome",
     Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "dihembu",
     French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
@@ -1644,21 +1644,26 @@ dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-arôme, parfum <i class="PartOfSpch">n</i><p>
+arôme <i class="PartOfSpch">n</i><br>
+parfum <i class="PartOfSpch">n</i><p>
 </td>
 <td class="tabledef" valign=top >
-aroma, fragrance, sweet smell <i class="PartOfSpch">n</i>
+aroma <i class="PartOfSpch">n</i><br>
+fragrance <i class="PartOfSpch">n</i><br>
+sweet smell <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-dipembu <i class="PartOfSpch">tshi4</i><p>
-dihembu <p><i class="PartOfSpch">pl</i> mapembu, mahembu
+dipembu <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mapembu<br><br>
+dihembu <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mahembu 
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="analogy">
 <b><i>Explication</i></b><br>
 Une odeur provenant des épices, des plantes, de la cuisine, etc., notamment une odeur agréable ; fragrance.
-<br>
+<br><br>
 
 <b><i>Explanation</i></b><br>
 An odor arising from spices, plants, cooking, etc., especially an agreeable odor; fragrance.
@@ -1729,18 +1734,26 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-pays, état, contrée, nation, village <i class="PartOfSpch">n</i><p>
+pays <i class="PartOfSpch">n</i><br>
+état <i class="PartOfSpch">n</i><br>
+contrée <i class="PartOfSpch">n</i><br>
+nation <i class="PartOfSpch">n</i><br>
+village <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-country, state, territory, nation, village <i class="PartOfSpch">n</i>
+country <i class="PartOfSpch">n</i><br>
+state <i class="PartOfSpch">n</i><br>
+territory <i class="PartOfSpch">n</i><br>
+nation <i class="PartOfSpch">n</i><br>
+village <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-Ditunga <i class="PartOfSpch">tshi4</i><p>
-<i class="PartOfSpch">pl</i> Matunga
+ditunga <i class="PartOfSpch">tshi4</i><p>
+<i class="PartOfSpch">pl</i> matunga
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Pays de naissance, de résidence ou de citoyenneté d'une personne.
                 <br><br>
@@ -1837,7 +1850,7 @@ ditutu <i class="PartOfSpch">tshi4</i><p>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'eau flottantes
 <br><br>
@@ -1911,22 +1924,21 @@ a gray or white mass in the sky, made up of very small floating drops of water
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-loi <i class="PartOfSpch">n</i>,<br>
+loi <i class="PartOfSpch">n</i><br>
 législation <i class="PartOfSpch">n</i><p>
 <i>(politique)</i>
 </td>
 <td class="tabledef" valign=top >
-law <i class="PartOfSpch">n</i>,<br>
-legislation <i class="PartOfSpch">n</i>
+law <i class="PartOfSpch">n</i><br>
+legislation <i class="PartOfSpch">n</i><p>
 <i>(political)</i>
 </td>
 <td class="tabledef" valign=top >
 diyi <i class="PartOfSpch">tshi4</i><p>
-<i>(political)</i>
 </td>
 </tr>
 <tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Toute règle écrite ou positive ou ensemble de règles prescrites sous l'autorité de l'État ou de la nation, comme par le peuple dans sa constitution.
 <br><br>
@@ -2004,15 +2016,15 @@ constitution <i class="PartOfSpch">n</i><p>
 <i>(politique)</i>
 </td>
 <td class="tabledef" valign=top >
-Constitution <i class="PartOfSpch">n</i>
+constitution <i class="PartOfSpch">n</i><p>
 <i>(political)</i>
 </td>
 <td class="tabledef" valign=top >
-Diyi Dikulu <i class="PartOfSpch">tshi</i>
+diyi dikulu <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Les principes et lois de base d'une nation, d'un État ou d'un groupe social qui déterminent les pouvoirs et les devoirs du gouvernement et garantissent certains droits aux personnes qui en font partie.
                 <br><br>
@@ -2055,15 +2067,15 @@ Diyi Dikulu dia Ditunga.
     French3: "Ouais",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
+    English4: "eyo",
+    French4: "bien sur",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: "Eyo",
+    English5: "ofcourse",
+    French5: "biensur",
+    Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "yep",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -2098,24 +2110,27 @@ Diyi Dikulu dia Ditunga.
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-oui, bien sûr<i class="PartOfSpch">adv</i><p>
-ouais
+oui <i class="PartOfSpch">adv</i><p> 
+bien sûr <i class="PartOfSpch">adv</i><p>
+ouais <i class="PartOfSpch">adv</i>
 </td>
 <td class="tabledef" valign=top >
-yes, of course <i class="PartOfSpch">adv</i><p>
-yeah
+yes <i class="PartOfSpch">adv</i><p>
+of course <i class="PartOfSpch">adv</i><p>
+yeah <i class="PartOfSpch">adv</i>
 </td>
 <td class="tabledef" valign=top >
-eyowa, eyo <i class="PartOfSpch">adv</i>
+eyowa <i class="PartOfSpch">muam</i><p>
+eyo <i class="PartOfSpch">muam</i>
 </td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
 <i>oui, ce que tu as dit est vrai
-                :<br>
+                :<br><br>
                 &nbsp:
 yes, what you said is true
-                :<br>
+                :<br><br>
                 &nbsp:&nbsp
 eyowa, bualu buambi mbua bushuwa :
 <br><br></td>
@@ -2653,8 +2668,8 @@ kadianjidi <i class="PartOfSpch">tshi8</i><p>
                 <a class="links" href="search.html?inpt1=muambikila">muambikila</a>   
 <br><br></td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
                 <br><br>
@@ -2666,16 +2681,16 @@ In grammar, a word that is used before a noun, a noun phrase, or a pronoun, conn
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
+<td colspan="3" class="analogy">
 <i>
 Nous avons sauté <i><b>DANS</b></i> le lac
-                :<br>
-                &nbsp:
+                <br><br>
+                &nbsp
 We jumped <i><b>IN</b></i> the lake
-                :<br>
-                &nbsp:&nbsp
-Tuvua tudiela <i><b>MU</b></i> dijiba :
-<br><br></td>
+                <br><br>
+                &nbsp&nbsp
+Tuvua tudiela <i><b>MU</b></i> dijiba
+<br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>
@@ -4009,6 +4024,114 @@ Udi wenza tshinyi? :
 <tr>
 ` 
 },
+/*Kuenzeka*/  
+{
+    English: "happen",
+    French: "survenir",
+    Tshiluba: "Kuenzeka",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
+    PhoneticsT: "Survenir | Happen",
+    English2: "survenir",
+    French2: "to happen",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "avoir lieu",
+    French3: "enzeka",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "to occur",
+    French4: "occur",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "se produire",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+survenir <i class="PartOfSpch">v</i><p>
+avoir lieu <i class="PartOfSpch">v</i><p>
+se passer <i class="PartOfSpch">v</i><p>
+se produire <i class="PartOfSpch">v</i><p>
+arriver <i class="PartOfSpch">v</i><p>
+</td>
+<td class="tabledef" valign=top >
+to happen <i class="PartOfSpch">v</i><br>
+to occur <i class="PartOfSpch">v</i><br>
+to take place <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+kuenzeka <i class="PartOfSpch">muan</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
+<br><br></td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="explanation"><br>
+<b><i>Explication</i></b><br>
+"Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<td colspan="3" class="analogy"><br>:
+Ils vous diront tout ce qui se passe ici.
+                :<br>
+                &nbsp:
+They'll tell you everything that is happening here.
+                :<br>
+                &nbsp:&nbsp
+Nebanuambila malu onso adi enzeka kuneku. :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
 /*Kufika*/   
 {
     English: "to arrive",
@@ -4316,13 +4439,24 @@ kuikala <i class="PartOfSpch">muan</i>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je suis | I am | <b>ndi</b><br><br>
-2. tu es | you are | <b>udi</b><br><br>
-3. il/elle est | he/she is | <b>udi</b><br><br>
-4. nous sommes | we are | <b>tudi</b><br><br>
-5. vous êtes | you are | <b>nudi</b><br><br>
-6. ils sont | they are | <b>badi</b><br><br>
+<b><i>Conjugaison<br>Conjugation<br>Mpindekenu</i></b><br><br>
+1. <b>ndi</b> :: je suis :: I am<br><br>
+2. <b>udi</b> :: tu es :: you are<br><br>
+3. <b>udi</b> :: il/elle est :: he/she is<br><br>
+4. <b>tudi</b> :: nous sommes :: we are<br><br>
+5. <b>nudi</b> :: vous êtes :: you are<br><br>
+6. <b>badi</b> :: ils sont :: they are<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Conjugaison en forme negatif <br>Negative form Conjugation<br>Mpindekenu</i></b><br><br>
+1. <b>ntshiena to</b> :: je ne suis pas:: I am not<br><br>
+2. <b>kuena to</b> :: tu n'es pas :: you are not<br><br>
+3. <b>kena to</b> :: il/elle n'est pas :: he/she is not<br><br>
+4. <b>katuena to</b> :: nous ne sommes pas :: we are not<br><br>
+5. <b>kanuena to</b> :: vous n'êtes pas :: you are not<br><br>
+6. <b>kabena to</b> :: ils ne sont pas :: they are not<br><br>
 </td>
 </tr>
 <tr>
@@ -4340,15 +4474,52 @@ kuikala ne muntu :
 <tr>
 <td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. j'étais | I was | <b>mvua == nakadi</b><br><br>
-2. tu étais | you were | <b>uvua == wakadi</b><br><br>
-3. il/elle était | he/she was | <b>uvua == wakadi</b><br><br>
-4. nous étions | we were | <b>tuvua == tuakadi</b><br><br>
-5. vous étiez | you were | <b>nuvua == nuakadi</b><br><br>
-6. ils étaient | they were | <b>bavua == bakadi</b><br><br>
+1. j'étais | I was | <b>mvua :: nakadi</b><br><br>
+2. tu étais | you were | <b>uvua :: wakadi</b><br><br>
+3. il/elle était | he/she was | <b>uvua :: wakadi</b><br><br>
+4. nous étions | we were | <b>tuvua :: tuakadi</b><br><br>
+5. vous étiez | you were | <b>nuvua :: nuakadi</b><br><br>
+6. ils étaient | they were | <b>bavua :: bakadi</b><br><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation"><br>
+<b><i>Les troisemes personnes des autres classes se presentent comme suit<br><br>
+The 3rd person conjugation for all other noun classes are as follows</i></b> (see <a class="links" href="search.html?inpt1=noun">nouns</a> for all the noun classes)<br><br>
+<hr>
+Class 2: <b>mu-mi</b><br><br> <b>mutshi udi :: mitshi idi</b><br>
+l'arbre est :: les arbres sont<br>
+the tree is :: the trees are<br><br>
+<hr>
+Class 3: <b>bu-ma</b><br><br> <b>budimi budi :: madimi adi</b><br>
+le champ est :: les champs sont<br>
+the plantation is :: the plantations are<br><br>
+<hr>
+Class 4: <b>di-ma</b><br><br> <b>didima didi :: madima adi</b><br>
+l'orange est :: les oranges sont<br>
+the orange is :: the oranges are<br><br>
+<hr>
+Class 5: <b>lu-n</b><br><br> <b>lutondo ludi :: ntondo idi</b><br>
+l'entonnoir est :: les entonnoirs sont<br>
+the funnel is :: the funnels are<br><br>
+<hr>
+Class 6: <b>n-n</b><br><br> <b>nyama udi :: nyama idi</b><br>
+l'animal est :: les animaux sont<br>
+the animal is :: the animals are<br><br>
+<hr>
+Class 7: <b>m-m</b><br><br> <b>mpuku udi :: mpuku idi</b><br>
+le rat est :: les rats sont<br>
+the rat is :: the rats are<br><br>
+<hr>
+Class 8: <b>ka-tu</b><br><br> <b>kantu kadi :: tuntu tudi</b><br>
+la chose est :: les choses sont<br>
+the thing is :: the things are<br><br>
+<hr>
+Class 9: <b>n-n</b><br><br> <b>tshintu tshidi :: bintu bidi</b><br>
+la chose est :: les choses sont<br>
+the thing is :: the things are<br><br>
+</td>
+</tr>
 `
 },
 /*Kuikala ne*/   
@@ -8608,7 +8779,7 @@ kuikala ne mashika; kuumvua ne mashika :
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mfun·di·lu<p>/mm-foon-dee-loo/</p>",
     PhoneticsT: "Écriture / Writing",
-    English2: "scripture",
+    English2: " ",
     French2: "ecriture",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -8662,12 +8833,20 @@ kuikala ne mashika; kuumvua ne mashika :
 écriture <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-writing <i class="PartOfSpch">n</i><p>
-scripture <i class="PartOfSpch">n</i><p>
+a writing <i class="PartOfSpch">n</i><p>
 </td>
 <td class="tabledef" valign=top >
 mfundilu <i class="PartOfSpch">tshi</i>
 </td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kufunda">kufunda</a>, 
+                <a class="links" href="search.html?inpt1=kubala">kubala</a>  
+<br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
@@ -8751,8 +8930,8 @@ muaku <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> miaku
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="explanation"><br>
 <b><i>Explication</i></b><br>
 Une unité de langage, constituée d'un ou plusieurs sons parlés ou de leur représentation écrite, qui fonctionne comme principal porteur de sens.
                 <br><br>
@@ -8951,8 +9130,8 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
                 <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Les adverbes sont des mots qui modifient généralement les verbes, c'est-à-dire qu'ils limitent ou restreignent le sens. Ils peuvent également modifier des adjectifs, d’autres adverbes, des expressions ou même des phrases entières.
 
@@ -8975,7 +9154,7 @@ An adverb answers the question when?, where?, how?, how much?, how long?, or how
 The elections are coming <b>soon</b><i class="PartOfSpch">adv</i>
                 :<br>
                 &nbsp:&nbsp
-<a class="links" href="search.html?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+Masungula adi baya mu tshitupa tshipi :
 <br><br></td>
 </tr>
 `
@@ -10971,6 +11150,110 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
 9 : <b>tshi-bi</b><br>
 <b>Tshi</b>ntu - <b>Bi</b>ntu<br><br>                
+<br><br></td>
+</tr>
+`
+},
+/*Tshibuashibuashi*/   
+{
+    English: "Firmament",
+    French: "firmament",
+    Tshiluba: "Tshibuashibuashi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Tshi·bua·shi·bua·shi<p>/chee-bwah-shee-bwah-shee/</p>",
+    PhoneticsT: "firmament / Firmament",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+firmament <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+firmament <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
+<i class="PartOfSpch">pl.</i> bibuashibuashi
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diulu">diulu</a> 
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Le ciel ou les cieux, particulièrement lorsqu'ils sont considérés comme quelque chose de tangible. Dans une utilisation archaïque, il fait référence à l'étendue du ciel, conçue comme un dôme solide.
+
+                <br><br>
+<b><i>Explanation</i></b><br>
+The heavens or the sky, especially when regarded as a tangible thing. In archaic usage, it refers to the expanse of the sky, conceived as a solid dome.
+
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-------
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>:
+Et Dieu appela le <b>firmament</b><i class="PartOfSpch">n</i>: Ciel
+                :<br>
+                &nbsp:
+And God called the <b>firmament</b><i class="PartOfSpch">n</i>: Heaven.
+                :<br>
+                &nbsp:&nbsp
+Nzambi wakabikila <b>tshibuashibuashi</b><i class="PartOfSpch">tshi9</i> ne: Diulu. :
 <br><br></td>
 </tr>
 `
@@ -23066,6 +23349,110 @@ const nkongamiaku2 = [
     <b>Ka</b>lulu - <b>Tu</b>lulu<br><br>
     9 : <b>tshi-bi</b><br>
     <b>Tshi</b>ntu - <b>Bi</b>ntu<br><br>                
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Tshibuashibuashi*/   
+    {
+        English: "Firmament",
+        French: "firmament",
+        Tshiluba: "Tshibuashibuashi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Tshi·bua·shi·bua·shi<p>/chee-bwah-shee-bwah-shee/</p>",
+        PhoneticsT: "firmament / Firmament",
+        English2: " ",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    firmament <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    firmament <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
+    <i class="PartOfSpch">pl.</i> bibuashibuashi
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diulu">diulu</a> 
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Le ciel ou les cieux, particulièrement lorsqu'ils sont considérés comme quelque chose de tangible. Dans une utilisation archaïque, il fait référence à l'étendue du ciel, conçue comme un dôme solide.
+
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The heavens or the sky, especially when regarded as a tangible thing. In archaic usage, it refers to the expanse of the sky, conceived as a solid dome.
+
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -------
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>:
+    Et Dieu appela le <b>firmament</b><i class="PartOfSpch">n</i>: Ciel
+                    :<br>
+                    &nbsp:
+    And God called the <b>firmament</b><i class="PartOfSpch">n</i>: Heaven.
+                    :<br>
+                    &nbsp:&nbsp
+    Nzambi wakabikila <b>tshibuashibuashi</b><i class="PartOfSpch">tshi9</i> ne: Diulu. :
     <br><br></td>
     </tr>
     `
