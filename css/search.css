@@ -31,7 +31,7 @@
 .header .card .bigword{
     font-family: 'Jost', sans-serif;
     font-size: 62px;
-    margin-bottom: -10px;
+    margin-bottom: 0px;
     line-height: 1.2;
     position: relative;
     width:fit-content;
@@ -169,7 +169,7 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo .tabledef_a{
     font-family:'Tinos', sans-serif;
     padding: 2px;
-    font-size: 18px;
+    font-size: 22px;
     width: 100%;
     position: relative;
 }
@@ -177,17 +177,27 @@ a.links:visited {
 .header .card .tablewrapper .Xinfo .analogy{
     font-family:'Tinos', sans-serif;
     padding: 20px;
-    font-size: 24px;
+    font-size: 36px;
     width: 100%;
     position: relative;
     border-top: 2px solid rgb(150, 150, 150);
     text-align: center;
 }
 
+.header .card .tablewrapper .Xinfo .explanation{
+    font-family:'Tinos', sans-serif;
+    padding: 20px;
+    font-size: 36px;
+    width: 100%;
+    position: relative;
+    border-top: 2px solid rgb(150, 150, 150);
+    text-align: left;
+}
+
 .header .card .tablewrapper .Xinfo .tabledef_a .links{
     font-family:'Tinos', sans-serif;
     padding: 2px;
-    font-size: 16px;
+    font-size: 22px;
     text-align: center;
     width: 100%; 
     font-weight: 700;
@@ -229,9 +239,10 @@ a.links:visited {
 .header .card .bigword{
     font-size: 10vw;
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     word-wrap: break-word;
     width: 90%;
+    margin-top: 10px;
 }
 .header .card .PartOfSpeech{
     font-size: 4vw;
@@ -300,6 +311,15 @@ a.links:visited {
 }
 
 .header .card .tablewrapper .Xinfo .analogy{
+    font-family:'Tinos', sans-serif;
+    font-size: 5vw;
+    position: relative;
+    border-top: 2px solid rgb(56, 56, 56);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .card .tablewrapper .Xinfo .explanation{
     font-family:'Tinos', sans-serif;
     font-size: 5vw;
     position: relative;
