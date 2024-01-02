@@ -2223,8 +2223,10 @@ ditutu <i class="PartOfSpch">tshi4</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
-                <a class="links" href="search.html?inpt1=motuto">mutotu</a>
+                <a class="links" href="search.html?inpt1=motuto">mutotu</a>,
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
 <br><br></td>
 </tr>
 <tr>
@@ -2242,6 +2244,108 @@ a gray or white mass in the sky, made up of very small floating drops of water
 <br><br></td>
 </tr>
 ` 
+},
+/*Diulu*/   
+{
+    English: "sky",
+    French: "ciel",
+    Tshiluba: "Diulu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Diu·lu<p>/Djoo-loo/</p>",
+    PhoneticsT: "ciel / sky",
+    English2: "skies",
+    French2: "cieux",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "heaven",
+    French3: "heavens",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "les cieux",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: "paradis",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+ciel <i class="PartOfSpch">n</i><br>
+les cieux <i class="PartOfSpch">n</i><br>
+paradis <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top >
+sky <i class="PartOfSpch">n</i><br>
+the skies <i class="PartOfSpch">n</i><br>
+heaven <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+diulu <i class="PartOfSpch">tshi9</i><p>
+<i class="PartOfSpch">pl.</i> diulu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.
+
+                <br><br>
+<b><i>Explanation</i></b><br>
+The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.
+
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-------
+<br><br></td>
+</tr>
+`
 },
 /*Diyi*/  
 {
@@ -10971,7 +11075,7 @@ Misangu ne misangu :
     Tshiluba: "Mutotu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mu·to·tu<p>/Moo-TOH-tuu/</p>",
-    PhoneticsT: "Nuage / Cloud",
+    PhoneticsT: "Etoile / Star",
     English2: "stars",
     French2: "les etoiles",
     Tshiluba2: " ",
@@ -11039,7 +11143,9 @@ mutotu <i class="PartOfSpch">tshi2</i><p>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=diba">diba</a>,
                 <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
-                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
 <br><br></td>
 </tr>
 <tr>
@@ -12180,8 +12286,11 @@ tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diulu">diulu</a>, 
-                <a class="links" href="search.html?inpt1=ditutu">ditutu</a> 
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>
 <br><br></td>
 </tr>
 <tr>
@@ -15743,6 +15852,108 @@ const nkongamiaku2 = [
     </tr>
     ` 
     },
+    /*Diulu*/   
+    {
+        English: "sky",
+        French: "ciel",
+        Tshiluba: "Diulu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Diu·lu<p>/Djoo-loo/</p>",
+        PhoneticsT: "ciel / sky",
+        English2: "skies",
+        French2: "cieux",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "heaven",
+        French3: "heavens",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "les cieux",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: "paradis",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    ciel <i class="PartOfSpch">n</i><br>
+    les cieux <i class="PartOfSpch">n</i><br>
+    paradis <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    sky <i class="PartOfSpch">n</i><br>
+    the skies <i class="PartOfSpch">n</i><br>
+    heaven <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    diulu <i class="PartOfSpch">tshi9</i><p>
+    <i class="PartOfSpch">pl.</i> diulu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                    <a class="links" href="search.html?inpt1=ditutu">ditutu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                    <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
+                    <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.
+
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.
+
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -------
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Diyi*/  
     {
         English: "Law",
@@ -17837,113 +18048,113 @@ const nkongamiaku2 = [
     ` 
     },
     /*Kuenzeka*/  
-{
-    English: "happen",
-    French: "survenir",
-    Tshiluba: "Kuenzeka",
-    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
-    Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
-    PhoneticsT: "Survenir | Happen",
-    English2: "survenir",
-    French2: "to happen",
-    Tshiluba2: " ",
-    PhoneticsT2: " ",
-    English3: "avoir lieu",
-    French3: "enzeka",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "to occur",
-    French4: "occur",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "se produire",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-survenir <i class="PartOfSpch">v</i><p>
-avoir lieu <i class="PartOfSpch">v</i><p>
-se passer <i class="PartOfSpch">v</i><p>
-se produire <i class="PartOfSpch">v</i><p>
-arriver <i class="PartOfSpch">v</i><p>
-</td>
-<td class="tabledef" valign=top >
-to happen <i class="PartOfSpch">v</i><br>
-to occur <i class="PartOfSpch">v</i><br>
-to take place <i class="PartOfSpch">v</i>
-</td>
-<td class="tabledef" valign=top >
-kuenzeka <i class="PartOfSpch">muan</i><p>
-</td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3" class="analogy">
-<table class="h-lines" id="h-lines"></table><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
-                <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
-<br><br></td>
-</tr>
-<tr>
-<tr>
-<td colspan="3" class="explanation"><br>
-<b><i>Explication</i></b><br>
-"Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
-                <br><br>
-<b><i>Explanation</i></b><br>
-"Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
------
-<br><br></td>
-</tr>
-<td colspan="3" class="analogy"><br>:
-Ils vous diront tout ce qui se passe ici.
-                :<br>
-                &nbsp:
-They'll tell you everything that is happening here.
-                :<br>
-                &nbsp:&nbsp
-Nebanuambila malu onso adi enzeka kuneku. :
-<br><br></td>
-</tr>
-<tr>
-` 
-},
+    {
+        English: "happen",
+        French: "survenir",
+        Tshiluba: "Kuenzeka",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
+        PhoneticsT: "Survenir | Happen",
+        English2: "survenir",
+        French2: "to happen",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "avoir lieu",
+        French3: "enzeka",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "to occur",
+        French4: "occur",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "se produire",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    survenir <i class="PartOfSpch">v</i><p>
+    avoir lieu <i class="PartOfSpch">v</i><p>
+    se passer <i class="PartOfSpch">v</i><p>
+    se produire <i class="PartOfSpch">v</i><p>
+    arriver <i class="PartOfSpch">v</i><p>
+    </td>
+    <td class="tabledef" valign=top >
+    to happen <i class="PartOfSpch">v</i><br>
+    to occur <i class="PartOfSpch">v</i><br>
+    to take place <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    kuenzeka <i class="PartOfSpch">muan</i><p>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3" class="analogy">
+    <table class="h-lines" id="h-lines"></table><br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                    <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
+    <br><br></td>
+    </tr>
+    <tr>
+    <tr>
+    <td colspan="3" class="explanation"><br>
+    <b><i>Explication</i></b><br>
+    "Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <td colspan="3" class="analogy"><br>:
+    Ils vous diront tout ce qui se passe ici.
+                    :<br>
+                    &nbsp:
+    They'll tell you everything that is happening here.
+                    :<br>
+                    &nbsp:&nbsp
+    Nebanuambila malu onso adi enzeka kuneku. :
+    <br><br></td>
+    </tr>
+    <tr>
+    ` 
+    },
     /*Kufika*/   
     {
         English: "to arrive",
