@@ -699,18 +699,18 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "maba",
-    French3: " ",
+    French3: "soleil",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
+    English4: "sun",
+    French4: "the sun",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "le soleil",
+    French5: "heures",
     Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "hours",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -749,12 +749,16 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
 [en général]<br><br>
 
 2. heure <i class="PartOfSpch">n</i><br>
+<br>
+3. soleil <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top>
 1. time <i class="PartOfSpch">n</i><br>
 [in general]<br><br>
 
 2. hour <i class="PartOfSpch">n</i><br>
+<br>
+3. sun <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 diba <i class="PartOfSpch">tshi4</i><br>
@@ -769,19 +773,27 @@ diba <i class="PartOfSpch">tshi4</i><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
                 <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                <a class="links" href="search.html?inpt1=musangu">musangu</a>
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
                 <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
-                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
 <br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
-Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.
+Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.<br><br>
+Le mot Diba est également utilisé pour décrire l'heure de la journée, lorsqu'on indique l'heure, ou le nombre d'heures.<br><br>
+Le mot Diba est également utilisé pour décrire le "soleil" : une étoile au centre de notre système solaire, autour de laquelle la Terre et d'autres corps célestes orbitent.
                 <br><br>
 <b><i>Explanation</i></b><br>
-Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.
+Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.<br>
+<br>
+The word Diba is also used to describe the time of day, when describing what time it is, or the number of hours.<br>
+<br>
+The word Diba is also used to describe the "sun": a star at the center of our solar system, around which the Earth and other celestial bodies orbit.
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
@@ -818,6 +830,17 @@ It is time
                 :<br>
                 &nbsp:&nbsp
 Diba diakumbanyi:
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Le Soleil, la Lune, et les Etoiles
+                :<br>
+                &nbsp:
+The Sun, the Moon, and the Stars
+                :<br>
+                &nbsp:&nbsp
+Diba ne Ngondu ne Mitoto :
 <br><br></td>
 </tr>
 `
@@ -2195,9 +2218,18 @@ ditutu <i class="PartOfSpch">tshi4</i><p>
 <i class="PartOfSpch">pl</i> matutu
 </td>
 </tr>
-<tr style="text-align:left";>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=motuto">mutotu</a>
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
+<b><i>Explication</i></b>
 une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'eau flottantes
 <br><br>
 
@@ -10790,6 +10822,250 @@ badi ba<b>ba</b>keba
 <br><br></td>
 </tr>
 `
+},
+/*Musangu*/   
+{
+    English: "occurrence",
+    French: "fois",
+    Tshiluba: "musangu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Mu·sa·ngu<p>/Muu-sah-ngoo/</p>",
+    PhoneticsT: "fois / time",
+    English2: "times",
+    French2: "occasion",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "misangu",
+    French3: "once",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "occasions",
+    French4: "twice",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "occurrence",
+    French5: "occurrences",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+fois <i class="PartOfSpch">n</i><br>
+occasion <i class="PartOfSpch">n</i><br>
+occurrence <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+occurrence <i class="PartOfSpch">n</i><br>
+occasion <i class="PartOfSpch">n</i><br>
+time <i class="PartOfSpch">n</i>
+
+<td class="tabledef" valign=top >
+musangu <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> misangu
+
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Utilisé pour indiquer une répétition ou une occurrence d'un événement ou d'une action. Par exemple, "une fois" se traduit par "musangu umwe" ou "once", et "plusieurs fois" signifie "misangu mivula".
+                <br><br>
+<b><i>Explanation</i></b><br>
+Musangu is used to indicate a specific instance or occurrence of an event or action. For example, "musangu umwe" means "one time" or "once," and "misangu mivula" means "several times."
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+La premiere fois
+                :<br>
+                &nbsp:
+The first time
+                :<br>
+                &nbsp:&nbsp
+Musangu wa kumpala :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+La derniere fois
+                :<br>
+                &nbsp:
+The last time
+                :<br>
+                &nbsp:&nbsp
+Musangu wa ndekelu :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Cette fois-ci :: cette fois-la
+                :<br>
+                &nbsp:
+This time :: That time
+                :<br>
+                &nbsp:&nbsp
+Musangu ewu :: Musangu awu :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Souvent
+                :<br>
+                &nbsp:
+Often
+                :<br>
+                &nbsp:&nbsp
+Misangu ne misangu :
+<br><br></td>
+</tr>
+`
+},
+/*Mutotu*/  
+{
+    English: "star",
+    French: "etoile",
+    Tshiluba: "Mutotu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Mu·to·tu<p>/Moo-TOH-tuu/</p>",
+    PhoneticsT: "Nuage / Cloud",
+    English2: "stars",
+    French2: "les etoiles",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "l'etoile",
+    French3: "the star",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "stars",
+    French4: "a star",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+etoile <i class="PartOfSpch">n</i><p>
+</td>
+<td class="tabledef" valign=top >
+star <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+mutotu <i class="PartOfSpch">tshi2</i><p>
+<i class="PartOfSpch">pl</i> mitotu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une "étoile" désigne un corps céleste lumineux constitué de gaz chauds, principalement d'hydrogène et d'hélium, qui produit de la lumière et de la chaleur par des réactions de fusion nucléaire dans son noyau. Elles existent en grand nombre au sein des galaxies et sont visibles comme des points lumineux dans le ciel nocturne depuis la Terre.
+<br><br>
+
+<b><i>Explanation</i></b><br>
+A "star" refers to a luminous celestial body consisting of hot gases, primarily hydrogen and helium, that generates light and heat through nuclear fusion reactions in its core. They exist in immense numbers within galaxies and are visible as points of light in the night sky from Earth.
+<br><br>
+
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Une étoile diffère en gloire d'une autre étoile.
+                <br>
+One star differs from another star in glory.
+                <br>
+Mutotu umue udi ushilangana ne mutotu mukuabu ku butumbi.
+<br><br></td>
+</tr>
+` 
 },
 /*Muvu*/   
 {
@@ -23811,6 +24087,250 @@ Nebanuambila malu onso adi enzeka kuneku. :
     <br><br></td>
     </tr>
     `
+    },
+    /*Musangu*/   
+    {
+        English: "occurrence",
+        French: "fois",
+        Tshiluba: "musangu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Mu·sa·ngu<p>/Muu-sah-ngoo/</p>",
+        PhoneticsT: "fois / time",
+        English2: "times",
+        French2: "occasion",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "misangu",
+        French3: "once",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "occasions",
+        French4: "twice",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "occurrence",
+        French5: "occurrences",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    fois <i class="PartOfSpch">n</i><br>
+    occasion <i class="PartOfSpch">n</i><br>
+    occurrence <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    occurrence <i class="PartOfSpch">n</i><br>
+    occasion <i class="PartOfSpch">n</i><br>
+    time <i class="PartOfSpch">n</i>
+
+    <td class="tabledef" valign=top >
+    musangu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> misangu
+
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Utilisé pour indiquer une répétition ou une occurrence d'un événement ou d'une action. Par exemple, "une fois" se traduit par "musangu umwe" ou "once", et "plusieurs fois" signifie "misangu mivula".
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    Musangu is used to indicate a specific instance or occurrence of an event or action. For example, "musangu umwe" means "one time" or "once," and "misangu mivula" means "several times."
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    La premiere fois
+                    :<br>
+                    &nbsp:
+    The first time
+                    :<br>
+                    &nbsp:&nbsp
+    Musangu wa kumpala :
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    La derniere fois
+                    :<br>
+                    &nbsp:
+    The last time
+                    :<br>
+                    &nbsp:&nbsp
+    Musangu wa ndekelu :
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Cette fois-ci :: cette fois-la
+                    :<br>
+                    &nbsp:
+    This time :: That time
+                    :<br>
+                    &nbsp:&nbsp
+    Musangu ewu :: Musangu awu :
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Souvent
+                    :<br>
+                    &nbsp:
+    Often
+                    :<br>
+                    &nbsp:&nbsp
+    Misangu ne misangu :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Mutotu*/  
+    {
+        English: "star",
+        French: "etoile",
+        Tshiluba: "Mutotu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Mu·to·tu<p>/Moo-TOH-tuu/</p>",
+        PhoneticsT: "Nuage / Cloud",
+        English2: "stars",
+        French2: "les etoiles",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "l'etoile",
+        French3: "the star",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "stars",
+        French4: "a star",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    etoile <i class="PartOfSpch">n</i><p>
+    </td>
+    <td class="tabledef" valign=top >
+    star <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    mutotu <i class="PartOfSpch">tshi2</i><p>
+    <i class="PartOfSpch">pl</i> mitotu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                    <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une "étoile" désigne un corps céleste lumineux constitué de gaz chauds, principalement d'hydrogène et d'hélium, qui produit de la lumière et de la chaleur par des réactions de fusion nucléaire dans son noyau. Elles existent en grand nombre au sein des galaxies et sont visibles comme des points lumineux dans le ciel nocturne depuis la Terre.
+    <br><br>
+
+    <b><i>Explanation</i></b><br>
+    A "star" refers to a luminous celestial body consisting of hot gases, primarily hydrogen and helium, that generates light and heat through nuclear fusion reactions in its core. They exist in immense numbers within galaxies and are visible as points of light in the night sky from Earth.
+    <br><br>
+
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Une étoile diffère en gloire d'une autre étoile.
+                    <br>
+    One star differs from another star in glory.
+                    <br>
+    Mutotu umue udi ushilangana ne mutotu mukuabu ku butumbi.
+    <br><br></td>
+    </tr>
+    ` 
     },
     /*Muvu*/   
     {
