@@ -124,13 +124,17 @@
     }
 
 </script>
-<iframe src="wordindexb.html" style="display:none"></iframe>
 <!--Java Script For Dictionary Search-->
 <script>
 
 var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length);
 console.log(homeindexword);
+const tshiWords = nkongamiaku2.map(({Tshiluba}) => Tshiluba);
+const tshiWordsLength = tshiWords.length;
+const mwdarray = new Array(tshiWordsLength);
+const mwdarrayx = mwdarray.fill().map((item, index) => index);
+shuffle(mwdarrayx);
 
     var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
     var xdate = new Date(),
@@ -142,85 +146,29 @@ console.log(homeindexword);
         xmonth = xmonths[xmonth];
     
     //UPDATE THE WORDS ARRAY ON A MONTHLY TING
-        var words = [
-    "BUA",
-    "                    DIKUMI: 10",
-    "                    DIPEMBU",
-    "                    DITUNGA",
-    "                    DITUTU",
-    "                    DIYI",
-    "                    DIYI DIKULU",
-    "                    EYOWA",
-    "                    IBIDI: 2",
-    "                    INAYI: 4",
-    "                    ISATU: 3",
-    "                    ISAMBOMBO: 6",
-    "                    ITANU: 5",
-    "                    KADIANJIDI",
-    "                    KABIDI",
-    "                    KANUNGU",
-    "                    KUAKULA",
-    "                    KUAMBA",
-    "                    KUANGATA",
-    "                    KUBALA",
-    "                    KUBUELA",
-    "                    KUENDA",
-    "                    KUENZA",
-    "                    KUFIKA",
-    "                    KUFUNDA",
-    "                    KUIKALA",
-    "                    KUIKALA NE",
-    "                    KUKOSA",
-    "                    KUKUATA",
-    "                    KULUA",
-    "                    KUMONA",
-    "                    KUNUNKA",
-    "                    KUNYEMA",
-    "                    KUPESHA",
-    "                    KUPINGAJA",
-    "                    KUPINGANA",
-    "                    KUSHILA",
-    "                    KUSHIYA",
-    "                    KUTANGILA",
-    "                    KUTELEJA",
-    "                    KUTETA",
-    "                    KUUMVUA",
-    "                    KUYA",
-    "                    KUZEBUKA",
-    "                    LUKAMA: 100",
-    "                    MASHIKA",
-    "                    MFUNDILU",
-    "                    MUAKU",
-    "                    MUAKULU",
-    "                    MUAMBIKILA",
-    "                    MUANDA",
-    "                    MUANDAMUKULU: 8",
-    "                    MUANDAMUTEKETE: 7",
-    "                    MUKALU",
-    "                    MUNGALATA",
-    "                    MUNTU",
-    "                    MUPINGANYI",
-    "                    NANSHA",
-    "                    NDEKELU",
-    "                    NGANYI",
-    "                    NKONGAMIAKU",
-    "                    PENYI",
-    "                    TSHIANZA",
-    "                    TSHIBAMBALU",
-    "                    TSHIBIKIDILU",
-    "                    TSHIDIMU",
-    "                    TSHILEMA",
-    "                    TSHIMBADI",
-    "                    TSHINTU",
-    "                    TSHINUNU: 1000",
-    "                    TSHINYI",
-    "                    TSHIPATSHILA",
-    "                    TSHITEMA: 9",
-    "                    TSHITUPA",
-    "                    UMWE: 1"
-]
 
-    var wordoftheday = words[xnum2];
+
+    var xnumremove = xnum.slice(0, 31);
+    //.sort((a,b) => a-b);
+    var xnum2;
+    
+    //mwdarrayx is the new array to use every month. Whenever the list updates, mwdarrayx will be
+    //the randomized list shuffled again, removing the words already used.
+    // this makes it so that you can update the word list and not worry about repeating words month
+    //to month.
+    //So TAKE the new raw result of mwdarrayx and paste into xnum every month
+    let z=0;
+    while (z < xnumremove.length){
+        let xx = mwdarrayx.indexOf(xnumremove[z]);
+        console.log(xx);
+        mwdarrayx.splice(xx, 1);
+        z++;
+        console.log(mwdarrayx);
+    }
+
+
+
+    var wordoftheday = tshiWords[xnum2].toUpperCase();
     console.log(wordoftheday);
     let wordOfDituku = document.querySelector('.mwdbigword');
     wordOfDituku.innerHTML = `${wordoftheday}`;

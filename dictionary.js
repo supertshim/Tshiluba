@@ -686,6 +686,142 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
 
 </tr>` 
 },
+/*Diba*/   
+{
+    English: "time",
+    French: "temps",
+    Tshiluba: "diba",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ba<p>/Djee-bah/</p>",
+    PhoneticsT: "temps / time",
+    English2: "hour",
+    French2: "heure",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "maba",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. temps <i class="PartOfSpch">n</i><br>
+[en général]<br><br>
+
+2. heure <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+1. time <i class="PartOfSpch">n</i><br>
+[in general]<br><br>
+
+2. hour <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+diba <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> maba
+
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.
+                <br><br>
+<b><i>Explanation</i></b><br>
+Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+C'est la dernière heure
+                :<br>
+                &nbsp:
+This is the last hour
+                :<br>
+                &nbsp:&nbsp
+Edi diba dia <a class="links" href="search.html?inpt1=ndekelu">ndekelu</a> :
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Il est qu'elle heure?
+                :<br>
+                &nbsp:
+What time is it?
+                :<br>
+                &nbsp:&nbsp
+Edi diba kayi?:
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Il est temps
+                :<br>
+                &nbsp:
+It is time
+                :<br>
+                &nbsp:&nbsp
+Diba diakumbanyi:
+<br><br></td>
+</tr>
+`
+},
 /*Dikumi*/  
 {
     English: "Ten",
@@ -1674,6 +1810,216 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
 <br><br></td>
 </tr>
 ` 
+},
+/*Dikumi*/  
+{
+    English: "Ten",
+    French: "Dix",
+    Tshiluba: "Dikumi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku·mi<p>/Djee-koo-mee/</p>",
+    PhoneticsT: "Dix | Ten",
+    English2: "10",
+    French2: "Dikumi: 10",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: "10",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+dix, 10 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+ten, 10 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dikumi, 10 <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl.</i> makumi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 10</i></b><br>
+
+<b><i>Cardinal Number: 10</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 10</i></b><br>
+<br></td>
+
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
+},
+/*Dituku*/   
+{
+    English: "day",
+    French: "jour",
+    Tshiluba: "dituku",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·tu·ku<p>/Djee-tuu-kuu/</p>",
+    PhoneticsT: "jour / day",
+    English2: "journée",
+    French2: "days",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "jours",
+    French3: "matuku",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+jour <i class="PartOfSpch">n</i><br>
+journée <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+day <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dituku <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> matuku
+
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
+                <br><br>
+<b><i>Explanation</i></b><br>
+A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Ils ont commencé le premier du mois
+                :<br>
+                &nbsp
+They began on the first day of the month
+                :<br>
+                &nbsp:&nbsp
+Nunku bakatuadija <b>dituku</b> dia kumpala dia ngondu:
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Tous le jours
+                :<br>
+                &nbsp:
+Every day
+                :<br>
+                &nbsp:&nbsp
+Matuku onso:
+<br><br></td>
+</tr>
+`
 },
 /*Ditunga*/  
 {
@@ -6465,6 +6811,125 @@ lukama, 100 <i class="PartOfSpch">tshi5</i><br>
 <br><br></td>
 </tr>` 
 },
+/*Lumingu*/   
+{
+    English: "week",
+    French: "semaine",
+    Tshiluba: "lumingu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Lu·mi·ngu<p>/Loo-meen-guu/</p>",
+    PhoneticsT: "semaine / week",
+    English2: "a week",
+    French2: "weeks",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "semaines",
+    French3: "mingu",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+semaine <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+week <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+lumingu <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> mingu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une période de sept jours consécutifs
+                <br><br>
+<b><i>Explanation</i></b><br>
+A period of seven consecutive days
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+Tshikondu tshia matuku muanda mutekete
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Jours de la semaine
+                <br>
+                
+Days of the week
+                <br>
+Matuku a lumingu
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Lundi :: Monday :: Dimwe
+                <br>
+Mardi :: Tuesday :: Dibiidi
+                <br>
+Mercredi :: Wednesday :: Disatu <br>
+Jeudi :: Thursday :: Dinayi <br>
+Vendredi :: Friday :: Ditanu <br>
+Samedi :: Saturday :: Disambombo <br>
+Dimanche :: Sunday :: Dialumingu
+<br><br></td>
+</tr>
+`
+},
 /*Nkama Ibidi*/  
 {
     English: "Two Hundred",
@@ -10326,6 +10791,111 @@ badi ba<b>ba</b>keba
 </tr>
 `
 },
+/*Muvu*/   
+{
+    English: "season",
+    French: "saison",
+    Tshiluba: "muvu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Mu·vu<p>/Moo-vuu/</p>",
+    PhoneticsT: "saison / season",
+    English2: "seasons",
+    French2: "mivu",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+saison <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+season <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+muvu <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mivu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
+                <br><br>
+<b><i>Explanation</i></b><br>
+One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----------
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Il change les temps et les saisons
+                <br>
+He changes times and seasons
+                <br>
+Yeye udi ushintulula bikondu ne mivu
+<br><br></td>
+</tr>
+`
+},
 /*Nansha*/   
  {
     English: "Although",
@@ -10603,6 +11173,114 @@ bring whom you'd like
 vuaku ne ewu udi musua
             <br><br>
 </td>
+</tr>
+`
+},
+/*Ngondu*/   
+{
+    English: "month",
+    French: "mois",
+    Tshiluba: "ngondu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "ngo·ndu<p>/ngoh-nduu/</p>",
+    PhoneticsT: "mois / month",
+    English2: "months",
+    French2: "ngondo",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "the moon",
+    French3: "la lune",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "moon",
+    French4: "lune",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. mois <i class="PartOfSpch">n</i><br>
+2. lune <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+1. month <i class="PartOfSpch">n</i><br>
+2. the moon <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+ngondu <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> ngondu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>,
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----------
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+La lune et les étoiles pour gouverner la nuit
+                <br>
+The moon and stars to rule the night
+                <br>
+Ngondu ne mitotu bua kukokeshabi butuku
+<br><br></td>
 </tr>
 `
 },
@@ -11107,7 +11785,7 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy";><br>
+<td colspan="3" class="explanation";>
 <b><i>Explication</i></b><br>
 Les substantifs sont des mots qui désignent des personnes, des lieux et des concepts abstraits.
                 <br><br>
@@ -11119,13 +11797,11 @@ Bibidikilu bidi miaku idi binyika bantu ne miaba ne meji.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 Les substantifs sont regroupées en classes. Chaque classe est désignée par ses préfixes singulier et pluriel.
                 <br><br>
-                &nbsp
 Tshiluba nouns are grouped into classes. Each class is designated by it's singular and plural prefixes.
                 <br><br>
-                &nbsp&nbsp
 Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 <br><br></td>
 </tr>
@@ -11228,7 +11904,8 @@ tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diulu">diulu</a> 
+                :: <a class="links" href="search.html?inpt1=diulu">diulu</a>, 
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a> 
 <br><br></td>
 </tr>
 <tr>
@@ -11318,7 +11995,7 @@ Nzambi wakabikila <b>tshibuashibuashi</b><i class="PartOfSpch">tshi9</i> ne: Diu
 <tr>
 <td class="tabledef" valign=top >
 an <i class="PartOfSpch">n.m.</i><br>
-anéecriture <i class="PartOfSpch">n.f.</i>
+anée <i class="PartOfSpch">n.f.</i>
 </td>
 <td class="tabledef" valign=top >
 year <i class="PartOfSpch">n</i><br>
@@ -11328,16 +12005,27 @@ tshidimu <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl</i>
 bidimu
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
                 <br><br>
-                &nbsp
 <b><i>Explanation</i></b><br>
 Conventional duration close to the period of revolution of the Earth around the Sun.
                 <br><br>
-                &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
 ----
 <br><br></td>
@@ -11350,7 +12038,7 @@ L'annee 1999
 The year 1999
                 :<br>
                 &nbsp:&nbsp
-tshidimu tshia 1999 :
+Tshidimu tshia 1999 :
 <br><br></td>
 </tr>
 <tr>
@@ -11445,6 +12133,122 @@ tshijengu, 0 <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
+},
+/*Tshikondu*/   
+{
+    English: "period",
+    French: "période",
+    Tshiluba: "Tshikondu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Tshi·kon·du<p>/chee-kohn-doo/</p>",
+    PhoneticsT: "période / period",
+    English2: "time",
+    French2: "temps",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "epoch",
+    French3: "epoque",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "tshikondo",
+    French4: "bikondu",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "duration",
+    French5: "durée",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "duree",
+    French6: "periode",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "time period",
+    French7: "période de temps",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "bikondo",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. temps <i class="PartOfSpch">n</i><br>
+période <i class="PartOfSpch">n</i><br><br>
+
+2. epoque <i class="PartOfSpch">n</i><br>
+durée <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+1. time <i class="PartOfSpch">n</i><br>
+period <i class="PartOfSpch">n</i><br><br>
+
+2. epoch <i class="PartOfSpch">n</i><br>
+duration <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+tshikondu <i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl</i> bikondu
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidima">tshidima</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Un temps pour naître et un temps pour mourir
+                :<br>
+                &nbsp:
+A time for birth and a time to die
+                :<br>
+                &nbsp:&nbsp
+Tshikondu tshia kuledibua ne tshikondu tshia kufua :
+<br><br></td>
+</tr>
+<tr>
+`
 },
 /*Tshilema*/   
 {
@@ -13243,6 +14047,142 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
 
 /***********THE CLEAN DICTIONARY********* WORD SCRAMBLE*/
 const nkongamiaku2 = [
+    /*Diba*/   
+    {
+        English: "time",
+        French: "temps",
+        Tshiluba: "diba",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ba<p>/Djee-bah/</p>",
+        PhoneticsT: "temps / time",
+        English2: "hour",
+        French2: "heure",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. temps <i class="PartOfSpch">n</i><br>
+    [en général]<br><br>
+
+    2. heure <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    1. time <i class="PartOfSpch">n</i><br>
+    [in general]<br><br>
+
+    2. hour <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    diba <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> maba
+
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                    <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    C'est la dernière heure
+                    :<br>
+                    &nbsp:
+    This is the last hour
+                    :<br>
+                    &nbsp:&nbsp
+    Edi diba dia <a class="links" href="search.html?inpt1=ndekelu">ndekelu</a> :
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Il est qu'elle heure?
+                    :<br>
+                    &nbsp:
+    What time is it?
+                    :<br>
+                    &nbsp:&nbsp
+    Edi diba kayi?:
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Il est temps
+                    :<br>
+                    &nbsp:
+    It is time
+                    :<br>
+                    &nbsp:&nbsp
+    Diba diakumbanyi:
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Dikumi*/  
     {
         English: "Ten",
@@ -14224,6 +15164,126 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     ` 
+    },
+    /*Dituku*/   
+    {
+        English: "day",
+        French: "jour",
+        Tshiluba: "dituku",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·tu·ku<p>/Djee-tuu-kuu/</p>",
+        PhoneticsT: "jour / day",
+        English2: "journée",
+        French2: "days",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "jours",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    jour <i class="PartOfSpch">n</i><br>
+    journée <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    day <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dituku <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> matuku
+
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                    <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Ils ont commencé le premier du mois
+                    :<br>
+                    &nbsp
+    They began on the first day of the month
+                    :<br>
+                    &nbsp:&nbsp
+    Nunku bakatuadija <b>dituku</b> dia kumpala dia ngondu:
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Tous le jours
+                    :<br>
+                    &nbsp:
+    Every day
+                    :<br>
+                    &nbsp:&nbsp
+    Matuku onso:
+    <br><br></td>
+    </tr>
+    `
     },
     /*Ditunga*/  
     {
@@ -16500,6 +17560,114 @@ const nkongamiaku2 = [
     <tr>
     ` 
     },
+    /*Kuenzeka*/  
+{
+    English: "happen",
+    French: "survenir",
+    Tshiluba: "Kuenzeka",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
+    PhoneticsT: "Survenir | Happen",
+    English2: "survenir",
+    French2: "to happen",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "avoir lieu",
+    French3: "enzeka",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "to occur",
+    French4: "occur",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "se produire",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+survenir <i class="PartOfSpch">v</i><p>
+avoir lieu <i class="PartOfSpch">v</i><p>
+se passer <i class="PartOfSpch">v</i><p>
+se produire <i class="PartOfSpch">v</i><p>
+arriver <i class="PartOfSpch">v</i><p>
+</td>
+<td class="tabledef" valign=top >
+to happen <i class="PartOfSpch">v</i><br>
+to occur <i class="PartOfSpch">v</i><br>
+to take place <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+kuenzeka <i class="PartOfSpch">muan</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
+<br><br></td>
+</tr>
+<tr>
+<tr>
+<td colspan="3" class="explanation"><br>
+<b><i>Explication</i></b><br>
+"Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<td colspan="3" class="analogy"><br>:
+Ils vous diront tout ce qui se passe ici.
+                :<br>
+                &nbsp:
+They'll tell you everything that is happening here.
+                :<br>
+                &nbsp:&nbsp
+Nebanuambila malu onso adi enzeka kuneku. :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
     /*Kufika*/   
     {
         English: "to arrive",
@@ -18691,6 +19859,125 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
+    },
+    /*Lumingu*/   
+    {
+        English: "week",
+        French: "semaine",
+        Tshiluba: "lumingu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Lu·mi·ngu<p>/Loo-meen-guu/</p>",
+        PhoneticsT: "semaine / week",
+        English2: "a week",
+        French2: "weeks",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "semaines",
+        French3: "mingu",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    semaine <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    week <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    lumingu <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mingu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                    <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une période de sept jours consécutifs
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A period of seven consecutive days
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    Tshikondu tshia matuku muanda mutekete
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Jours de la semaine
+                    <br>
+                    
+    Days of the week
+                    <br>
+    Matuku a lumingu
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Lundi :: Monday :: Dimwe
+                    <br>
+    Mardi :: Tuesday :: Dibiidi
+                    <br>
+    Mercredi :: Wednesday :: Disatu <br>
+    Jeudi :: Thursday :: Dinayi <br>
+    Vendredi :: Friday :: Ditanu <br>
+    Samedi :: Saturday :: Disambombo <br>
+    Dimanche :: Sunday :: Dialumingu
+    <br><br></td>
+    </tr>
+    `
     },
     /*Nkama Ibidi*/  
     {
@@ -22525,6 +23812,111 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Muvu*/   
+    {
+        English: "season",
+        French: "saison",
+        Tshiluba: "muvu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Mu·vu<p>/Moo-vuu/</p>",
+        PhoneticsT: "saison / season",
+        English2: "seasons",
+        French2: "mivu",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    saison <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    season <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    muvu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mivu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----------
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Il change les temps et les saisons
+                    <br>
+    He changes times and seasons
+                    <br>
+    Yeye udi ushintulula bikondu ne mivu
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Nansha*/   
      {
         English: "Although",
@@ -22802,6 +24194,114 @@ const nkongamiaku2 = [
     vuaku ne ewu udi musua
                 <br><br>
     </td>
+    </tr>
+    `
+    },
+    /*Ngondu*/   
+    {
+        English: "month",
+        French: "mois",
+        Tshiluba: "ngondu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "ngo·ndu<p>/ngoh-nduu/</p>",
+        PhoneticsT: "mois / month",
+        English2: "months",
+        French2: "ngondo",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "the moon",
+        French3: "la lune",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "moon",
+        French4: "lune",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. mois <i class="PartOfSpch">n</i><br>
+    2. lune <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    1. month <i class="PartOfSpch">n</i><br>
+    2. the moon <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    ngondu <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> ngondu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=dituku">dituku</a>,
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                    <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                    <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>,
+                    <a class="links" href="search.html?inpt1=mutotu">mutotu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----------
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    La lune et les étoiles pour gouverner la nuit
+                    <br>
+    The moon and stars to rule the night
+                    <br>
+    Ngondu ne mitotu bua kukokeshabi butuku
+    <br><br></td>
     </tr>
     `
     },
@@ -23465,7 +24965,7 @@ const nkongamiaku2 = [
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Tshi·di·mu<p>/chee-dee-moo/</p>",
         PhoneticsT: "An / Year",
-        English2: " ",
+        English2: "Years",
         French2: "Année",
         Tshiluba2: " ",
         PhoneticsT2: " ",
@@ -23473,8 +24973,8 @@ const nkongamiaku2 = [
         French3: "Annee",
         Tshiluba3: " ",
         PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
+        English4: "Ans",
+        French4: " Bidimu",
         Tshiluba4: " ",
         PhoneticsT4: " ",
         English5: " ",
@@ -23517,7 +25017,7 @@ const nkongamiaku2 = [
     <tr>
     <td class="tabledef" valign=top >
     an <i class="PartOfSpch">n.m.</i><br>
-    anéecriture <i class="PartOfSpch">n.f.</i>
+    anée <i class="PartOfSpch">n.f.</i>
     </td>
     <td class="tabledef" valign=top >
     year <i class="PartOfSpch">n</i><br>
@@ -23527,16 +25027,26 @@ const nkongamiaku2 = [
     bidimu
     </td>
     </tr>
-    <tr style="text-align:left";>
-    <td colspan="3" class="analogy"><br>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
     Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
                     <br><br>
-                    &nbsp
     <b><i>Explanation</i></b><br>
     Conventional duration close to the period of revolution of the Earth around the Sun.
                     <br><br>
-                    &nbsp&nbsp
     <b><i>Diumvuija</i></b><br>
     ----
     <br><br></td>
@@ -23549,7 +25059,7 @@ const nkongamiaku2 = [
     The year 1999
                     :<br>
                     &nbsp:&nbsp
-    tshidimu tshia 1999 :
+    Tshidimu tshia 1999 :
     <br><br></td>
     </tr>
     <tr>
@@ -23644,6 +25154,122 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
+    },
+    /*Tshikondu*/   
+    {
+        English: "period",
+        French: "période",
+        Tshiluba: "Tshikondu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Tshi·kon·du<p>/chee-kohn-doo/</p>",
+        PhoneticsT: "période / period",
+        English2: "time",
+        French2: "temps",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "epoch",
+        French3: "epoque",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "tshikondo",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "duration",
+        French5: "durée",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "duree",
+        French6: "periode",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "time period",
+        French7: "période de temps",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. temps <i class="PartOfSpch">n</i><br>
+    période <i class="PartOfSpch">n</i><br><br>
+
+    2. epoque <i class="PartOfSpch">n</i><br>
+    durée <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    1. time <i class="PartOfSpch">n</i><br>
+    period <i class="PartOfSpch">n</i><br><br>
+
+    2. epoch <i class="PartOfSpch">n</i><br>
+    duration <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    tshikondu <i class="PartOfSpch">tshi9</i><br>
+    <i class="PartOfSpch">pl</i> bikondu
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=diba">diba</a>, 
+                    <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                    <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                    <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                    <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                    <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    "Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Un temps pour naître et un temps pour mourir
+                    :<br>
+                    &nbsp:
+    A time for birth and a time to die
+                    :<br>
+                    &nbsp:&nbsp
+    Tshikondu tshia kuledibua ne tshikondu tshia kufua :
+    <br><br></td>
+    </tr>
+    <tr>
+    `
     },
     /*Tshilema*/   
     {
