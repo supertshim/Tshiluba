@@ -6166,6 +6166,121 @@ Ndi nnushila ditalala dianyi :
 </tr>
 `
 },
+/*Kushilangana*/   
+{
+    English: "to differ",
+    French: "différer",
+    Tshiluba: "Kushilangana",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·shi·la·nga·na<p>/koo-shee-lahn-gah-nah/</p>",
+    PhoneticsT: "différer / differ",
+    English2: "shilangana",
+    French2: "differer",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "to be different",
+    French3: "etre different",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "être différent",
+    French4: " être inégal",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+différer <i class="PartOfSpch">v</i><br>
+être différent <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+to differ <i class="PartOfSpch">v</i><br>
+to be different than [something] <i class="PartOfSpch">v</i>
+<i class="PartOfSpch">different from</i><br>
+<a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
+</td>
+<td class="tabledef" valign=top >
+kushilangana <i class="PartOfSpch">mn</i><p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kupingaja">kushila</a>
+<br><br></td>
+</tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Cela signifie être distinct, différent, ou non identique dans certains aspects. Cela désigne une variation, un contraste, ou une divergence entre deux choses ou plus, où elles diffèrent dans leurs caractéristiques, leurs attributs, leurs opinions, ou leurs actions.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To be distinct, dissimilar, or not identical in some aspect. It signifies a variation, contrast, or discrepancy between two or more things, where they deviate in characteristics, features, opinions, or actions.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+1. je différ | I differ | <b>ndi nshilangana </b><br><br>
+2. tu différs | you differ | <b>udi ushilangana </b><br><br>
+3. il/elle/on différ | he/she differs | <b>udi ushilangana</b><br><br>
+4. nous différons | we differ | <b>tudi tushilangana</b><br><br>
+5. vous différez | you differ | <b>nudi nushilangana</b><br><br>
+6. ils/elles différent | they differ | <b>badi bashilangana</b><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>:
+<i>Pour différentes raisons
+                :<br>
+                &nbsp:
+For different reasons
+                :<br>
+                &nbsp:&nbsp
+Bua ngenyi mishilangana :
+<br><br></td>
+</tr>
+`
+},
 /*Kushiya*/   
 {
     English: "to leave",
@@ -12220,7 +12335,7 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Tshi·bua·shi·bua·shi<p>/chee-bwah-shee-bwah-shee/</p>",
     PhoneticsT: "firmament / Firmament",
-    English2: " ",
+    English2: "tshibuashi",
     French2: " ",
     Tshiluba2: " ",
     PhoneticsT2: " ",
@@ -19562,6 +19677,121 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Ndi nnushila ditalala dianyi :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kushilangana*/   
+    {
+        English: "to differ",
+        French: "différer",
+        Tshiluba: "Kushilangana",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·shi·la·nga·na<p>/koo-shee-lahn-gah-nah/</p>",
+        PhoneticsT: "différer / differ",
+        English2: "shilangana",
+        French2: "differer",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "to be different",
+        French3: "etre different",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "être différent",
+        French4: " être inégal",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    différer <i class="PartOfSpch">v</i><br>
+    être différent <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to differ <i class="PartOfSpch">v</i><br>
+    to be different than [something] <i class="PartOfSpch">v</i>
+    <i class="PartOfSpch">different from</i><br>
+    <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
+    </td>
+    <td class="tabledef" valign=top >
+    kushilangana <i class="PartOfSpch">mn</i><p>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3" class="analogy">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=kupingaja">kushila</a>
+    <br><br></td>
+    </tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Cela signifie être distinct, différent, ou non identique dans certains aspects. Cela désigne une variation, un contraste, ou une divergence entre deux choses ou plus, où elles diffèrent dans leurs caractéristiques, leurs attributs, leurs opinions, ou leurs actions.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    To be distinct, dissimilar, or not identical in some aspect. It signifies a variation, contrast, or discrepancy between two or more things, where they deviate in characteristics, features, opinions, or actions.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+    1. je différ | I differ | <b>ndi nshilangana </b><br><br>
+    2. tu différs | you differ | <b>udi ushilangana </b><br><br>
+    3. il/elle/on différ | he/she differs | <b>udi ushilangana</b><br><br>
+    4. nous différons | we differ | <b>tudi tushilangana</b><br><br>
+    5. vous différez | you differ | <b>nudi nushilangana</b><br><br>
+    6. ils/elles différent | they differ | <b>badi bashilangana</b><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>:
+    <i>Pour différentes raisons
+                    :<br>
+                    &nbsp:
+    For different reasons
+                    :<br>
+                    &nbsp:&nbsp
+    Bua ngenyi mishilangana :
     <br><br></td>
     </tr>
     `
