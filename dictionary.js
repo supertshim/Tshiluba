@@ -3884,6 +3884,120 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
 </tr>
 ` 
 },
+/*Dishima*/   
+{
+    English: "lie",
+    French: "mensonge",
+    Tshiluba: "dishima",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
+    Phonetics: "Di·shi·ma<p>/DJEE-shee-mah/</p>",
+    PhoneticsT: "mensonge / lie",
+    English2: "lies",
+    French2: "mensonges",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "une mensonge",
+    French3: "des mensonges",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "false",
+    French4: "mensonger",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "mensongère",
+    French5: "mensongere",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "falsehood",
+    French6: "faux",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "fausse",
+    French7: "fake",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "factice",
+    French8: "trompeuse",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: "trompeur",
+    French9: "deceiving",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: "deceptive",
+    French10: "misleading",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+mensonge <i class="PartOfSpch">n</i><br>
+mensonger <i class="PartOfSpch">adj</i><br>
+mensongère <i class="PartOfSpch">adj</i><br>
+faux <i class="PartOfSpch">adj</i><br>
+fausse <i class="PartOfSpch">adj</i><br>
+trompeur <i class="PartOfSpch">adj</i><br>
+trompeuse <i class="PartOfSpch">adj</i><br>
+</td>
+<td class="tabledef" valign=top>
+lie <i class="PartOfSpch">n</i><br>
+false <i class="PartOfSpch">adj</i><br>
+fake <i class="PartOfSpch">adj</i><br>
+deceptive <i class="PartOfSpch">adj</i><br>
+misleading <i class="PartOfSpch">adj</i><br>
+</td>
+<td class="tabledef" valign=top >
+dishima <i class="PartOfSpch">tshi4</i><br>
+--a dishima <i class="PartOfSpch">adj</i>
+
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bulelela">bulelela</a>,   
+                <a class="links" href="search.html?inpt1=kushima">kushima</a>,  
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une déclaration intentionnellement fausse ou un acte de ne pas dire la vérité.
+                <br><br>
+<b><i>Explanation</i></b><br>
+An intentionally false statement or an act of not telling the truth.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Tu dis des mensonges
+                <br>
+                
+You're telling lies
+                <br>
+                
+Udi wamba bualu bua dishima
+<br><br></td>
+</tr>
+`
+},
 /*Disu*/   
 {
     English: "eye",
@@ -4018,6 +4132,102 @@ disu <i class="PartOfSpch">tshi</i><br>
 <br><br></td>
 </tr>
 `
+},
+/*Ditabuja*/  
+{
+    English: "Faith",
+    French: "Foi",
+    Tshiluba: "Ditabuja",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ta·ba·ku<p>/Djee-tah-bah/</p>",
+    PhoneticsT: "Foi / Faith",
+    English2: "Belief",
+    French2: "croyance",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "conviction",
+    French3: "confidence",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+foi <i class="PartOfSpch">n</i><br>
+croyance <i class="PartOfSpch">n</i><br>
+conviction <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+faith <i class="PartOfSpch">n</i><br>
+belief <i class="PartOfSpch">n</i><br>
+confidence <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+ditabuja <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+<br><br>
+<b><i>Explanation</i></b><br>
+A strong belief or trust in something without necessarily having proof or evidence.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Toi tu as la foi, moi j'ai des actes.
+            <br>
+            
+You have faith, I have deeds.
+            <br>
+Wewe udi ne ditabuja, meme ndi ne bienzedi.
+<br><br></td>
+</tr>
+<tr>` 
 },
 /*Ditshi*/   
 {
@@ -5623,8 +5833,8 @@ le champ est :: les champs sont<br>
 the plantation is :: the plantations are<br><br>
 <hr>
 Class 4: <b>di-ma</b><br><br> <b>didima didi :: madima adi</b><br>
-l'orange est :: les oranges sont<br>
-the orange is :: the oranges are<br><br>
+l'agrume est :: les agrumes sont<br>
+the citrus fruit is :: the citrus fruits are<br><br>
 <hr>
 Class 5: <b>lu-n</b><br><br> <b>lutondo ludi :: ntondo idi</b><br>
 l'entonnoir est :: les entonnoirs sont<br>
@@ -8841,7 +9051,7 @@ makumi tshitema, 90 <i class="PartOfSpch">tshi4</i><br>
     English: "Cold",
     French: "Froid",
     Tshiluba: "Mashika",
-    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a><br> <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
     Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
     PhoneticsT: "Froid / Cold",
     English2: " ",
@@ -18333,6 +18543,120 @@ const nkongamiaku2 = [
     </tr>
     ` 
     },
+    /*Dishima*/   
+    {
+        English: "lie",
+        French: "mensonge",
+        Tshiluba: "dishima",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a>',
+        Phonetics: "Di·shi·ma<p>/DJEE-shee-mah/</p>",
+        PhoneticsT: "mensonge / lie",
+        English2: "lies",
+        French2: "mensonges",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "une mensonge",
+        French3: "des mensonges",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "false",
+        French4: "mensonger",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "mensongère",
+        French5: "mensongere",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "falsehood",
+        French6: "faux",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "fausse",
+        French7: "fake",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "factice",
+        French8: "trompeuse",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: "trompeur",
+        French9: "deceiving",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: "deceptive",
+        French10: "misleading",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mensonge <i class="PartOfSpch">n</i><br>
+    mensonger <i class="PartOfSpch">adj</i><br>
+    mensongère <i class="PartOfSpch">adj</i><br>
+    faux <i class="PartOfSpch">adj</i><br>
+    fausse <i class="PartOfSpch">adj</i><br>
+    trompeur <i class="PartOfSpch">adj</i><br>
+    trompeuse <i class="PartOfSpch">adj</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    lie <i class="PartOfSpch">n</i><br>
+    false <i class="PartOfSpch">adj</i><br>
+    fake <i class="PartOfSpch">adj</i><br>
+    deceptive <i class="PartOfSpch">adj</i><br>
+    misleading <i class="PartOfSpch">adj</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    dishima <i class="PartOfSpch">tshi4</i><br>
+    --a dishima <i class="PartOfSpch">adj</i>
+
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bulelela">bulelela</a>,   
+                    <a class="links" href="search.html?inpt1=kushima">kushima</a>,  
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une déclaration intentionnellement fausse ou un acte de ne pas dire la vérité.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    An intentionally false statement or an act of not telling the truth.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Tu dis des mensonges
+                    <br>
+                    
+    You're telling lies
+                    <br>
+                    
+    Udi wamba bualu bua dishima
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Disu*/   
     {
         English: "eye",
@@ -18467,6 +18791,102 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     `
+    },
+    /*Ditabuja*/  
+    {
+        English: "Faith",
+        French: "Foi",
+        Tshiluba: "Ditabuja",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ta·ba·ku<p>/Djee-tah-bah/</p>",
+        PhoneticsT: "Foi / Faith",
+        English2: "Belief",
+        French2: "croyance",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "conviction",
+        French3: "confidence",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    foi <i class="PartOfSpch">n</i><br>
+    croyance <i class="PartOfSpch">n</i><br>
+    conviction <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    faith <i class="PartOfSpch">n</i><br>
+    belief <i class="PartOfSpch">n</i><br>
+    confidence <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    ditabuja <i class="PartOfSpch">tshi</i>
+    </td>
+    </tr>
+    <tr style="text-align:left";>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    A strong belief or trust in something without necessarily having proof or evidence.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Toi tu as la foi, moi j'ai des actes.
+                <br>
+                
+    You have faith, I have deeds.
+                <br>
+    Wewe udi ne ditabuja, meme ndi ne bienzedi.
+    <br><br></td>
+    </tr>
+    <tr>` 
     },
     /*Ditshi*/   
     {
@@ -20072,8 +20492,8 @@ const nkongamiaku2 = [
     the plantation is :: the plantations are<br><br>
     <hr>
     Class 4: <b>di-ma</b><br><br> <b>didima didi :: madima adi</b><br>
-    l'orange est :: les oranges sont<br>
-    the orange is :: the oranges are<br><br>
+    l'agrume est :: les agrumes sont<br>
+    the citrus fruit is :: the citrus fruits are<br><br>
     <hr>
     Class 5: <b>lu-n</b><br><br> <b>lutondo ludi :: ntondo idi</b><br>
     l'entonnoir est :: les entonnoirs sont<br>
