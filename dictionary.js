@@ -402,7 +402,7 @@ Kalonji's hand :
 parler <i class="PartOfSpch">v</i><p>
 </td>
 <td class="tabledef" valign=top >
-speak <i class="PartOfSpch">v</i>,<br>
+speak <i class="PartOfSpch">v</i><br>
 talk <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
@@ -413,7 +413,10 @@ kuakula <i class="PartOfSpch">mn</i><p>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>  
+                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>, 
+                <a class="links" href="search.html?inpt1=kuela">kuela</a>, 
+                <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
+                <a class="links" href="search.html?inpt1=kulomba">kulomba</a>
 <br><br></td>
 </tr>
 <tr>
@@ -4116,7 +4119,7 @@ disu <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
-                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
 <br><br></td>
 </tr>
 <tr>
@@ -4146,7 +4149,7 @@ disu <i class="PartOfSpch">tshi</i><br>
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "conviction",
-    French3: "confidence",
+    French3: " ",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -4199,13 +4202,26 @@ conviction <i class="PartOfSpch">n</i><br>
 <td class="tabledef" valign=top >
 faith <i class="PartOfSpch">n</i><br>
 belief <i class="PartOfSpch">n</i><br>
-confidence <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top >
-ditabuja <i class="PartOfSpch">tshi</i>
+ditekemena <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
-<tr style="text-align:left";>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+:: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+<a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+<a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+<a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+<a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+<a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
+<a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
@@ -4225,6 +4241,114 @@ Toi tu as la foi, moi j'ai des actes.
 You have faith, I have deeds.
             <br>
 Wewe udi ne ditabuja, meme ndi ne bienzedi.
+<br><br></td>
+</tr>
+<tr>` 
+},
+/*Ditekemena*/  
+{
+    English: "Hope",
+    French: "Espoir",
+    Tshiluba: "Ditekemena",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·te·ke·me·na<p>/Djee-teh-keh-meh-nah/</p>",
+    PhoneticsT: "Espoir / Hope",
+    English2: "hopes",
+    French2: "esperance",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "espérance",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+foi <i class="PartOfSpch">n</i><br>
+espoir <i class="PartOfSpch">n</i><br>
+espérance <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+hope <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+ditekemena <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+                <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
+                <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+<br><br>
+<b><i>Explanation</i></b><br>
+A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Maintenant, cependant, ces trois choses demeurent : la foi, l'espérance, l'amour ; mais le plus grand d'entre eux est l'amour.
+            <br><br>
+Now, however, these three remain: faith, hope, love; but the greatest of these is love
+            <br><br>
+Kadi mpindieu nkushale bisatu ebi: ditabuja, ditekemena, dinanga; kadi tshidi tshibipita bionso dinanga.
+
 <br><br></td>
 </tr>
 <tr>` 
@@ -4705,11 +4829,11 @@ a gray or white mass in the sky, made up of very small floating drops of water
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "nez",
+    French5: "nose",
     Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "noses",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -4744,15 +4868,18 @@ a gray or white mass in the sky, made up of very small floating drops of water
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-ciel <i class="PartOfSpch">n</i><br>
+1. ciel <i class="PartOfSpch">n</i><br>
 les cieux <i class="PartOfSpch">n</i><br>
-paradis <i class="PartOfSpch">n</i><br>
+paradis <i class="PartOfSpch">n</i><br><br>
 
+2. nez <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-sky <i class="PartOfSpch">n</i><br>
+1. sky <i class="PartOfSpch">n</i><br>
 the skies <i class="PartOfSpch">n</i><br>
-heaven <i class="PartOfSpch">n</i>
+heaven <i class="PartOfSpch">n</i><br><br>
+
+2. nose <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 diulu <i class="PartOfSpch">tshi9</i><p>
@@ -4768,17 +4895,61 @@ diulu <i class="PartOfSpch">tshi9</i><p>
                 <a class="links" href="search.html?inpt1=ditutu">ditutu</a>, 
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
                 <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
-                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>,
+                <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a> 
 <br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
-L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.
-
+1. L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.<br><br>
+2. Le "nez" est l'organe du visage utilisé pour respirer et sentir. Il est composé de cartilage et d'os, et fait saillie sur le visage, assurant le passage de l'air pour la respiration et abritant les récepteurs olfactifs pour le sens de l'odorat.
                 <br><br>
 <b><i>Explanation</i></b><br>
-The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.
+1. The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.<br><br>
+2. The "nose" is the organ on the face used for breathing and smelling. It's made of cartilage and bone and protrudes from the face, providing the airway for breathing and housing the olfactory receptors for the sense of smell.
 
                 <br><br>
 <b><i>Diumvuija</i></b><br>
@@ -6222,6 +6393,137 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
 <br><br></td>
 </tr>` 
 },
+/*-Itabuja*/  
+{
+    English: "to believe",
+    French: "croir",
+    Tshiluba: "Kuitabuja",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·i·ta·ba<p>/Kwee-tah-bah/</p>",
+    PhoneticsT: "Croir / To Believe",
+    English2: "believe",
+    French2: "croire que",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "itabuja",
+    French3: "-itabuja",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "itaba",
+    French4: "kuitaba",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "I believe",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+croire <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to believe <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kuitabuja <i class="PartOfSpch">muan</i><br>
+-itabuja <i class="PartOfSpch">muan</i>
+
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                <a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+                <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+                <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
+<br><br>
+<b><i>Explanation</i></b><br>
+To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy">
+<b>Mpindekenu</b><br>
+Conjugaison | Conjugation<br><br>
+<b>ndi ngitabuja</b>
+<br>Je crois | I believe<br><br>
+
+<b>udi witabuja</b>
+<br>tu es | you believe<br><br>
+
+<b>udi witabuja</b><br>
+il/elle est | he/she believes<br><br>
+
+<b>tudi tuitabuja</b><br>
+nous sommes | we believe<br><br>
+
+<b>nudi nuitabuja</b><br>
+vous êtes | you believe<br><br>
+
+<b>badi bitabuja</b><br>
+ils sont | they believe<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Est-ce que tu crois aux écrits des prophètes ? Je sais que oui.
+            <br><br>
+Do you believe the writings of the prophets? I know you do.
+            <br><br>
+Udi witabuja mifundu ya Baprofete anyi? Ndi mumanye ne: udi witabuja
+
+<br><br></td>
+</tr>
+<tr>` 
+},
 /*Itanu*/  
 {
     English: "Five",
@@ -7114,6 +7416,131 @@ Bena Yuda bavua bakuata muntu eu :
 </tr>
 `
 },
+/*-Leja*/  
+{
+    English: "to show",
+    French: "montrer",
+    Tshiluba: "Kuleja",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·le·ja<p>/Koo-leh-jah/</p>",
+    PhoneticsT: "montrer / To show",
+    English2: "show",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "-leja",
+    French3: "leja",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "faire montrer",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+montrer <i class="PartOfSpch">v</i><br>
+faire montrer <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+to show <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kuleja <i class="PartOfSpch">muan</i><br>
+-leja <i class="PartOfSpch">muan</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dinganga">tshilejilu</a>  
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Montrer ou présenter quelque chose visuellement, auditivement ou de manière expérientielle à d'autres, leur permettant de le percevoir, de le comprendre ou de le constater. Cela implique de présenter ou révéler quelque chose à la perception ou à la conscience de quelqu'un d'autre.
+<br><br>
+<b><i>Explanation</i></b><br>
+To display or present something to others visually, audibly, or experientially, allowing them to perceive, understand, or witness it. It involves presenting or revealing something to someone else's perception or awareness.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy">
+<b>Mpindekenu</b><br>
+Conjugaison | Conjugation<br><br>
+<b>ndi ndeja</b>
+<br>Je montre | I'm showing <br><br>
+
+<b>udi uleja</b>
+<br>tu montres | you're showing<br><br>
+
+<b>udi uleja</b><br>
+il/elle montre | he/she's showing<br><br>
+
+<b>tudi tuleja</b><br>
+nous montrons | we're showing<br><br>
+
+<b>nudi nuleja</b><br>
+vous montrez | you're showing<br><br>
+
+<b>badi baleja</b><br>
+ils montrent | they're showing<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Tu as commencé à montrer à ton serviteur ta grandeur
+            <br><br>
+You have begun to show to your servant your greatness 
+            <br><br>
+Udi mutuadija kuleja muena mudimu webe bunene buebe
+
+<br><br></td>
+</tr>
+<tr>` 
+},
 /*-Lela*/   
 {
     English: "to give birth tp",
@@ -7220,6 +7647,137 @@ Adama wakalela muana wa balume :
 <br><br></td>
 </tr>
 `
+},
+/*-Lomba*/  
+{
+    English: "to ask",
+    French: "demander",
+    Tshiluba: "Kulomba",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·lom·ba<p>/koo-lohm-bah/</p>",
+    PhoneticsT: "Demander | Ask",
+    English2: "ask",
+    French2: "lomba",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "to request",
+    French3: "request",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+demander <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to ask <i class="PartOfSpch">v</i><br>
+to request <i class="PartOfSpch">v</i><br>
+to ask for <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kulomba <i class="PartOfSpch">md</i><p>
+-lomba <i class="PartOfSpch">md</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>, 
+                <a class="links" href="search.html?inpt1=kuela">kuela</a>, 
+                <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
+                <a class="links" href="search.html?inpt1=kulomba">kuakula</a>, 
+                <a class="links" href="search.html?inpt1=lukonku">lukonku</a>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Demande d'informations, d'une réponse, ou de quelque chose à être donné ou fait en posant ou écrivant une question. Cela implique de chercher une clarification, des conseils, une autorisation, ou un objet à travers une demande verbale ou écrite.
+<br><br>
+<b><i>Explanation</i></b><br>
+To request information, an answer, or something to be given or done by speaking or writing a question. It involves seeking clarification, guidance, permission, or an object through verbal or written inquiry.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy">
+<b>Mpindekenu</b><br>
+Conjugaison | Conjugation<br><br>
+<b>ndi ndomba</b>
+<br>Je demande | I ask <br><br>
+
+<b>udi ulomba</b>
+<br>tu demandes | you ask<br><br>
+
+<b>udi ulomba</b><br>
+il/elle demande | he/she asks<br><br>
+
+<b>tudi tulomba</b><br>
+nous demandons | we ask<br><br>
+
+<b>nudi nulomba</b><br>
+vous demandez | you ask<br><br>
+
+<b>badi balomba</b><br>
+ils demandent | they ask<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Tu n'as encore rien demandé
+                <br>
+                
+You have not yet asked for anything 
+                <br>
+                
+Kanuena banji kulomba tshintu nansha tshimue
+<br><br></td>
+</tr>
+<tr>
+` 
 },
 /*-Lua*/   
 {
@@ -9045,6 +9603,148 @@ makumi tshitema, 90 <i class="PartOfSpch">tshi4</i><br>
                 <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
+},
+/*Mashi*/   
+{
+    English: "blood",
+    French: "sang",
+    Tshiluba: "mashi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ma·shi<p>/MAH-shee/</p>",
+    PhoneticsT: "sang / blood",
+    English2: "le sang",
+    French2: "the blood",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sang <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+blood <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+mashi <i class="PartOfSpch">tshi2</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Le sang de l'agneau
+                <br>
+                
+The blood of the lamb
+                <br>
+Mashi a Muana wa mukoko 
+<br><br></td>
+</tr>
+`
 },
 /*Mashika*/   
 {
@@ -13637,6 +14337,137 @@ Tangila ku mikuna ya Tshikapa :
 <br><br></td>
 </tr>
 `
+},
+/*-Tekemena*/  
+{
+    English: "to hope",
+    French: "espérer",
+    Tshiluba: "Kutekemena",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ku·te·ke·me·na<p>/Koo-teh-keh-meh-nah/</p>",
+    PhoneticsT: "espérer / to hope",
+    English2: "tekemena",
+    French2: "esperer",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "-tekemena",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+espérer <i class="PartOfSpch">v</i><br>
+espérer que <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to hope <i class="PartOfSpch">v</i><br>
+to hope for <i class="PartOfSpch">v</i><br>
+to hope that <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kutekemena <i class="PartOfSpch">md</i>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                <a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+                <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+                <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+<br><br>
+<b><i>Explanation</i></b><br>
+To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy">
+<b>Mpindekenu</b><br>
+Conjugaison | Conjugation<br><br>
+<b>ndi ntekemena</b>
+<br>J'espère | I hope<br><br>
+
+<b>udi utekemena</b>
+<br>tu espères | you hope<br><br>
+
+<b>udi utekemena</b><br>
+il/elle espère | he/she hopes<br><br>
+
+<b>tudi tukemena</b><br>
+nous espérons | we hope<br><br>
+
+<b>nudi nutekemena</b><br>
+vous espérez | you hope<br><br>
+
+<b>badi batekemena</b><br>
+ils espèrent | they show<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Maintenant, j'espère en le Seigneur Jésus
+            <br><br>
+Now, I hope in the Lord Jesus
+            <br><br>
+Mpindieu ndi ntekemena mu Mukalenge Yezu
+<br><br></td>
+</tr>
+<tr>` 
 },
 /*-Teleja*/   
 {
@@ -18888,6 +19719,113 @@ const nkongamiaku2 = [
     </tr>
     <tr>` 
     },
+    /*Ditekemena*/  
+    {
+        English: "Hope",
+        French: "Espoir",
+        Tshiluba: "Ditekemena",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·te·ke·me·na<p>/Djee-teh-keh-meh-nah/</p>",
+        PhoneticsT: "Espoir / Hope",
+        English2: "hopes",
+        French2: "esperance",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "espérance",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    foi <i class="PartOfSpch">n</i><br>
+    espoir <i class="PartOfSpch">n</i><br>
+    espérance <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    hope <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    ditekemena <i class="PartOfSpch">tshi</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                    <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                    <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                    <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                    <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
+                    <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Maintenant, cependant, ces trois choses demeurent : la foi, l'espérance, l'amour ; mais le plus grand d'entre eux est l'amour.
+                <br><br>
+    Now, however, these three remain: faith, hope, love; but the greatest of these is love
+                <br><br>
+    Kadi mpindieu nkushale bisatu ebi: ditabuja, ditekemena, dinanga; kadi tshidi tshibipita bionso dinanga.
+
+    <br><br></td>
+    </tr>
+    <tr>` 
+    },
     /*Ditshi*/   
     {
         English: "ear",
@@ -20881,6 +21819,137 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>` 
     },
+    /*-Itabuja*/  
+    {
+        English: "to believe",
+        French: "croir",
+        Tshiluba: "Kuitabuja",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·i·ta·ba<p>/Kwee-tah-bah/</p>",
+        PhoneticsT: "Croir / To Believe",
+        English2: "believe",
+        French2: "croire que",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "itabuja",
+        French3: "-itabuja",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "itaba",
+        French4: "kuitaba",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "I believe",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    croire <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to believe <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuitabuja <i class="PartOfSpch">muan</i><br>
+    -itabuja <i class="PartOfSpch">muan</i>
+
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                    <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                    <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                    <a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+                    <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+                    <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                    <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy">
+    <b>Mpindekenu</b><br>
+    Conjugaison | Conjugation<br><br>
+    <b>ndi ngitabuja</b>
+    <br>Je crois | I believe<br><br>
+
+    <b>udi witabuja</b>
+    <br>tu es | you believe<br><br>
+
+    <b>udi witabuja</b><br>
+    il/elle est | he/she believes<br><br>
+
+    <b>tudi tuitabuja</b><br>
+    nous sommes | we believe<br><br>
+
+    <b>nudi nuitabuja</b><br>
+    vous êtes | you believe<br><br>
+
+    <b>badi bitabuja</b><br>
+    ils sont | they believe<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Est-ce que tu crois aux écrits des prophètes ? Je sais que oui.
+                <br><br>
+    Do you believe the writings of the prophets? I know you do.
+                <br><br>
+    Udi witabuja mifundu ya Baprofete anyi? Ndi mumanye ne: udi witabuja
+
+    <br><br></td>
+    </tr>
+    <tr>` 
+    },
     /*Itanu*/  
     {
         English: "Five",
@@ -21773,6 +22842,131 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*-Leja*/  
+    {
+        English: "to show",
+        French: "montrer",
+        Tshiluba: "Kuleja",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·le·ja<p>/Koo-leh-jah/</p>",
+        PhoneticsT: "montrer / To show",
+        English2: "show",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "-leja",
+        French3: "leja",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "faire montrer",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    montrer <i class="PartOfSpch">v</i><br>
+    faire montrer <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to show <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuleja <i class="PartOfSpch">muan</i><br>
+    -leja <i class="PartOfSpch">muan</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dinganga">tshilejilu</a>  
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Montrer ou présenter quelque chose visuellement, auditivement ou de manière expérientielle à d'autres, leur permettant de le percevoir, de le comprendre ou de le constater. Cela implique de présenter ou révéler quelque chose à la perception ou à la conscience de quelqu'un d'autre.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    To display or present something to others visually, audibly, or experientially, allowing them to perceive, understand, or witness it. It involves presenting or revealing something to someone else's perception or awareness.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy">
+    <b>Mpindekenu</b><br>
+    Conjugaison | Conjugation<br><br>
+    <b>ndi ndeja</b>
+    <br>Je montre | I'm showing <br><br>
+
+    <b>udi uleja</b>
+    <br>tu montres | you're showing<br><br>
+
+    <b>udi uleja</b><br>
+    il/elle montre | he/she's showing<br><br>
+
+    <b>tudi tuleja</b><br>
+    nous montrons | we're showing<br><br>
+
+    <b>nudi nuleja</b><br>
+    vous montrez | you're showing<br><br>
+
+    <b>badi baleja</b><br>
+    ils montrent | they're showing<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Tu as commencé à montrer à ton serviteur ta grandeur
+                <br><br>
+    You have begun to show to your servant your greatness 
+                <br><br>
+    Udi mutuadija kuleja muena mudimu webe bunene buebe
+
+    <br><br></td>
+    </tr>
+    <tr>` 
+    },
     /*-Lela*/   
     {
         English: "to give birth tp",
@@ -21879,6 +23073,137 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     `
+    },
+    /*-Lomba*/  
+    {
+        English: "to ask",
+        French: "demander",
+        Tshiluba: "Kulomba",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·lom·ba<p>/koo-lohm-bah/</p>",
+        PhoneticsT: "Demander | Ask",
+        English2: "ask",
+        French2: "lomba",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "to request",
+        French3: "request",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    demander <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to ask <i class="PartOfSpch">v</i><br>
+    to request <i class="PartOfSpch">v</i><br>
+    to ask for <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulomba <i class="PartOfSpch">md</i><p>
+    -lomba <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table><br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>, 
+                    <a class="links" href="search.html?inpt1=kuela">kuela</a>, 
+                    <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
+                    <a class="links" href="search.html?inpt1=kulomba">kuakula</a>, 
+                    <a class="links" href="search.html?inpt1=lukonku">lukonku</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Demande d'informations, d'une réponse, ou de quelque chose à être donné ou fait en posant ou écrivant une question. Cela implique de chercher une clarification, des conseils, une autorisation, ou un objet à travers une demande verbale ou écrite.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    To request information, an answer, or something to be given or done by speaking or writing a question. It involves seeking clarification, guidance, permission, or an object through verbal or written inquiry.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy">
+    <b>Mpindekenu</b><br>
+    Conjugaison | Conjugation<br><br>
+    <b>ndi ndomba</b>
+    <br>Je demande | I ask <br><br>
+
+    <b>udi ulomba</b>
+    <br>tu demandes | you ask<br><br>
+
+    <b>udi ulomba</b><br>
+    il/elle demande | he/she asks<br><br>
+
+    <b>tudi tulomba</b><br>
+    nous demandons | we ask<br><br>
+
+    <b>nudi nulomba</b><br>
+    vous demandez | you ask<br><br>
+
+    <b>badi balomba</b><br>
+    ils demandent | they ask<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Tu n'as encore rien demandé
+                    <br>
+                    
+    You have not yet asked for anything 
+                    <br>
+                    
+    Kanuena banji kulomba tshintu nansha tshimue
+    <br><br></td>
+    </tr>
+    <tr>
+    ` 
     },
     /*-Lua*/   
     {
@@ -22903,6 +24228,148 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
+    },
+    /*Mashi*/   
+    {
+        English: "blood",
+        French: "sang",
+        Tshiluba: "mashi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ma·shi<p>/MAH-shee/</p>",
+        PhoneticsT: "sang / blood",
+        English2: "le sang",
+        French2: "the blood",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sang <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    blood <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    mashi <i class="PartOfSpch">tshi2</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Le sang de l'agneau
+                    <br>
+                    
+    The blood of the lamb
+                    <br>
+    Mashi a Muana wa mukoko 
+    <br><br></td>
+    </tr>
+    `
     },
     /*Mashika*/   
     {
@@ -27495,6 +28962,137 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     `
+    },
+    /*-Tekemena*/  
+    {
+        English: "to hope",
+        French: "espérer",
+        Tshiluba: "Kutekemena",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ku·te·ke·me·na<p>/Koo-teh-keh-meh-nah/</p>",
+        PhoneticsT: "espérer / to hope",
+        English2: "tekemena",
+        French2: "esperer",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "-tekemena",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    espérer <i class="PartOfSpch">v</i><br>
+    espérer que <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to hope <i class="PartOfSpch">v</i><br>
+    to hope for <i class="PartOfSpch">v</i><br>
+    to hope that <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kutekemena <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+                    <a class="links" href="search.html?inpt1=dindila">dindila</a>, 
+                    <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>,
+                    <a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+                    <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+                    <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+                    <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy">
+    <b>Mpindekenu</b><br>
+    Conjugaison | Conjugation<br><br>
+    <b>ndi ntekemena</b>
+    <br>J'espère | I hope<br><br>
+
+    <b>udi utekemena</b>
+    <br>tu espères | you hope<br><br>
+
+    <b>udi utekemena</b><br>
+    il/elle espère | he/she hopes<br><br>
+
+    <b>tudi tukemena</b><br>
+    nous espérons | we hope<br><br>
+
+    <b>nudi nutekemena</b><br>
+    vous espérez | you hope<br><br>
+
+    <b>badi batekemena</b><br>
+    ils espèrent | they show<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Maintenant, j'espère en le Seigneur Jésus
+                <br><br>
+    Now, I hope in the Lord Jesus
+                <br><br>
+    Mpindieu ndi ntekemena mu Mukalenge Yezu
+    <br><br></td>
+    </tr>
+    <tr>` 
     },
     /*-Teleja*/   
     {
