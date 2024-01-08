@@ -22,7 +22,7 @@
 }
 /* The header including background photo*/
 .header{
-    min-height: fit-content;
+    min-height: 100vh;
     width: 100%;
     /*background-image:linear-gradient(rgb(11, 0, 77, .75),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
     */
@@ -31,7 +31,7 @@
     background-repeat: no-repeat;
     background-attachment:scroll;
     background-size:auto;
-    overflow: hidden;
+    overflow: visible;
 }
 
 /* The Navigation Menu positioning on page*/
