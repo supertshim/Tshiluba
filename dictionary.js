@@ -11176,18 +11176,18 @@ Udi mukaji
     PhoneticsT: "Limite / Limit",
     English2: "Border",
     French2: "Frontière",
-    Tshiluba2: "Mikalu",
+    Tshiluba2: " ",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "mikalu",
     French3: "Frontiere",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
+    English4: "borders",
+    French4: "the border",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "demarcation",
+    French5: "démarcation",
     Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
@@ -11225,16 +11225,32 @@ Udi mukaji
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-limite, frontière,<br>
-ligne de séparation <i class="PartOfSpch">n</i>
+limite <i class="PartOfSpch">n</i><br>
+frontière <i class="PartOfSpch">n</i><br>
+ligne de séparation <i class="PartOfSpch">n</i><br>
+démarcation <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-limit, border  <i class="PartOfSpch">n</i>                           
+limit <i class="PartOfSpch">n</i><br>
+border <i class="PartOfSpch">n</i><br>
+demarcation <i class="PartOfSpch">n</i>                        
 </td>
 <td class="tabledef" valign=top >
-mukalu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
-mikalu
+mukalu <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mikalu
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une "limite" est un point au-delà duquel quelque chose ne s'étend pas ou ne peut pas se produire. Une ligne de démarcation ou une frontière physique qui sépare une zone géographique, un pays ou une région d'un autre.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "limit" is a point beyond which something does not or may not extend or occur. A dividing line or physical boundary that separates one geographic area, country, or region from another.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
@@ -17282,6 +17298,102 @@ Udi wenza tshinyi :
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: "Bipatshila",
+    French5: "l'objectif",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "le but",
+    French6: "the goal",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "the objective",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+objectif <i class="PartOfSpch">n</i><br>
+but <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+objetive <i class="PartOfSpch">n</i><br>
+goal <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+tshipatshila <i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl</i> bipatshila
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un "but" est un objectif ou un résultat souhaité que quelqu'un vise à atteindre grâce à des efforts ou des actions
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "goal" is an objective or desired result that someone aims to achieve through effort or action
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<td colspan="3" class="analogy"><br>:
+Afin d'atteindre cet but.
+                :<br>
+                &nbsp:
+In order to achieve this goal.
+                :<br>
+                &nbsp:&nbsp
+Bua kufika ku tshipatshila etshi. :
+<br><br></td>
+</tr>
+<tr>
+` 
+},
+/*Tshisumbu*/   
+{
+    English: "group",
+    French: "groupe",
+    Tshiluba: "tshisumbu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "tshi·sum·bu<p>/Chee-soom-boo/</p>",
+    PhoneticsT: "groupe / group",
+    English2: "bisumbu",
+    French2: "groups",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "groupes",
+    French3: "a group",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: "the group",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -17320,44 +17432,40 @@ Udi wenza tshinyi :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-objectif, but <i class="PartOfSpch">n</i><p>
+groupe <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top >
-objetive, goal <i class="PartOfSpch">n</i>
+group <i class="PartOfSpch">n</i><br>                     
 </td>
 <td class="tabledef" valign=top >
-tshipatshila <i class="PartOfSpch">tshi9</i><p>
-<i class="PartOfSpch">pl</i> bipatshila
+tshisumbu <i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl</i> bisumbu
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
-La fin vers laquelle l'effort est dirigé.
+Un "groupe" fait référence à une collection d'individus ou de choses rassemblés en fonction d'une caractéristique, d'un objectif ou d'une association communs.
                 <br><br>
-                
 <b><i>Explanation</i></b><br>
-The end toward which effort is directed.
-
-<br><br>
-               
+"A group" refers to a collection of individuals or things gathered together based on a common characteristic, purpose, or association.
+                <br><br>
 <b><i>Diumvuija</i></b><br>
------
+----
 <br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
-Afin d'atteindre cet but.
+Une groupe de gens
                 :<br>
                 &nbsp:
-In order to achieve this goal.
+A group of people
                 :<br>
                 &nbsp:&nbsp
-Bua kufika ku tshipatshila etshi. :
+Tshisumbu tshia bantu :
 <br><br></td>
 </tr>
-<tr>
-` 
+`
 },
 /*Tshitema*/  
 {
@@ -27092,7 +27200,7 @@ const nkongamiaku2 = [
         PhoneticsT: "Limite / Limit",
         English2: "Border",
         French2: "Frontière",
-        Tshiluba2: "Mikalu",
+        Tshiluba2: " ",
         PhoneticsT2: " ",
         English3: " ",
         French3: "Frontiere",
@@ -27141,15 +27249,17 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    limite, frontière,<br>
+    limite <i class="PartOfSpch">n</i><br>
+    frontière <i class="PartOfSpch">n</i><br>
     ligne de séparation <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top >
-    limit, border  <i class="PartOfSpch">n</i>                           
+    limit <i class="PartOfSpch">n</i><br>
+    border  <i class="PartOfSpch">n</i>                           
     </td>
     <td class="tabledef" valign=top >
-    mukalu <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i>
-    mikalu
+    mukalu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mikalu
     </td>
     </tr>
     <tr>
@@ -33255,6 +33365,100 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     ` 
+    },
+    /*Tshisumbu*/   
+    {
+        English: "group",
+        French: "groupe",
+        Tshiluba: "tshisumbu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "tshi·sum·bu<p>/Chee-soom-boo/</p>",
+        PhoneticsT: "groupe / group",
+        English2: "bisumbu",
+        French2: "groups",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "groupes",
+        French3: "a group",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: "the group",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    groupe <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    group <i class="PartOfSpch">n</i><br>                     
+    </td>
+    <td class="tabledef" valign=top >
+    tshisumbu <i class="PartOfSpch">tshi9</i><br>
+    <i class="PartOfSpch">pl</i> bisumbu
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un "groupe" fait référence à une collection d'individus ou de choses rassemblés en fonction d'une caractéristique, d'un objectif ou d'une association communs.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "A group" refers to a collection of individuals or things gathered together based on a common characteristic, purpose, or association.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>:
+    Une groupe de gens
+                    :<br>
+                    &nbsp:
+    A group of people
+                    :<br>
+                    &nbsp:&nbsp
+    Tshisumbu tshia bantu :
+    <br><br></td>
+    </tr>
+    `
     },
     /*Tshitema*/  
     {
