@@ -14652,6 +14652,154 @@ Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
 </tr>
 `
 },
+/*Nyuma*/   
+{
+    English: "spirit",
+    French: "esprit",
+    Tshiluba: "nyuma",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Nyu·ma<p>/Nyoo-mah/</p>",
+    PhoneticsT: "esprit / spirit",
+    English2: "spirits",
+    French2: "un esprit",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "a spirit",
+    French3: "l'esprit",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "the spirit",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+esprit <i class="PartOfSpch">n</i><br>
+l'esprit <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+spirit <i class="PartOfSpch">n</i><br>
+the spirit <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+nyuma <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> nyuma
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
+                <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Fruits de l'esprit
+                <br><br>
+                
+Fruits of the Spirit
+                <br><br>
+                
+Bimuma bia nyuma
+<br><br></td>
+</tr>
+`
+},
 /*Penyi*/   
  {
     English: "Where",
@@ -30397,6 +30545,154 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:
     Bonso badi banyema, kadi anu umwe ke udi upeta difutu :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Nyuma*/   
+    {
+        English: "spirit",
+        French: "esprit",
+        Tshiluba: "nyuma",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Nyu·ma<p>/Nyoo-mah/</p>",
+        PhoneticsT: "esprit / spirit",
+        English2: "spirits",
+        French2: "un esprit",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "a spirit",
+        French3: "l'esprit",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "the spirit",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    esprit <i class="PartOfSpch">n</i><br>
+    l'esprit <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    spirit <i class="PartOfSpch">n</i><br>
+    the spirit <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    nyuma <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> nyuma
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
+                    <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Fruits de l'esprit
+                    <br><br>
+                    
+    Fruits of the Spirit
+                    <br><br>
+                    
+    Bimuma bia nyuma
     <br><br></td>
     </tr>
     `
