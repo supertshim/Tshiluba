@@ -358,6 +358,7 @@ button.ws_refresh:hover{
     overflow: visible;
     scroll-behavior: none;
     display: block;
+    height: fit-content;
 }
 
 .ws_gamebox .ws_details .ws_timeleft {
@@ -377,11 +378,12 @@ button.ws_refresh:hover{
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
-    line-height: 40px;
-    overflow: hidden;
+    line-height: 30px;
+    overflow: visible;
     font-size: 30px;
+    word-wrap: break-word;
+    height: fit-content;
 }
-
 
 .blue-header .text-box {
     width: 100%;
