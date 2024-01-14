@@ -19,7 +19,7 @@
 .ws_gamebox {
     position: relative;
     background-color: rgb(255, 255, 255);
-    width: 700px;
+    width: 600px;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
@@ -225,7 +225,7 @@ button.ws_refresh:hover{
 
 .ws_gamebox {
     width: 75%;
-    height: 700px;
+    height: fit-content;
     top:0px;
 }
 
@@ -238,6 +238,7 @@ button.ws_refresh:hover{
     background-color: transparent;
     padding-bottom: 20px;
     top:-50px;
+    height: fit-content;
 }
 
 
@@ -258,8 +259,9 @@ button.ws_refresh:hover{
     width: 100%;
     padding-left: 0px;
     margin-bottom: 0px;
-    height: 200px;
+    height: fit-content;
     overflow: hidden;
+    line-height: auto;
 }
 .ws_gamebox .ws_word{
     vertical-align: middle;
@@ -287,6 +289,7 @@ button.ws_refresh:hover{
     font-weight: 700;
     text-transform: uppercase;
     left: -10px;
+    margin-top: 10px;
 }
 
 
@@ -299,7 +302,7 @@ button.ws_refresh:hover{
     margin-left: auto;
     margin-right: auto;
     padding-top:0px;
-    height: 500px;
+    height: 250px;
     margin-top: 0px;
 }
 
