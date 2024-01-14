@@ -9,7 +9,7 @@
     height:100%;
     height: fit-content;
     width: 100%;
-    background-color: rgb(11, 0, 77);
+    background-color: rgb(255, 255, 255);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -19,7 +19,7 @@
 
 .blue-header .documentarea{
     text-align: center;
-    background-color: rgb(11, 0, 77);
+    background-color: rgb(255, 255, 255);
     width: 100%;
     font-family: 'Jost', sans-serif;
     font-weight: 500;
@@ -45,29 +45,29 @@
     text-align: justify;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
-    width: 90%;
+    width: 650px;
     height: fit-content;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
     padding: 30px;
-    border:10px solid gold;
+    border:10px solid #001163;
     border-radius: 0px;
+    box-shadow: .6em .5em .5em rgb(163, 163, 163);
 }
-
 
 
 .blue-header .nav-links ul li a{
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     font-size: 20px;
 }
 
 .blue-header .nav-links ul li button{
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     font-size: 20px;
     background-color: transparent;
@@ -80,10 +80,10 @@
 
 .blue-header .nav-links .dropdown{
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: #000000;
     font-size: 20px;
     background-color: transparent;
-    border: solid white 1px;
+    border: solid rgb(0, 0, 0) 1px;
     position: absolute;
     border-radius: 5px;
     padding: 10px;
@@ -100,7 +100,7 @@
 .blue-header .nav-links .dropdown a{
     position: relative;
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: #000000;
     font-size: 20px;
     background-color: transparent;
     text-decoration: none;
@@ -118,9 +118,9 @@
 .blue-header .nav-links .dropdown a:hover{
     position: relative;
     font-family: 'Montserrat', sans-serif;
-    color: #000000;
+    color: #ffffff;
     font-size: 20px;
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -128,7 +128,7 @@
     content: '';
     width: 0%;
     height: 2px;
-    background: #ffffff;
+    background: #000000;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -166,7 +166,7 @@
     }
 
 .blue-header nav .fa-bars{
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     align-items: right;
     width: 20px;
     position: absolute;
