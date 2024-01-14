@@ -302,7 +302,7 @@ button.ws_refresh:hover{
     margin-left: auto;
     margin-right: auto;
     padding-top:0px;
-    height: 250px;
+    height: 150px;
     margin-top: 0px;
 }
 
@@ -323,8 +323,8 @@ button.ws_refresh:hover{
     font-family: 'Jost', sans-serif;
     box-shadow: 0em .2em rgb(129, 129, 129);
     transform: translateY(8px);
-    height: 150px;
-    top: 60px;
+    height: 100px;
+    top: 10px;
 
 }
 .ws_gamebox .ws_refresh img{
@@ -345,8 +345,8 @@ button.ws_refresh:hover{
     background-color: rgb(170, 75, 75);
     font-family: 'Jost', sans-serif;
     box-shadow: 0em .2em rgb(129, 129, 129);
-    height: 150px;
-    top:50px;
+    height: 100px;
+    top:0px;
 }
 
 .ws_gamebox .ws_details{
