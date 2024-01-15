@@ -62,7 +62,7 @@ const nkongamiaku = [
     French: "De",
     Tshiluba: "--a",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=preposition">préposition</a> | <a class="links" href="search.html?inpt1=preposition">preposition</a> | <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>',
-    Phonetics: "Wa·/Wah/·Ya·/yah/·Bua·/Buah/·A·/Ah/<p>·Dia·/Dyah/·Lua·/Lwah/·Ka·/Kah/·Tua·/Twah/<p>·Tshia·/chyah/·Bia·/Byah/",
+    Phonetics: "/Ahh/",
     PhoneticsT: "De / Of",
     English2: " ",
     French2: " ",
@@ -115,28 +115,29 @@ const nkongamiaku = [
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-de, d', du, des <i class="PartOfSpch">prep</i><p>
-<i class="PartOfSpch">(indique la possession)</i>
+de <i class="PartOfSpch">prep</i><br>
+d' <i class="PartOfSpch">prep</i><br>
+du <i class="PartOfSpch">prep</i><br>
+des <i class="PartOfSpch">prep</i><p>
 </td>
 <td class="tabledef" valign=top >
-of <i class="PartOfSpch">prep</i><p>
-<i class="PartOfSpch">(indicates possession)</i>
+of <i class="PartOfSpch">prep</i><br>
 </td>
 <td class="tabledef" valign=top >
---a, wa, ya, Bua, a, dia, lua, ka, tshia, bia <i class="PartOfSpch">kad</i><p>
-<i class="PartOfSpch">(kuleja ku)</i>
+--a <i class="PartOfSpch">kad</i><br>
+wa <i class="PartOfSpch">kad</i><br>
+ya <i class="PartOfSpch">kad</i><br>
+bua <i class="PartOfSpch">kad</i><br>
+dia <i class="PartOfSpch">kad</i><br>
+lua <i class="PartOfSpch">kad</i><br>
+ka <i class="PartOfSpch">kad</i><br>
+tshia <i class="PartOfSpch">kad</i><br>
+bia <i class="PartOfSpch">kad</i><p>
 </td>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy">
-<table class="h-lines" id="h-lines"></table><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kulua">kulua</a>
-<br><br></td>
 </tr>
 <tr>
-</tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Les rapports de possession entre deux noms s'expriment au moyen de la particule --a qui prend le prefixe correspondant a la classe du premier substantif.
                 <br><br>
@@ -150,9 +151,16 @@ The relations of possession between two nouns are expressed by means of the part
 <br><br></td>
 </tr>
 <tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kulua">kulua</a>
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 1 nom singulier -- mu</i><p>
-<i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <i>Mu</i>ana <b>wa</b> Tshisekedi
+<i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <b>Mu</b>ana <b>wa</b> Tshisekedi
                 :<br>
                 &nbsp:
 Enfant de Tshisekedi
@@ -161,7 +169,7 @@ Enfant de Tshisekedi
 Tshisekedi's child :
 <br><br>
 <i class="PartOfSpch">classe 1 nom pluriel -- ba</i><p>
-<i class="PartOfSpch">class 1 plural nouns -- ba</i><p>: <i>Ba</i>na <b>ba</b> Tshimanga
+<i class="PartOfSpch">class 1 plural nouns -- ba</i><p>: <b>Ba</b>na <b>ba</b> Tshimanga
                 :<br>
                 &nbsp:
 Enfants de Tshimanga
@@ -173,7 +181,7 @@ Tshimanga's children :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 2 nom singulier -- mu</i><p>
-<i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <i>Mu</i>tshi <b>wa</b> Mpiana
+<i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <b>Mu</b>tshi <b>wa</b> Mpiana
                 :<br>
                 &nbsp:
 Arbe de Mpiana
@@ -182,7 +190,7 @@ Arbe de Mpiana
 Mpiana's tree :
 <br><br>
 <i class="PartOfSpch">classe 2 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 2 plural nouns -- mi</i><p>: <i>Mi</i>tshi <b>ya</b> Mpiana
+<i class="PartOfSpch">class 2 plural nouns -- mi</i><p>: <b>Mi</b>tshi <b>ya</b> Mpiana
                 :<br>
                 &nbsp:
 Les arbres de Mpiana
@@ -194,7 +202,7 @@ Mpiana's trees :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
-<i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <i>Bu</i>dimi <b>Bua</b> Mukendi
+<i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <b>Bu</b>dimi <b>Bua</b> Mukendi
                 :<br>
                 &nbsp:
 Champ de Mukendi
@@ -203,7 +211,7 @@ Champ de Mukendi
 Mukendi's field :
 <br><br>
 <i class="PartOfSpch">classe 3 nom pluriel -- ma</i><p>
-<i class="PartOfSpch">class 3 plural nouns -- ma</i><p>: <i>Ma</i>dimi <b>a</b> Mukendi
+<i class="PartOfSpch">class 3 plural nouns -- ma</i><p>: <b>Ma</b>dimi <b>a</b> Mukendi
                 :<br>
                 &nbsp:
 Les champs de Mukendi
@@ -215,7 +223,7 @@ Mukendi's fields :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 4 nom singulier -- di</i><p>
-<i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <i>Di</i>dima <b>dia</b> Ilunga
+<i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <b>Di</b>dima <b>dia</b> Ilunga
                 :<br>
                 &nbsp:
 L'orange d'Ilunga
@@ -224,7 +232,7 @@ L'orange d'Ilunga
 Ilunga's orange :
 <br><br>
 <i class="PartOfSpch">classe 4 nom pluriel -- ma</i><p>
-<i class="PartOfSpch">class 4 plural nouns -- ma</i><p>: <i>Ma</i>dima <b>a</b> Ilunga
+<i class="PartOfSpch">class 4 plural nouns -- ma</i><p>: <b>Ma</b>dima <b>a</b> Ilunga
                 :<br>
                 &nbsp:
 Les oranges d'Ilunga
@@ -236,7 +244,7 @@ Ilunga's oranges :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 5 nom singulier -- Lu</i><p>
-<i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <i>Lu</i>suki <b>lwa</b> Kayoka
+<i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <b>Lu</b>suki <b>lwa</b> Kayoka
                 :<br>
                 &nbsp:
 cheveau de Kayoka
@@ -245,7 +253,7 @@ cheveau de Kayoka
 Kayoka's strand of hair :
 <br><br>
 <i class="PartOfSpch">classe 5 nom pluriel -- n</i><p>
-<i class="PartOfSpch">class 5 plural nouns -- n</i><p>: <i>n</i>suki <b>ya</b> Kayoka
+<i class="PartOfSpch">class 5 plural nouns -- n</i><p>: <b>N</b>suki <b>ya</b> Kayoka
                 :<br>
                 &nbsp:
 Cheveaux de Kayoka
@@ -257,7 +265,7 @@ Kayoka's hair :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 6 nom singulier -- n</i><p>
-<i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <i>N</i>yunyu <b>wa</b> Tshituka
+<i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <b>N</b>yunyu <b>wa</b> Tshituka
                 :<br>
                 &nbsp:
 L'oiseau de Tshituka
@@ -266,7 +274,7 @@ L'oiseau de Tshituka
 Tshituka's bird :
 <br><br>
 <i class="PartOfSpch">classe 6 nom pluriel -- n</i><p>
-<i class="PartOfSpch">class 6 plural nouns -- n</i><p>: <i>n</i>yunyu <b>ya</b> Tshituka
+<i class="PartOfSpch">class 6 plural nouns -- n</i><p>: <b>N</b>yunyu <b>ya</b> Tshituka
                 :<br>
                 &nbsp:
 Les oiseaux de Tshituka
@@ -278,7 +286,7 @@ Tshituka's birds :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
-<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <i>M</i>Bua <b>wa</b> Tshisungu
+<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <b>M</b>bua <b>wa</b> Tshisungu
                 :<br>
                 &nbsp:
 Le chien de Tshisungu
@@ -287,7 +295,7 @@ Le chien de Tshisungu
 Tshisungu's dog :
 <br><br>
 <i class="PartOfSpch">classe 7 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <i>M</i>Bua <b>ya</b> Tshisungu
+<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <b>M</b>bua <b>ya</b> Tshisungu
                 :<br>
                 &nbsp:
 Les chiens de Tshisungu
@@ -299,7 +307,7 @@ Tshisungu's dogs :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 8 nom singulier -- ka</i><p>
-<i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <i>ka</i>lulu <b>ka</b> Badibanga
+<i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <b>Ka</b>lulu <b>ka</b> Badibanga
                 :<br>
                 &nbsp:
 Le lapin de Badibanga
@@ -308,7 +316,7 @@ Le lapin de Badibanga
 Badibanga's rabbit :
 <br><br>
 <i class="PartOfSpch">classe 8 nom pluriel -- tu</i><p>
-<i class="PartOfSpch">class 8 plural nouns -- tu</i><p>: <i>tu</i>lulu <b>tua</b> Badibanga
+<i class="PartOfSpch">class 8 plural nouns -- tu</i><p>: <b>Tu</b>lulu <b>tua</b> Badibanga
                 :<br>
                 &nbsp:
 Les lapins de Badibanga
@@ -320,7 +328,7 @@ Badibanga's rabbits :
 <tr>
 <td colspan="3" class="analogy"><br>
 <i class="PartOfSpch">classe 9 nom singulier -- tshi</i><p>
-<i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <i>Tshi</i>anza <b>tshia</b> Kalonji
+<i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <b>Tshi</b>anza <b>tshia</b> Kalonji
                 :<br>
                 &nbsp:
 Main de Kalonji
@@ -329,7 +337,7 @@ Main de Kalonji
 Kalonji's hand :
 <br><br>
 <i class="PartOfSpch">classe 9 nom pluriel -- bi</i><p>
-<i class="PartOfSpch">class 9 plural nouns -- bi</i><p>: <i>Bi</i>anza <b>bia</b> Kalonji
+<i class="PartOfSpch">class 9 plural nouns -- bi</i><p>: <b>Bi</b>anza <b>bia</b> Kalonji
                 :<br>
                 &nbsp:
 Les mains de Kalonji
@@ -402,12 +410,24 @@ Kalonji's hand :
 parler <i class="PartOfSpch">v</i><p>
 </td>
 <td class="tabledef" valign=top >
-speak <i class="PartOfSpch">v</i><br>
-talk <i class="PartOfSpch">v</i>
+to speak <i class="PartOfSpch">v</i><br>
+to talk <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuakula <i class="PartOfSpch">mn</i><p>
+kuakula <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Exprimer des pensées, des idées ou des informations par la communication verbale en utilisant des mots ou des sons articulés.
+<br><br>
+<b><i>Explanation</i></b><br>
+To express thoughts, ideas, or information through verbal communication using words or articulate sounds. 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -506,17 +526,30 @@ Ndi ngakula Tshiluba :
 dire <i class="PartOfSpch">v</i><p>
 </td>
 <td class="tabledef" valign=top >
-say <i class="PartOfSpch">v</i>
+to say <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuamba <i class="PartOfSpch">muan</i><p>
+kuamba <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Communiquer ou exprimer quelque chose verbalement en prononçant des mots ou des phrases, transmettant des pensées, des informations ou des sentiments par la parole.
+<br><br>
+<b><i>Explanation</i></b><br>
+To communicate or express something verbally by uttering words or phrases, conveying thoughts, information, or feelings through speech. 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kuakula">kuakula</a>  
+                :: <a class="links" href="search.html?inpt1=kuakula">kuakula</a>, 
+                <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
 <br><br></td>
 </tr>
 <tr>
@@ -556,7 +589,7 @@ Kuambila ne :
 <tr>
 ` 
 },
-/*-Aambakaja*/  
+/*-Ambakaja*/  
 {
     English: "to stack",
     French: "superposer",
@@ -618,12 +651,25 @@ Kuambila ne :
 superposer <i class="PartOfSpch">v</i><br>, empiler <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-to stack <i class="PartOfSpch">v</i>, <br>to pile up <i class="PartOfSpch">v</i>,<br>
- to put on top of
+to stack <i class="PartOfSpch">v</i><br>
+to pile up <i class="PartOfSpch">v</i><br>
+to put on top of <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuambakaja <i class="PartOfSpch">mn</i><p>
+kuambakaja <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Disposer des articles les uns sur les autres en une pile soignée et ordonnée, généralement pour économiser de l'espace ou faciliter le stockage.
+<br><br>
+<b><i>Explanation</i></b><br>
+"To stack" means to arrange items one on top of another in a neat or orderly pile, typically to save space or facilitate storage.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -721,11 +767,23 @@ Mandat ibidi, tuji tuambakaja. Fatshi beton tutuambakaja :
 prendre <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-take <i class="PartOfSpch">v</i>
+to take <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-kuangata <i class="PartOfSpch">muan</i><p>
+kuangata <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Saisir, attraper, ou obtenir la possession de quelque chose avec ses mains, ou accepter et acquérir quelque chose de manière volontaire.
+<br><br>
+<b><i>Explanation</i></b><br>
+To grasp, seize, or obtain possession of something with one's hands or to accept or acquire something willingly.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -733,7 +791,8 @@ kuangata <i class="PartOfSpch">muan</i><p>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=kupingaja">kupingaja</a>, 
                 <a class="links" href="search.html?inpt1=kupesha">kupesha</a>,
-                <a class="links" href="search.html?inpt1=kupesha">kushila</a>
+                <a class="links" href="search.html?inpt1=kupesha">kushila</a>, 
+                <a class="links" href="search.html?inpt1=kukuata">kukuata</a>
 <br><br></td>
 </tr>
 <tr>
@@ -759,6 +818,289 @@ Muana wa muntu, angata mutshi, ufundapu ne :
 <br><br></td>
 </tr>
 `
+},
+/*Anyima*/   
+{
+    English: "the soul",
+    French: "l'âme",
+    Tshiluba: "anyima",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Muo·yo<p>/Moh-yoh/</p>",
+    PhoneticsT: "âme / soul",
+    English2: "souls",
+    French2: "âmes",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "a soul",
+    French3: "un âme",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "âme",
+    French4: "the soul",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "a soul",
+    French5: "ame",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "soul",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+âme <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+soul <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+anyima <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
+                <br><br>
+<b><i>Explanation</i></b><br>
+The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
+                <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, 
+                <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>
+Aimez le Seigneur Dieu de tout votre cœur, de toute votre âme, de toute votre force et de toute votre pensée
+                <br><br>
+                
+Love the Lord God with all your heart, and all your soul, and all your strength, and and all your mind.
+                <br><br>
+                
+Udi ne bua kunanga Yehowa Nzambi webe ne muoyo webe wonso, ne anyima webe yonso, ne bukole buebe buonso, ne lungenyi luebe luonso
+<br><br></td>
+</tr>
+`
+},
+/*-Anyisha*/  
+{
+    English: "to approve",
+    French: "approuver",
+    Tshiluba: "Kuanyisha",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+    Phonetics: "Ku·an·yi·sha<p>/Kwahn-yee-shah/</p>",
+    PhoneticsT: "approuver / to approve",
+    English2: "accept",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "to approve of",
+    French3: "anyisha",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "approuver",
+    French4: "to accept",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "valider",
+    French5: "agréer",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "agreer",
+    French6: "approve",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "approve of",
+    French7: "etre d'accord",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "être d'accord",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+accepter <i class="PartOfSpch">v</i><br>
+approuver <i class="PartOfSpch">v</i><br>
+être d'accord <i class="PartOfSpch">v</i><br>
+apprécier <i class="PartOfSpch">v</i><br>
+valider <i class="PartOfSpch">v</i><br>
+agréer <i class="PartOfSpch">v</i><br>
+permettre à [qqn] de faire [qch] <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top>
+to approve <i class="PartOfSpch">v</i><br>
+to approve of <i class="PartOfSpch">v</i><br>
+to accept <i class="PartOfSpch">v</i><br>
+to allow <i class="PartOfSpch">v</i><br>
+to permit <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+kuanyisha <i class="PartOfSpch">md</i><br>
+-anyisha <i class="PartOfSpch">md</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Donner la permission ou le consentement pour qu'une action, un événement ou un comportement spécifique ait lieu. Approuver officiellement ou endosser quelque chose, indiquant le consentement ou un jugement favorable envers une action, une décision ou une proposition particulière.
+<br><br>
+<b><i>Explanation</i></b><br>
+To grant permission or consent for a specific action, event, or behavior to take place. To officially agree to or endorse something, indicating consent or favorable judgment toward a particular action, decision, or proposal.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=eyowa">eyowa</a>, 
+                <a class="links" href="search.html?inpt1=kulekela">kulekela</a>, 
+                <a class="links" href="search.html?inpt1=kubenga">kubenga</a>, 
+                  
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy">
+<b>Mpindekenu</b><br>
+Conjugaison | Conjugation<br><br>
+<b>ndi nganyisha</b>
+<br>J'approuve | I approve <br><br>
+
+<b>udi wanyisha</b>
+<br>tu approuves | you approve<br><br>
+
+<b>udi wanyisha</b><br>
+il/elle approuve | he/she approves<br><br>
+
+<b>tudi tuanyisha</b><br>
+nous approuvons | we approve<br><br>
+
+<b>nudi nuanyisha</b><br>
+vous approuvez | you approve<br><br>
+
+<b>badi banyisha</b><br>
+ils approuvent | they approve<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+Permettez-leur d'apporter un peu d'eau.
+            <br><br>
+Allow them to bring a little bit of water.
+            <br><br>
+Anyishayiku balua ne ndambu wa mayi.
+<br><br></td>
+</tr>
+<tr>` 
 },
 /*-Bala*/   
 {
@@ -823,8 +1165,8 @@ Muana wa muntu, angata mutshi, ufundapu ne :
 2. compter <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top >
-1. read <i class="PartOfSpch">v.tr</i> <br>
-2. count <i class="PartOfSpch">v.tr</i>
+1. to read <i class="PartOfSpch">v.tr</i> <br>
+2. to count <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top >
 kubala <i class="PartOfSpch">v.tr</i>
@@ -899,6 +1241,142 @@ To <i><b>count</b></i> one is to <i><b>count</b></i> yourself
 <br><br>
 </td>
 </tr>`
+},
+/*Bikoyikoyi*/   
+{
+    English: "skeleton",
+    French: "squelette",
+    Tshiluba: "bikoyikoyi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bi·ko·yi·ko·yi<p>/Bee-koy-eeh-koy-eeh/</p>",
+    PhoneticsT: "squelette / skeleton",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+squelette <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+skeleton <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+bikoyikoyi <i class="PartOfSpch">tshi9</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un squelette est la structure interne des os dans un organisme, fournissant un soutien structurel, facilitant le mouvement et protégeant les organes vitaux.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The internal framework of bones in an organism, providing structural support, facilitating movement, and protecting vital organs.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
+                <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, 
+                <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+<br><br></td>
+</tr>
+`
 },
 /*Binunu Bibidi*/  
 {
@@ -2026,8 +2504,20 @@ Kusumba bua mfranga 10
 2. penetrate <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kubuela <i class="PartOfSpch">mn</i>
+kubuela <i class="PartOfSpch">md</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Entrer" signifie aller ou venir dans un lieu, un espace ou une situation. Cela implique de passer de l'extérieur à l'intérieur, d'obtenir l'accès ou l'admission à un endroit particulier, ou de devenir un participant à une activité ou un état spécifique.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To go or come into a place, space, or situation. It involves moving from outside to inside, gaining access or admission to a particular location, or becoming a participant in a specific activity or state.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -2062,6 +2552,233 @@ Because many will try to enter and will not be able to
                 :<br>
                 &nbsp:&nbsp
 Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
+<br><br></td>
+</tr>
+`
+},
+/*Bufike*/   
+{
+    English: "blackness",
+    French: "noirceur",
+    Tshiluba: "Butoke",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
+    Phonetics: "Bu·to·ke<p>/BOO-toh-kah/</p>",
+    PhoneticsT: "noirceur / blackness",
+    English2: "darkness",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. noirceur (couleur) <i class="PartOfSpch">n</i><br><br>
+2. obscurité <i class="PartOfSpch">n</i><br><br>
+</td>
+
+<td class="tabledef" valign=top>
+1. blackness (color) <i class="PartOfSpch">n</i><br>
+2. darkness <i class="PartOfSpch">n</i><br>
+</td>
+
+<td class="tabledef" valign=top >
+bufike <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">adj</i> --fike
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'état, la qualité ou la condition d'être noir ou d'avoir une couleur sombre.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The state, quality, or condition of being black or having a dark color.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                <a class="links" href="search.html?inpt1=--fike">--fike</a>,
+                <a class="links" href="search.html?inpt1=--kunze">--kunze</a>,
+                <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                <a class="links" href="search.html?inpt1=midima">midima</a>, 
+                <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Nous marchons dans l'obscurité
+                :<br>
+                &nbsp
+We walk in the darkness
+                :<br>
+                &nbsp:&nbsp
+Tuetu tuenda mu bufike :
+<br><br></td>
+</tr>
+`
+},
+/*Bukonda*/   
+{
+    English: "brother-in-law | sister-in-law",
+    French: "beau-frère | belle-sœur",
+    Tshiluba: "bukonda",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Bu·kon·da<p>/BUU-kohn-dah/</p>",
+    PhoneticsT: "brother-in-law / brother-in-law | sister-in-law",
+    English2: "brother-in-law",
+    French2: "beau-frère",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "sister-in-law",
+    French3: "belle-sœur",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "beau-frere",
+    French4: "belle-soeur",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "sister in-law",
+    French5: "sister in law",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "brother in-law",
+    French6: "brother in law",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "beauf",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+beau-frère <i class="PartOfSpch">n</i><br>
+belle-sœur <i class="PartOfSpch">n</i><br>
+beauf <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+brother-in-law <i class="PartOfSpch">n</i><br>
+sister-in-law <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+bukonda <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> makonda
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Le frère ou la sœur du conjoint, ou le mari ou la femme du frère ou de la sœur."
+                <br><br>
+<b><i>Explanation</i></b><br>
+The brother or sister of one's spouse, or the husband or wife of one's sibling.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=mukaji">mukaji</a>,
+                <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                <a class="links" href="search.html?inpt1=diku">diku</a>, 
+                <a class="links" href="search.html?inpt1=kaku">kaku</a>, 
+                <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                <a class="links" href="search.html?inpt1=muana">muana</a>,
+                <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                <a class="links" href="search.html?inpt1=yaya">yaya</a>
 <br><br></td>
 </tr>
 `
@@ -2142,14 +2859,6 @@ bulelela <i class="PartOfSpch">tshi3</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=dishima">dishima</a>   
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 "La "vérité" fait référence à l'état ou à la qualité d'être en accord avec les faits ou la réalité. La vérité est un état absolu ou vérifiable qui est en harmonie avec la réalité, l'honnêteté et la sincérité."
@@ -2159,6 +2868,14 @@ bulelela <i class="PartOfSpch">tshi3</i><br>
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dishima">dishima</a>   
 <br><br></td>
 </tr>
 <tr>
@@ -2374,8 +3091,8 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
 },
 /*Butoke*/   
 {
-    English: "light",
-    French: "lumière",
+    English: "whiteness",
+    French: "blancheur",
     Tshiluba: "Butoke",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
     Phonetics: "Bu·to·ke<p>/BOO-toh-kah/</p>",
@@ -2408,7 +3125,7 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
     French8: " ",
     Tshiluba8: " ",
     PhoneticsT8: " ",
-    English9: "the light",
+    English9: " ",
     French9: " ",
     Tshiluba9: " ",
     PhoneticsT9: " ",
@@ -2431,25 +3148,35 @@ ba bungi, <i class="PartOfSpch">tshi</i><br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. lumière <i class="PartOfSpch">n</i><br><br>
-2. blancheur (couleur) <i class="PartOfSpch">n</i><br><br>
-3. clarté <i class="PartOfSpch">n</i><br><br>
-4. pâleur <i class="PartOfSpch">n</i>
+1. blancheur (couleur) <i class="PartOfSpch">n</i><br><br>
+2. clarté <i class="PartOfSpch">n</i><br><br>
+3. pâleur <i class="PartOfSpch">n</i>
 </td>
 
 <td class="tabledef" valign=top>
-1. light <i class="PartOfSpch">n</i><br><br>
-2. whiteness (color) <i class="PartOfSpch">n</i><br>
+1. whiteness (color) <i class="PartOfSpch">n</i><br>
 lightness <i class="PartOfSpch">n</i><br>
 brightness <i class="PartOfSpch">n</i><br><br>
-3. clarity <i class="PartOfSpch">n</i><br><br>
-4. fairness (skin) <i class="PartOfSpch">n</i>
+2. clarity <i class="PartOfSpch">n</i><br><br>
+3. fairness (skin) <i class="PartOfSpch">n</i>
 </td>
 
 <td class="tabledef" valign=top >
 butoke <i class="PartOfSpch">tshi</i><br>
 <i class="PartOfSpch">adj</i> --toke
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La lumière désigne à la fois la qualité de luminosité, ainsi qu'une représentation métaphorique de la compréhension, du savoir ou de l'illumination. Physiquement, il s'agit d'un rayonnement électromagnétique qui nous permet de percevoir le monde visuellement, tandis que métaphoriquement, elle symbolise la clarté, l'acuité ou l'illumination dans divers contextes, tels que la sagesse, la vérité ou la conscience spirituelle.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The quality of brightness, as well as a metaphorical representation of understanding, knowledge, or illumination. Physically, it's electromagnetic radiation that allows us to perceive the world visually, while metaphorically, it symbolizes clarity, insight, or enlightenment in various contexts, such as wisdom, truth, or spiritual awareness.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -2462,18 +3189,6 @@ butoke <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
                 <a class="links" href="search.html?inpt1=midima">midima</a>, 
                 <a class="links" href="search.html?inpt1=muendu">muendu</a>           
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-La lumière désigne à la fois la qualité de luminosité, ainsi qu'une représentation métaphorique de la compréhension, du savoir ou de l'illumination. Physiquement, il s'agit d'un rayonnement électromagnétique qui nous permet de percevoir le monde visuellement, tandis que métaphoriquement, elle symbolise la clarté, l'acuité ou l'illumination dans divers contextes, tels que la sagesse, la vérité ou la conscience spirituelle.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The quality of brightness, as well as a metaphorical representation of understanding, knowledge, or illumination. Physically, it's electromagnetic radiation that allows us to perceive the world visually, while metaphorically, it symbolizes clarity, insight, or enlightenment in various contexts, such as wisdom, truth, or spiritual awareness.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -2570,21 +3285,6 @@ diba <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
-                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
-                <a class="links" href="search.html?inpt1=musangu">musangu</a>
-                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
-                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
-                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
-                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
-                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.<br><br>
@@ -2600,6 +3300,21 @@ The word Diba is also used to describe the "sun": a star at the center of our so
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dituku">dituku</a>, 
+                <a class="links" href="search.html?inpt1=lumingu">lumingu</a>,
+                <a class="links" href="search.html?inpt1=musangu">musangu</a>
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>,
+                <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
+                <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
 <br><br></td>
 </tr>
 <tr>
@@ -2644,6 +3359,1506 @@ The Sun, the Moon, and the Stars
                 :<br>
                 &nbsp:&nbsp
 Diba ne Ngondu ne Mitoto :
+<br><br></td>
+</tr>
+`
+},
+/*Dibele*/   
+{
+    English: "breast",
+    French: "sein",
+    Tshiluba: "dibele",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·be·le<p>/DJEE-beh-leh/</p>",
+    PhoneticsT: "sein / breast",
+    English2: "mabele",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sein <i class="PartOfSpch">n</i><br>
+<i class="PartOfSpch">pl</i> seins
+</td>
+<td class="tabledef" valign=top>
+breast <i class="PartOfSpch">n</i><br>
+<i class="PartOfSpch">pl</i> breasts
+</td>
+<td class="tabledef" valign=top>
+dibele <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> mabele
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La glande mammaire et le tissu sus-jacent à l'avant de la poitrine chez les humains, généralement composés de lobes producteurs de lait et de tissu conjonctif.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The mammary gland and the overlying tissue on the front of the chest in humans, typically composed of milk-producing lobes and connective tissue.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Diboko*/   
+{
+    English: "arm",
+    French: "bras",
+    Tshiluba: "diboko",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·bo·ko<p>/DJEE-boh-koh/</p>",
+    PhoneticsT: "bras / arm",
+    English2: "an arm",
+    French2: "le bras",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "maboko",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bras <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+arm <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+diboko <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> maboko
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un "bras" est le membre supérieur du corps humain, s'étendant de l'épaule à la main, et se composant généralement du bras supérieur, de l'avant-bras et de la main, utilisé pour diverses activités telles que la saisie et la manipulation d'objets.
+                <br><br>
+<b><i>Explanation</i></b><br>
+An "arm" is the upper limb of the human body, extending from the shoulder to the hand, and typically consisting of the upper arm, forearm, and hand, used for various activities such as grasping and manipulating objects.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Didima*/   
+{
+    English: "citrus fruit",
+    French: "agrume",
+    Tshiluba: "didima",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·di·ma<p>/DJEE-djee-mah/</p>",
+    PhoneticsT: "agrume / citrus fruit",
+    English2: "madima",
+    French2: "citrus",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "lemon",
+    French3: "citron",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "orange",
+    French4: "orange",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "tshimuma tshia mpusu",
+    French5: "pamplemousse",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "grapefruit",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+agrume <i class="PartOfSpch">n</i><br>
+(famille de fruits)<br>
+citron <i class="PartOfSpch">n</i><br>
+orange <i class="PartOfSpch">n</i><br>
+pamplemousse <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+citrus fruit <i class="PartOfSpch">n</i><br>
+(citrus fruit family)<br>
+citrus <i class="PartOfSpch">n</i><br>
+lemon <i class="PartOfSpch">n</i><br>
+orange <i class="PartOfSpch">n</i><br>
+grapefruit <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+didima <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> madima
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un fruit appartenant au genre Citrus, comprenant des fruits couramment consommés tels que les oranges, les citrons, les citrons verts et les pamplemousses. Ces fruits sont connus pour leurs intérieurs juteux et pulpeux, leur teneur élevée en vitamine C et leur saveur caractéristique et acidulée.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A fruit belonging to the genus Citrus, including commonly consumed fruits such as oranges, lemons, limes, and grapefruits. These fruits are known for their juicy and pulpy interiors, high vitamin C content, and a characteristic tangy flavor.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dikonda">dikonda</a>,
+                <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+<br><br></td>
+</tr>
+`
+},
+/*Difu*/   
+{
+    English: "stomach",
+    French: "ventre",
+    Tshiluba: "difu",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·fu<p>/DJEE-foo/</p>",
+    PhoneticsT: "ventre / stomach",
+    English2: "belly",
+    French2: "tummy",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "abdomen",
+    French3: "bas-ventre",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "sous-ventre",
+    French4: "enceinte",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "pregnant",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. ventre <i class="PartOfSpch">n</i><br>
+abdomen <i class="PartOfSpch">n</i><br>
+bas-ventre <i class="PartOfSpch">n</i><br><br>
+
+2. etre enceinte <i class="PartOfSpch">adj</i>
+</td>
+<td class="tabledef" valign=top>
+1. stomach <i class="PartOfSpch">n</i><br>
+abdomen <i class="PartOfSpch">n</i><br>
+belly <i class="PartOfSpch">n</i><br>
+tummy (informal) <i class="PartOfSpch">n</i><br><br>
+
+2. to be pregnant <i class="PartOfSpch">adj</i>
+
+</td>
+<td class="tabledef" valign=top>
+difu <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mafu<br><br>
+tangila:<br>
+2. <a class="links" href="search.html?inpt1=kuikala ne difu">kuikala ne difu</a> <i class="PartOfSpch">mf</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La partie du corps située entre la poitrine et le bassin, contenant les organes digestifs tels que l'estomac, le foie, les intestins et d'autres structures.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To the part of the body between the chest and the pelvis, containing the digestive organs such as the stomach, liver, intestines, and other structures.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>,
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Dikala*/   
+{
+    English: "charcoal",
+    French: "charbon",
+    Tshiluba: "dikala",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ka·la<p>/DJEE-kah-lah/</p>",
+    PhoneticsT: "charbon / charcoal",
+    English2: "coals",
+    French2: "coal",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "makala",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+charbon <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+charcoal <i class="PartOfSpch">n</i><br>
+coal <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dikala <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makala<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kapia">kapia</a>, 
+                <a class="links" href="search.html?inpt1=mudilu">mudilu</a>,  
+<br><br></td>
+</tr>
+`
+},
+/*Dikasa*/   
+{
+    English: "foot",
+    French: "pied",
+    Tshiluba: "dikasa",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ka·sa<p>/DJEE-kah-sah/</p>",
+    PhoneticsT: "pied / foot",
+    English2: "feet",
+    French2: "pieds",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "makasa",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+pied <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+foot <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dikasa <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makasa
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La partie inférieure de la jambe, en dessous de la cheville et comprenant le talon, la voûte plantaire et les orteils, servant de partie fondamentale du corps humain pour se tenir debout, marcher et d'autres formes de locomotion.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The lower extremity of the leg, below the ankle and consisting of the heel, arch, and toes, serving as a foundational part of the human body for standing, walking, and other forms of locomotion.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Dikaya*/   
+{
+    English: "shoulder",
+    French: "epaule",
+    Tshiluba: "dikaya",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ka·ya<p>/DJEE-kah-yah/</p>",
+    PhoneticsT: "epaule / shoulder",
+    English2: "shoulders",
+    French2: "epaules",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "makaya",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+epaule <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+shoulder <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dikaya <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makaya
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'épaule" est la partie du corps où le bras supérieur se connecte au torse, comprenant l'articulation formée par l'humérus, la clavicule et l'omoplate, permettant une gamme de mouvements du bras.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The "shoulder" is the part of the body where the upper arm connects to the torso, including the joint formed by the humerus, clavicle, and scapula, allowing for a range of arm movements.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Dikiki*/   
+{
+    English: "eyebrow",
+    French: "sourcil",
+    Tshiluba: "dikiki",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ki·ki<p>/DJEE-kee-kee/</p>",
+    PhoneticsT: "sourcil / eyebrow",
+    English2: "eyebrows",
+    French2: "sourcils",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "makiki",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sourcil <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+eyebrow <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dikiki <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makiki
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La "sourcil" est la bande de poils située au-dessus de l'œil, le long de l'os du sourcil, servant à protéger les yeux de la sueur, des débris et de la lumière du soleil, et jouant souvent un rôle dans les expressions du visage et la communication non verbale.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The strip of hair located above the eye, along the brow bone, serving to protect the eyes from sweat, debris, and sunlight, and often playing a role in facial expressions and non-verbal communication.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Dikoba*/   
+{
+    English: "skin",
+    French: "peau",
+    Tshiluba: "dikoba",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ko·ba<p>/DJEE-koh-bah/</p>",
+    PhoneticsT: "peau / skin",
+    English2: "skins",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "makoba",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+peau <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+skin <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dikoba <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makoba
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La peau" désigne la couverture protectrice la plus externe du corps, composée de plusieurs couches de tissus, comprenant l'épiderme et le derme, et remplissant diverses fonctions telles que la protection contre les éléments externes, la régulation de la température et la sensation.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The outermost protective covering of the body, consisting of multiple layers of tissue, including the epidermis and dermis, and serving various functions such as protection against external elements, regulation of temperature, and sensation.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Dikonda*/   
+{
+    English: "plantain",
+    French: "banane plantain",
+    Tshiluba: "dikonda",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·kon·da<p>/DJEE-kohn-djah/</p>",
+    PhoneticsT: "banane plantain / plantain",
+    English2: "makonda",
+    French2: "plantains",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: "banana plantain",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+banane plantain <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+plantain <i class="PartOfSpch">n</i><br>
+banana plantain
+</td>
+<td class="tabledef" valign=top>
+dikonda <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makonda
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une "banane plantain" désigne une variété de banane qui est plus grande, plus féculente et moins sucrée que la banane de dessert commune. Les plantains sont souvent utilisés comme aliment de base dans de nombreuses régions tropicales, en particulier en Afrique, dans les Caraïbes et dans certaines parties de l'Asie du Sud-Est. Ils sont polyvalents et peuvent être cuisinés à différents stades de maturité, allant du vert et féculent au jaune et sucré, en fonction de l'application culinaire.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A variety of banana that is larger, starchier, and less sweet than the common dessert banana. Plantains are often used as a staple food in many tropical regions, particularly in Africa, the Caribbean, and parts of Southeast Asia. They are versatile and can be cooked at different stages of ripeness, ranging from green and starchy to yellow and sweet, depending on the culinary application.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=didima">didima</a>,
+                <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+<br><br></td>
+</tr>
+`
+},
+/*Dikoshi*/   
+{
+    English: "nape",
+    French: "nuque",
+    Tshiluba: "dikoshi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ko·shi<p>/DJEE-koh-shee/</p>",
+    PhoneticsT: "nuque / nape",
+    English2: "makoshi",
+    French2: "back of neck",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "nape of neck",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+nuque <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+nape <i class="PartOfSpch">n</i><br>
+nape of neck <i class="PartOfSpch">n</i><br>
+back of neck <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+dikoshi <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makoshi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'arrière du cou, plus précisément à la partie inférieure où la naissance des cheveux rencontre le cou.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The back of the neck, specifically the lower part where the hairline meets the neck
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
+},
+/*Diku*/   
+{
+    English: "family",
+    French: "famille",
+    Tshiluba: "diku",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ku<p>/DJEE-koo/</p>",
+    PhoneticsT: "famille / family",
+    English2: "maku",
+    French2: "families",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "familles",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+famille <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+family <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+diku <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> maku
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La "famille" fait référence à un groupe d'individus liés par le sang, le mariage, l'adoption, ou un sentiment de liens partagés et de soutien mutuel, formant une unité sociale qui vit généralement ensemble et collabore dans divers aspects de la vie. Les familles peuvent varier considérablement en termes de structure, de taille et de dynamiques.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Family" refers to a group of individuals connected by blood, marriage, adoption, or a sense of shared bonds and mutual support, forming a social unit that typically lives together and collaborates in various aspects of life. Families can vary widely in structure, size, and dynamics.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bukonda">bukonda</a>,
+                <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                <a class="links" href="search.html?inpt1=mukaji">mukaji</a>, 
+                <a class="links" href="search.html?inpt1=kaku">kaku</a>, 
+                <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                <a class="links" href="search.html?inpt1=muana">muana</a>,
+                <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                <a class="links" href="search.html?inpt1=yaya">yaya</a>
 <br><br></td>
 </tr>
 `
@@ -3619,14 +5834,6 @@ diledibua <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kulela">kulela</a>    
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 La "naissance" fait référence au processus ou à l'acte de naître, de venir à l'existence ou d'entrer dans la vie. Elle représente le début de la vie d'un individu, généralement lorsque le bébé émerge ou est délivré du ventre de la mère. Elle peut également indiquer l'origine ou le début de quelque chose, comme une idée, un mouvement ou une organisation.
@@ -3636,6 +5843,14 @@ La "naissance" fait référence au processus ou à l'acte de naître, de venir �
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kulela">kulela</a>    
 <br><br></td>
 </tr>
 <tr>
@@ -3661,6 +5876,195 @@ Dituku dia diledibua :
 <br><br></td>
 </tr>
 `
+},
+/*Dinanga*/   
+{
+    English: "love",
+    French: "amour",
+    Tshiluba: "dinanga",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·nan·ga<p>/DJEE-nahn-gah/</p>",
+    PhoneticsT: "amour / love",
+    English2: "l'amour",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+amour <i class="PartOfSpch">n</i><br>
+l'amour <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+love <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+dinanga <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"L'amour" est un état émotionnel et psychologique complexe et aux multiples facettes, caractérisé par une affection profonde, des soins, de la compassion et un attachement envers quelqu'un ou quelque chose. Il peut se manifester sous différentes formes, notamment l'amour romantique, l'amour familial, l'amour platonique et l'amour de soi, et implique souvent un fort sentiment de connexion, d'empathie et de considération positive."
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Love" is a complex and multifaceted emotional and psychological state characterized by deep affection, care, compassion, and attachment towards someone or something. It can manifest in various forms, including romantic love, familial love, platonic love, and self-love, and often involves a strong sense of connection, empathy, and positive regard.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kunanga">kunanga</a>,
+                <a class="links" href="search.html?inpt1=kusua">kusua</a>, 
+<br><br></td>
+</tr>
+`
+},
+/*Dindila*/  
+{
+    English: "expectation",
+    French: "attente",
+    Tshiluba: "Dindila",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Din·di·la<p>/Djeen-djee-lah/</p>",
+    PhoneticsT: "attente / expectation",
+    English2: "expectations",
+    French2: "attentes",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "mandila",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+attente <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+expectation <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dindila <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mandila
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'anticipation ou la croyance selon laquelle quelque chose de spécifique se produira dans le futur, souvent basée sur des expériences antérieures, des hypothèses, ou un sentiment de ce qui est susceptible de se produire.
+<br><br>
+<b><i>Explanation</i></b><br>
+The anticipation or belief that something specific will happen in the future, often based on previous experiences, assumptions, or a sense of what is likely to occur. 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+:: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+<a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>, 
+<a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+<a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+<a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+<a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
+<a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+<br><br></td>
+</tr>
+` 
 },
 /*Dinu*/   
 {
@@ -3734,17 +6138,30 @@ dinu <i class="PartOfSpch">tshi</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une "dent" est une petite structure dure, calcifiée, implantée dans la mâchoire de la plupart des vertébrés, utilisée pour mordre et mâcher les aliments. Les dents sont généralement composées d'émail, de dentine et de pulpe.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "tooth" is a small, hard, calcified structure set in the jaw of most vertebrates, used for biting and chewing food. Teeth are typically composed of enamel, dentin, and pulp.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
                 <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
@@ -3769,7 +6186,8 @@ dinu <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  
+                <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -3781,18 +6199,6 @@ dinu <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une "dent" est une petite structure dure, calcifiée, implantée dans la mâchoire de la plupart des vertébrés, utilisée pour mordre et mâcher les aliments. Les dents sont généralement composées d'émail, de dentine et de pulpe.
-                <br><br>
-<b><i>Explanation</i></b><br>
-A "tooth" is a small, hard, calcified structure set in the jaw of most vertebrates, used for biting and chewing food. Teeth are typically composed of enamel, dentin, and pulp.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -3968,15 +6374,6 @@ dishima <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=bulelela">bulelela</a>,   
-                <a class="links" href="search.html?inpt1=kushima">kushima</a>,  
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Une déclaration intentionnellement fausse ou un acte de ne pas dire la vérité.
@@ -3986,6 +6383,15 @@ An intentionally false statement or an act of not telling the truth.
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bulelela">bulelela</a>,   
+                <a class="links" href="search.html?inpt1=kushima">kushima</a>,  
 <br><br></td>
 </tr>
 <tr>
@@ -4073,17 +6479,30 @@ disu <i class="PartOfSpch">tshi</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"œil" désigne l'organe de la vue, permettant à un organisme de détecter la lumière et les images et d'envoyer des signaux au cerveau pour interprétation visuelle.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"eye" refers to the organ responsible for sight, allowing an organism to detect light and images and send signals to the brain for visual interpretation.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                 <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
@@ -4108,7 +6527,7 @@ disu <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -4120,18 +6539,6 @@ disu <i class="PartOfSpch">tshi</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-"œil" désigne l'organe de la vue, permettant à un organisme de détecter la lumière et les images et d'envoyer des signaux au cerveau pour interprétation visuelle.
-                <br><br>
-<b><i>Explanation</i></b><br>
-"eye" refers to the organ responsible for sight, allowing an organism to detect light and images and send signals to the brain for visual interpretation.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -4208,6 +6615,18 @@ ditekemena <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+<br><br>
+<b><i>Explanation</i></b><br>
+A strong belief or trust in something without necessarily having proof or evidence.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -4222,18 +6641,6 @@ ditekemena <i class="PartOfSpch">tshi</i>
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
-<br><br>
-<b><i>Explanation</i></b><br>
-A strong belief or trust in something without necessarily having proof or evidence.
-<br><br>
-<b><i>Diumvuija</i></b><br>
------
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="analogy"><br>
 Toi tu as la foi, moi j'ai des actes.
             <br>
@@ -4244,6 +6651,147 @@ Wewe udi ne ditabuja, meme ndi ne bienzedi.
 <br><br></td>
 </tr>
 <tr>` 
+},
+/*Ditaku*/   
+{
+    English: "butt cheek",
+    French: "fesse",
+    Tshiluba: "ditaku",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Di·ta·ku<p>/DJEE-tah-kuu/</p>",
+    PhoneticsT: "fesse / butt cheek",
+    English2: "mataku",
+    French2: "buttock",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "backside",
+    French3: "ass",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "arse",
+    French4: "buttocks",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "booty",
+    French5: "bum",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "butt",
+    French6: "rump",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+fesse <i class="PartOfSpch">n</i><br>
+<i class="PartOfSpch">pl</i> fesses
+</td>
+<td class="tabledef" valign=top>
+buttock <i class="PartOfSpch">n</i><br>
+buttocks <i class="PartOfSpch">npl</i><br>
+butt cheek <i class="PartOfSpch">n</i><br>
+booty <i class="PartOfSpch">n</i><br>
+arse <i class="PartOfSpch">n</i><br>
+backside <i class="PartOfSpch">n</i><br>
+bottom <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+ditaku <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mataku
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'une des deux masses charnues arrondies formant les fesses humaines, situées à l'arrière du bassin, et communément désignées au singulier comme les "fesses".
+                <br><br>
+<b><i>Explanation</i></b><br>
+Either of the two rounded fleshy masses forming the human butt, located at the back of the pelvis, and commonly referred to in the singular as one's "buttocks."
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                <a class="links" href="search.html?inpt1=difu">difu</a>,
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+<br><br></td>
+</tr>
+`
 },
 /*Ditekemena*/  
 {
@@ -4316,6 +6864,18 @@ ditekemena <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+<br><br>
+<b><i>Explanation</i></b><br>
+A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -4327,18 +6887,6 @@ ditekemena <i class="PartOfSpch">tshi</i>
                 <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
                 <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
                 <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
-<br><br>
-<b><i>Explanation</i></b><br>
-A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
-<br><br>
-<b><i>Diumvuija</i></b><br>
------
 <br><br></td>
 </tr>
 <tr>
@@ -4425,17 +6973,30 @@ ditshi <i class="PartOfSpch">tshi3</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'organe de l'ouïe et de l'équilibre, composé de l'oreille externe, moyenne et interne.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The organ responsible for hearing and balance, consisting of the external ear, middle ear, and inner ear.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -4460,7 +7021,7 @@ ditshi <i class="PartOfSpch">tshi3</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -4472,18 +7033,6 @@ ditshi <i class="PartOfSpch">tshi3</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-L'organe de l'ouïe et de l'équilibre, composé de l'oreille externe, moyenne et interne.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The organ responsible for hearing and balance, consisting of the external ear, middle ear, and inner ear.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -4560,6 +7109,18 @@ dituku <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
+                <br><br>
+<b><i>Explanation</i></b><br>
+A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -4570,18 +7131,6 @@ dituku <i class="PartOfSpch">tshi4</i><br>
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
                 <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
-                <br><br>
-<b><i>Explanation</i></b><br>
-A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -4783,17 +7332,6 @@ ditutu <i class="PartOfSpch">tshi4</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
-                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
-                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
-                <a class="links" href="search.html?inpt1=motuto">mutotu</a>,
-                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b>
 une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'eau flottantes
@@ -4805,6 +7343,17 @@ a gray or white mass in the sky, made up of very small floating drops of water
 
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=motuto">mutotu</a>,
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
 <br><br></td>
 </tr>
 ` 
@@ -4887,6 +7436,21 @@ diulu <i class="PartOfSpch">tshi9</i><p>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+1. L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.<br><br>
+2. Le "nez" est l'organe du visage utilisé pour respirer et sentir. Il est composé de cartilage et d'os, et fait saillie sur le visage, assurant le passage de l'air pour la respiration et abritant les récepteurs olfactifs pour le sens de l'odorat.
+                <br><br>
+<b><i>Explanation</i></b><br>
+1. The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.<br><br>
+2. The "nose" is the organ on the face used for breathing and smelling. It's made of cartilage and bone and protrudes from the face, providing the airway for breathing and housing the olfactory receptors for the sense of smell.
+
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-------
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -4898,11 +7462,12 @@ diulu <i class="PartOfSpch">tshi9</i><p>
                 <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>,
                 <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                 <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
@@ -4927,7 +7492,7 @@ diulu <i class="PartOfSpch">tshi9</i><p>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -4939,21 +7504,6 @@ diulu <i class="PartOfSpch">tshi9</i><p>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a> 
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-1. L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.<br><br>
-2. Le "nez" est l'organe du visage utilisé pour respirer et sentir. Il est composé de cartilage et d'os, et fait saillie sur le visage, assurant le passage de l'air pour la respiration et abritant les récepteurs olfactifs pour le sens de l'odorat.
-                <br><br>
-<b><i>Explanation</i></b><br>
-1. The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.<br><br>
-2. The "nose" is the organ on the face used for breathing and smelling. It's made of cartilage and bone and protrudes from the face, providing the airway for breathing and housing the olfactory receptors for the sense of smell.
-
-                <br><br>
-<b><i>Diumvuija</i></b><br>
--------
 <br><br></td>
 </tr>
 `
@@ -5207,15 +7757,28 @@ Diyi Dikulu dia Ditunga.
 2. <a class="links" href="search.html?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-1. walk <i class="PartOfSpch">tr.v</i> <br>
-2. <a class="links" href="search.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
+1. to walk <i class="PartOfSpch">tr.v</i> <br>
+2. <a class="links" href="search.html?inpt1=kuya">to go</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuenda <i class="PartOfSpch">mn</i><br>
+kuenda <i class="PartOfSpch">md</i><br>
 <i class="PartOfSpch">mushilangana ne</i><br>
-<a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
+<a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">md</i>
 </td>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Marcher" signifie se déplacer à pied, généralement à une allure plus lente que la course, en faisant des pas avec les jambes.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To move on foot, typically at a pace slower than running, by taking steps with one's legs.
+
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-------
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -5316,12 +7879,25 @@ Pavuaye wendakana ku muelelu :
 faire <i class="PartOfSpch">vtr</i><p>
 </td>
 <td class="tabledef" valign=top >
-do <i class="PartOfSpch">vtr</i>,<br>
+to do <i class="PartOfSpch">vtr</i>,<br>
 make <i class="PartOfSpch">vtr</i>
 </td>
 <td class="tabledef" valign=top >
-kuenza <i class="PartOfSpch">muan</i><p>
+kuenza <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un verbe polyvalent et général qui signifie effectuer une action, s'engager dans une activité ou accomplir une tâche.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A versatile and general verb that signifies performing an action, engaging in an activity, or accomplishing a task.
+
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-------
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -5358,14 +7934,14 @@ Udi wenza tshinyi? :
 },
 /*-Enzeka*/  
 {
-    English: "happen",
+    English: "to happen",
     French: "survenir",
     Tshiluba: "Kuenzeka",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
     Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
     PhoneticsT: "Survenir | Happen",
     English2: "survenir",
-    French2: "to happen",
+    French2: "happen",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "avoir lieu",
@@ -5427,20 +8003,11 @@ to occur <i class="PartOfSpch">v</i><br>
 to take place <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuenzeka <i class="PartOfSpch">muan</i><p>
+kuenzeka <i class="PartOfSpch">md</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy">
-<table class="h-lines" id="h-lines"></table><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
-                <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
-<br><br></td>
-</tr>
-<tr>
-<tr>
-<td colspan="3" class="explanation"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 "Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
                 <br><br>
@@ -5451,6 +8018,15 @@ kuenzeka <i class="PartOfSpch">muan</i><p>
 -----
 <br><br></td>
 </tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kufika">kufika</a>, 
+                <a class="links" href="search.html?inpt1=kuenza">kuenza</a> 
+<br><br></td>
+</tr>
+<tr>
 <td colspan="3" class="analogy"><br>:
 Ils vous diront tout ce qui se passe ici.
                 :<br>
@@ -5612,11 +8188,23 @@ eyowa, bualu buambi mbua bushuwa :
 arriver <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-arrive <i class="PartOfSpch">v</i>
+to arrive <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kufika <i class="PartOfSpch">muan</i><p>
+kufika <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Atteindre une destination ou un certain point dans l'espace après un voyage ou un déplacement.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To reach a destination or a certain point in space after a journey or travel.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -5650,6 +8238,114 @@ Then, when I arrive
                 :<br>
                 &nbsp:&nbsp
 Kadi, pa ndi mfika kuntu aku :
+<br><br></td>
+</tr>
+`
+},
+/*--Fike*/   
+{
+    English: "black",
+    French: "noir",
+    Tshiluba: "--toke",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a><br>',
+    Phonetics: "--to·ke<p>/toh-kah/</p>",
+    PhoneticsT: "noir / black",
+    English2: "le noir",
+    French2: " ",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+noir (couleur) <i class="PartOfSpch">adj</i>
+</td>
+
+<td class="tabledef" valign=top>
+black (color) <i class="PartOfSpch">adj</i>
+
+<td class="tabledef" valign=top >
+--fike <i class="PartOfSpch">mf</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                <a class="links" href="search.html?inpt1=butoke">butoke</a>,
+                <a class="links" href="search.html?inpt1=--kunze">--kunze</a>,
+                <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                <a class="links" href="search.html?inpt1=midima">midima</a>, 
+                <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Nous marchons dans l'obscurité
+                :<br>
+                &nbsp
+We walk in the darkness
+                :<br>
+                &nbsp:&nbsp
+Tuetu tuenda mu bufike :
 <br><br></td>
 </tr>
 `
@@ -5717,11 +8413,11 @@ Kadi, pa ndi mfika kuntu aku :
 2. dénoncer <i class="PartOfSpch">v.tr</i> (accuser)
 </td>
 <td class="tabledef" valign=top >
-1. write <i class="PartOfSpch">v.tr</i> <br>
-2. denounce <i class="PartOfSpch">v.tr</i> <br> (accuse)
+1. to write <i class="PartOfSpch">v.tr</i> <br>
+2. to denounce <i class="PartOfSpch">v.tr</i> <br> (accuse)
 </td>
 <td class="tabledef" valign=top >
-kufunda <i class="PartOfSpch">muan</i>
+kufunda <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -5942,7 +8638,7 @@ ibidi, 2 <i class="PartOfSpch">tshi</i>
 to be <i class="PartOfSpch">v.in</i> <br>
 </td>
 <td class="tabledef" valign=top >
-kuikala <i class="PartOfSpch">muan</i>
+kuikala <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -6089,13 +8785,15 @@ the thing is :: the things are<br><br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-avoire, être avec<i class="PartOfSpch">v.tr</i> <br>
+avoire <i class="PartOfSpch">v.tr</i><br>
+être avec <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top >
-have, be with <i class="PartOfSpch">v.tr</i> <br>
+to have <i class="PartOfSpch">v.tr</i><br>
+to be with <i class="PartOfSpch">v.tr</i><br>
 </td>
 <td class="tabledef" valign=top >
-kuikala ne <i class="PartOfSpch">muan</i>
+kuikala ne <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -6458,10 +9156,22 @@ croire <i class="PartOfSpch">v</i><br>
 to believe <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-kuitabuja <i class="PartOfSpch">muan</i><br>
--itabuja <i class="PartOfSpch">muan</i>
+kuitabuja <i class="PartOfSpch">md</i><br>
+-itabuja <i class="PartOfSpch">md</i>
 
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
+<br><br>
+<b><i>Explanation</i></b><br>
+To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -6475,18 +9185,6 @@ kuitabuja <i class="PartOfSpch">muan</i><br>
                 <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
                 <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
                 <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
-<br><br>
-<b><i>Explanation</i></b><br>
-To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
-<br><br>
-<b><i>Diumvuija</i></b><br>
------
 <br><br></td>
 </tr>
 <tr>
@@ -6684,18 +9382,6 @@ kadianjidi <i class="PartOfSpch">tshi8</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>   
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
@@ -6705,6 +9391,18 @@ In grammar, a word that is used before a noun, a noun phrase, or a pronoun, conn
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>   
 <br><br></td>
 </tr>
 <tr>
@@ -7093,6 +9791,211 @@ Udi wakula Italiana kabidi :
 </tr>
 `
 },
+/*Kaku*/   
+{
+    English: "grandparent",
+    French: "grand-parent",
+    Tshiluba: "bukonda",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ka·ku<p>/Kah-koo/</p>",
+    PhoneticsT: "grand-parent / grandparent",
+    English2: "grands-parents",
+    French2: "grandparents",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. grand-parent <i class="PartOfSpch">n</i><br><br>
+2. petit-enfant <i class="PartOfSpch">n</i>
+beauf <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+1. grandparent <i class="PartOfSpch">n</i><br><br>
+2. grandchild <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+kaku <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> tuku
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un "grandparent" est un parent du père ou de la mère, communément appelé grand-mère ou grand-père.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "grandparent" is a parent of one's father or mother, commonly referred to as a grandmother or grandfather.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=mukaji">mukaji</a>,
+                <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                <a class="links" href="search.html?inpt1=diku">diku</a>, 
+                <a class="links" href="search.html?inpt1=bukonda">bukonda</a>, 
+                <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                <a class="links" href="search.html?inpt1=muana">muana</a>,
+                <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                <a class="links" href="search.html?inpt1=yaya">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Kamuma*/   
+{
+    English: "small fruit",
+    French: "petit fruit",
+    Tshiluba: "kamuma",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "ka·mu·ma<p>/Kah-moo-mah/</p>",
+    PhoneticsT: "petit fruit / small fruit",
+    English2: "little fruit",
+    French2: "tumuma",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: "petits fruits",
+    French3: "small fruits",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "little fruits",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+petit fruit <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+small fruit <i class="PartOfSpch">n</i><br>
+little fruit <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+kamuma <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> tumuma <br><br>
+tangila:<br>
+<a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dikonda">dikonda</a>,
+                <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+<br><br></td>
+</tr>
+`
+},
 /*Kanungu*/   
 {
     English: "Article",
@@ -7234,17 +10137,18 @@ Kanungu 5 :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. couper, <i class="PartOfSpch">v.tr</i><br>
-trancher
+1. couper <i class="PartOfSpch">v.tr</i><br>
+trancher <i class="PartOfSpch">v.tr</i><br>
 <br>
 2. cesser <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top >
-1. cut, slice <i class="PartOfSpch">v.tr</i><br>
+1. to cut <i class="PartOfSpch">v</i><br>
+slice <i class="PartOfSpch">v</i><br><br>
 2. cease <i class="PartOfSpch">v.tr</i>
 </td>
 <td class="tabledef" valign=top >
-kukosa <i class="PartOfSpch">muan</i>
+kukosa <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -7375,14 +10279,29 @@ Kukosa mpala
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-saisir <i class="PartOfSpch">v</i>, tenir <i class="PartOfSpch">v</i><br>
+saisir <i class="PartOfSpch">v</i><br>
+tenir <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-seize <i class="PartOfSpch">v</i>, grab <i class="PartOfSpch">v</i>, grasp <i class="PartOfSpch">v</i>
+to seize <i class="PartOfSpch">v</i><br>
+to grab <i class="PartOfSpch">v</i><br>
+to grasp <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kukuata <i class="PartOfSpch">mn</i><p>
+kukuata <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Prendre possession ou agripper quelque chose rapidement et fermement avec une ou deux mains.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To seize, to take hold of, or grasp something quickly and firmly with one's hand or hands.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -7482,17 +10401,9 @@ faire montrer <i class="PartOfSpch">v</i>
 to show <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-kuleja <i class="PartOfSpch">muan</i><br>
--leja <i class="PartOfSpch">muan</i>
+kuleja <i class="PartOfSpch">md</i><br>
+-leja <i class="PartOfSpch">md</i>
 </td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=dinganga">tshilejilu</a>  
-<br><br></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -7504,6 +10415,14 @@ To display or present something to others visually, audibly, or experientially, 
 <br><br>
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=dinganga">tshilejilu</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -7543,7 +10462,7 @@ Udi mutuadija kuleja muena mudimu webe bunene buebe
 },
 /*-Lela*/   
 {
-    English: "to give birth tp",
+    English: "to give birth to",
     French: "enfanter",
     Tshiluba: "Kulela",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
@@ -7612,7 +10531,7 @@ to birth <i class="PartOfSpch">v</i><br>
 to bear <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kulela <i class="PartOfSpch">muan</i>
+kulela <i class="PartOfSpch">md</i>
 </td>
 </td>
 </tr>
@@ -7720,17 +10639,6 @@ kulomba <i class="PartOfSpch">md</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>, 
-                <a class="links" href="search.html?inpt1=kuela">kuela</a>, 
-                <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
-                <a class="links" href="search.html?inpt1=kulomba">kuakula</a>, 
-                <a class="links" href="search.html?inpt1=lukonku">lukonku</a>
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Demande d'informations, d'une réponse, ou de quelque chose à être donné ou fait en posant ou écrivant une question. Cela implique de chercher une clarification, des conseils, une autorisation, ou un objet à travers une demande verbale ou écrite.
@@ -7740,6 +10648,17 @@ To request information, an answer, or something to be given or done by speaking 
 <br><br>
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table><br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kuakula">kuamba</a>, 
+                <a class="links" href="search.html?inpt1=kuela">kuela</a>, 
+                <a class="links" href="search.html?inpt1=kuimba">kuimba</a>, 
+                <a class="links" href="search.html?inpt1=kulomba">kuakula</a>, 
+                <a class="links" href="search.html?inpt1=lukonku">lukonku</a>
 <br><br></td>
 </tr>
 <tr>
@@ -7841,11 +10760,23 @@ Kanuena banji kulomba tshintu nansha tshimue
 venir <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-come <i class="PartOfSpch">v</i>
+to come <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kulua <i class="PartOfSpch">muan</i><p>
+kulua <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Se déplacer vers ou arriver à un endroit, une position ou un état particulier.
+<br><br>
+<b><i>Explanation</i></b><br>
+To move toward or arrive at a particular location, position, or state.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -8042,6 +10973,18 @@ lumingu <i class="PartOfSpch">tshi5</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une période de sept jours consécutifs
+                <br><br>
+<b><i>Explanation</i></b><br>
+A period of seven consecutive days
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+Tshikondu tshia matuku muanda mutekete
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -8052,18 +10995,6 @@ lumingu <i class="PartOfSpch">tshi5</i><br>
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
                 <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une période de sept jours consécutifs
-                <br><br>
-<b><i>Explanation</i></b><br>
-A period of seven consecutive days
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-Tshikondu tshia matuku muanda mutekete
 <br><br></td>
 </tr>
 <tr>
@@ -9669,8 +12600,20 @@ sang <i class="PartOfSpch">n</i>
 blood <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top>
-mashi <i class="PartOfSpch">tshi2</i>
+mashi <i class="PartOfSpch">tshi</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -9679,11 +12622,12 @@ mashi <i class="PartOfSpch">tshi2</i>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -9708,7 +12652,7 @@ mashi <i class="PartOfSpch">tshi2</i>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -9720,18 +12664,6 @@ mashi <i class="PartOfSpch">tshi2</i>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -9917,6 +12849,115 @@ eyowa, bualu buambi mbua bulelela :
 </tr>
 `
 },
+/*Midima*/   
+{
+    English: "obscurity",
+    French: "obscurité",
+    Tshiluba: "Midima",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
+    Phonetics: "Mi·di·ma<p>/Mee-djee-mah/</p>",
+    PhoneticsT: "obscurité / obscurity",
+    English2: "darkness",
+    French2: "obscurite",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+obscurité <i class="PartOfSpch">n</i><br><br>
+</td>
+
+<td class="tabledef" valign=top>
+1. obscurity <i class="PartOfSpch">n</i><br>
+2. darkness <i class="PartOfSpch">n</i><br>
+</td>
+
+<td class="tabledef" valign=top >
+midima <i class="PartOfSpch">tshi</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'état d'être relativement inconnu, discret, ou peu clair, souvent dépourvu de visibilité ou de notoriété.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The state of being relatively unknown, inconspicuous, or unclear, often lacking visibility or prominence.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=bufike">bufike</a>, 
+                <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                <a class="links" href="search.html?inpt1=--fike">--fike</a>,
+                <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy" ><br>:
+Nous marchons dans l'obscurité
+                :<br>
+                &nbsp
+We walk in obscurity
+                :<br>
+                &nbsp:&nbsp
+Tuetu tuenda mu midima :
+<br><br></td>
+</tr>
+`
+},
 /*-Mona*/   
 {
     English: "to see",
@@ -9979,11 +13020,22 @@ eyowa, bualu buambi mbua bulelela :
 voir <i class="PartOfSpch">v.tr</i> <br>
 </td>
 <td class="tabledef" valign=top >
-see <i class="PartOfSpch">tr.v</i> <br>
+to see <i class="PartOfSpch">tr.v</i><br>
 </td>
 <td class="tabledef" valign=top >
-kumona <i class="PartOfSpch">muan</i>
+kumona <i class="PartOfSpch">md</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>:
+<i>Je vois des hommes. Ils ressemblent à des arbres ambulants.
+                :<br>
+                &nbsp:
+I see men. They look like walking trees.
+                :<br>
+                &nbsp:&nbsp
+Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -10004,17 +13056,6 @@ kumona <i class="PartOfSpch">muan</i>
 </td>
 </tr>
 <tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-<i>Je vois des hommes. Ils ressemblent à des arbres ambulants.
-                :<br>
-                &nbsp:
-I see men. They look like walking trees.
-                :<br>
-                &nbsp:&nbsp
-Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
-<br><br></td>
-</tr>
 `
 },
 /*Muaku*/   
@@ -10275,18 +13316,6 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Les adverbes sont des mots qui modifient généralement les verbes, c'est-à-dire qu'ils limitent ou restreignent le sens. Ils peuvent également modifier des adjectifs, d’autres adverbes, des expressions ou même des phrases entières.
@@ -10300,6 +13329,18 @@ An adverb answers the question when?, where?, how?, how much?, how long?, or how
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -10385,18 +13426,7 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
-<br><br></td>
-</tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Un mot ou une phrase qui décrit une action, une condition ou une expérience.
 Comme les noms et les adjectifs, en Tshiluba, les verbes sont formés d'un radical, d'un prefixe <b>(ku-)</b> et d'un suffixe <b>(-a)</b> :
@@ -10407,8 +13437,19 @@ Like nouns and adjectives, in Tshiluba, verbs are formed with a stem, a prefix <
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 Muaku udi uleja bua kuenza, bua kuikala, ne bualu bua muoyo.
-Bu bibikidilu ne bu mifidi, mu Tshiluba, mianda badi
+Bu bibikidilu ne bu mifidi, mu Tshiluba, mianda badi...
 
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -10671,17 +13712,30 @@ mubidi <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Le "corps" fait référence à la structure physique d'une personne, à l'exclusion de la tête, du cou et des membres. Le corps comprend différents systèmes et tissus qui fonctionnent ensemble pour soutenir la vie et effectuer les fonctions corporelles.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The "body" refers to the physical structure of a person, excluding the head, neck, and limbs. The body comprises various systems and tissues that function together to support life and perform bodily functions.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -10706,7 +13760,7 @@ mubidi <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -10718,18 +13772,6 @@ mubidi <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Le "corps" fait référence à la structure physique d'une personne, à l'exclusion de la tête, du cou et des membres. Le corps comprend différents systèmes et tissus qui fonctionnent ensemble pour soutenir la vie et effectuer les fonctions corporelles.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The "body" refers to the physical structure of a person, excluding the head, neck, and limbs. The body comprises various systems and tissues that function together to support life and perform bodily functions.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -10815,18 +13857,7 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
-                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a> 
-<br><br></td>
-</tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Un mot qui décrit un substantif ou un pronom.<br>
 Dans Tshiluba, les adjectifs s'accordent avec les préfixes des substantifs qu'ils qualifient
@@ -10837,6 +13868,17 @@ In Tshiluba, adjectives match with the prefixes of the nouns they qualify :
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 Muaku udi uleja tshibikidilu ne mupinganyi.
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a> 
 <br><br></td>
 </tr>
 <tr>
@@ -11113,6 +14155,18 @@ mukaji <i class="PartOfSpch">tshi1</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une "femme" est une adulte de sexe féminin humain.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "woman" is an adult human female.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -11139,18 +14193,6 @@ mukaji <i class="PartOfSpch">tshi1</i><br>
                 <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
                 <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
                 <a class="links" href="search.html?inpt1=yaya">yaya</a>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une "femme" est une adulte de sexe féminin humain.
-                <br><br>
-<b><i>Explanation</i></b><br>
-A "woman" is an adult human female.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -11346,17 +14388,30 @@ mukana <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La partie du corps utilisée pour manger, parler et respirer. C'est l'ouverture du visage délimitée par les lèvres, contenant la langue, les dents et les gencives, menant à la gorge et au système digestif. Elle est également impliquée dans la vocalisation et la perception du goût.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The part of the body used for eating, speaking, and breathing. It's the opening in the face bounded by the lips, containing the tongue, teeth, and gums, leading to the throat and digestive system. It's also involved in vocalization and taste perception.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -11381,7 +14436,7 @@ mukana <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -11393,18 +14448,6 @@ mukana <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-La partie du corps utilisée pour manger, parler et respirer. C'est l'ouverture du visage délimitée par les lèvres, contenant la langue, les dents et les gencives, menant à la gorge et au système digestif. Elle est également impliquée dans la vocalisation et la perception du goût.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The part of the body used for eating, speaking, and breathing. It's the opening in the face bounded by the lips, containing the tongue, teeth, and gums, leading to the throat and digestive system. It's also involved in vocalization and taste perception.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -11482,6 +14525,20 @@ mulombodi <i class="PartOfSpch">tshi1</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Quelqu'un qui guide, dirige ou influence les autres au sein d'un groupe, d'une organisation ou d'une communauté.
+                <br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+Someone who guides, directs, or influences others within a group, organization, or community.
+                <br><br>
+                &nbsp&nbsp
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -11498,20 +14555,6 @@ mulombodi <i class="PartOfSpch">tshi1</i><br>
                 <a class="links" href="search.html?inpt1=tshibanji">tshibanji</a>,
                 <a class="links" href="search.html?inpt1=tshimenga">tshimenga</a>, 
                 <a class="links" href="search.html?inpt1=tshisamba">tshisamba</a> 
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explication"><br>
-<b><i>Explication</i></b><br>
-Quelqu'un qui guide, dirige ou influence les autres au sein d'un groupe, d'une organisation ou d'une communauté.
-                <br><br>
-                &nbsp
-<b><i>Explanation</i></b><br>
-Someone who guides, directs, or influences others within a group, organization, or community.
-                <br><br>
-                &nbsp&nbsp
-<b><i>Diumvuija</i></b><br>
------
 <br><br></td>
 </tr>
 ` 
@@ -11587,6 +14630,18 @@ mulume <i class="PartOfSpch">tshi1</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un "homme" est un adulte de sexe masculin humain.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A "man" is an adult human male.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -11613,18 +14668,6 @@ mulume <i class="PartOfSpch">tshi1</i><br>
                 <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
                 <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
                 <a class="links" href="search.html?inpt1=yaya">yaya</a>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Un "homme" est un adulte de sexe masculin humain.
-                <br><br>
-<b><i>Explanation</i></b><br>
-A "man" is an adult human male.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -11709,6 +14752,20 @@ Mungalata <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Utilise au Sud-Kasai vers 1963 pour designer le 'Parti Democrate' fonde par les opposants au regime 'imperial' du 'Mulopwe' Albert Kalonji.
+                <br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+Term used in South-Kasai around 1963 to designate the "Democratic Party" founded by the opposition to the "imperial" regime of "Mulopwe" Albert Kalonji.
+                <br><br>
+                &nbsp&nbsp
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
@@ -11725,20 +14782,6 @@ Mungalata <i class="PartOfSpch">tshi</i>
                 <a class="links" href="search.html?inpt1=tshibanji">tshibanji</a>,
                 <a class="links" href="search.html?inpt1=tshimenga">tshimenga</a>, 
                 <a class="links" href="search.html?inpt1=tshisamba">tshisamba</a> 
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explication"><br>
-<b><i>Explication</i></b><br>
-Utilise au Sud-Kasai vers 1963 pour designer le 'Parti Democrate' fonde par les opposants au regime 'imperial' du 'Mulopwe' Albert Kalonji.
-                <br><br>
-                &nbsp
-<b><i>Explanation</i></b><br>
-Term used in South-Kasai around 1963 to designate the "Democratic Party" founded by the opposition to the "imperial" regime of "Mulopwe" Albert Kalonji.
-                <br><br>
-                &nbsp&nbsp
-<b><i>Diumvuija</i></b><br>
------
 <br><br></td>
 </tr>
 <tr>
@@ -11952,17 +14995,30 @@ munu <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Un des cinq doigts de la main, relié à la paume et utilisé pour saisir, toucher et ressentir.
+                <br><br>
+<b><i>Explanation</i></b><br>
+One of the five digits on the hand, connected to the palm and used for gripping, touching, and feeling.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -11987,7 +15043,7 @@ munu <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -11999,18 +15055,6 @@ munu <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Un des cinq doigts de la main, relié à la paume et utilisé pour saisir, toucher et ressentir.
-                <br><br>
-<b><i>Explanation</i></b><br>
-One of the five digits on the hand, connected to the palm and used for gripping, touching, and feeling.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -12086,6 +15130,20 @@ muoyo <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+1. Un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
+2. L'etat d'etre en vie.
+                <br><br>
+<b><i>Explanation</i></b><br>
+1. A muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
+2. The state of being alive.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -12093,11 +15151,12 @@ muoyo <i class="PartOfSpch">tshi</i>
                 :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
                 <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -12123,7 +15182,7 @@ muoyo <i class="PartOfSpch">tshi</i>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -12135,20 +15194,6 @@ muoyo <i class="PartOfSpch">tshi</i>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-1. Un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
-2. L'etat d'etre en vie.
-                <br><br>
-<b><i>Explanation</i></b><br>
-1. A muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
-2. The state of being alive.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -12244,18 +15289,7 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> mipinganyi
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
-                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>,
-                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Un mot utilisé à la place d'un substantif ou d'une phrase nominale.
                 <br><br>
@@ -12264,6 +15298,17 @@ A word that is used instead of a noun or a noun phrase.
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 Muaku udi wenza mudimu pa mutu pa tshibikidilu.
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=tshibikidilu">tshibikidilu</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mufidi">mufidi</a>,
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>  
 <br><br></td>
 </tr>
 <tr>
@@ -12519,15 +15564,6 @@ musangu <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
-                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Utilisé pour indiquer une répétition ou une occurrence d'un événement ou d'une action. Par exemple, "une fois" se traduit par "musangu umwe" ou "once", et "plusieurs fois" signifie "misangu mivula".
@@ -12537,6 +15573,15 @@ Musangu is used to indicate a specific instance or occurrence of an event or act
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>    
 <br><br></td>
 </tr>
 <tr>
@@ -12657,17 +15702,30 @@ mushiku <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Les deux parties charnues formant l'entrée de la bouche chez les humains. Elles sont flexibles et mobiles, aidant à la parole, à manger et aux expressions faciales.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The two fleshy parts that form the entrance to the mouth in humans. They are flexible and movable, aiding in speech, eating, and expressions.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -12692,7 +15750,7 @@ mushiku <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=muntu">muntu</a>,
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>,  <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -12704,18 +15762,6 @@ mushiku <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Les deux parties charnues formant l'entrée de la bouche chez les humains. Elles sont flexibles et mobiles, aidant à la parole, à manger et aux expressions faciales.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The two fleshy parts that form the entrance to the mouth in humans. They are flexible and movable, aiding in speech, eating, and expressions.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -12797,17 +15843,6 @@ musungidi <i class="PartOfSpch">tshi1</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=ngabu">ngabu</a>, 
-                <a class="links" href="search.html?inpt1=kusungila">kusungila</a>, 
-                <a class="links" href="search.html?inpt1=mupandishi">mupandishi</a>, 
-                <a class="links" href="search.html?inpt1=kupandisha">kupandisha</a>
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Quelqu'un qui libère les autres de l'oppression, de l'enfermement ou du contrôle, leur permettant ainsi de vivre la liberté et l'autonomie. Il s'agit d'une personne ou d'une force qui accorde la libération, souvent dans des circonstances injustes ou oppressives, permettant aux individus ou aux groupes de retrouver leurs droits, leur indépendance ou leur autodétermination.
@@ -12817,6 +15852,17 @@ Someone who frees others from oppression, confinement, or control, allowing them
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=ngabu">ngabu</a>, 
+                <a class="links" href="search.html?inpt1=kusungila">kusungila</a>, 
+                <a class="links" href="search.html?inpt1=mupandishi">mupandishi</a>, 
+                <a class="links" href="search.html?inpt1=kupandisha">kupandisha</a>
 <br><br></td>
 </tr>
 <tr>
@@ -12906,16 +15952,6 @@ mutoke <i class="PartOfSpch">tshi1</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
-                <a class="links" href="search.html?inpt1=Mputu">Mputu</a>
-                
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Un ou une mutoke est généralement utilisé comme catégorie raciale pour décrire des individus à la peau claire, souvent d'origine européenne. La classification est basée sur des caractéristiques physiques telles que la couleur de la peau.
@@ -12925,6 +15961,16 @@ A mutoke is Typically used as a racial category to describe individuals with lig
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                <a class="links" href="search.html?inpt1=Mputu">Mputu</a>
+                
 <br><br></td>
 </tr>
 `
@@ -12999,17 +16045,6 @@ mutotu <i class="PartOfSpch">tshi2</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
-                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
-                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
-                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
-                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Une "étoile" désigne un corps céleste lumineux constitué de gaz chauds, principalement d'hydrogène et d'hélium, qui produit de la lumière et de la chaleur par des réactions de fusion nucléaire dans son noyau. Elles existent en grand nombre au sein des galaxies et sont visibles comme des points lumineux dans le ciel nocturne depuis la Terre.
@@ -13021,6 +16056,17 @@ A "star" refers to a luminous celestial body consisting of hot gases, primarily 
 
 <b><i>Diumvuija</i></b><br>
 -----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=tshibuashibuashi">tshibuashibuashi</a>
 <br><br></td>
 </tr>
 <tr>
@@ -13104,17 +16150,30 @@ mutu <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+La "tête" est la région anatomique contenant le cerveau et les organes sensoriels au sommet du corps, servant de centre de contrôle et facilitant la perception et la communication.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The "head" is the anatomical region containing the brain and sensory organs atop the body, serving as the control center and facilitating perception and communication.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -13151,18 +16210,6 @@ mutu <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-La "tête" est la région anatomique contenant le cerveau et les organes sensoriels au sommet du corps, servant de centre de contrôle et facilitant la perception et la communication.
-                <br><br>
-<b><i>Explanation</i></b><br>
-The "head" is the anatomical region containing the brain and sensory organs atop the body, serving as the control center and facilitating perception and communication.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 `
@@ -13237,6 +16284,18 @@ muvu <i class="PartOfSpch">tshi2</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
+                <br><br>
+<b><i>Explanation</i></b><br>
+One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----------
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -13247,18 +16306,6 @@ muvu <i class="PartOfSpch">tshi2</i><br>
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
                 <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
-                <br><br>
-<b><i>Explanation</i></b><br>
-One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----------
 <br><br></td>
 </tr>
 <tr>
@@ -13624,6 +16671,18 @@ ngondu <i class="PartOfSpch">tshi6</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
+                <br><br>
+<b><i>Explanation</i></b><br>
+A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----------
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -13635,18 +16694,6 @@ ngondu <i class="PartOfSpch">tshi6</i><br>
                 <a class="links" href="search.html?inpt1=tshidimu">tshidimu</a>,
                 <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>,
                 <a class="links" href="search.html?inpt1=mutotu">mutotu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
-                <br><br>
-<b><i>Explanation</i></b><br>
-A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----------
 <br><br></td>
 </tr>
 <tr>
@@ -14477,7 +17524,7 @@ Nkongamiaku wa muakulu wa Tshiluba. :
     Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
     PhoneticsT: "Sentir | Smell",
     English2: "Nunka",
-    French2: " ",
+    French2: "nunkila",
     Tshiluba2: " ",
     PhoneticsT2: " ",
     English3: "smell",
@@ -14530,11 +17577,10 @@ Nkongamiaku wa muakulu wa Tshiluba. :
 sentir <i class="PartOfSpch">v.tr</i> <br>
 </td>
 <td class="tabledef" valign=top >
-smell <i class="PartOfSpch">tr.v</i> <br>
+to smell <i class="PartOfSpch">tr.v</i> <br>
 </td>
 <td class="tabledef" valign=top >
-kununka <i class="PartOfSpch">muan</i>, <p>
-kununkila
+kununka <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -14628,9 +17674,21 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
 2. flee <i class="PartOfSpch">tr.v</i>
 </td>
 <td class="tabledef" valign=top >
-kunyema <i class="PartOfSpch">mn</i><br>
+kunyema <i class="PartOfSpch">md</i><br>
 </td>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Courir" signifie se déplacer rapidement à pied, plus vite que la marche, en prenant des pas rapides avec un mouvement coordonné des jambes.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To move rapidly on foot, faster than walking, by taking quick steps with a coordinated motion of the legs. 
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----------
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -14740,6 +17798,18 @@ nyuma <i class="PartOfSpch">tshi6</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -14747,11 +17817,12 @@ nyuma <i class="PartOfSpch">tshi6</i><br>
                 :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
                 <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                 <a class="links" href="search.html?inpt1=difu">difu</a>,
-                <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                 <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                 <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                 <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -14777,7 +17848,7 @@ nyuma <i class="PartOfSpch">tshi6</i><br>
                 <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                 <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                 <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                 <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                 <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -14789,18 +17860,6 @@ nyuma <i class="PartOfSpch">tshi6</i><br>
                 <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
                 <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
                 <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
-                <br><br>
-<b><i>Explanation</i></b><br>
-"Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -14956,14 +18015,26 @@ Badi penyi? :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-donner <i class="PartOfSpch">v</i><br>
+donner <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-give <i class="PartOfSpch">v</i>
+to give <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kupesha <i class="PartOfSpch">muan</i><p>
+kupesha <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Transférer volontairement la possession ou le contrôle de quelque chose à quelqu'un d'autre. Cela implique de fournir ou d'offrir quelque chose volontairement.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To voluntarily transfer the possession or control of something to someone else. It involves providing or offering something willingly.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15060,14 +18131,26 @@ Ndi nnupesha ditalala dianyi :
 2. restituer <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-return [something] <i class="PartOfSpch">v</i>, <br>
-give [sth] back to <i class="PartOfSpch">v</i><br>
+to return [something] <i class="PartOfSpch">v</i>, <br>
+to give [sth] back to <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="search.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kupingaja <i class="PartOfSpch">muan</i><p>
+kupingaja <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Donner ou renvoyer un objet à son emplacement d'origine, à son propriétaire ou à son lieu de provenance. Cela implique de restaurer ou de renoncer à la possession de l'objet en le rendant à la personne ou au lieu d'où il provient.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To give or send back an item to its original location, owner, or place of origin. It involves restoring or relinquishing possession of the item to the person or place it came from.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15166,14 +18249,26 @@ Mpindieu pingaja mukaji wa muntu awu :
 2. rentrer <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-return [somewhere] <i class="PartOfSpch">v</i><br>
-come/go back [somewhere] <br>
+to return [somewhere] <i class="PartOfSpch">v</i><br>
+to come/go back [somewhere] <br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="search.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kupingana <i class="PartOfSpch">muan</i><p>
+kupingana <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Retourner à un endroit spécifique ou à une localisation que l'on a déjà visité auparavant. Cela implique de revisiter une destination particulière ou de retourner à une position précédemment occupée
+                <br><br>
+<b><i>Explanation</i></b><br>
+To go or come back to a specific place or location that one has previously visited or been to. It involves revisiting a particular destination or returning to a previously occupied position.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15277,15 +18372,27 @@ laisser à <i class="PartOfSpch">v</i><br>
 léguer <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-leave [something] to <i class="PartOfSpch">v</i><br>
-leave [something] for someone <i class="PartOfSpch">v</i><br>
-bequeath <i class="PartOfSpch">v</i><br>
+to leave [something] to <i class="PartOfSpch">v</i><br>
+to leave [something] for someone <i class="PartOfSpch">v</i><br>
+to bequeath <i class="PartOfSpch">v</i><br>
 <i class="PartOfSpch">different from</i><br>
 <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
 </td>
 <td class="tabledef" valign=top >
-kushila <i class="PartOfSpch">mn</i><p>
+kushila <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Laisser ou transmettre des biens personnels, des actifs ou des droits à quelqu'un, généralement par le biais d'un testament ou d'un document juridique, dans l'intention que le bénéficiaire reçoive l'héritage après le décès du donateur.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To leave or pass on personal property, assets, or rights to someone, typically through a will or legal document, with the intention of the recipient receiving the inheritance after the donor's death.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15341,8 +18448,8 @@ Ndi nnushila ditalala dianyi :
     French4: " être inégal",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "differ",
+    French5: "different",
     Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
@@ -15386,21 +18493,14 @@ différer <i class="PartOfSpch">v</i><br>
 <td class="tabledef" valign=top >
 to differ <i class="PartOfSpch">v</i><br>
 to be different than [something] <i class="PartOfSpch">v</i>
-<i class="PartOfSpch">different from</i><br>
+<br><br>different from<br>
 <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
 </td>
 <td class="tabledef" valign=top >
-kushilangana <i class="PartOfSpch">mn</i><p>
+kushilangana <i class="PartOfSpch">md</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3" class="analogy">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=kupingaja">kushila</a>
-<br><br></td>
-</tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Cela signifie être distinct, différent, ou non identique dans certains aspects. Cela désigne une variation, un contraste, ou une divergence entre deux choses ou plus, où elles diffèrent dans leurs caractéristiques, leurs attributs, leurs opinions, ou leurs actions.
@@ -15410,6 +18510,14 @@ To be distinct, dissimilar, or not identical in some aspect. It signifies a vari
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 ----
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3" class="analogy">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=kupingaja">kushila</a>
 <br><br></td>
 </tr>
 <tr>
@@ -15495,16 +18603,30 @@ Bua ngenyi mishilangana :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-quitter <i class="PartOfSpch">v.tr</i> <br>
+quitter <i class="PartOfSpch">v.tr</i><br>
+laisser <i class="PartOfSpch">v.tr</i><br>
 </td>
 <td class="tabledef" valign=top >
-leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
-<i class="PartOfSpch">different from</i><br>
-<a class="links" href="search.html?inpt1=kushila">leave to []</a>
+to leave <i class="PartOfSpch">v</i><br>
+to go away from <i class="PartOfSpch">v</i><br><br>
+different from<br>
+<a class="links" href="search.html?inpt1=kushila">leave [something] to</a>
 </td>
 <td class="tabledef" valign=top >
-kushiya <i class="PartOfSpch">mn</i>
+kushiya <i class="PartOfSpch">md</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Cela signifie partir d'un endroit, indiquant souvent un départ physique.
+                <br><br>
+<b><i>Explanation</i></b><br>
+To go away from a place, often indicating a physical departure.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15607,11 +18729,23 @@ Muana kena mua kushiya tatuende to :
 regarder <i class="PartOfSpch">v.tr</i> <br>
 </td>
 <td class="tabledef" valign=top >
-listen <i class="PartOfSpch">tr.v</i> <br>
+to look <i class="PartOfSpch">v</i> <br>
 </td>
 <td class="tabledef" valign=top >
-kutangila <i class="PartOfSpch">muan</i>
+kutangila <i class="PartOfSpch">md</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+L'action de diriger son regard ou son attention vers quelque chose dans l'intention de voir ou d'observer. Cela implique l'utilisation des yeux pour se concentrer sur un objet, une personne ou une scène spécifique.
+                <br><br>
+<b><i>Explanation</i></b><br>
+The act of directing one's gaze or attention towards something with the intention of seeing or observing. It involves the use of the eyes to focus on a specific object, person, or scene. 
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -15718,6 +18852,18 @@ kutekemena <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+<br><br>
+<b><i>Explanation</i></b><br>
+To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -15729,18 +18875,6 @@ kutekemena <i class="PartOfSpch">md</i>
                 <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
                 <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
                 <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
-<br><br>
-<b><i>Explanation</i></b><br>
-To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
-<br><br>
-<b><i>Diumvuija</i></b><br>
------
 <br><br></td>
 </tr>
 <tr>
@@ -15843,7 +18977,7 @@ listen <i class="PartOfSpch">v</i> <br>
 
 </td>
 <td class="tabledef" valign=top >
-kuteleja <i class="PartOfSpch">muan</i>
+kuteleja <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -15938,8 +19072,20 @@ Muananyi, teleja miaku yanyi :
 2. tempt <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-kuteta <i class="PartOfSpch">mn</i><p>
+kuteta <i class="PartOfSpch">md</i><p>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Entreprendre une action dans le but d'atteindre un objectif ou de mener à bien une tâche, même si le succès n'est pas garanti.
+<br><br>
+<b><i>Explanation</i></b><br>
+To take action with the intention of achieving a goal or completing a task, even if success is not guaranteed.
+<br><br>
+<b><i>Diumvuija</i></b><br>
+-----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -16288,17 +19434,6 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
-                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
-                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
-                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>, 
-                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>:: 
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation";>
 <b><i>Explication</i></b><br>
 Les substantifs sont des mots qui désignent des personnes, des lieux et des concepts abstraits.
@@ -16308,6 +19443,17 @@ Substantives are words that name people, places, and abstract concepts.
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 Bibidikilu bidi miaku idi binyika bantu ne miaba ne meji.
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=mufidi">mufidi</a>, 
+                <a class="links" href="search.html?inpt1=muambikila">muambikila</a>, 
+                <a class="links" href="search.html?inpt1=muanda">muanda</a>, 
+                <a class="links" href="search.html?inpt1=mupinganyi">mupinganyi</a>, 
+                <a class="links" href="search.html?inpt1=kadianjidi">kadianjidi</a>:: 
 <br><br></td>
 </tr>
 <tr>
@@ -16414,18 +19560,6 @@ tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
 </td>
 </tr>
 <tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
-                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
-                <a class="links" href="search.html?inpt1=diulu">diulu</a>, 
-                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
-                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>
-<br><br></td>
-</tr>
-<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 Le ciel ou les cieux, particulièrement lorsqu'ils sont considérés comme quelque chose de tangible. Dans une utilisation archaïque, il fait référence à l'étendue du ciel, conçue comme un dôme solide.
@@ -16437,6 +19571,18 @@ The heavens or the sky, especially when regarded as a tangible thing. In archaic
                 <br><br>
 <b><i>Diumvuija</i></b><br>
 -------
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=diba">diba</a>,
+                <a class="links" href="search.html?inpt1=ditutu">ditutu</a>,
+                <a class="links" href="search.html?inpt1=diulu">diulu</a>, 
+                <a class="links" href="search.html?inpt1=ngondu">ngondu</a>,
+                <a class="links" href="search.html?inpt1=mutotu">mutotu</a>
 <br><br></td>
 </tr>
 <tr>
@@ -16523,6 +19669,18 @@ bidimu
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
+                <br><br>
+<b><i>Explanation</i></b><br>
+Conventional duration close to the period of revolution of the Earth around the Sun.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -16533,18 +19691,6 @@ bidimu
                 <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshikondu">tshikondu</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
-                <br><br>
-<b><i>Explanation</i></b><br>
-Conventional duration close to the period of revolution of the Earth around the Sun.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -16729,6 +19875,18 @@ tshikondu <i class="PartOfSpch">tshi9</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+"Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
+                <br><br>
+<b><i>Explanation</i></b><br>
+"Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
@@ -16739,18 +19897,6 @@ tshikondu <i class="PartOfSpch">tshi9</i><br>
                 <a class="links" href="search.html?inpt1=muvu">muvu</a>, 
                 <a class="links" href="search.html?inpt1=ngondu">ngondu</a>, 
                 <a class="links" href="search.html?inpt1=tshidima">tshidima</a>   
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-"Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
-                <br><br>
-<b><i>Explanation</i></b><br>
-"Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
-                <br><br>
-<b><i>Diumvuija</i></b><br>
-----
 <br><br></td>
 </tr>
 <tr>
@@ -17727,7 +20873,7 @@ hear <i class="PartOfSpch">v.in</i> <br>
 
 </td>
 <td class="tabledef" valign=top >
-kuumvua <i class="PartOfSpch">muan</i>
+kuumvua <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -17910,8 +21056,20 @@ aller <i class="PartOfSpch">v.tr</i> <br>
 to go <i class="PartOfSpch">tr.v</i> <br>
 </td>
 <td class="tabledef" valign=top >
-kuya <i class="PartOfSpch">muan</i>
+kuya <i class="PartOfSpch">md</i>
 </td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+Se déplacer physiquement ou voyager d'un endroit à un autre.
+                <br><br>
+<b><i>Explanation</i></b><br>
+Physically moving or traveling from one location to another
+                <br><br>
+<b><i>Diumvuija</i></b><br>
+----
+<br><br></td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -18106,7 +21264,7 @@ const nkongamiaku2 = [
     talk <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuakula <i class="PartOfSpch">mn</i><p>
+    kuakula <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -18206,7 +21364,7 @@ const nkongamiaku2 = [
     say <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuamba <i class="PartOfSpch">muan</i><p>
+    kuamba <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -18319,7 +21477,7 @@ const nkongamiaku2 = [
      to put on top of
     </td>
     <td class="tabledef" valign=top >
-    kuambakaja <i class="PartOfSpch">mn</i><p>
+    kuambakaja <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -18421,7 +21579,7 @@ const nkongamiaku2 = [
     take <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuangata <i class="PartOfSpch">muan</i><p>
+    kuangata <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -18456,6 +21614,289 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     `
+    },
+    /*Anyima*/   
+    {
+        English: "the soul",
+        French: "l'âme",
+        Tshiluba: "anyima",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Muo·yo<p>/Moh-yoh/</p>",
+        PhoneticsT: "âme / soul",
+        English2: "souls",
+        French2: "âmes",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "a soul",
+        French3: "un âme",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "âme",
+        French4: "the soul",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "a soul",
+        French5: "ame",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "soul",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    âme <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    soul <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    anyima <i class="PartOfSpch">tshi</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
+                    <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, 
+                    <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Aimez le Seigneur Dieu de tout votre cœur, de toute votre âme, de toute votre force et de toute votre pensée
+                    <br><br>
+                    
+    Love the Lord God with all your heart, and all your soul, and all your strength, and and all your mind.
+                    <br><br>
+                    
+    Udi ne bua kunanga Yehowa Nzambi webe ne muoyo webe wonso, ne anyima webe yonso, ne bukole buebe buonso, ne lungenyi luebe luonso
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*-Anyisha*/  
+    {
+        English: "to approve",
+        French: "approuver",
+        Tshiluba: "Kuanyisha",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=verb">verbe</a> | <a class="links" href="search.html?inpt1=verb">verb</a> | <a class="links" href="search.html?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·an·yi·sha<p>/Kwahn-yee-shah/</p>",
+        PhoneticsT: "approuver / to approve",
+        English2: "accept",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "to approve of",
+        French3: "anyisha",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "approuver",
+        French4: "to accept",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "valider",
+        French5: "agréer",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "agreer",
+        French6: "approve",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "approve of",
+        French7: "etre d'accord",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "être d'accord",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    accepter <i class="PartOfSpch">v</i><br>
+    approuver <i class="PartOfSpch">v</i><br>
+    être d'accord <i class="PartOfSpch">v</i><br>
+    apprécier <i class="PartOfSpch">v</i><br>
+    valider <i class="PartOfSpch">v</i><br>
+    agréer <i class="PartOfSpch">v</i><br>
+    permettre à [qqn] de faire [qch] <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    to approve <i class="PartOfSpch">v</i><br>
+    to approve of <i class="PartOfSpch">v</i><br>
+    to accept <i class="PartOfSpch">v</i><br>
+    to allow <i class="PartOfSpch">v</i><br>
+    to permit <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    kuanyisha <i class="PartOfSpch">md</i><br>
+    -anyisha <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=eyowa">eyowa</a>, 
+                    <a class="links" href="search.html?inpt1=kulekela">kulekela</a>, 
+                    <a class="links" href="search.html?inpt1=kubenga">kubenga</a>, 
+                    
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    "Donner la permission ou le consentement pour qu'une action, un événement ou un comportement spécifique ait lieu. Approuver officiellement ou endosser quelque chose, indiquant le consentement ou un jugement favorable envers une action, une décision ou une proposition particulière.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    To grant permission or consent for a specific action, event, or behavior to take place. To officially agree to or endorse something, indicating consent or favorable judgment toward a particular action, decision, or proposal.
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy">
+    <b>Mpindekenu</b><br>
+    Conjugaison | Conjugation<br><br>
+    <b>ndi nganyisha</b>
+    <br>J'approuve | I approve <br><br>
+
+    <b>udi wanyisha</b>
+    <br>tu approuves | you approve<br><br>
+
+    <b>udi wanyisha</b><br>
+    il/elle approuve | he/she approves<br><br>
+
+    <b>tudi tuanyisha</b><br>
+    nous approuvons | we approve<br><br>
+
+    <b>nudi nuanyisha</b><br>
+    vous approuvez | you approve<br><br>
+
+    <b>badi banyisha</b><br>
+    ils approuvent | they approve<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    Permettez-leur d'apporter un peu d'eau.
+                <br><br>
+    Allow them to bring a little bit of water.
+                <br><br>
+    Anyishayiku balua ne ndambu wa mayi.
+    <br><br></td>
+    </tr>
+    <tr>` 
     },
     /*-Bala*/   
     {
@@ -18596,6 +22037,144 @@ const nkongamiaku2 = [
     <br><br>
     </td>
     </tr>`
+    },
+    /*Bikoyikoyi*/   
+    {
+        English: "skeleton",
+        French: "squelette",
+        Tshiluba: "bikoyikoyi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bi·ko·yi·ko·yi<p>/Bee-koy-eeh-koy-eeh/</p>",
+        PhoneticsT: "squelette / skeleton",
+        English2: " ",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    squelette <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    skeleton <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    bikoyikoyi <i class="PartOfSpch">tshi9</i><br>
+    toujours en pl. <br>
+    always plural
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, 
+                    <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lungenyi">lungenyi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, 
+                    <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un squelette est la structure interne des os dans un organisme, fournissant un soutien structurel, facilitant le mouvement et protégeant les organes vitaux.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The internal framework of bones in an organism, providing structural support, facilitating movement, and protecting vital organs.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
     },
     /*Binunu Bibidi*/  
     {
@@ -19723,7 +23302,7 @@ const nkongamiaku2 = [
     2. penetrate <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kubuela <i class="PartOfSpch">mn</i>
+    kubuela <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -19759,6 +23338,232 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Ba bungi ne bateta bua kubuela kadi ka bakukokesha to :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Bufike*/   
+    {
+        English: "blackness",
+        French: "noirceur",
+        Tshiluba: "Butoke",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
+        Phonetics: "Bu·to·ke<p>/BOO-toh-kah/</p>",
+        PhoneticsT: "noirceur / blackness",
+        English2: "darkness",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. noirceur (couleur) <i class="PartOfSpch">n</i><br><br>
+    2. obscurité <i class="PartOfSpch">n</i><br><br>
+    </td>
+
+    <td class="tabledef" valign=top>
+    1. blackness (color) <i class="PartOfSpch">n</i><br>
+    2. darkness <i class="PartOfSpch">n</i><br>
+    </td>
+
+    <td class="tabledef" valign=top >
+    bufike <i class="PartOfSpch">tshi</i><br>
+    <i class="PartOfSpch">adj</i> --fike
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                    <a class="links" href="search.html?inpt1=--fike">--fike</a>,
+                    <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                    <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                    <a class="links" href="search.html?inpt1=midima">midima</a>, 
+                    <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'état, la qualité ou la condition d'être noir ou d'avoir une couleur sombre.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The state, quality, or condition of being black or having a dark color.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Nous marchons dans l'obscurité
+                    :<br>
+                    &nbsp
+    We walk in the darkness
+                    :<br>
+                    &nbsp:&nbsp
+    Tuetu tuenda mu bufike :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Bukonda*/   
+    {
+        English: "brother-in-law | sister-in-law",
+        French: "beau-frère | belle-sœur",
+        Tshiluba: "bukonda",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Bu·kon·da<p>/BUU-kohn-dah/</p>",
+        PhoneticsT: "brother-in-law / brother-in-law | sister-in-law",
+        English2: "brother-in-law",
+        French2: "beau-frère",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "sister-in-law",
+        French3: "belle-sœur",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "beau-frere",
+        French4: "belle-soeur",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "sister in-law",
+        French5: "sister in law",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "brother in-law",
+        French6: "brother in law",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "beauf",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    beau-frère <i class="PartOfSpch">n</i><br>
+    belle-sœur <i class="PartOfSpch">n</i><br>
+    beauf <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    brother-in-law <i class="PartOfSpch">n</i><br>
+    sister-in-law <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bukonda <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> makonda
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=mukaji">mukaji</a>,
+                    <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                    <a class="links" href="search.html?inpt1=diku">diku</a>, 
+                    <a class="links" href="search.html?inpt1=kaku">kaku</a>, 
+                    <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                    <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                    <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                    <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                    <a class="links" href="search.html?inpt1=muana">muana</a>,
+                    <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                    <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                    <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                    <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                    <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                    <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                    <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                    <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                    <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                    <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                    <a class="links" href="search.html?inpt1=yaya">yaya</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    "Le frère ou la sœur du conjoint, ou le mari ou la femme du frère ou de la sœur."
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The brother or sister of one's spouse, or the husband or wife of one's sibling.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
     <br><br></td>
     </tr>
     `
@@ -20071,8 +23876,8 @@ const nkongamiaku2 = [
     },
     /*Butoke*/   
     {
-        English: "light",
-        French: "lumière",
+        English: "whiteness",
+        French: "blancheur",
         Tshiluba: "Butoke",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
         Phonetics: "Bu·to·ke<p>/BOO-toh-kah/</p>",
@@ -20105,7 +23910,7 @@ const nkongamiaku2 = [
         French8: " ",
         Tshiluba8: " ",
         PhoneticsT8: " ",
-        English9: "the light",
+        English9: " ",
         French9: " ",
         Tshiluba9: " ",
         PhoneticsT9: " ",
@@ -20128,21 +23933,19 @@ const nkongamiaku2 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    1. lumière <i class="PartOfSpch">n</i><br><br>
-    2. blancheur (couleur) <i class="PartOfSpch">n</i><br><br>
-    3. clarté <i class="PartOfSpch">n</i><br><br>
-    4. pâleur <i class="PartOfSpch">n</i>
+    1. blancheur (couleur) <i class="PartOfSpch">n</i><br><br>
+    2. clarté <i class="PartOfSpch">n</i><br><br>
+    3. pâleur <i class="PartOfSpch">n</i>
     </td>
-    
+
     <td class="tabledef" valign=top>
-    1. light <i class="PartOfSpch">n</i><br><br>
-    2. whiteness (color) <i class="PartOfSpch">n</i><br>
+    1. whiteness (color) <i class="PartOfSpch">n</i><br>
     lightness <i class="PartOfSpch">n</i><br>
     brightness <i class="PartOfSpch">n</i><br><br>
-    3. clarity <i class="PartOfSpch">n</i><br><br>
-    4. fairness (skin) <i class="PartOfSpch">n</i>
+    2. clarity <i class="PartOfSpch">n</i><br><br>
+    3. fairness (skin) <i class="PartOfSpch">n</i>
     </td>
-    
+
     <td class="tabledef" valign=top >
     butoke <i class="PartOfSpch">tshi</i><br>
     <i class="PartOfSpch">adj</i> --toke
@@ -20341,6 +24144,1506 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Diba ne Ngondu ne Mitoto :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dibele*/   
+    {
+        English: "breast",
+        French: "sein",
+        Tshiluba: "dibele",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·be·le<p>/DJEE-beh-leh/</p>",
+        PhoneticsT: "sein / breast",
+        English2: " ",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sein <i class="PartOfSpch">n</i><br>
+    <i class="PartOfSpch">pl</i> seins
+    </td>
+    <td class="tabledef" valign=top>
+    breast <i class="PartOfSpch">n</i><br>
+    <i class="PartOfSpch">pl</i> breasts
+    </td>
+    <td class="tabledef" valign=top>
+    dibele <i class="PartOfSpch">tshi</i><br>
+    <i class="PartOfSpch">pl</i> mabele
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La glande mammaire et le tissu sus-jacent à l'avant de la poitrine chez les humains, généralement composés de lobes producteurs de lait et de tissu conjonctif.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The mammary gland and the overlying tissue on the front of the chest in humans, typically composed of milk-producing lobes and connective tissue.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Diboko*/   
+    {
+        English: "arm",
+        French: "bras",
+        Tshiluba: "diboko",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·bo·ko<p>/DJEE-boh-koh/</p>",
+        PhoneticsT: "bras / arm",
+        English2: "an arm",
+        French2: "le bras",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "maboko",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bras <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    arm <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    diboko <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> maboko
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un "bras" est le membre supérieur du corps humain, s'étendant de l'épaule à la main, et se composant généralement du bras supérieur, de l'avant-bras et de la main, utilisé pour diverses activités telles que la saisie et la manipulation d'objets.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    An "arm" is the upper limb of the human body, extending from the shoulder to the hand, and typically consisting of the upper arm, forearm, and hand, used for various activities such as grasping and manipulating objects.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Didima*/   
+    {
+        English: "citrus fruit",
+        French: "agrume",
+        Tshiluba: "didima",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·di·ma<p>/DJEE-djee-mah/</p>",
+        PhoneticsT: "agrume / citrus fruit",
+        English2: "madima",
+        French2: "citrus",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "lemon",
+        French3: "citron",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "orange",
+        French4: "orange",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "tshimuma tshia mpusu",
+        French5: "pamplemousse",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "grapefruit",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    agrume <i class="PartOfSpch">n</i><br>
+    (famille de fruits)<br>
+    citron <i class="PartOfSpch">n</i><br>
+    orange <i class="PartOfSpch">n</i><br>
+    pamplemousse <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    citrus fruit <i class="PartOfSpch">n</i><br>
+    (citrus fruit family)<br>
+    citrus <i class="PartOfSpch">n</i><br>
+    lemon <i class="PartOfSpch">n</i><br>
+    orange <i class="PartOfSpch">n</i><br>
+    grapefruit <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    didima <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> madima
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dikonda">dikonda</a>,
+                    <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                    <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                    <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                    <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                    <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                    <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                    <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                    <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un fruit appartenant au genre Citrus, comprenant des fruits couramment consommés tels que les oranges, les citrons, les citrons verts et les pamplemousses. Ces fruits sont connus pour leurs intérieurs juteux et pulpeux, leur teneur élevée en vitamine C et leur saveur caractéristique et acidulée.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A fruit belonging to the genus Citrus, including commonly consumed fruits such as oranges, lemons, limes, and grapefruits. These fruits are known for their juicy and pulpy interiors, high vitamin C content, and a characteristic tangy flavor.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Difu*/   
+    {
+        English: "stomach",
+        French: "ventre",
+        Tshiluba: "difu",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·fu<p>/DJEE-foo/</p>",
+        PhoneticsT: "ventre / stomach",
+        English2: "belly",
+        French2: "tummy",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "abdomen",
+        French3: "bas-ventre",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "sous-ventre",
+        French4: "enceinte",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "pregnant",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. ventre <i class="PartOfSpch">n</i><br>
+    abdomen <i class="PartOfSpch">n</i><br>
+    bas-ventre <i class="PartOfSpch">n</i><br><br>
+
+    2. etre enceinte <i class="PartOfSpch">adj</i>
+    </td>
+    <td class="tabledef" valign=top>
+    1. stomach <i class="PartOfSpch">n</i><br>
+    abdomen <i class="PartOfSpch">n</i><br>
+    belly <i class="PartOfSpch">n</i><br>
+    tummy (informal) <i class="PartOfSpch">n</i><br><br>
+
+    2. to be pregnant <i class="PartOfSpch">adj</i>
+
+    </td>
+    <td class="tabledef" valign=top>
+    difu <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mafu<br><br>
+    tangila:<br>
+    2. <a class="links" href="search.html?inpt1=kuikala ne difu">kuikala ne difu</a> <i class="PartOfSpch">mf</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>,
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La partie du corps située entre la poitrine et le bassin, contenant les organes digestifs tels que l'estomac, le foie, les intestins et d'autres structures.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    To the part of the body between the chest and the pelvis, containing the digestive organs such as the stomach, liver, intestines, and other structures.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikala*/   
+    {
+        English: "charcoal",
+        French: "charbon",
+        Tshiluba: "dikala",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ka·la<p>/DJEE-kah-lah/</p>",
+        PhoneticsT: "charbon / charcoal",
+        English2: "coals",
+        French2: "coal",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "makala",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    charbon <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    charcoal <i class="PartOfSpch">n</i><br>
+    coal <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikala <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makala<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=kapia">kapia</a>, 
+                    <a class="links" href="search.html?inpt1=mudilu">mudilu</a>,  
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikasa*/   
+    {
+        English: "foot",
+        French: "pied",
+        Tshiluba: "dikasa",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ka·sa<p>/DJEE-kah-sah/</p>",
+        PhoneticsT: "pied / foot",
+        English2: "feet",
+        French2: "pieds",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "makasa",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    pied <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    foot <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikasa <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makasa
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La partie inférieure de la jambe, en dessous de la cheville et comprenant le talon, la voûte plantaire et les orteils, servant de partie fondamentale du corps humain pour se tenir debout, marcher et d'autres formes de locomotion.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The lower extremity of the leg, below the ankle and consisting of the heel, arch, and toes, serving as a foundational part of the human body for standing, walking, and other forms of locomotion.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikaya*/   
+    {
+        English: "shoulder",
+        French: "epaule",
+        Tshiluba: "dikaya",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ka·ya<p>/DJEE-kah-yah/</p>",
+        PhoneticsT: "epaule / shoulder",
+        English2: "shoulders",
+        French2: "epaules",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "makaya",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    epaule <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    shoulder <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikaya <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makaya
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'épaule" est la partie du corps où le bras supérieur se connecte au torse, comprenant l'articulation formée par l'humérus, la clavicule et l'omoplate, permettant une gamme de mouvements du bras.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The "shoulder" is the part of the body where the upper arm connects to the torso, including the joint formed by the humerus, clavicle, and scapula, allowing for a range of arm movements.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikiki*/   
+    {
+        English: "eyebrow",
+        French: "sourcil",
+        Tshiluba: "dikiki",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ki·ki<p>/DJEE-kee-kee/</p>",
+        PhoneticsT: "sourcil / eyebrow",
+        English2: "eyebrows",
+        French2: "sourcils",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "makiki",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sourcil <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    eyebrow <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikiki <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makiki
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La "sourcil" est la bande de poils située au-dessus de l'œil, le long de l'os du sourcil, servant à protéger les yeux de la sueur, des débris et de la lumière du soleil, et jouant souvent un rôle dans les expressions du visage et la communication non verbale.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The strip of hair located above the eye, along the brow bone, serving to protect the eyes from sweat, debris, and sunlight, and often playing a role in facial expressions and non-verbal communication.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikoba*/   
+    {
+        English: "skin",
+        French: "peau",
+        Tshiluba: "dikoba",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ko·ba<p>/DJEE-koh-bah/</p>",
+        PhoneticsT: "peau / skin",
+        English2: "skins",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "makoba",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    peau <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    skin <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikoba <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makoba
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La peau" désigne la couverture protectrice la plus externe du corps, composée de plusieurs couches de tissus, comprenant l'épiderme et le derme, et remplissant diverses fonctions telles que la protection contre les éléments externes, la régulation de la température et la sensation.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The outermost protective covering of the body, consisting of multiple layers of tissue, including the epidermis and dermis, and serving various functions such as protection against external elements, regulation of temperature, and sensation.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikonda*/   
+    {
+        English: "plantain",
+        French: "banane plantain",
+        Tshiluba: "dikonda",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·kon·da<p>/DJEE-kohn-djah/</p>",
+        PhoneticsT: "banane plantain / plantain",
+        English2: "makonda",
+        French2: "plantains",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: "banana plantain",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    banane plantain <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    plantain <i class="PartOfSpch">n</i><br>
+    banana plantain
+    </td>
+    <td class="tabledef" valign=top>
+    dikonda <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makonda
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=didima">didima</a>,
+                    <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                    <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                    <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                    <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                    <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                    <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                    <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                    <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Une "banane plantain" désigne une variété de banane qui est plus grande, plus féculente et moins sucrée que la banane de dessert commune. Les plantains sont souvent utilisés comme aliment de base dans de nombreuses régions tropicales, en particulier en Afrique, dans les Caraïbes et dans certaines parties de l'Asie du Sud-Est. Ils sont polyvalents et peuvent être cuisinés à différents stades de maturité, allant du vert et féculent au jaune et sucré, en fonction de l'application culinaire.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A variety of banana that is larger, starchier, and less sweet than the common dessert banana. Plantains are often used as a staple food in many tropical regions, particularly in Africa, the Caribbean, and parts of Southeast Asia. They are versatile and can be cooked at different stages of ripeness, ranging from green and starchy to yellow and sweet, depending on the culinary application.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dikoshi*/   
+    {
+        English: "nape",
+        French: "nuque",
+        Tshiluba: "dikoshi",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ko·shi<p>/DJEE-koh-shee/</p>",
+        PhoneticsT: "nuque / nape",
+        English2: "makoshi",
+        French2: "back of neck",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "nape of neck",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nuque <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    nape <i class="PartOfSpch">n</i><br>
+    nape of neck <i class="PartOfSpch">n</i><br>
+    back of neck <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    dikoshi <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makoshi
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'arrière du cou, plus précisément à la partie inférieure où la naissance des cheveux rencontre le cou.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The back of the neck, specifically the lower part where the hairline meets the neck
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Diku*/   
+    {
+        English: "family",
+        French: "famille",
+        Tshiluba: "diku",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ku<p>/DJEE-koo/</p>",
+        PhoneticsT: "famille / family",
+        English2: "maku",
+        French2: "families",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "familles",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    famille <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    family <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    diku <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> maku
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bukonda">bukonda</a>,
+                    <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                    <a class="links" href="search.html?inpt1=mukaji">mukaji</a>, 
+                    <a class="links" href="search.html?inpt1=kaku">kaku</a>, 
+                    <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                    <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                    <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                    <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                    <a class="links" href="search.html?inpt1=muana">muana</a>,
+                    <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                    <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                    <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                    <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                    <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                    <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                    <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                    <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                    <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                    <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                    <a class="links" href="search.html?inpt1=yaya">yaya</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    La "famille" fait référence à un groupe d'individus liés par le sang, le mariage, l'adoption, ou un sentiment de liens partagés et de soutien mutuel, formant une unité sociale qui vit généralement ensemble et collabore dans divers aspects de la vie. Les familles peuvent varier considérablement en termes de structure, de taille et de dynamiques.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Family" refers to a group of individuals connected by blood, marriage, adoption, or a sense of shared bonds and mutual support, forming a social unit that typically lives together and collaborates in various aspects of life. Families can vary widely in structure, size, and dynamics.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
     <br><br></td>
     </tr>
     `
@@ -20550,6 +25853,195 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Dinanga*/   
+    {
+        English: "love",
+        French: "amour",
+        Tshiluba: "dinanga",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·nan·ga<p>/DJEE-nahn-gah/</p>",
+        PhoneticsT: "amour / love",
+        English2: "l'amour",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    amour <i class="PartOfSpch">n</i><br>
+    l'amour <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    love <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    dinanga <i class="PartOfSpch">tshi</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=kunanga">kunanga</a>,
+                    <a class="links" href="search.html?inpt1=kusua">kusua</a>, 
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    "L'amour" est un état émotionnel et psychologique complexe et aux multiples facettes, caractérisé par une affection profonde, des soins, de la compassion et un attachement envers quelqu'un ou quelque chose. Il peut se manifester sous différentes formes, notamment l'amour romantique, l'amour familial, l'amour platonique et l'amour de soi, et implique souvent un fort sentiment de connexion, d'empathie et de considération positive."
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Love" is a complex and multifaceted emotional and psychological state characterized by deep affection, care, compassion, and attachment towards someone or something. It can manifest in various forms, including romantic love, familial love, platonic love, and self-love, and often involves a strong sense of connection, empathy, and positive regard.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dindila*/  
+    {
+        English: "expectation",
+        French: "attente",
+        Tshiluba: "Dindila",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Din·di·la<p>/Djeen-djee-lah/</p>",
+        PhoneticsT: "attente / expectation",
+        English2: "expectations",
+        French2: "attentes",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "mandila",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    attente <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    expectation <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top >
+    dindila <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mandila
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+    :: <a class="links" href="search.html?inpt1=dinganga">dinanga</a>, 
+    <a class="links" href="search.html?inpt1=ditabuja">ditabuja</a>, 
+    <a class="links" href="search.html?inpt1=ditekemena">ditekemena</a>,
+    <a class="links" href="search.html?inpt1=kueyemena">kueyemena</a>,
+    <a class="links" href="search.html?inpt1=kuindila">kuindila</a>,
+    <a class="links" href="search.html?inpt1=kuitabuja">kuitabuja</a>,
+    <a class="links" href="search.html?inpt1=kutekemena">kutekemena</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'anticipation ou la croyance selon laquelle quelque chose de spécifique se produira dans le futur, souvent basée sur des expériences antérieures, des hypothèses, ou un sentiment de ce qui est susceptible de se produire.
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    The anticipation or belief that something specific will happen in the future, often based on previous experiences, assumptions, or a sense of what is likely to occur. 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    -----
+    <br><br></td>
+    </tr>
+    ` 
+    },
     /*Dinu*/   
     {
         English: "tooth",
@@ -20628,11 +26120,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
                     <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
@@ -20656,7 +26149,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -20966,11 +26459,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                     <a class="links" href="search.html?inpt1=ditaku">ditaku</a>,
@@ -20995,7 +26489,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -21118,6 +26612,147 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>
     <tr>` 
+    },
+    /*Ditaku*/   
+    {
+        English: "butt cheek",
+        French: "fesse",
+        Tshiluba: "ditaku",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Di·ta·ku<p>/DJEE-tah-kuu/</p>",
+        PhoneticsT: "fesse / butt cheek",
+        English2: "mataku",
+        French2: "buttock",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "backside",
+        French3: "ass",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "arse",
+        French4: "buttocks",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "booty",
+        French5: "bum",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "butt",
+        French6: "rump",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    fesse <i class="PartOfSpch">n</i><br>
+    <i class="PartOfSpch">pl</i> fesses
+    </td>
+    <td class="tabledef" valign=top>
+    buttock <i class="PartOfSpch">n</i><br>
+    buttocks <i class="PartOfSpch">npl</i><br>
+    butt cheek <i class="PartOfSpch">n</i><br>
+    booty <i class="PartOfSpch">n</i><br>
+    arse <i class="PartOfSpch">n</i><br>
+    backside <i class="PartOfSpch">n</i><br>
+    bottom <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    ditaku <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mataku
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
+                    <a class="links" href="search.html?inpt1=disu">disu</a>, 
+                    <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
+                    <a class="links" href="search.html?inpt1=difu">difu</a>,
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>,
+                    <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
+                    <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                    <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
+                    <a class="links" href="search.html?inpt1=dinu">dinu</a>,
+                    <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
+                    <a class="links" href="search.html?inpt1=ditama">ditama</a>,
+                    <a class="links" href="search.html?inpt1=ditshi">ditshi</a>,
+                    <a class="links" href="search.html?inpt1=diulu">diulu</a>,
+                    <a class="links" href="search.html?inpt1=kampombu">kampombu</a>,
+                    <a class="links" href="search.html?inpt1=ludimi">ludimi</a>,
+                    <a class="links" href="search.html?inpt1=lukofi">lukofi</a>,
+                    <a class="links" href="search.html?inpt1=lusuki">lusuki</a>,
+                    <a class="links" href="search.html?inpt1=luzadi">luzadi</a>,
+                    <a class="links" href="search.html?inpt1=mashi">mashi</a>,
+                    <a class="links" href="search.html?inpt1=muana wa nkasa">muana wa nkasa</a>,
+                    <a class="links" href="search.html?inpt1=mubidi">mubidi</a>,
+                    <a class="links" href="search.html?inpt1=muedi">muedi</a>,
+                    <a class="links" href="search.html?inpt1=mufuba">mufuba</a>,
+                    <a class="links" href="search.html?inpt1=mukana">mukana</a>,
+                    <a class="links" href="search.html?inpt1=mukolu">mukolu</a>,
+                    <a class="links" href="search.html?inpt1=mumpempe">mumpempe</a>,
+                    <a class="links" href="search.html?inpt1=munu">munu</a>, 
+                    <a class="links" href="search.html?inpt1=muntu">muntu</a>,
+                    <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
+                    <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
+                    <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
+                    <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
+                    <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
+                    <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
+                    <a class="links" href="search.html?inpt1=tshiala">tshiala</a>,
+                    <a class="links" href="search.html?inpt1=tshianza">tshianza</a>,
+                    <a class="links" href="search.html?inpt1=tshibalubalu">tshibalubalu</a>,
+                    <a class="links" href="search.html?inpt1=tshifu">tshifu</a>,
+                    <a class="links" href="search.html?inpt1=tshikankanya">tshikankanya</a>,
+                    <a class="links" href="search.html?inpt1=tshilafinyi">tshilafinyi</a>, 
+                    <a class="links" href="search.html?inpt1=tshinu">tshinu</a>,
+                    <a class="links" href="search.html?inpt1=tshisulusulu">tshisulusulu</a>   
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'une des deux masses charnues arrondies formant les fesses humaines, situées à l'arrière du bassin, et communément désignées au singulier comme les "fesses".
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    Either of the two rounded fleshy masses forming the human butt, located at the back of the pelvis, and commonly referred to in the singular as one's "buttocks."
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
     },
     /*Ditekemena*/  
     {
@@ -21304,11 +26939,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -21333,7 +26969,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -22037,9 +27673,9 @@ const nkongamiaku2 = [
     2. <a class="links" href="search.html?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuenda <i class="PartOfSpch">mn</i><br>
+    kuenda <i class="PartOfSpch">md</i><br>
     <i class="PartOfSpch">mushilangana ne</i><br>
-    <a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">mn</i>
+    <a class="links" href="search.html?inpt1=kuya">kuya</a><i class="PartOfSpch">md</i>
     </td>
     </td>
     </tr>
@@ -22146,7 +27782,7 @@ const nkongamiaku2 = [
     make <i class="PartOfSpch">vtr</i>
     </td>
     <td class="tabledef" valign=top >
-    kuenza <i class="PartOfSpch">muan</i><p>
+    kuenza <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -22253,7 +27889,7 @@ const nkongamiaku2 = [
     to take place <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuenzeka <i class="PartOfSpch">muan</i><p>
+    kuenzeka <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -22441,7 +28077,7 @@ const nkongamiaku2 = [
     arrive <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kufika <i class="PartOfSpch">muan</i><p>
+    kufika <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -22476,6 +28112,114 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Kadi, pa ndi mfika kuntu aku :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*--Fike*/   
+    {
+        English: "black",
+        French: "noir",
+        Tshiluba: "--toke",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=adjectif">adjectif</a> | <a class="links" href="search.html?inpt1=adjective">adjective</a> | <a class="links" href="search.html?inpt1=mufidi">mufidi</a><br>',
+        Phonetics: "--to·ke<p>/toh-kah/</p>",
+        PhoneticsT: "noir / black",
+        English2: "le noir",
+        French2: " ",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    noir (couleur) <i class="PartOfSpch">adj</i>
+    </td>
+
+    <td class="tabledef" valign=top>
+    black (color) <i class="PartOfSpch">adj</i>
+
+    <td class="tabledef" valign=top >
+    --fike <i class="PartOfSpch">mf</i>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                    <a class="links" href="search.html?inpt1=butoke">butoke</a>,
+                    <a class="links" href="search.html?inpt1=--kunze">--kunze</a>,
+                    <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                    <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                    <a class="links" href="search.html?inpt1=midima">midima</a>, 
+                    <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    "Le noir" est une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    "Black" is a color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Nous marchons dans l'obscurité
+                    :<br>
+                    &nbsp
+    We walk in the darkness
+                    :<br>
+                    &nbsp:&nbsp
+    Tuetu tuenda mu bufike :
     <br><br></td>
     </tr>
     `
@@ -22547,7 +28291,7 @@ const nkongamiaku2 = [
     2. denounce <i class="PartOfSpch">v.tr</i> <br> (accuse)
     </td>
     <td class="tabledef" valign=top >
-    kufunda <i class="PartOfSpch">muan</i>
+    kufunda <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -22768,7 +28512,7 @@ const nkongamiaku2 = [
     to be <i class="PartOfSpch">v.in</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kuikala <i class="PartOfSpch">muan</i>
+    kuikala <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -22921,7 +28665,7 @@ const nkongamiaku2 = [
     have, be with <i class="PartOfSpch">v.tr</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kuikala ne <i class="PartOfSpch">muan</i>
+    kuikala ne <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -23284,8 +29028,8 @@ const nkongamiaku2 = [
     to believe <i class="PartOfSpch">v</i><br>
     </td>
     <td class="tabledef" valign=top >
-    kuitabuja <i class="PartOfSpch">muan</i><br>
-    -itabuja <i class="PartOfSpch">muan</i>
+    kuitabuja <i class="PartOfSpch">md</i><br>
+    -itabuja <i class="PartOfSpch">md</i>
 
     </td>
     </tr>
@@ -23919,6 +29663,211 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Kaku*/   
+    {
+        English: "grandparent",
+        French: "grand-parent",
+        Tshiluba: "bukonda",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "Ka·ku<p>/Kah-koo/</p>",
+        PhoneticsT: "grand-parent / grandparent",
+        English2: "grands-parents",
+        French2: "grandparents",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. grand-parent <i class="PartOfSpch">n</i><br><br>
+    2. petit-enfant <i class="PartOfSpch">n</i>
+    beauf <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    1. grandparent <i class="PartOfSpch">n</i><br><br>
+    2. grandchild <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kaku <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> tuku
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=mukaji">mukaji</a>,
+                    <a class="links" href="search.html?inpt1=dibaka">dibaka</a>, 
+                    <a class="links" href="search.html?inpt1=diku">diku</a>, 
+                    <a class="links" href="search.html?inpt1=bukonda">bukonda</a>, 
+                    <a class="links" href="search.html?inpt1=muikulu">muikulu</a>, 
+                    <a class="links" href="search.html?inpt1=mamu">mamu</a>,
+                    <a class="links" href="search.html?inpt1=manseba">manseba</a>, 
+                    <a class="links" href="search.html?inpt1=muadi">muadi</a>,
+                    <a class="links" href="search.html?inpt1=muana">muana</a>,
+                    <a class="links" href="search.html?inpt1=muana buta">muana buta</a>, 
+                    <a class="links" href="search.html?inpt1=mukulu">mukulu</a>, 
+                    <a class="links" href="search.html?inpt1=mukulumpa">mukulumpa</a>
+                    <a class="links" href="search.html?inpt1=muledi">muledi</a>, 
+                    <a class="links" href="search.html?inpt1=mulume">mulume</a>, 
+                    <a class="links" href="search.html?inpt1=mulunda">mulunda</a>,  
+                    <a class="links" href="search.html?inpt1=nsongakaji">nsongakaji</a>,
+                    <a class="links" href="search.html?inpt1=nsongaluma">nsongaluma</a>, 
+                    <a class="links" href="search.html?inpt1=tatu">tatu</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiota</a>, 
+                    <a class="links" href="search.html?inpt1=tshiota">tshiviela</a>,
+                    <a class="links" href="search.html?inpt1=tutu">tutu</a>, 
+                    <a class="links" href="search.html?inpt1=yaya">yaya</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    Un "grandparent" est un parent du père ou de la mère, communément appelé grand-mère ou grand-père.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    A "grandparent" is a parent of one's father or mother, commonly referred to as a grandmother or grandfather.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kamuma*/   
+    {
+        English: "small fruit",
+        French: "petit fruit",
+        Tshiluba: "kamuma",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+        Phonetics: "ka·mu·ma<p>/Kah-moo-mah/</p>",
+        PhoneticsT: "petit fruit / small fruit",
+        English2: "little fruit",
+        French2: "tumuma",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "petits fruits",
+        French3: "small fruits",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "little fruits",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    petit fruit <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    small fruit <i class="PartOfSpch">n</i><br>
+    little fruit <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    kamuma <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> tumuma <br><br>
+    tangila:<br>
+    <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=dikonda">dikonda</a>,
+                    <a class="links" href="search.html?inpt1=ditungulu">ditungulu</a>,
+                    <a class="links" href="search.html?inpt1=lungaji">lungaji</a>,
+                    <a class="links" href="search.html?inpt1=malakuja">malakuja</a>, 
+                    <a class="links" href="search.html?inpt1=mpoma">mpoma</a>, 
+                    <a class="links" href="search.html?inpt1=tshibota">tshibota</a>,
+                    <a class="links" href="search.html?inpt1=tshikaka">tshikaka</a>,
+                    <a class="links" href="search.html?inpt1=tshikuyi">tshikuyi</a>,  
+                    <a class="links" href="search.html?inpt1=tshimuma">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Kanungu*/   
     {
         English: "Article",
@@ -24070,7 +30019,7 @@ const nkongamiaku2 = [
     2. cease <i class="PartOfSpch">v.tr</i>
     </td>
     <td class="tabledef" valign=top >
-    kukosa <i class="PartOfSpch">muan</i>
+    kukosa <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -24207,7 +30156,7 @@ const nkongamiaku2 = [
     seize <i class="PartOfSpch">v</i>, grab <i class="PartOfSpch">v</i>, grasp <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kukuata <i class="PartOfSpch">mn</i><p>
+    kukuata <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -24308,8 +30257,8 @@ const nkongamiaku2 = [
     to show <i class="PartOfSpch">v</i><br>
     </td>
     <td class="tabledef" valign=top >
-    kuleja <i class="PartOfSpch">muan</i><br>
-    -leja <i class="PartOfSpch">muan</i>
+    kuleja <i class="PartOfSpch">md</i><br>
+    -leja <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -24438,7 +30387,7 @@ const nkongamiaku2 = [
     to bear <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kulela <i class="PartOfSpch">muan</i>
+    kulela <i class="PartOfSpch">md</i>
     </td>
     </td>
     </tr>
@@ -24670,7 +30619,7 @@ const nkongamiaku2 = [
     come <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kulua <i class="PartOfSpch">muan</i><p>
+    kulua <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -25704,11 +31653,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -25733,7 +31683,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -25942,6 +31892,115 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Midima*/   
+    {
+        English: "obscurity",
+        French: "obscurité",
+        Tshiluba: "Midima",
+        PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a><br>',
+        Phonetics: "Mi·di·ma<p>/Mee-djee-mah/</p>",
+        PhoneticsT: "obscurité / obscurity",
+        English2: "darkness",
+        French2: "obscurite",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    obscurité <i class="PartOfSpch">n</i><br><br>
+    </td>
+
+    <td class="tabledef" valign=top>
+    1. obscurity <i class="PartOfSpch">n</i><br>
+    2. darkness <i class="PartOfSpch">n</i><br>
+    </td>
+
+    <td class="tabledef" valign=top >
+    midima <i class="PartOfSpch">tshi</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="search.html?inpt1=bufike">bufike</a>, 
+                    <a class="links" href="search.html?inpt1=butoke">butoke</a>, 
+                    <a class="links" href="search.html?inpt1=--fike">--fike</a>,
+                    <a class="links" href="search.html?inpt1=--toke">--toke</a>, 
+                    <a class="links" href="search.html?inpt1=mutoke">mutoke</a>, 
+                    <a class="links" href="search.html?inpt1=muendu">muendu</a>           
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    L'état d'être relativement inconnu, discret, ou peu clair, souvent dépourvu de visibilité ou de notoriété.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    The state of being relatively unknown, inconspicuous, or unclear, often lacking visibility or prominence.
+                    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    ----
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>:
+    Nous marchons dans l'obscurité
+                    :<br>
+                    &nbsp
+    We walk in obscurity
+                    :<br>
+                    &nbsp:&nbsp
+    Tuetu tuenda mu midima :
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Mona*/   
     {
         English: "to see",
@@ -26007,7 +32066,7 @@ const nkongamiaku2 = [
     see <i class="PartOfSpch">tr.v</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kumona <i class="PartOfSpch">muan</i>
+    kumona <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -26702,11 +32761,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -26731,7 +32791,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -27362,11 +33422,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -27391,7 +33452,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -27949,11 +34010,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -27978,7 +34040,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -28084,11 +34146,12 @@ const nkongamiaku2 = [
                     :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
                     <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -28114,7 +34177,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -28654,11 +34717,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>, 
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>,
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -28683,7 +34747,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=muntu">muntu</a>,
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -29101,11 +35165,12 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -30524,7 +36589,7 @@ const nkongamiaku2 = [
     smell <i class="PartOfSpch">tr.v</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kununka <i class="PartOfSpch">muan</i>, <p>
+    kununka <i class="PartOfSpch">md</i>, <p>
     kununkila
     </td>
     </tr>
@@ -30619,7 +36684,7 @@ const nkongamiaku2 = [
     2. flee <i class="PartOfSpch">tr.v</i>
     </td>
     <td class="tabledef" valign=top >
-    kunyema <i class="PartOfSpch">mn</i><br>
+    kunyema <i class="PartOfSpch">md</i><br>
     </td>
     </td>
     </tr>
@@ -30738,11 +36803,12 @@ const nkongamiaku2 = [
                     :: <a class="links" href="search.html?inpt1=anyima">anyima</a>, 
                     <a class="links" href="search.html?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="search.html?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="search.html?inpt1=diboku">diboku</a>, 
+                    <a class="links" href="search.html?inpt1=diboko">diboko</a>, 
                     <a class="links" href="search.html?inpt1=difu">difu</a>,
-                    <a class="links" href="search.html?inpt1=dinu">dikasa</a>, 
+                    <a class="links" href="search.html?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="search.html?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="search.html?inpt1=dikiki">dikiki</a>,
+                <a class="links" href="search.html?inpt1=dikoshi">dikoshi</a>,
                     <a class="links" href="search.html?inpt1=dikoba">dikoba</a>,
                     <a class="links" href="search.html?inpt1=dinu">dinu</a>, 
                     <a class="links" href="search.html?inpt1=disu">disu</a>,
@@ -30768,7 +36834,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=munyinyi">munyinyi</a>,
                     <a class="links" href="search.html?inpt1=muoyo">muoyo</a>, 
                     <a class="links" href="search.html?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="search.html?inpt1=mutu">mutu</a>,
+                    <a class="links" href="search.html?inpt1=mutu">mutu</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>, <a class="links" href="search.html?inpt1=mutshima">mutshima</a>,
                     <a class="links" href="search.html?inpt1=nshingu">nshingu</a>,
                     <a class="links" href="search.html?inpt1=nyuma">nyuma</a>,
                     <a class="links" href="search.html?inpt1=tshiadi">tshiadi</a>,
@@ -30953,7 +37019,7 @@ const nkongamiaku2 = [
     give <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kupesha <i class="PartOfSpch">muan</i><p>
+    kupesha <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -31057,7 +37123,7 @@ const nkongamiaku2 = [
     <a class="links" href="search.html?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kupingaja <i class="PartOfSpch">muan</i><p>
+    kupingaja <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -31163,7 +37229,7 @@ const nkongamiaku2 = [
     <a class="links" href="search.html?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kupingana <i class="PartOfSpch">muan</i><p>
+    kupingana <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -31275,7 +37341,7 @@ const nkongamiaku2 = [
     <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
     </td>
     <td class="tabledef" valign=top >
-    kushila <i class="PartOfSpch">mn</i><p>
+    kushila <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -31381,7 +37447,7 @@ const nkongamiaku2 = [
     <a class="links" href="search.html?inpt1=kushiya">leave [positionally]</a>
     </td>
     <td class="tabledef" valign=top >
-    kushilangana <i class="PartOfSpch">mn</i><p>
+    kushilangana <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -31494,7 +37560,7 @@ const nkongamiaku2 = [
     <a class="links" href="search.html?inpt1=kushila">leave to []</a>
     </td>
     <td class="tabledef" valign=top >
-    kushiya <i class="PartOfSpch">mn</i>
+    kushiya <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -31601,7 +37667,7 @@ const nkongamiaku2 = [
     listen <i class="PartOfSpch">tr.v</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kutangila <i class="PartOfSpch">muan</i>
+    kutangila <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -31834,7 +37900,7 @@ const nkongamiaku2 = [
     
     </td>
     <td class="tabledef" valign=top >
-    kuteleja <i class="PartOfSpch">muan</i>
+    kuteleja <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -31929,7 +37995,7 @@ const nkongamiaku2 = [
     2. tempt <i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
-    kuteta <i class="PartOfSpch">mn</i><p>
+    kuteta <i class="PartOfSpch">md</i><p>
     </td>
     </tr>
     <tr>
@@ -33720,7 +39786,7 @@ const nkongamiaku2 = [
     
     </td>
     <td class="tabledef" valign=top >
-    kuumvua <i class="PartOfSpch">muan</i>
+    kuumvua <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -33903,7 +39969,7 @@ const nkongamiaku2 = [
     to go <i class="PartOfSpch">tr.v</i> <br>
     </td>
     <td class="tabledef" valign=top >
-    kuya <i class="PartOfSpch">muan</i>
+    kuya <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
