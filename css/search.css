@@ -11,7 +11,7 @@
 }
 .header .card{
     width: fit-content;
-    max-width: 80%;
+    max-width: 700px;
     background-color: rgb(245, 245, 245);
     color: #000000;
     position: relative;
