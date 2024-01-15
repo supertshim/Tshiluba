@@ -273,7 +273,6 @@ nav{
 }
 
 
-
 .MuakuWD {
     display: block;
     width: 100%;
@@ -335,8 +334,8 @@ nav .fa-solid{
     margin-bottom: 50px;
     top: 0px;
     text-align: center;
-    min-width: fit-content;
-    width: 450px;
+    min-width: 300px;
+    width: 500px;
     height: fit-content;
     border-radius: 30px;
     padding: 20px;
@@ -373,9 +372,10 @@ nav .fa-solid{
     font-weight: 700;
     color: #090152;
     margin-top: 0px;
-    line-height:2cap;
+    line-height:1.5cap;
     overflow: hidden;
     pointer-events: none;
+    margin-bottom: 20px;
 }
 .mwd .mwdPhon {
     font-family: Tahoma, sans-serif;
@@ -610,11 +610,12 @@ nav .fa-solid{
         font-size: 10vw;
         font-weight: 700;
         color: #090152;
-        margin-top: 5vh;
+        margin-top: 4vw;
+        margin-bottom: 4vw;
         word-wrap:break-word;
         line-height:1.2ch;
-        overflow: hidden;    
-        height: 8vh;
+        overflow: visible;    
+        height: fit-content;
     }
 
     .mwd .mwdPhon {
