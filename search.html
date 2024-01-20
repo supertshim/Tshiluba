@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--FACEBOOK SHARE META INFO-->
 <meta property="og:type"          content="website" />
-<meta property="og:title"         content="TSHILUBA.co | " />
 <meta property="og:description"   content="Your description" />
 <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
 <!--END-->
@@ -390,6 +389,13 @@ shuffle(mwdarrayx);
     metaUrl.setAttribute('property', 'og:url');
     metaUrl.content = document.location;
     document.getElementsByTagName('head')[0].appendChild(metaUrl);
+    /*The meta title set*/
+    var metaTitle = document.createElement('meta');
+    metaTitle.setAttribute('property', 'og:title');
+    var metaTitleWord = document.getElementById("inf1");
+    metaTitle.content = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]|\s/g, "")}`;
+    document.getElementsByTagName('head')[0].appendChild(metaTitle);
+
 
 </script>
 
