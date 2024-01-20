@@ -394,6 +394,9 @@ shuffle(mwdarrayx);
     var metaTitleWord = document.getElementById("inf1");
     metaTitle.content = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
     document.getElementsByTagName('head')[0].appendChild(metaTitle);
+    var metaTitle2 = document.createElement('title');
+    metaTitle2.innerHTML = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
+    document.getElementsByTagName('head')[0].appendChild(metaTitle2);
 
 
 </script>
