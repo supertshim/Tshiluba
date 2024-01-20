@@ -3,8 +3,8 @@
 <head>
     <meta property="og:url"           content="">
     <meta property="og:type"          content="article">
-    <meta property="og:title"         content="Your Website Title">
-    <meta property="og:description"   content="Your description">
+    <meta property="og:title"         content="">
+    <meta property="og:description"   content="">
     <meta property="og:image"         content="https://tshiluba.co/images/tshiluba-co-social-share.png">
     <meta property="og:image:width" content="813">
     <meta property="og:image:height" content="456">
@@ -384,10 +384,10 @@ shuffle(mwdarrayx);
     var metaTitle = document.createElement('meta');
     metaTitle.setAttribute('property', 'og:title');
     var metaTitleWord = document.getElementById("inf1");
-    metaTitle.content = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
+    metaTitle.content = `TSHILUBA.co Dictionary | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
     document.getElementsByTagName('head')[0].appendChild(metaTitle);
     var metaTitle2 = document.createElement('title');
-    metaTitle2.innerHTML = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
+    metaTitle2.innerHTML = `TSHILUBA.co Dictionary | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
     document.getElementsByTagName('head')[0].appendChild(metaTitle2);
     const metaTitle3 = encodeURIComponent(document.querySelector('title').textContent);
 
