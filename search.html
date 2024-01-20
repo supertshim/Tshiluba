@@ -6,11 +6,6 @@
      crossorigin="anonymous"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--FACEBOOK SHARE META INFO-->
-<meta property="og:type"          content="website">
-<meta property="og:description"   content="Your description">
-<meta property="og:image"         content="https://www.your-domain.com/path/image.jpg">
-<!--END-->
     <iframe src="wordindex.html" style="display:none"></iframe>
 <!--Link to the style code-->
     <link rel="stylesheet" href="css/style.css">
@@ -203,24 +198,10 @@ Nubuelayi apa diandamuna webe.`,
     <span><hr></span>
 
 
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-var js, fjs = d.getElementsByTagName(s)[0];
-if (d.getElementById(id)) return;
-js = d.createElement(s); js.id = id;
-js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your share button code -->
-<div class="fb-share-button" 
-data-href="https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI" 
-data-layout="button_count">
-</div>
-
+<!-- Load Facebook SDK for JavaScript
+<a class="fbshare" target="blank"><img src="images/facebook-icon-1.svg" alt=""></a>
     </div>
- <!--END OF SIDE BAR CODE-->
+ <--END OF SIDE BAR CODE-->
     
 </div>
 </section>
@@ -377,16 +358,10 @@ shuffle(mwdarrayx);
 <!--FB SHARE BUTTON CODE-->
 <script>
 
-    let fblink = document.querySelector('.fb-share-button');
-    var getwindowlink = document.location.href
-    let oldHref = fblink.href;
-    fblink.removeAttribute('href');
-    fblink.setAttribute("data-href", getwindowlink);
-    fblink.setAttribute("href", getwindowlink);
-    /*The metaurl set*/
+    /*The metaurl se
     var metaUrl = document.createElement('meta');
     metaUrl.setAttribute('property', 'og:url');
-    metaUrl.content = document.location;
+    metaUrl.content = `https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI`;
     document.getElementsByTagName('head')[0].appendChild(metaUrl);
     /*The meta title set*/
     var metaTitle = document.createElement('meta');
@@ -397,7 +372,13 @@ shuffle(mwdarrayx);
     var metaTitle2 = document.createElement('title');
     metaTitle2.innerHTML = `TSHILUBA.co | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
     document.getElementsByTagName('head')[0].appendChild(metaTitle2);
-
+    const metaTitle3 = encodeURIComponent(document.querySelector('title').textContent);
+    /*the fb share link
+    let fblink = document.querySelector('.fbshare');
+    var getwindowlink = document.location.href
+    fblink.href = `https://www.facebook.com/share.php?u=https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI`;
+    fblink.setAttribute("data-href", 'https://www.facebook.com/share.php?u=https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI');
+    fblink.setAttribute("href", 'https://www.facebook.com/share.php?u=https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI');*/
 
 </script>
 
