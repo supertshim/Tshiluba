@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!--FACEBOOK SHARE META INFO-->
 <meta property="og:type"          content="website" />
-<meta property="og:title"         content="Your Website Title" />
+<meta property="og:title"         content="TSHILUBA.co | " />
 <meta property="og:description"   content="Your description" />
 <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
 <!--END-->
@@ -218,7 +218,8 @@ fjs.parentNode.insertBefore(js, fjs);
 <!-- Your share button code -->
 <div class="fb-share-button" 
 data-href="https://tshiluba.co/search.html?inpt1=BINUNU%20DIKUMI" 
-data-layout="button_count">
+data-layout="button_count"
+daga-size="large">
 </div>
 
     </div>
@@ -380,21 +381,17 @@ shuffle(mwdarrayx);
 <script>
 
     let fblink = document.querySelector('.fb-share-button');
-    var getwindowlink = window.location.search
+    var getwindowlink = document.location.href
     let oldHref = fblink.href;
     fblink.removeAttribute('href');
     fblink.setAttribute("data-href", getwindowlink);
-
-</script>
-
-<script> 
+    /*The metaurl set*/
     var metaUrl = document.createElement('meta');
     metaUrl.setAttribute('property', 'og:url');
     metaUrl.content = document.location;
-    document.getElementsByTagName('head')[0];
-    console.log(document.location.value);
-  </script>
+    document.getElementsByTagName('head')[0].appendChild(metaUrl);
 
+</script>
 
 </body>
 
