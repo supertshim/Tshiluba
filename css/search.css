@@ -495,12 +495,13 @@ a.links:visited {
 
 /*---------------------------SHARE FACEBOOK------------------------------*/
 
-.fb-share-button span{
-    width: 1000px !important;
+.fbshare img{
+    width: 100px !important;
     text-align: center ;
     display: flex !important;
     justify-content: center;
     padding: 20px;
+    cursor: pointer;
 }
 
 /*---------------------------END OF FB------------------------------*/
