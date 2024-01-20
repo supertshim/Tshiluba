@@ -278,7 +278,7 @@ data-layout="button_count">
 <script>
 
     var getitem = window.location.search;
-    var homeindexword = getitem.slice(7,getitem.length);
+    var homeindexword = getitem.slice(7,getitem.length).split('&')[0];
     window.onload = maininpt();
     
 </script>
@@ -382,6 +382,7 @@ shuffle(mwdarrayx);
     let oldHref = fblink.href;
     fblink.removeAttribute('href');
     fblink.setAttribute("data-href", getwindowlink);
+    fblink.setAttribute("href", getwindowlink);
     /*The metaurl set*/
     var metaUrl = document.createElement('meta');
     metaUrl.setAttribute('property', 'og:url');
