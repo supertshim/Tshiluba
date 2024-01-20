@@ -40,6 +40,7 @@ nav{
     padding: 40px;
     justify-content: space-between;
     align-items: center;
+    z-index: 2;
 }
 
 /* The Navigation Link Position on Page*/
@@ -82,7 +83,7 @@ nav{
     font-family: 'Montserrat', sans-serif;
     color: #000000;
     font-size: 20px;
-    background-color: transparent;
+    background-color: white;
     border: solid rgb(0, 0, 0) 1px;
     position: absolute;
     border-radius: 5px;
@@ -95,6 +96,7 @@ nav{
     transform: translateY(9px);
     width: fit-content;
     overflow: hidden;
+    z-index: 2;
 }
 
 .nav-links .dropdown a {
@@ -395,6 +397,11 @@ nav .fa-solid{
     line-height: 25px;
     overflow: hidden;
 }
+
+
+
+
+
 
 /*Settings For Screens with Max width 700px*/
 
@@ -762,9 +769,11 @@ nav .fa-solid{
     font-family:'Jost', sans-serif;
     font-weight: 700;
     color: #000000;
+    margin-top: 100px;
 }
-.footer a{
+.footer a, .footer th{
     color: black;
+    font-family:'Jost', sans-serif;
 }
 
 .footer img{
@@ -773,8 +782,8 @@ nav .fa-solid{
 
 .footer .social-media{
     margin-top: 50px;
-    height: 30px;
-    padding: 10px;
+    height: 30px !important;
+    padding: 0px !important;
 }
 
 .footer table {
