@@ -1460,10 +1460,10 @@ binunu bibidi, 2000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [21]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -1549,11 +1549,11 @@ binunu binayi, 4000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=4">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>
-                <a class="links" href="search.html?inpt1=24">makumi abidi ne isatu [24]</a>,
-                <a class="links" href="search.html?inpt1=40">makumi anayi [40]</a>, 
-                <a class="links" href="search.html?inpt1=400">nkama abidi [400]</a>,  
+                <a class="links" href="search.html?inpt1=inayi">inayi [4]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne inayi">dikumi ne inayi [14]</a>
+                <a class="links" href="search.html?inpt1=makumi abidi ne inayi">makumi abidi ne inayi [24]</a>,
+                <a class="links" href="search.html?inpt1=makumi anayi">makumi anayi [40]</a>, 
+                <a class="links" href="search.html?inpt1=nkama inayi">nkama inayi [400]</a>,  
 <br><br></td>
 </tr>` 
 },
@@ -1639,11 +1639,11 @@ binunu bisambombo, 6000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
-                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>, 
-                <a class="links" href="search.html?inpt1=26">makumi abidi ne isambombo [26]</a>,
-                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,
-                <a class="links" href="search.html?inpt1=600">nkama abidi [600]</a>  
+                <a class="links" href="search.html?inpt1=isambombo">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isambombo">dikumi ne isambombo [16]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne isambombo">makumi abidi ne isambombo [26]</a>,
+                <a class="links" href="search.html?inpt1=makumi asambombo">makumi asambombo [60]</a>,
+                <a class="links" href="search.html?inpt1=nkama isambombo">nkama isambombo [600]</a>  
 <br><br></td>
 </tr>` 
 },
@@ -1729,11 +1729,11 @@ binunu bisatu, 3000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=3">ibidi [3]</a>,
-                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>
-                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>,
-                <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a> 
-                <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>,  
+                <a class="links" href="search.html?inpt1=isatu">isatu [3]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isatu">dikumi ne isatu [13]</a>
+                <a class="links" href="search.html?inpt1=makumi abidi ne isatu">makumi abidi ne isatu [23]</a>,
+                <a class="links" href="search.html?inpt1=makumi asatu">makumi asatu [30]</a> 
+                <a class="links" href="search.html?inpt1=nkama isatu">nkama isatu [300]</a>,  
 <br><br></td>
 </tr>` 
 },
@@ -1819,10 +1819,10 @@ binunu bitanu, 5000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
-                <a class="links" href="search.html?inpt1=15">dikumi ne ibidi [15]</a>, 
-                <a class="links" href="search.html?inpt1=50">makumi atanu [50]</a>,
-                <a class="links" href="search.html?inpt1=500">nkama abidi [500]</a>  
+                <a class="links" href="search.html?inpt1=itanu">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne itanu">dikumi ne itanu [15]</a>, 
+                <a class="links" href="search.html?inpt1=makumi atanu">makumi atanu [50]</a>,
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [500]</a>  
                 
 <br><br></td>
 </tr>` 
@@ -1909,11 +1909,11 @@ binunu dikumi, 10000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=0">tshijengu [0]</a>,
-                <a class="links" href="search.html?inpt1=1">umwe [1]</a>,
-                <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
-                <a class="links" href="search.html?inpt1=100">lukama [100]</a>,
-                <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
+                <a class="links" href="search.html?inpt1=tshijengu">tshijengu [0]</a>,
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>,
+                <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -1999,11 +1999,11 @@ binunu lukama, 100000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=0">tshijengu [0]</a>,
-                <a class="links" href="search.html?inpt1=1">umwe [1]</a>,
-                <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
-                <a class="links" href="search.html?inpt1=100">lukama [100]</a>,
-                <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
+                <a class="links" href="search.html?inpt1=tshijengu">tshijengu [0]</a>,
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>,
+                <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
                 <a class="links" href="search.html?inpt1=10000">binunu dikumi [10000]</a>
 <br><br></td>
 </tr>` 
@@ -2090,11 +2090,11 @@ binunu muanda-mutekete, 7000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
-                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [12]</a>,
-                <a class="links" href="search.html?inpt1=27">makumi abidi ne muanda-mutekete [27]</a>,
-                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
-                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>
+                <a class="links" href="search.html?inpt1=muanda-mutekete">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=dikume ne muanda-mutekete">dikumi ne muanda-mutekete [17]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne muanda-mutekete">makumi abidi ne muanda-mutekete [27]</a>,
+                <a class="links" href="search.html?inpt1=mukami muanda-mutekete">makumi muanda-mutekete [70]</a>, 
+                <a class="links" href="search.html?inpt1=nkama muanda-mutekete">nkama muanda-mutekete [700]</a>
 <br><br></td>
 </tr>` 
 },
@@ -2180,11 +2180,11 @@ binunu muanda-mukulu, 8000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
-                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
-                <a class="links" href="search.html?inpt1=28">makumi abidi ne muanda-mukulu [28]</a>,
-                <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>, 
-                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>
+                <a class="links" href="search.html?inpt1=muanda-mukulu">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne muanda-mukulu">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne muanda-mukulu">makumi abidi ne muanda-mukulu [28]</a>,
+                <a class="links" href="search.html?inpt1=makumi muanda-mukulu">makumi muanda-mukulu [80]</a>, 
+                <a class="links" href="search.html?inpt1=nkama muanda-mukulu">nkama muanda-mukulu [800]</a>
 <br><br></td>
 </tr>` 
 },
@@ -2270,11 +2270,11 @@ binunu tshitema, 9000 <i class="PartOfSpch">tshi9</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
-                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
-                <a class="links" href="search.html?inpt1=19">dikumi abidi ne tshitema [29]</a>,
-                <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>, 
-                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>
+                <a class="links" href="search.html?inpt1=tshitema">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne tshitema">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne tshitema">makumi abidi ne tshitema [29]</a>,
+                <a class="links" href="search.html?inpt1=makumi tshitema">makumi tshitema [90]</a>, 
+                <a class="links" href="search.html?inpt1=nkama tshitema">nkama tshitema [900]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5036,10 +5036,10 @@ dikumi ne ibidi, 12 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>, 
-                <a class="links" href="search.html?inpt1=20">makumi abidi[20]</a>,  
-                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>.
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi">makumi abidi[20]</a>,  
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>.
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -10078,6 +10078,98 @@ Kanungu 5 :
 </tr>
 `
 },
+/*Kasuyi*/   
+{
+    English: "small axe",
+    French: "petite hache",
+    Tshiluba: "Kasuyi",
+    PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Ka·su·yi<p>/Kah-soo-yee/</p>",
+    PhoneticsT: "petite hache / small axe",
+    English2: "little axe",
+    French2: "mini axe",
+    Tshiluba2: " ",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "soul",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+petite hache <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+small axe <i class="PartOfSpch">n</i><br>
+little axe <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+kasuyi <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> tusuyi <br><br>
+
+tangila:<br>
+<a class="links" href="search.html?inpt1=tshisuyi">tshisuyi</a>
+</td>
+</tr>
+
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="search.html?inpt1=difuma">difuma</a>, 
+                <a class="links" href="search.html?inpt1=kabende">kabende</a>,
+                <a class="links" href="search.html?inpt1=kele">kele</a>, 
+                <a class="links" href="search.html?inpt1=lubale">lubale</a>,
+                <a class="links" href="search.html?inpt1=muele">muele</a>, 
+                <a class="links" href="search.html?inpt1=mukete">mukete</a>, 
+                <a class="links" href="search.html?inpt1=mupanga">mupanga</a>, 
+                <a class="links" href="search.html?inpt1=ngabu">ngabu</a>, 
+                <a class="links" href="search.html?inpt1=tshisuyi">tshisuyi</a>,
+<br><br></td>
+</tr>
+`
+},
 /*-Kosa*/   
 {
     English: "to cut",
@@ -10153,7 +10245,7 @@ kukosa <i class="PartOfSpch">md</i>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+<b><i>Conjugaison | Conjugation | Mpindekenu</i></b>mukana<br><br>
 1. je coupes | I cut | <b>ndi nkosa</b><br><br>
 2. tu coupes | you cut | <b>udi ukosa</b><br><br>
 3. il/elle coupe | he/she cuts | <b>udi ukosa</b><br><br>
@@ -14104,10 +14196,10 @@ Big hands :
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: "females",
-    French5: " ",
+    French5: "la femme",
     Tshiluba5: " ",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "les femmes",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -14576,7 +14668,7 @@ Someone who guides, directs, or influences others within a group, organization, 
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "males",
-    French4: " ",
+    French4: "l'homme",
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: " ",
@@ -16084,7 +16176,7 @@ Mutotu umue udi ushilangana ne mutotu mukuabu ku butumbi.
 {
     English: "a head",
     French: "la tête",
-    Tshiluba: "mukana",
+    Tshiluba: "mutu",
     PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
     Phonetics: "Mu·tu<p>/Muu-TUU/</p>",
     PhoneticsT: "tête / head",
@@ -20987,7 +21079,7 @@ umwe, 1 <i class="PartOfSpch">tshi</i>
                 <a class="links" href="search.html?inpt1=11">dikumi ne umwe [11]</a>,
                 <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>,
                 <a class="links" href="search.html?inpt1=100">lukama [100]</a>, 
-                <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
+                <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
 </tr>`  
 },
@@ -22527,11 +22619,11 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="search.html?inpt1=3">ibidi [3]</a>,
-                    <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>
-                    <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>,
-                    <a class="links" href="search.html?inpt1=30">makumi asatu [30]</a> 
-                    <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>,  
+                    <a class="links" href="search.html?inpt1=isatu">isatu [3]</a>,
+                    <a class="links" href="search.html?inpt1=dikumi ne isatu">dikumi ne isatu [13]</a>
+                    <a class="links" href="search.html?inpt1=makumi abidi ne isatu">makumi abidi ne isatu [23]</a>,
+                    <a class="links" href="search.html?inpt1=makumi asatu">makumi asatu [30]</a>, 
+                    <a class="links" href="search.html?inpt1=nkama isatu">nkama isatu [300]</a>,  
     <br><br></td>
     </tr>` 
     },
@@ -22617,10 +22709,10 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
-                    <a class="links" href="search.html?inpt1=15">dikumi ne ibidi [15]</a>, 
-                    <a class="links" href="search.html?inpt1=50">makumi atanu [50]</a>,
-                    <a class="links" href="search.html?inpt1=500">nkama abidi [500]</a>  
+                    <a class="links" href="search.html?inpt1=itanu">itanu [5]</a>,
+                    <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [15]</a>, 
+                    <a class="links" href="search.html?inpt1=makumi atanu">makumi atanu [50]</a>,
+                    <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [500]</a>  
                     
     <br><br></td>
     </tr>` 
@@ -22707,11 +22799,11 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="search.html?inpt1=0">tshijengu [0]</a>,
-                    <a class="links" href="search.html?inpt1=1">umwe [1]</a>,
-                    <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
-                    <a class="links" href="search.html?inpt1=100">lukama [100]</a>,
-                    <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
+                    <a class="links" href="search.html?inpt1=tshijengu">tshijengu [0]</a>,
+                    <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>,
+                    <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -22797,12 +22889,12 @@ const nkongamiaku2 = [
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="search.html?inpt1=0">tshijengu [0]</a>,
-                    <a class="links" href="search.html?inpt1=1">umwe [1]</a>,
-                    <a class="links" href="search.html?inpt1=10">dikumi [10]</a>,
-                    <a class="links" href="search.html?inpt1=100">lukama [100]</a>,
-                    <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
-                    <a class="links" href="search.html?inpt1=10000">binunu dikumi [10000]</a>
+                    <a class="links" href="search.html?inpt1=tshijengu">tshijengu [0]</a>,
+                    <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>,
+                    <a class="links" href="search.html?inpt1=dikumi">dikumi [10]</a>,
+                    <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
+                    <a class="links" href="search.html?inpt1=binunu dikumi">binunu dikumi [10000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -35093,7 +35185,7 @@ const nkongamiaku2 = [
     {
         English: "a head",
         French: "la tête",
-        Tshiluba: "mukana",
+        Tshiluba: "mutu",
         PartOfSpeech: '<a class="links" href="search.html?inpt1=noun">nom</a> | <a class="links" href="search.html?inpt1=noun">noun</a> | <a class="links" href="search.html?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Mu·tu<p>/Muu-TUU/</p>",
         PhoneticsT: "tête / head",
@@ -39900,7 +39992,7 @@ const nkongamiaku2 = [
                     <a class="links" href="search.html?inpt1=11">dikumi ne umwe [11]</a>,
                     <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>,
                     <a class="links" href="search.html?inpt1=100">lukama [100]</a>, 
-                    <a class="links" href="search.html?inpt1=1000">tshinunu [1000]</a>
+                    <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
     <br><br></td>
     </tr>`  
     },
