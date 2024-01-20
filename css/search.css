@@ -491,9 +491,20 @@ a.links:visited {
     margin: 10px;
 }
 
-
-
 /*---------------------------END OF FOLLOW US------------------------------*/
+
+/*---------------------------SHARE FACEBOOK------------------------------*/
+
+.fb-share-button span{
+    width: 1000px !important;
+    text-align: center ;
+    display: flex !important;
+    justify-content: center;
+    padding: 20px;
+}
+
+/*---------------------------END OF FB------------------------------*/
+
 
 /*---------------------END OF SIDEBAR-------------------*/
 
