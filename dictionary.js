@@ -139,15 +139,18 @@ bia <i class="PartOfSpch">kad</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Les rapports de possession entre deux noms s'expriment au moyen de la particule --a qui prend le prefixe correspondant a la classe du premier substantif.
                 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The relations of possession between two nouns are expressed by means of the particle --a which takes the prefix corresponding to the class of the first noun.
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -420,13 +423,17 @@ kuakula <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
-Exprimer des pensées, des idées ou des informations par la communication verbale en utilisant des mots ou des sons articulés.
+<p class="explanation-fr">
+Exprimer des pensées, des idées ou des informations par la communication verbale en utilisant des mots ou des sons articulés.</p>
 <br><br>
 <b><i>Explanation</i></b><br>
-To express thoughts, ideas, or information through verbal communication using words or articulate sounds. 
+<p class="explanation-en">
+To express thoughts, ideas, or information through verbal communication using words or articulate sounds.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -535,13 +542,18 @@ kuamba <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Communiquer ou exprimer quelque chose verbalement en prononçant des mots ou des phrases, transmettant des pensées, des informations ou des sentiments par la parole.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To communicate or express something verbally by uttering words or phrases, conveying thoughts, information, or feelings through speech. 
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -662,13 +674,18 @@ kuambakaja <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Disposer des articles les uns sur les autres en une pile soignée et ordonnée, généralement pour économiser de l'espace ou faciliter le stockage.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "To stack" means to arrange items one on top of another in a neat or orderly pile, typically to save space or facilitate storage.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -776,13 +793,18 @@ kuangata <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Saisir, attraper, ou obtenir la possession de quelque chose avec ses mains, ou accepter et acquérir quelque chose de manière volontaire.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To grasp, seize, or obtain possession of something with one's hands or to accept or acquire something willingly.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -890,13 +912,18 @@ anyima <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -1048,13 +1075,18 @@ kuanyisha <i class="PartOfSpch">md</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Donner la permission ou le consentement pour qu'une action, un événement ou un comportement spécifique ait lieu. Approuver officiellement ou endosser quelque chose, indiquant le consentement ou un jugement favorable envers une action, une décision ou une proposition particulière.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To grant permission or consent for a specific action, event, or behavior to take place. To officially agree to or endorse something, indicating consent or favorable judgment toward a particular action, decision, or proposal.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -1313,13 +1345,18 @@ bikoyikoyi <i class="PartOfSpch">tshi9</i><br><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un squelette est la structure interne des os dans un organisme, fournissant un soutien structurel, facilitant le mouvement et protégeant les organes vitaux.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The internal framework of bones in an organism, providing structural support, facilitating movement, and protecting vital organs.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -2510,13 +2547,18 @@ kubuela <i class="PartOfSpch">md</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Entrer" signifie aller ou venir dans un lieu, un espace ou une situation. Cela implique de passer de l'extérieur à l'intérieur, d'obtenir l'accès ou l'admission à un endroit particulier, ou de devenir un participant à une activité ou un état spécifique.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To go or come into a place, space, or situation. It involves moving from outside to inside, gaining access or admission to a particular location, or becoming a participant in a specific activity or state.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -2632,13 +2674,18 @@ bufike <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'état, la qualité ou la condition d'être noir ou d'avoir une couleur sombre.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The state, quality, or condition of being black or having a dark color.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -2743,13 +2790,18 @@ bukonda <i class="PartOfSpch">tshi3</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Le frère ou la sœur du conjoint, ou le mari ou la femme du frère ou de la sœur."
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The brother or sister of one's spouse, or the husband or wife of one's sibling.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -2861,13 +2913,18 @@ bulelela <i class="PartOfSpch">tshi3</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "La "vérité" fait référence à l'état ou à la qualité d'être en accord avec les faits ou la réalité. La vérité est un état absolu ou vérifiable qui est en harmonie avec la réalité, l'honnêteté et la sincérité."
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Truth" refers to the state or quality of being in accordance with fact or reality. Truth is an absolute or verifiable state that aligns with actuality, honesty, and sincerity.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3169,13 +3226,18 @@ butoke <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La lumière désigne à la fois la qualité de luminosité, ainsi qu'une représentation métaphorique de la compréhension, du savoir ou de l'illumination. Physiquement, il s'agit d'un rayonnement électromagnétique qui nous permet de percevoir le monde visuellement, tandis que métaphoriquement, elle symbolise la clarté, l'acuité ou l'illumination dans divers contextes, tels que la sagesse, la vérité ou la conscience spirituelle.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The quality of brightness, as well as a metaphorical representation of understanding, knowledge, or illumination. Physically, it's electromagnetic radiation that allows us to perceive the world visually, while metaphorically, it symbolizes clarity, insight, or enlightenment in various contexts, such as wisdom, truth, or spiritual awareness.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3287,19 +3349,24 @@ diba <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.<br><br>
 Le mot Diba est également utilisé pour décrire l'heure de la journée, lorsqu'on indique l'heure, ou le nombre d'heures.<br><br>
 Le mot Diba est également utilisé pour décrire le "soleil" : une étoile au centre de notre système solaire, autour de laquelle la Terre et d'autres corps célestes orbitent.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.<br>
 <br>
 The word Diba is also used to describe the time of day, when describing what time it is, or the number of hours.<br>
 <br>
 The word Diba is also used to describe the "sun": a star at the center of our solar system, around which the Earth and other celestial bodies orbit.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3437,13 +3504,18 @@ dibele <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La glande mammaire et le tissu sus-jacent à l'avant de la poitrine chez les humains, généralement composés de lobes producteurs de lait et de tissu conjonctif.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The mammary gland and the overlying tissue on the front of the chest in humans, typically composed of milk-producing lobes and connective tissue.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3571,13 +3643,18 @@ diboko <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un "bras" est le membre supérieur du corps humain, s'étendant de l'épaule à la main, et se composant généralement du bras supérieur, de l'avant-bras et de la main, utilisé pour diverses activités telles que la saisie et la manipulation d'objets.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 An "arm" is the upper limb of the human body, extending from the shoulder to the hand, and typically consisting of the upper arm, forearm, and hand, used for various activities such as grasping and manipulating objects.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3714,13 +3791,18 @@ didima <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un fruit appartenant au genre Citrus, comprenant des fruits couramment consommés tels que les oranges, les citrons, les citrons verts et les pamplemousses. Ces fruits sont connus pour leurs intérieurs juteux et pulpeux, leur teneur élevée en vitamine C et leur saveur caractéristique et acidulée.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A fruit belonging to the genus Citrus, including commonly consumed fruits such as oranges, lemons, limes, and grapefruits. These fruits are known for their juicy and pulpy interiors, high vitamin C content, and a characteristic tangy flavor.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3825,13 +3907,18 @@ tangila:<br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La partie du corps située entre la poitrine et le bassin, contenant les organes digestifs tels que l'estomac, le foie, les intestins et d'autres structures.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To the part of the body between the chest and the pelvis, containing the digestive organs such as the stomach, liver, intestines, and other structures.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -3960,13 +4047,18 @@ dikala <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4052,13 +4144,18 @@ dikasa <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La partie inférieure de la jambe, en dessous de la cheville et comprenant le talon, la voûte plantaire et les orteils, servant de partie fondamentale du corps humain pour se tenir debout, marcher et d'autres formes de locomotion.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The lower extremity of the leg, below the ankle and consisting of the heel, arch, and toes, serving as a foundational part of the human body for standing, walking, and other forms of locomotion.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4186,13 +4283,18 @@ dikaya <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'épaule" est la partie du corps où le bras supérieur se connecte au torse, comprenant l'articulation formée par l'humérus, la clavicule et l'omoplate, permettant une gamme de mouvements du bras.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The "shoulder" is the part of the body where the upper arm connects to the torso, including the joint formed by the humerus, clavicle, and scapula, allowing for a range of arm movements.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4320,13 +4422,18 @@ dikiki <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La "sourcil" est la bande de poils située au-dessus de l'œil, le long de l'os du sourcil, servant à protéger les yeux de la sueur, des débris et de la lumière du soleil, et jouant souvent un rôle dans les expressions du visage et la communication non verbale.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The strip of hair located above the eye, along the brow bone, serving to protect the eyes from sweat, debris, and sunlight, and often playing a role in facial expressions and non-verbal communication.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4453,13 +4560,18 @@ dikoba <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La peau" désigne la couverture protectrice la plus externe du corps, composée de plusieurs couches de tissus, comprenant l'épiderme et le derme, et remplissant diverses fonctions telles que la protection contre les éléments externes, la régulation de la température et la sensation.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The outermost protective covering of the body, consisting of multiple layers of tissue, including the epidermis and dermis, and serving various functions such as protection against external elements, regulation of temperature, and sensation.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4588,13 +4700,18 @@ dikonda <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une "banane plantain" désigne une variété de banane qui est plus grande, plus féculente et moins sucrée que la banane de dessert commune. Les plantains sont souvent utilisés comme aliment de base dans de nombreuses régions tropicales, en particulier en Afrique, dans les Caraïbes et dans certaines parties de l'Asie du Sud-Est. Ils sont polyvalents et peuvent être cuisinés à différents stades de maturité, allant du vert et féculent au jaune et sucré, en fonction de l'application culinaire.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A variety of banana that is larger, starchier, and less sweet than the common dessert banana. Plantains are often used as a staple food in many tropical regions, particularly in Africa, the Caribbean, and parts of Southeast Asia. They are versatile and can be cooked at different stages of ripeness, ranging from green and starchy to yellow and sweet, depending on the culinary application.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4689,13 +4806,18 @@ dikoshi <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'arrière du cou, plus précisément à la partie inférieure où la naissance des cheveux rencontre le cou.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The back of the neck, specifically the lower part where the hairline meets the neck
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -4823,13 +4945,18 @@ diku <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La "famille" fait référence à un groupe d'individus liés par le sang, le mariage, l'adoption, ou un sentiment de liens partagés et de soutien mutuel, formant une unité sociale qui vit généralement ensemble et collabore dans divers aspects de la vie. Les familles peuvent varier considérablement en termes de structure, de taille et de dynamiques.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Family" refers to a group of individuals connected by blood, marriage, adoption, or a sense of shared bonds and mutual support, forming a social unit that typically lives together and collaborates in various aspects of life. Families can vary widely in structure, size, and dynamics.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -5126,10 +5253,10 @@ dikumi ne inayi, 14 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=4">inayi [4]</a>, 
-                <a class="links" href="search.html?inpt1=40">makumi anayi[40]</a>,  
-                <a class="links" href="search.html?inpt1=400">nkama inayi [400]</a>.
-                <a class="links" href="search.html?inpt1=4000">binunu binayi [4000]</a>
+                <a class="links" href="search.html?inpt1=inayi">inayi [4]</a>, 
+                <a class="links" href="search.html?inpt1=makumi anayi">makumi anayi[40]</a>,  
+                <a class="links" href="search.html?inpt1=nkama inayi">nkama inayi [400]</a>.
+                <a class="links" href="search.html?inpt1=binunu binayi">binunu binayi [4000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5216,10 +5343,10 @@ dikumi ne isambombo, 16 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>, 
-                <a class="links" href="search.html?inpt1=60">makumi asambombo [60]</a>,  
-                <a class="links" href="search.html?inpt1=600">nkama isambombo [600]</a>.
-                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+                <a class="links" href="search.html?inpt1=isambombo">isambombo [6]</a>, 
+                <a class="links" href="search.html?inpt1=makumi asambombo">makumi asambombo [60]</a>,  
+                <a class="links" href="search.html?inpt1=nkama isambombo">nkama isambombo [600]</a>.
+                <a class="links" href="search.html?inpt1=binunu bisambombo">binunu bisambombo [6000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5306,10 +5433,10 @@ dikumi ne isatu, 13 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=3">isatu [3]</a>, 
-                <a class="links" href="search.html?inpt1=30">makumi asatu[30]</a>,  
-                <a class="links" href="search.html?inpt1=300">nkama isatu [300]</a>.
-                <a class="links" href="search.html?inpt1=3000">binunu bisatu [3000]</a>
+                <a class="links" href="search.html?inpt1=isatu">isatu [3]</a>, 
+                <a class="links" href="search.html?inpt1=makumi asatu">makumi asatu[30]</a>,  
+                <a class="links" href="search.html?inpt1=nkama isatu">nkama isatu [300]</a>.
+                <a class="links" href="search.html?inpt1=binunu bisatu">binunu bisatu [3000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5396,10 +5523,10 @@ dikumi ne itanu, 15 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=5">itanu [5]</a>, 
-                <a class="links" href="search.html?inpt1=50">makumi atanu[50]</a>,  
-                <a class="links" href="search.html?inpt1=500">nkama itanu [500]</a>.
-                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+                <a class="links" href="search.html?inpt1=itanu">itanu [5]</a>, 
+                <a class="links" href="search.html?inpt1=makumi atanu">makumi atanu[50]</a>,  
+                <a class="links" href="search.html?inpt1=nkama itanu">nkama itanu [500]</a>.
+                <a class="links" href="search.html?inpt1=binunu bitanu">binunu bitanu [5000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5486,10 +5613,10 @@ dikumi ne muanda-mutekete, 17 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>, 
-                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>,  
-                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>.
-                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+                <a class="links" href="search.html?inpt1=muanda-mutekete">muanda-mutekete [7]</a>, 
+                <a class="links" href="search.html?inpt1=makumi muanda-mutekete">makumi muanda-mutekete [70]</a>,  
+                <a class="links" href="search.html?inpt1=nkama muanda-mutekete">nkama muanda-mutekete [700]</a>.
+                <a class="links" href="search.html?inpt1=binunu muanda-mutekete">binunu muanda-mutekete [7000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5576,10 +5703,10 @@ dikumi ne muanda-mukulu, 18 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>, 
-                <a class="links" href="search.html?inpt1=80">makumi muanda-mukulu [80]</a>,  
-                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>.
-                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
+                <a class="links" href="search.html?inpt1=muanda-mukulu">muanda-mukulu [8]</a>, 
+                <a class="links" href="search.html?inpt1=makumi muanda-mukulu">makumi muanda-mukulu [80]</a>,  
+                <a class="links" href="search.html?inpt1=nkama muanda-mukulu">nkama muanda-mukulu [800]</a>.
+                <a class="links" href="search.html?inpt1=binunu muanda-mukulu">binunu muanda-mukulu [8000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5666,10 +5793,10 @@ dikumi ne tshitema, 19 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>, 
-                <a class="links" href="search.html?inpt1=90">makumi tshitema [90]</a>,  
-                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,
-                <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
+                <a class="links" href="search.html?inpt1=tshitema">tshitema [9]</a>, 
+                <a class="links" href="search.html?inpt1=makumi tshitema">makumi tshitema [90]</a>,  
+                <a class="links" href="search.html?inpt1=nkama tshitema">nkama tshitema [900]</a>,
+                <a class="links" href="search.html?inpt1=binunu tshitema">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -5756,7 +5883,7 @@ dikumi ne umwe, 11 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=1">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
                 <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>,  
                 <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>
 <br><br></td>
@@ -5836,13 +5963,18 @@ diledibua <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La "naissance" fait référence au processus ou à l'acte de naître, de venir à l'existence ou d'entrer dans la vie. Elle représente le début de la vie d'un individu, généralement lorsque le bébé émerge ou est délivré du ventre de la mère. Elle peut également indiquer l'origine ou le début de quelque chose, comme une idée, un mouvement ou une organisation.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Birth" refers to the process or act of being born, coming into existence, or entering life. It represents the beginning of an individual's life, typically when a baby emerges or is delivered from the mother's womb. It can also indicate the origin or start of something, such as an idea, a movement, or an organization.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -5949,13 +6081,18 @@ dinanga <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "L'amour" est un état émotionnel et psychologique complexe et aux multiples facettes, caractérisé par une affection profonde, des soins, de la compassion et un attachement envers quelqu'un ou quelque chose. Il peut se manifester sous différentes formes, notamment l'amour romantique, l'amour familial, l'amour platonique et l'amour de soi, et implique souvent un fort sentiment de connexion, d'empathie et de considération positive."
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Love" is a complex and multifaceted emotional and psychological state characterized by deep affection, care, compassion, and attachment towards someone or something. It can manifest in various forms, including romantic love, familial love, platonic love, and self-love, and often involves a strong sense of connection, empathy, and positive regard.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6041,13 +6178,18 @@ dindila <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'anticipation ou la croyance selon laquelle quelque chose de spécifique se produira dans le futur, souvent basée sur des expériences antérieures, des hypothèses, ou un sentiment de ce qui est susceptible de se produire.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The anticipation or belief that something specific will happen in the future, often based on previous experiences, assumptions, or a sense of what is likely to occur. 
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6140,13 +6282,18 @@ dinu <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une "dent" est une petite structure dure, calcifiée, implantée dans la mâchoire de la plupart des vertébrés, utilisée pour mordre et mâcher les aliments. Les dents sont généralement composées d'émail, de dentine et de pulpe.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "tooth" is a small, hard, calcified structure set in the jaw of most vertebrates, used for biting and chewing food. Teeth are typically composed of enamel, dentin, and pulp.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6280,15 +6427,18 @@ dihembu <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="analogy">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une odeur provenant des épices, des plantes, de la cuisine, etc., notamment une odeur agréable ; fragrance.
 <br><br>
 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 An odor arising from spices, plants, cooking, etc., especially an agreeable odor; fragrance.
 <br><br>
 
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 ` 
@@ -6376,13 +6526,18 @@ dishima <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une déclaration intentionnellement fausse ou un acte de ne pas dire la vérité.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 An intentionally false statement or an act of not telling the truth.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6481,13 +6636,18 @@ disu <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "œil" désigne l'organe de la vue, permettant à un organisme de détecter la lumière et les images et d'envoyer des signaux au cerveau pour interprétation visuelle.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "eye" refers to the organ responsible for sight, allowing an organism to detect light and images and send signals to the brain for visual interpretation.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6617,13 +6777,18 @@ ditekemena <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A strong belief or trust in something without necessarily having proof or evidence.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6731,13 +6896,18 @@ ditaku <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'une des deux masses charnues arrondies formant les fesses humaines, situées à l'arrière du bassin, et communément désignées au singulier comme les "fesses".
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Either of the two rounded fleshy masses forming the human butt, located at the back of the pelvis, and commonly referred to in the singular as one's "buttocks."
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6866,13 +7036,18 @@ ditekemena <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -6975,13 +7150,18 @@ ditshi <i class="PartOfSpch">tshi3</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'organe de l'ouïe et de l'équilibre, composé de l'oreille externe, moyenne et interne.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The organ responsible for hearing and balance, consisting of the external ear, middle ear, and inner ear.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7111,13 +7291,18 @@ dituku <i class="PartOfSpch">tshi4</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7237,15 +7422,18 @@ ditunga <i class="PartOfSpch">tshi4</i><p>
 <tr style="text-align:left";>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Pays de naissance, de résidence ou de citoyenneté d'une personne.
                 <br><br>
                 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The land of a person's birth, residence, or citizenship.
 <br><br>
                
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7338,11 +7526,13 @@ une masse grise ou blanche dans le ciel, constituée de très petites gouttes d'
 <br><br>
 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 a gray or white mass in the sky, made up of very small floating drops of water
 <br><br>
 
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7438,16 +7628,21 @@ diulu <i class="PartOfSpch">tshi9</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 1. L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.<br><br>
 2. Le "nez" est l'organe du visage utilisé pour respirer et sentir. Il est composé de cartilage et d'os, et fait saillie sur le visage, assurant le passage de l'air pour la respiration et abritant les récepteurs olfactifs pour le sens de l'odorat.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 1. The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.<br><br>
 2. The "nose" is the organ on the face used for breathing and smelling. It's made of cartilage and bone and protrudes from the face, providing the airway for breathing and housing the olfactory receptors for the sense of smell.
 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
--------
+<p class="explanation-tsh">
+-------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7583,15 +7778,18 @@ diyi <i class="PartOfSpch">tshi4</i><p>
 <tr style="text-align:left";>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Toute règle écrite ou positive ou ensemble de règles prescrites sous l'autorité de l'État ou de la nation, comme par le peuple dans sa constitution.
 <br><br>
 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Any written or positive rule or collection of rules prescribed under the authority of the state or nation, as by the people in its constitution.
 <br><br>
 
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 ` 
@@ -7669,15 +7867,19 @@ diyi dikulu <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Les principes et lois de base d'une nation, d'un État ou d'un groupe social qui déterminent les pouvoirs et les devoirs du gouvernement et garantissent certains droits aux personnes qui en font partie.
                 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 
 The basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7770,14 +7972,19 @@ kuenda <i class="PartOfSpch">md</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Marcher" signifie se déplacer à pied, généralement à une allure plus lente que la course, en faisant des pas avec les jambes.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To move on foot, typically at a pace slower than running, by taking steps with one's legs.
 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
--------
+<p class="explanation-tsh">
+-------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -7889,14 +8096,19 @@ kuenza <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un verbe polyvalent et général qui signifie effectuer une action, s'engager dans une activité ou accomplir une tâche.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A versatile and general verb that signifies performing an action, engaging in an activity, or accomplishing a task.
 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
--------
+<p class="explanation-tsh">
+-------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -8009,13 +8221,18 @@ kuenzeka <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -8197,13 +8414,18 @@ kufika <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Atteindre une destination ou un certain point dans l'espace après un voyage ou un déplacement.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To reach a destination or a certain point in space after a journey or travel.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -8314,13 +8536,18 @@ black (color) <i class="PartOfSpch">adj</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -9164,13 +9391,18 @@ kuitabuja <i class="PartOfSpch">md</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -9384,13 +9616,18 @@ kadianjidi <i class="PartOfSpch">tshi8</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 In grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -9866,13 +10103,18 @@ kaku <i class="PartOfSpch">tshi8</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un "grandparent" est un parent du père ou de la mère, communément appelé grand-mère ou grand-père.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "grandparent" is a parent of one's father or mother, commonly referred to as a grandmother or grandfather.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -10165,6 +10407,7 @@ tangila:<br>
                 <a class="links" href="search.html?inpt1=mukete">mukete</a>, 
                 <a class="links" href="search.html?inpt1=mupanga">mupanga</a>, 
                 <a class="links" href="search.html?inpt1=ngabu">ngabu</a>, 
+                <a class="links" href="search.html?inpt1=tshimanga">tshimanga</a>,
                 <a class="links" href="search.html?inpt1=tshisuyi">tshisuyi</a>,
 <br><br></td>
 </tr>
@@ -10386,13 +10629,18 @@ kukuata <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Prendre possession ou agripper quelque chose rapidement et fermement avec une ou deux mains.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To seize, to take hold of, or grasp something quickly and firmly with one's hand or hands.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -10500,13 +10748,18 @@ kuleja <i class="PartOfSpch">md</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Montrer ou présenter quelque chose visuellement, auditivement ou de manière expérientielle à d'autres, leur permettant de le percevoir, de le comprendre ou de le constater. Cela implique de présenter ou révéler quelque chose à la perception ou à la conscience de quelqu'un d'autre.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To display or present something to others visually, audibly, or experientially, allowing them to perceive, understand, or witness it. It involves presenting or revealing something to someone else's perception or awareness.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -10733,13 +10986,18 @@ kulomba <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Demande d'informations, d'une réponse, ou de quelque chose à être donné ou fait en posant ou écrivant une question. Cela implique de chercher une clarification, des conseils, une autorisation, ou un objet à travers une demande verbale ou écrite.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To request information, an answer, or something to be given or done by speaking or writing a question. It involves seeking clarification, guidance, permission, or an object through verbal or written inquiry.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -10861,13 +11119,18 @@ kulua <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Se déplacer vers ou arriver à un endroit, une position ou un état particulier.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To move toward or arrive at a particular location, position, or state.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -11067,12 +11330,17 @@ lumingu <i class="PartOfSpch">tshi5</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une période de sept jours consécutifs
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A period of seven consecutive days
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Tshikondu tshia matuku muanda mutekete
 <br><br></td>
 </tr>
@@ -11196,10 +11464,10 @@ makumi abidi, 20 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>,
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=nkama abidi">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11285,10 +11553,11 @@ makumi abidi ne ibidi, 22 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=21">makumi abidi ne ibidi [21]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=nkama abidi">nkama abidi [200]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11374,10 +11643,16 @@ makumi abidi ne inayi, 24 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=inayi">inayi [4]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne inayi">dikumi ne inayi [14]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne inayi">makumi abidi ne inayi [24]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama inayi">nkama inayi [400]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu binayi">binunu binayi [4000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11463,10 +11738,16 @@ makumi abidi ne isambombo, 26 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=isambombo">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isambombo">dikumi ne isambombo [16]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne isambombo">makumi abidi ne isambombo [26]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama isambombo">nkama isambombo [600]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu bisambombo">binunu bisambombo [6000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11552,10 +11833,16 @@ makumi abidi ne isatu, 23 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=23">makumi abidi ne isatu [23]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=isatu">isatu [3]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isatu">dikumi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne isatu">makumi abidi ne isatu [23]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama isatu">nkama isatu [300]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu bisatu">binunu bisatu [3000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11641,10 +11928,16 @@ makumi abidi ne itanu, 25 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=12">dikumi ne ibidi [12]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=itanu">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne itanu">dikumi ne itanu [15]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne itanu">makumi abidi ne itanu [25]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama itanu">nkama itanu [500]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu bitanu">binunu bitanu [5000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11730,10 +12023,16 @@ makumi abidi ne muanda-mukulu, 28 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=muanda-mukulu">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne muanda-mukulu">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne muanda-mukulu">makumi abidi ne muanda-mukulu [28]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama muanda-mukulu">nkama muanda-mukulu [800]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu muanda-mukulu">binunu muanda-mukulu [8000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11819,10 +12118,16 @@ makumi abidi ne muanda-mutekete, 27 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=7">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=70">makumi muanda-mutekete [70]</a>, 
-                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
-                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=muanda-mutekete">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne muanda-mutekete">dikumi ne muanda-mutekete [17]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne muanda-mutekete">makumi abidi ne muanda-mutekete [27]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama muanda-mutekete">nkama muanda-mutekete [700]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu muanda-mutekete">binunu muanda-mutekete [7000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11908,10 +12213,16 @@ makumi abidi ne tshitema, 29 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">ibidi [2]</a>,
-                <a class="links" href="search.html?inpt1=20">makumi abidi [20]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama ibidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=tshitema">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne tshitema">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne tshitema">makumi abidi ne tshitema [29]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>,
+                <a class="links" href="search.html?inpt1=nkama tshitema">nkama tshitema [900]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>, 
+                <a class="links" href="search.html?inpt1=binunu tshitema">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -11996,11 +12307,16 @@ makumi abidi ne umwe, 21 <i class="PartOfSpch">tshi4</i><br>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=2">umwe [2]</a>,
-                <a class="links" href="search.html?inpt1=21">makumi abidi ne umwe [21]</a>, 
-                <a class="links" href="search.html?inpt1=200">nkama abidi [200]</a>,  
-                <a class="links" href="search.html?inpt1=2000">binunu bibidi [2000]</a>
+                :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>, 
+                <a class="links" href="search.html?inpt1=umwe">umwe [1]</a>, 
+                <a class="links" href="search.html?inpt1=ibidi">ibidi [2]</a>, 
+                <a class="links" href="search.html?inpt1=dikumi ne umwe">dikumi ne umwe [11]</a>, 
+                <a class="links" href="search.html?inpt1=dikumi ne ibidi">dikumi ne ibidi [12]</a>, 
+                <a class="links" href="search.html?inpt1=makumi abidi ne umwe">makumi abidi ne umwe [21]</a>,
+                <a class="links" href="search.html?inpt1=makumi abidi ne ibidi">makumi abidi ne ibidi [22]</a>,  
+                <a class="links" href="search.html?inpt1=lukama">lukama [100]</a>, 
+                <a class="links" href="search.html?inpt1=nkama ibidi">nkama ibidi [200]</a>, <a class="links" href="search.html?inpt1=tshinunu">tshinunu [1000]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bibidi">binunu bibidi [2000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12086,10 +12402,10 @@ makumi anayi, 40 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=4">inayi [4]</a>,
-                <a class="links" href="search.html?inpt1=14">dikumi ne inayi [14]</a>,
-                <a class="links" href="search.html?inpt1=400">nkama anayi [400]</a>,  
-                <a class="links" href="search.html?inpt1=4000">binunu binayi[4000]</a>
+                <a class="links" href="search.html?inpt1=inayi">inayi [4]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne inayi">dikumi ne inayi [14]</a>,
+                <a class="links" href="search.html?inpt1=nkama inayi">nkama inayi [400]</a>,  
+                <a class="links" href="search.html?inpt1=binunu binayi">binunu binayi[4000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12175,10 +12491,10 @@ makumi asambombo, 60 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=6">isambombo [6]</a>,
-                <a class="links" href="search.html?inpt1=16">dikumi ne isambombo [16]</a>,
-                <a class="links" href="search.html?inpt1=600">nkama asambombo [600]</a>,  
-                <a class="links" href="search.html?inpt1=6000">binunu bisambombo [6000]</a>
+                <a class="links" href="search.html?inpt1=isambombo">isambombo [6]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isambombo">dikumi ne isambombo [16]</a>,
+                <a class="links" href="search.html?inpt1=nkama isambombo">nkama isambombo [600]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bisambombo">binunu bisambombo [6000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12264,10 +12580,10 @@ makumi asatu, 30 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=3">isatu [3]</a>,
-                <a class="links" href="search.html?inpt1=13">dikumi ne isatu [13]</a>,
-                <a class="links" href="search.html?inpt1=300">nkama asatu [300]</a>,  
-                <a class="links" href="search.html?inpt1=3000">binunu bisatu[3000]</a>
+                <a class="links" href="search.html?inpt1=isatu">isatu [3]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne isatu">dikumi ne isatu [13]</a>,
+                <a class="links" href="search.html?inpt1=nkama asatu">nkama asatu [300]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bisatu">binunu bisatu[3000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12353,10 +12669,10 @@ makumi atanu, 50 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=5">itanu [5]</a>,
-                <a class="links" href="search.html?inpt1=15">dikumi ne itanu [15]</a>,
-                <a class="links" href="search.html?inpt1=500">nkama atanu [500]</a>,  
-                <a class="links" href="search.html?inpt1=5000">binunu bitanu [5000]</a>
+                <a class="links" href="search.html?inpt1=itanu">itanu [5]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne itanu">dikumi ne itanu [15]</a>,
+                <a class="links" href="search.html?inpt1=nkama itanu">nkama itanu [500]</a>,  
+                <a class="links" href="search.html?inpt1=binunu bitanu">binunu bitanu [5000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12442,10 +12758,10 @@ makumi muanda-mukulu, 80 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=8">muanda-mukulu [8]</a>,
-                <a class="links" href="search.html?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
-                <a class="links" href="search.html?inpt1=800">nkama muanda-mukulu [800]</a>,  
-                <a class="links" href="search.html?inpt1=8000">binunu muanda-mukulu [8000]</a>
+                <a class="links" href="search.html?inpt1=muanda-mukulu">muanda-mukulu [8]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne muanda-mukulu">dikumi ne muanda-mukulu [18]</a>,
+                <a class="links" href="search.html?inpt1=nkama muanda-mukulu">nkama muanda-mukulu [800]</a>,  
+                <a class="links" href="search.html?inpt1=binunu muanda-mukulu">binunu muanda-mukulu [8000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12531,10 +12847,10 @@ makumi muanda-mutekete, 70 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=7">muanda-mutekete [7]</a>,
-                <a class="links" href="search.html?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
-                <a class="links" href="search.html?inpt1=700">nkama muanda-mutekete [700]</a>,  
-                <a class="links" href="search.html?inpt1=7000">binunu muanda-mutekete [7000]</a>
+                <a class="links" href="search.html?inpt1=muanda-mutekete">muanda-mutekete [7]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne muanda-mutekete">dikumi ne muanda-mutekete [17]</a>,
+                <a class="links" href="search.html?inpt1=nkama muanda-mutekete">nkama muanda-mutekete [700]</a>,  
+                <a class="links" href="search.html?inpt1=binunu muanda-mutekete">binunu muanda-mutekete [7000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12620,10 +12936,10 @@ makumi tshitema, 90 <i class="PartOfSpch">tshi4</i><br>
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="search.html?inpt1=numbers">Bungi</a>,
-                <a class="links" href="search.html?inpt1=9">tshitema [9]</a>,
-                <a class="links" href="search.html?inpt1=19">dikumi ne tshitema [19]</a>,
-                <a class="links" href="search.html?inpt1=900">nkama tshitema [900]</a>,  
-                <a class="links" href="search.html?inpt1=9000">binunu tshitema [9000]</a>
+                <a class="links" href="search.html?inpt1=tshitema">tshitema [9]</a>,
+                <a class="links" href="search.html?inpt1=dikumi ne tshitema">dikumi ne tshitema [19]</a>,
+                <a class="links" href="search.html?inpt1=nkama tshitema">nkama tshitema [900]</a>,  
+                <a class="links" href="search.html?inpt1=binunu tshitema">binunu tshitema [9000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -12698,13 +13014,18 @@ mashi <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13015,13 +13336,18 @@ midima <i class="PartOfSpch">tshi</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'état d'être relativement inconnu, discret, ou peu clair, souvent dépourvu de visibilité ou de notoriété.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The state of being relatively unknown, inconspicuous, or unclear, often lacking visibility or prominence.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13222,13 +13548,18 @@ muaku <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation"><br>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une unité de langage, constituée d'un ou plusieurs sons parlés ou de leur représentation écrite, qui fonctionne comme principal porteur de sens.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A unit of language, consisting of one or more spoken sounds or their written representation, that functions as a principal carrier of meaning.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13316,13 +13647,18 @@ muakulu <i class="PartOfSpch">tshi2</i><p>
 <tr style="text-align:left";>
 <td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un corps de mots et les systèmes de leur utilisation communs à un peuple qui appartient à la même communauté ou nation, à la même zone géographique ou à la même tradition culturelle.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A body of words and the systems for their use common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13410,17 +13746,22 @@ muambikila <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Les adverbes sont des mots qui modifient généralement les verbes, c'est-à-dire qu'ils limitent ou restreignent le sens. Ils peuvent également modifier des adjectifs, d’autres adverbes, des expressions ou même des phrases entières.
 
 Un adverbe répond à la question quand ?, où ?, comment ?, combien ?, combien de temps ? ou à quelle fréquence ? :
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Adverbs are words that usually modify—that is, they limit or restrict the meaning of—verbs. They may also modify adjectives, other adverbs, phrases, or even entire sentences.
 
 An adverb answers the question when?, where?, how?, how much?, how long?, or how often?:
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13520,14 +13861,19 @@ muanda <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un mot ou une phrase qui décrit une action, une condition ou une expérience.
 Comme les noms et les adjectifs, en Tshiluba, les verbes sont formés d'un radical, d'un prefixe <b>(ku-)</b> et d'un suffixe <b>(-a)</b> :
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A word or phrase that describes an action, condition, or experience.
 Like nouns and adjectives, in Tshiluba, verbs are formed with a stem, a prefix <b>(ku-)</b>, and a suffixe <b>(-a)</b> :
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Muaku udi uleja bua kuenza, bua kuikala, ne bualu bua muoyo.
 Bu bibikidilu ne bu mifidi, mu Tshiluba, mianda badi...
 
@@ -13806,13 +14152,18 @@ mubidi <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Le "corps" fait référence à la structure physique d'une personne, à l'exclusion de la tête, du cou et des membres. Le corps comprend différents systèmes et tissus qui fonctionnent ensemble pour soutenir la vie et effectuer les fonctions corporelles.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The "body" refers to the physical structure of a person, excluding the head, neck, and limbs. The body comprises various systems and tissues that function together to support life and perform bodily functions.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -13951,14 +14302,19 @@ mufidi <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un mot qui décrit un substantif ou un pronom.<br>
 Dans Tshiluba, les adjectifs s'accordent avec les préfixes des substantifs qu'ils qualifient
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A word that describes a noun or pronoun. <br>
 In Tshiluba, adjectives match with the prefixes of the nouns they qualify :
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Muaku udi uleja tshibikidilu ne mupinganyi.
 <br><br></td>
 </tr>
@@ -14249,13 +14605,18 @@ mukaji <i class="PartOfSpch">tshi1</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
-Une "femme" est une adulte de sexe féminin humain.
-                <br><br>
+<p class="explanation-fr">
+une adulte de sexe féminin humain.
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
-A "woman" is an adult human female.
-                <br><br>
+<p class="explanation-en">
+an adult human female.
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -14377,13 +14738,18 @@ mukalu <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une "limite" est un point au-delà duquel quelque chose ne s'étend pas ou ne peut pas se produire. Une ligne de démarcation ou une frontière physique qui sépare une zone géographique, un pays ou une région d'un autre.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "limit" is a point beyond which something does not or may not extend or occur. A dividing line or physical boundary that separates one geographic area, country, or region from another.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -14482,13 +14848,18 @@ mukana <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La partie du corps utilisée pour manger, parler et respirer. C'est l'ouverture du visage délimitée par les lèvres, contenant la langue, les dents et les gencives, menant à la gorge et au système digestif. Elle est également impliquée dans la vocalisation et la perception du goût.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The part of the body used for eating, speaking, and breathing. It's the opening in the face bounded by the lips, containing the tongue, teeth, and gums, leading to the throat and digestive system. It's also involved in vocalization and taste perception.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -14619,15 +14990,18 @@ mulombodi <i class="PartOfSpch">tshi1</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Quelqu'un qui guide, dirige ou influence les autres au sein d'un groupe, d'une organisation ou d'une communauté.
                 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Someone who guides, directs, or influences others within a group, organization, or community.
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -14724,13 +15098,18 @@ mulume <i class="PartOfSpch">tshi1</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un "homme" est un adulte de sexe masculin humain.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "man" is an adult human male.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -14846,15 +15225,18 @@ Mungalata <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Utilise au Sud-Kasai vers 1963 pour designer le 'Parti Democrate' fonde par les opposants au regime 'imperial' du 'Mulopwe' Albert Kalonji.
                 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Term used in South-Kasai around 1963 to designate the "Democratic Party" founded by the opposition to the "imperial" regime of "Mulopwe" Albert Kalonji.
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -15089,13 +15471,18 @@ munu <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un des cinq doigts de la main, relié à la paume et utilisé pour saisir, toucher et ressentir.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 One of the five digits on the hand, connected to the palm and used for gripping, touching, and feeling.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -15224,15 +15611,20 @@ muoyo <i class="PartOfSpch">tshi</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 1. Un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
 2. L'etat d'etre en vie.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 1. A muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
 2. The state of being alive.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -15383,12 +15775,17 @@ mupinganyi <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un mot utilisé à la place d'un substantif ou d'une phrase nominale.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A word that is used instead of a noun or a noun phrase.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Muaku udi wenza mudimu pa mutu pa tshibikidilu.
 <br><br></td>
 </tr>
@@ -15658,13 +16055,18 @@ musangu <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Utilisé pour indiquer une répétition ou une occurrence d'un événement ou d'une action. Par exemple, "une fois" se traduit par "musangu umwe" ou "once", et "plusieurs fois" signifie "misangu mivula".
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Musangu is used to indicate a specific instance or occurrence of an event or action. For example, "musangu umwe" means "one time" or "once," and "misangu mivula" means "several times."
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -15796,13 +16198,18 @@ mushiku <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Les deux parties charnues formant l'entrée de la bouche chez les humains. Elles sont flexibles et mobiles, aidant à la parole, à manger et aux expressions faciales.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The two fleshy parts that form the entrance to the mouth in humans. They are flexible and movable, aiding in speech, eating, and expressions.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -15937,13 +16344,18 @@ musungidi <i class="PartOfSpch">tshi1</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Quelqu'un qui libère les autres de l'oppression, de l'enfermement ou du contrôle, leur permettant ainsi de vivre la liberté et l'autonomie. Il s'agit d'une personne ou d'une force qui accorde la libération, souvent dans des circonstances injustes ou oppressives, permettant aux individus ou aux groupes de retrouver leurs droits, leur indépendance ou leur autodétermination.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Someone who frees others from oppression, confinement, or control, allowing them to experience freedom and autonomy. It refers to a person or force that grants liberation, often from unjust or oppressive circumstances, enabling individuals or groups to regain their rights, independence, or self-determination.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -16046,13 +16458,18 @@ mutoke <i class="PartOfSpch">tshi1</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un ou une mutoke est généralement utilisé comme catégorie raciale pour décrire des individus à la peau claire, souvent d'origine européenne. La classification est basée sur des caractéristiques physiques telles que la couleur de la peau.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A mutoke is Typically used as a racial category to describe individuals with light-colored skin, often of European descent. The classification is based on physical characteristics such as skin color
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -16139,15 +16556,18 @@ mutotu <i class="PartOfSpch">tshi2</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une "étoile" désigne un corps céleste lumineux constitué de gaz chauds, principalement d'hydrogène et d'hélium, qui produit de la lumière et de la chaleur par des réactions de fusion nucléaire dans son noyau. Elles existent en grand nombre au sein des galaxies et sont visibles comme des points lumineux dans le ciel nocturne depuis la Terre.
 <br><br>
 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "star" refers to a luminous celestial body consisting of hot gases, primarily hydrogen and helium, that generates light and heat through nuclear fusion reactions in its core. They exist in immense numbers within galaxies and are visible as points of light in the night sky from Earth.
 <br><br>
 
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -16244,13 +16664,18 @@ mutu <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 La "tête" est la région anatomique contenant le cerveau et les organes sensoriels au sommet du corps, servant de centre de contrôle et facilitant la perception et la communication.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The "head" is the anatomical region containing the brain and sensory organs atop the body, serving as the control center and facilitating perception and communication.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -16378,13 +16803,18 @@ muvu <i class="PartOfSpch">tshi2</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----------
+<p class="explanation-tsh">
+----------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -16765,13 +17195,18 @@ ngondu <i class="PartOfSpch">tshi6</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----------
+<p class="explanation-tsh">
+----------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -17582,16 +18017,19 @@ nkongamiaku <i class="PartOfSpch">tshi6</i>
 <tr style="text-align:left";>
 <td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un ouvrage de référence répertoriant par ordre alphabétique les mots d'une langue et montrant leur signification ou leur traduction dans une autre langue
 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 
 A reference book listing alphabetically the words of one language and showing their meanings or translations in another language
 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -17773,13 +18211,18 @@ kunyema <i class="PartOfSpch">md</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Courir" signifie se déplacer rapidement à pied, plus vite que la marche, en prenant des pas rapides avec un mouvement coordonné des jambes.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To move rapidly on foot, faster than walking, by taking quick steps with a coordinated motion of the legs. 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----------
+<p class="explanation-tsh">
+----------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -17892,13 +18335,18 @@ nyuma <i class="PartOfSpch">tshi6</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18119,13 +18567,18 @@ kupesha <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Transférer volontairement la possession ou le contrôle de quelque chose à quelqu'un d'autre. Cela implique de fournir ou d'offrir quelque chose volontairement.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To voluntarily transfer the possession or control of something to someone else. It involves providing or offering something willingly.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18235,13 +18688,18 @@ kupingaja <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Donner ou renvoyer un objet à son emplacement d'origine, à son propriétaire ou à son lieu de provenance. Cela implique de restaurer ou de renoncer à la possession de l'objet en le rendant à la personne ou au lieu d'où il provient.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To give or send back an item to its original location, owner, or place of origin. It involves restoring or relinquishing possession of the item to the person or place it came from.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18353,13 +18811,18 @@ kupingana <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Retourner à un endroit spécifique ou à une localisation que l'on a déjà visité auparavant. Cela implique de revisiter une destination particulière ou de retourner à une position précédemment occupée
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To go or come back to a specific place or location that one has previously visited or been to. It involves revisiting a particular destination or returning to a previously occupied position.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18477,13 +18940,18 @@ kushila <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Laisser ou transmettre des biens personnels, des actifs ou des droits à quelqu'un, généralement par le biais d'un testament ou d'un document juridique, dans l'intention que le bénéficiaire reçoive l'héritage après le décès du donateur.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To leave or pass on personal property, assets, or rights to someone, typically through a will or legal document, with the intention of the recipient receiving the inheritance after the donor's death.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18595,13 +19063,18 @@ kushilangana <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Cela signifie être distinct, différent, ou non identique dans certains aspects. Cela désigne une variation, un contraste, ou une divergence entre deux choses ou plus, où elles diffèrent dans leurs caractéristiques, leurs attributs, leurs opinions, ou leurs actions.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To be distinct, dissimilar, or not identical in some aspect. It signifies a variation, contrast, or discrepancy between two or more things, where they deviate in characteristics, features, opinions, or actions.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18711,13 +19184,18 @@ kushiya <i class="PartOfSpch">md</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Cela signifie partir d'un endroit, indiquant souvent un départ physique.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To go away from a place, often indicating a physical departure.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18830,13 +19308,18 @@ kutangila <i class="PartOfSpch">md</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 L'action de diriger son regard ou son attention vers quelque chose dans l'intention de voir ou d'observer. Cela implique l'utilisation des yeux pour se concentrer sur un objet, une personne ou une scène spécifique.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The act of directing one's gaze or attention towards something with the intention of seeing or observing. It involves the use of the eyes to focus on a specific object, person, or scene. 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -18946,13 +19429,18 @@ kutekemena <i class="PartOfSpch">md</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -19170,13 +19658,18 @@ kuteta <i class="PartOfSpch">md</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Entreprendre une action dans le but d'atteindre un objectif ou de mener à bien une tâche, même si le succès n'est pas garanti.
+</p>
 <br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 To take action with the intention of achieving a goal or completing a task, even if success is not guaranteed.
+</p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -19528,12 +20021,17 @@ tshibidikilu <i class="PartOfSpch">tshi9</i><br>
 <tr>
 <td colspan="3" class="explanation";>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Les substantifs sont des mots qui désignent des personnes, des lieux et des concepts abstraits.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Substantives are words that name people, places, and abstract concepts.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Bibidikilu bidi miaku idi binyika bantu ne miaba ne meji.
 <br><br></td>
 </tr>
@@ -19654,15 +20152,20 @@ tshibuashibuashi <i class="PartOfSpch">tshi9</i><p>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Le ciel ou les cieux, particulièrement lorsqu'ils sont considérés comme quelque chose de tangible. Dans une utilisation archaïque, il fait référence à l'étendue du ciel, conçue comme un dôme solide.
 
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 The heavens or the sky, especially when regarded as a tangible thing. In archaic usage, it refers to the expanse of the sky, conceived as a solid dome.
 
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
--------
+<p class="explanation-tsh">
+-------</p>
 <br><br></td>
 </tr>
 <tr>
@@ -19763,13 +20266,18 @@ bidimu
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Conventional duration close to the period of revolution of the Earth around the Sun.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -19969,13 +20477,18 @@ tshikondu <i class="PartOfSpch">tshi9</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 "Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -20149,33 +20662,42 @@ kuenza tshilema :
     Tshiluba11: " ",
     PhoneticsT11: " ",
     InfoTable: `
-<tr>
-        <th colspan="3" ><u>Tshiluba</th>
+    <tr>
+    <th><u>Francais</th>
+    <th><u>English</th>
+    <th ><u>Tshiluba</th>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
+Tshimbadi <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+Tshimbadi <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+Tshimbadi<i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl.</i> Bimbadi
 
 </td>
-<td class="tabledef" valign=top >
-Tshimbadi <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl.</i> 
-Bimbadi 
-</td>
-<td class="tabledef" valign=top >
-</td>
 </tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-<i>appelation de gens d'origine angolaise qui etaient venus s'installer au 19ième 
-siècle au Congo Belge
-                :<br><br>
-                &nbsp:
-name of people of Angolan origin who came to settle in the Belgian Congo in the 19th century
-                :<br><br>
-                &nbsp:&nbsp
-Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia dikumi ne tshitema :
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+appelation de gens d'origine angolaise qui etaient venus s'installer au 19ième 
+siècle au Congo Belge.</p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+the name of people of Angolan origin who came to settle in the Belgian Congo in the 19th century.
+</p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia dikumi ne tshitema.
+</p>
 <br><br></td>
 </tr>
 `
@@ -20589,13 +21111,18 @@ tshipatshila <i class="PartOfSpch">tshi9</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un "but" est un objectif ou un résultat souhaité que quelqu'un vise à atteindre grâce à des efforts ou des actions
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A "goal" is an objective or desired result that someone aims to achieve through effort or action
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <td colspan="3" class="analogy"><br>:
@@ -20683,13 +21210,18 @@ tshisumbu <i class="PartOfSpch">tshi9</i><br>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Un "groupe" fait référence à une collection d'individus ou de choses rassemblés en fonction d'une caractéristique, d'un objectif ou d'une association communs.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 "A group" refers to a collection of individuals or things gathered together based on a common characteristic, purpose, or association.
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -20873,16 +21405,19 @@ tshitupa <i class="PartOfSpch">tshi9</i><p>
 <tr style="text-align:left";>
 <td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Une portion ou une quantité séparée ou limitée de quelque chose.
                 <br><br>
                 
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 A separate or limited portion or quantity of something.
 
 <br><br>
                
 <b><i>Diumvuija</i></b><br>
------
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -21154,13 +21689,18 @@ kuya <i class="PartOfSpch">md</i>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Se déplacer physiquement ou voyager d'un endroit à un autre.
-                <br><br>
+                </p>
+<br><br>
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Physically moving or traveling from one location to another
-                <br><br>
+                </p> 
+<br><br>
 <b><i>Diumvuija</i></b><br>
-----
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -21272,14 +21812,17 @@ kuzebuka <i class="PartOfSpch">mua</i>
 <tr style="text-align:left";>
 <td colspan="3" class="analogy"><br>
 <b><i>Explication</i></b><br>
+<p class="explanation-fr">
 Marcher en inclinant le corps d'un côté.
                 <br><br>
                 &nbsp
 <b><i>Explanation</i></b><br>
+<p class="explanation-en">
 Walk with your body tilted to one side.
                 <br><br>
                 &nbsp&nbsp
 <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
 Kuenda nebe mubidi webe udi muinama pa luseka umwe.
 <br><br></td>
 </tr>
@@ -21832,12 +22375,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -21947,12 +22493,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "Donner la permission ou le consentement pour qu'une action, un événement ou un comportement spécifique ait lieu. Approuver officiellement ou endosser quelque chose, indiquant le consentement ou un jugement favorable envers une action, une décision ou une proposition particulière.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To grant permission or consent for a specific action, event, or behavior to take place. To officially agree to or endorse something, indicating consent or favorable judgment toward a particular action, decision, or proposal.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -22257,12 +22806,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un squelette est la structure interne des os dans un organisme, fournissant un soutien structurel, facilitant le mouvement et protégeant les organes vitaux.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The internal framework of bones in an organism, providing structural support, facilitating movement, and protecting vital organs.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -23523,12 +24075,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'état, la qualité ou la condition d'être noir ou d'avoir une couleur sombre.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The state, quality, or condition of being black or having a dark color.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -23649,12 +24204,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "Le frère ou la sœur du conjoint, ou le mari ou la femme du frère ou de la sœur."
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The brother or sister of one's spouse, or the husband or wife of one's sibling.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -23746,12 +24304,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "La "vérité" fait référence à l'état ou à la qualité d'être en accord avec les faits ou la réalité. La vérité est un état absolu ou vérifiable qui est en harmonie avec la réalité, l'honnêteté et la sincérité."
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Truth" refers to the state or quality of being in accordance with fact or reality. Truth is an absolute or verifiable state that aligns with actuality, honesty, and sincerity.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24059,12 +24620,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La lumière désigne à la fois la qualité de luminosité, ainsi qu'une représentation métaphorique de la compréhension, du savoir ou de l'illumination. Physiquement, il s'agit d'un rayonnement électromagnétique qui nous permet de percevoir le monde visuellement, tandis que métaphoriquement, elle symbolise la clarté, l'acuité ou l'illumination dans divers contextes, tels que la sagesse, la vérité ou la conscience spirituelle.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The quality of brightness, as well as a metaphorical representation of understanding, knowledge, or illumination. Physically, it's electromagnetic radiation that allows us to perceive the world visually, while metaphorically, it symbolizes clarity, insight, or enlightenment in various contexts, such as wisdom, truth, or spiritual awareness.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24179,11 +24743,13 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Le temps est la progression continue et indéfinie de l'existence pendant laquelle les événements se déroulent et sont mesurés en termes de passé, de présent et de futur.<br><br>
     Le mot Diba est également utilisé pour décrire l'heure de la journée, lorsqu'on indique l'heure, ou le nombre d'heures.<br><br>
     Le mot Diba est également utilisé pour décrire le "soleil" : une étoile au centre de notre système solaire, autour de laquelle la Terre et d'autres corps célestes orbitent.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Diba, time, is the ongoing, indefinite progression of existence during which events unfold and are measured in terms of past, present, and future.<br>
     <br>
     The word Diba is also used to describe the time of day, when describing what time it is, or the number of hours.<br>
@@ -24191,6 +24757,7 @@ const nkongamiaku2 = [
     The word Diba is also used to describe the "sun": a star at the center of our solar system, around which the Earth and other celestial bodies orbit.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24365,12 +24932,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La glande mammaire et le tissu sus-jacent à l'avant de la poitrine chez les humains, généralement composés de lobes producteurs de lait et de tissu conjonctif.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The mammary gland and the overlying tissue on the front of the chest in humans, typically composed of milk-producing lobes and connective tissue.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24499,12 +25069,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un "bras" est le membre supérieur du corps humain, s'étendant de l'épaule à la main, et se composant généralement du bras supérieur, de l'avant-bras et de la main, utilisé pour diverses activités telles que la saisie et la manipulation d'objets.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     An "arm" is the upper limb of the human body, extending from the shoulder to the hand, and typically consisting of the upper arm, forearm, and hand, used for various activities such as grasping and manipulating objects.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24607,12 +25180,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un fruit appartenant au genre Citrus, comprenant des fruits couramment consommés tels que les oranges, les citrons, les citrons verts et les pamplemousses. Ces fruits sont connus pour leurs intérieurs juteux et pulpeux, leur teneur élevée en vitamine C et leur saveur caractéristique et acidulée.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A fruit belonging to the genus Citrus, including commonly consumed fruits such as oranges, lemons, limes, and grapefruits. These fruits are known for their juicy and pulpy interiors, high vitamin C content, and a characteristic tangy flavor.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24753,12 +25329,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La partie du corps située entre la poitrine et le bassin, contenant les organes digestifs tels que l'estomac, le foie, les intestins et d'autres structures.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To the part of the body between the chest and the pelvis, containing the digestive organs such as the stomach, liver, intestines, and other structures.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24846,12 +25425,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -24980,12 +25562,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La partie inférieure de la jambe, en dessous de la cheville et comprenant le talon, la voûte plantaire et les orteils, servant de partie fondamentale du corps humain pour se tenir debout, marcher et d'autres formes de locomotion.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The lower extremity of the leg, below the ankle and consisting of the heel, arch, and toes, serving as a foundational part of the human body for standing, walking, and other forms of locomotion.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25114,12 +25699,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'épaule" est la partie du corps où le bras supérieur se connecte au torse, comprenant l'articulation formée par l'humérus, la clavicule et l'omoplate, permettant une gamme de mouvements du bras.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The "shoulder" is the part of the body where the upper arm connects to the torso, including the joint formed by the humerus, clavicle, and scapula, allowing for a range of arm movements.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25247,12 +25835,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La "sourcil" est la bande de poils située au-dessus de l'œil, le long de l'os du sourcil, servant à protéger les yeux de la sueur, des débris et de la lumière du soleil, et jouant souvent un rôle dans les expressions du visage et la communication non verbale.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The strip of hair located above the eye, along the brow bone, serving to protect the eyes from sweat, debris, and sunlight, and often playing a role in facial expressions and non-verbal communication.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25381,12 +25972,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La peau" désigne la couverture protectrice la plus externe du corps, composée de plusieurs couches de tissus, comprenant l'épiderme et le derme, et remplissant diverses fonctions telles que la protection contre les éléments externes, la régulation de la température et la sensation.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The outermost protective covering of the body, consisting of multiple layers of tissue, including the epidermis and dermis, and serving various functions such as protection against external elements, regulation of temperature, and sensation.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25481,12 +26075,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une "banane plantain" désigne une variété de banane qui est plus grande, plus féculente et moins sucrée que la banane de dessert commune. Les plantains sont souvent utilisés comme aliment de base dans de nombreuses régions tropicales, en particulier en Afrique, dans les Caraïbes et dans certaines parties de l'Asie du Sud-Est. Ils sont polyvalents et peuvent être cuisinés à différents stades de maturité, allant du vert et féculent au jaune et sucré, en fonction de l'application culinaire.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A variety of banana that is larger, starchier, and less sweet than the common dessert banana. Plantains are often used as a staple food in many tropical regions, particularly in Africa, the Caribbean, and parts of Southeast Asia. They are versatile and can be cooked at different stages of ripeness, ranging from green and starchy to yellow and sweet, depending on the culinary application.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25617,12 +26214,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'arrière du cou, plus précisément à la partie inférieure où la naissance des cheveux rencontre le cou.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The back of the neck, specifically the lower part where the hairline meets the neck
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25729,12 +26329,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La "famille" fait référence à un groupe d'individus liés par le sang, le mariage, l'adoption, ou un sentiment de liens partagés et de soutien mutuel, formant une unité sociale qui vit généralement ensemble et collabore dans divers aspects de la vie. Les familles peuvent varier considérablement en termes de structure, de taille et de dynamiques.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Family" refers to a group of individuals connected by blood, marriage, adoption, or a sense of shared bonds and mutual support, forming a social unit that typically lives together and collaborates in various aspects of life. Families can vary widely in structure, size, and dynamics.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -25912,12 +26515,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La "naissance" fait référence au processus ou à l'acte de naître, de venir à l'existence ou d'entrer dans la vie. Elle représente le début de la vie d'un individu, généralement lorsque le bébé émerge ou est délivré du ventre de la mère. Elle peut également indiquer l'origine ou le début de quelque chose, comme une idée, un mouvement ou une organisation.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Birth" refers to the process or act of being born, coming into existence, or entering life. It represents the beginning of an individual's life, typically when a baby emerges or is delivered from the mother's womb. It can also indicate the origin or start of something, such as an idea, a movement, or an organization.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26026,12 +26632,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "L'amour" est un état émotionnel et psychologique complexe et aux multiples facettes, caractérisé par une affection profonde, des soins, de la compassion et un attachement envers quelqu'un ou quelque chose. Il peut se manifester sous différentes formes, notamment l'amour romantique, l'amour familial, l'amour platonique et l'amour de soi, et implique souvent un fort sentiment de connexion, d'empathie et de considération positive."
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Love" is a complex and multifaceted emotional and psychological state characterized by deep affection, care, compassion, and attachment towards someone or something. It can manifest in various forms, including romantic love, familial love, platonic love, and self-love, and often involves a strong sense of connection, empathy, and positive regard.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26123,12 +26732,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'anticipation ou la croyance selon laquelle quelque chose de spécifique se produira dans le futur, souvent basée sur des expériences antérieures, des hypothèses, ou un sentiment de ce qui est susceptible de se produire.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The anticipation or belief that something specific will happen in the future, often based on previous experiences, assumptions, or a sense of what is likely to occur. 
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -26258,12 +26870,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une "dent" est une petite structure dure, calcifiée, implantée dans la mâchoire de la plupart des vertébrés, utilisée pour mordre et mâcher les aliments. Les dents sont généralement composées d'émail, de dentine et de pulpe.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A "tooth" is a small, hard, calcified structure set in the jaw of most vertebrates, used for biting and chewing food. Teeth are typically composed of enamel, dentin, and pulp.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26346,14 +26961,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="analogy">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une odeur provenant des épices, des plantes, de la cuisine, etc., notamment une odeur agréable ; fragrance.
     <br><br>
     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     An odor arising from spices, plants, cooking, etc., especially an agreeable odor; fragrance.
     <br><br>
     
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -26451,12 +27069,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une déclaration intentionnellement fausse ou un acte de ne pas dire la vérité.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     An intentionally false statement or an act of not telling the truth.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26598,12 +27219,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "œil" désigne l'organe de la vue, permettant à un organisme de détecter la lumière et les images et d'envoyer des signaux au cerveau pour interprétation visuelle.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "eye" refers to the organ responsible for sight, allowing an organism to detect light and images and send signals to the brain for visual interpretation.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26684,12 +27308,15 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A strong belief or trust in something without necessarily having proof or evidence.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -26835,12 +27462,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'une des deux masses charnues arrondies formant les fesses humaines, situées à l'arrière du bassin, et communément désignées au singulier comme les "fesses".
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Either of the two rounded fleshy masses forming the human butt, located at the back of the pelvis, and commonly referred to in the singular as one's "buttocks."
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -26932,12 +27562,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -27078,12 +27711,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'organe de l'ouïe et de l'équilibre, composé de l'oreille externe, moyenne et interne.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The organ responsible for hearing and balance, consisting of the external ear, middle ear, and inner ear.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -27176,12 +27812,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une unité de temps constituée généralement de 24 heures, pendant lesquelles la Terre effectue une rotation complète sur son axe, entraînant des périodes de lumière (le jour) et d'obscurité (la nuit). 
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A unit of time consisting typically of 24 hours, during which the Earth completes one full rotation on its axis, leading to periods of light (daytime) and darkness (nighttime).
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -27289,14 +27928,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Pays de naissance, de résidence ou de citoyenneté d'une personne.
                     <br><br>
                     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The land of a person's birth, residence, or citizenship.
     <br><br>
                    
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -27401,10 +28043,12 @@ const nkongamiaku2 = [
     <br><br>
     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     a gray or white mass in the sky, made up of very small floating drops of water
     <br><br>
     
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -27499,14 +28143,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'étendue au-dessus du sol ou l'espace au-dessus de nous. Il comprend l'air, les nuages et les corps célestes tels que le soleil, la lune, les étoiles et les planètes que nous voyons lorsque nous regardons vers le haut.
     
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The expanse above the ground or the space above us. It includes the air, clouds, and celestial bodies like the sun, moon, stars, and planets that we see when we look upwards.
     
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -------
     <br><br></td>
     </tr>
@@ -27587,14 +28234,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Toute règle écrite ou positive ou ensemble de règles prescrites sous l'autorité de l'État ou de la nation, comme par le peuple dans sa constitution.
     <br><br>
     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Any written or positive rule or collection of rules prescribed under the authority of the state or nation, as by the people in its constitution.
     <br><br>
     
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -27673,14 +28323,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Les principes et lois de base d'une nation, d'un État ou d'un groupe social qui déterminent les pouvoirs et les devoirs du gouvernement et garantissent certains droits aux personnes qui en font partie.
                     <br><br>
                     &nbsp
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     
     The basic principles and laws of a nation, state, or social group that determine the powers and duties of the government and guarantee certain rights to the people in it.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -27996,12 +28649,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "Se produire" : Se dit d'un événement qui se déroule ou se produit, souvent de manière inattendue ou sans intention délibérée. Cela décrit quelque chose qui survient sans planification préalable ou sans attente particulière.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Happen" is a verb that refers to the occurrence or occurrence of something, especially when it takes place without prior planning or expectation. It denotes an event, an action, or a situation that occurs, unfolds, or takes place, often spontaneously or by chance. It's used to describe things that come into existence or take place without deliberate intention or design.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -28294,12 +28950,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "Le noir" est une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Black" is a color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -29142,12 +29801,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -29360,12 +30022,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     In grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -29859,12 +30524,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un "grandparent" est un parent du père ou de la mère, communément appelé grand-mère ou grand-père.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A "grandparent" is a parent of one's father or mother, commonly referred to as a grandmother or grandfather.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -30364,12 +31032,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Montrer ou présenter quelque chose visuellement, auditivement ou de manière expérientielle à d'autres, leur permettant de le percevoir, de le comprendre ou de le constater. Cela implique de présenter ou révéler quelque chose à la perception ou à la conscience de quelqu'un d'autre.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To display or present something to others visually, audibly, or experientially, allowing them to perceive, understand, or witness it. It involves presenting or revealing something to someone else's perception or awareness.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -30600,12 +31271,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Demande d'informations, d'une réponse, ou de quelque chose à être donné ou fait en posant ou écrivant une question. Cela implique de chercher une clarification, des conseils, une autorisation, ou un objet à travers une demande verbale ou écrite.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To request information, an answer, or something to be given or done by speaking or writing a question. It involves seeking clarification, guidance, permission, or an object through verbal or written inquiry.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -30924,12 +31598,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une période de sept jours consécutifs
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A period of seven consecutive days
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Tshikondu tshia matuku muanda mutekete
     <br><br></td>
     </tr>
@@ -31792,12 +32469,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Le liquide rouge qui circule dans les artères et les veines des êtres humains et d'autres vertébrés, transportant l'oxygène et les nutriments vers les tissus du corps et éliminant les déchets. Il se compose de plasma, de globules rouges, de globules blancs et de plaquettes.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The red fluid that circulates in the arteries and veins of humans and other vertebrates, carrying oxygen and nutrients to the body's tissues and removing waste products. It consists of plasma, red blood cells, white blood cells, and platelets.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -32071,12 +32751,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'état d'être relativement inconnu, discret, ou peu clair, souvent dépourvu de visibilité ou de notoriété.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The state of being relatively unknown, inconspicuous, or unclear, often lacking visibility or prominence.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -32265,12 +32948,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une unité de langage, constituée d'un ou plusieurs sons parlés ou de leur représentation écrite, qui fonctionne comme principal porteur de sens.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A unit of language, consisting of one or more spoken sounds or their written representation, that functions as a principal carrier of meaning.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -32359,12 +33045,15 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un corps de mots et les systèmes de leur utilisation communs à un peuple qui appartient à la même communauté ou nation, à la même zone géographique ou à la même tradition culturelle.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A body of words and the systems for their use common to a people who are of the same community or nation, the same geographical area, or the same cultural tradition.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -32465,16 +33154,19 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Les adverbes sont des mots qui modifient généralement les verbes, c'est-à-dire qu'ils limitent ou restreignent le sens. Ils peuvent également modifier des adjectifs, d’autres adverbes, des expressions ou même des phrases entières.
     
     Un adverbe répond à la question quand ?, où ?, comment ?, combien ?, combien de temps ? ou à quelle fréquence ? :
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Adverbs are words that usually modify—that is, they limit or restrict the meaning of—verbs. They may also modify adjectives, other adverbs, phrases, or even entire sentences.
     
     An adverb answers the question when?, where?, how?, how much?, how long?, or how often?:
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -32574,14 +33266,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un mot ou une phrase qui décrit une action, une condition ou une expérience.
     Comme les noms et les adjectifs, en Tshiluba, les verbes sont formés d'un radical, d'un prefixe <b>(ku-)</b> et d'un suffixe <b>(-a)</b> :
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A word or phrase that describes an action, condition, or experience.
     Like nouns and adjectives, in Tshiluba, verbs are formed with a stem, a prefix <b>(ku-)</b>, and a suffixe <b>(-a)</b> :
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Muaku udi uleja bua kuenza, bua kuikala, ne bualu bua muoyo.
     Bu bibikidilu ne bu mifidi, mu Tshiluba, mianda badi
     
@@ -32900,12 +33595,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Le "corps" fait référence à la structure physique d'une personne, à l'exclusion de la tête, du cou et des membres. Le corps comprend différents systèmes et tissus qui fonctionnent ensemble pour soutenir la vie et effectuer les fonctions corporelles.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The "body" refers to the physical structure of a person, excluding the head, neck, and limbs. The body comprises various systems and tissues that function together to support life and perform bodily functions.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -33005,14 +33703,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un mot qui décrit un substantif ou un pronom.<br>
     Dans Tshiluba, les adjectifs s'accordent avec les préfixes des substantifs qu'ils qualifient
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A word that describes a noun or pronoun. <br>
     In Tshiluba, adjectives match with the prefixes of the nouns they qualify :
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Muaku udi uleja tshibikidilu ne mupinganyi.
     <br><br></td>
     </tr>
@@ -33320,12 +34021,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
-    Une "femme" est une adulte de sexe féminin humain.
+<p class="explanation-fr">
+    Une femme est une adulte de sexe féminin humain.
                     <br><br>
     <b><i>Explanation</i></b><br>
-    A "woman" is an adult human female.
+<p class="explanation-en">
+    A woman is an adult human female.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -33561,12 +34265,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La partie du corps utilisée pour manger, parler et respirer. C'est l'ouverture du visage délimitée par les lèvres, contenant la langue, les dents et les gencives, menant à la gorge et au système digestif. Elle est également impliquée dans la vocalisation et la perception du goût.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The part of the body used for eating, speaking, and breathing. It's the opening in the face bounded by the lips, containing the tongue, teeth, and gums, leading to the throat and digestive system. It's also involved in vocalization and taste perception.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -33666,14 +34373,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explication"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Quelqu'un qui guide, dirige ou influence les autres au sein d'un groupe, d'une organisation ou d'une communauté.
                     <br><br>
                     &nbsp
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Someone who guides, directs, or influences others within a group, organization, or community.
                     <br><br>
                     &nbsp&nbsp
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -33781,12 +34491,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un "homme" est un adulte de sexe masculin humain.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A "man" is an adult human male.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -33874,14 +34587,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Utilise au Sud-Kasai vers 1963 pour designer le 'Parti Democrate' fonde par les opposants au regime 'imperial' du 'Mulopwe' Albert Kalonji.
                     <br><br>
                     &nbsp
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Term used in South-Kasai around 1963 to designate the "Democratic Party" founded by the opposition to the "imperial" regime of "Mulopwe" Albert Kalonji.
                     <br><br>
                     &nbsp&nbsp
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -34149,12 +34865,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un des cinq doigts de la main, relié à la paume et utilisé pour saisir, toucher et ressentir.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     One of the five digits on the hand, connected to the palm and used for gripping, touching, and feeling.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -34286,14 +35005,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     1. Un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
     2. L'etat d'etre en vie.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     1. A muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
     2. The state of being alive.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -34403,12 +35125,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un mot utilisé à la place d'un substantif ou d'une phrase nominale.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A word that is used instead of a noun or a noun phrase.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Muaku udi wenza mudimu pa mutu pa tshibikidilu.
     <br><br></td>
     </tr>
@@ -34676,12 +35401,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Utilisé pour indiquer une répétition ou une occurrence d'un événement ou d'une action. Par exemple, "une fois" se traduit par "musangu umwe" ou "once", et "plusieurs fois" signifie "misangu mivula".
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Musangu is used to indicate a specific instance or occurrence of an event or action. For example, "musangu umwe" means "one time" or "once," and "misangu mivula" means "several times."
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -34856,12 +35584,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Les deux parties charnues formant l'entrée de la bouche chez les humains. Elles sont flexibles et mobiles, aidant à la parole, à manger et aux expressions faciales.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The two fleshy parts that form the entrance to the mouth in humans. They are flexible and movable, aiding in speech, eating, and expressions.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -34957,12 +35688,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Quelqu'un qui libère les autres de l'oppression, de l'enfermement ou du contrôle, leur permettant ainsi de vivre la liberté et l'autonomie. Il s'agit d'une personne ou d'une force qui accorde la libération, souvent dans des circonstances injustes ou oppressives, permettant aux individus ou aux groupes de retrouver leurs droits, leur indépendance ou leur autodétermination.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Someone who frees others from oppression, confinement, or control, allowing them to experience freedom and autonomy. It refers to a person or force that grants liberation, often from unjust or oppressive circumstances, enabling individuals or groups to regain their rights, independence, or self-determination.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -35065,12 +35799,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un ou une mutoke est généralement utilisé comme catégorie raciale pour décrire des individus à la peau claire, souvent d'origine européenne. La classification est basée sur des caractéristiques physiques telles que la couleur de la peau.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A mutoke is Typically used as a racial category to describe individuals with light-colored skin, often of European descent. The classification is based on physical characteristics such as skin color
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -35159,14 +35896,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une "étoile" désigne un corps céleste lumineux constitué de gaz chauds, principalement d'hydrogène et d'hélium, qui produit de la lumière et de la chaleur par des réactions de fusion nucléaire dans son noyau. Elles existent en grand nombre au sein des galaxies et sont visibles comme des points lumineux dans le ciel nocturne depuis la Terre.
     <br><br>
     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A "star" refers to a luminous celestial body consisting of hot gases, primarily hydrogen and helium, that generates light and heat through nuclear fusion reactions in its core. They exist in immense numbers within galaxies and are visible as points of light in the night sky from Earth.
     <br><br>
     
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -35304,12 +36044,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La "tête" est la région anatomique contenant le cerveau et les organes sensoriels au sommet du corps, servant de centre de contrôle et facilitant la perception et la communication.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The "head" is the anatomical region containing the brain and sensory organs atop the body, serving as the control center and facilitating perception and communication.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -35400,12 +36143,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'une des quatre grandes divisions de l'année : le printemps, l'été, l'automne (ou l'automne), et l'hiver, caractérisées par des schémas météorologiques spécifiques, des variations de température, la durée de la lumière du jour et des phénomènes naturels.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     One of the four major divisions of the year—spring, summer, autumn (fall), and winter—characterized by specific weather patterns, changes in temperature, daylight duration, and natural phenomena.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----------
     <br><br></td>
     </tr>
@@ -35788,12 +36534,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une unité de temps correspondant approximativement à la durée d'un cycle des phases de la lune ou, de manière plus conventionnelle, à environ 30 ou 31 jours, divisée en semaines et formant une division de l'année.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A unit of time corresponding approximately to the duration of one cycle of the moon's phases or, more conventionally, to approximately 30 or 31 days, divided into weeks and forming a division of the year. 
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----------
     <br><br></td>
     </tr>
@@ -36591,15 +37340,18 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un ouvrage de référence répertoriant par ordre alphabétique les mots d'une langue et montrant leur signification ou leur traduction dans une autre langue
     <br><br>
                     &nbsp
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     
     A reference book listing alphabetically the words of one language and showing their meanings or translations in another language
     <br><br>
                     &nbsp&nbsp
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -36943,12 +37695,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une personne ou d'une entité, souvent associée à la conscience, à l'humeur ou à un sentiment de vitalité
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Spirit" encompasses the non-physical essence or energy within a person or entity, often associated with consciousness, mood, or a sense of vitality
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -37552,12 +38307,15 @@ const nkongamiaku2 = [
     </tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Cela signifie être distinct, différent, ou non identique dans certains aspects. Cela désigne une variation, un contraste, ou une divergence entre deux choses ou plus, où elles diffèrent dans leurs caractéristiques, leurs attributs, leurs opinions, ou leurs actions.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To be distinct, dissimilar, or not identical in some aspect. It signifies a variation, contrast, or discrepancy between two or more things, where they deviate in characteristics, features, opinions, or actions.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -37883,12 +38641,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     D'avoir un sentiment d'attente et de désir pour qu'une chose précise se produise. Il implique de l'optimisme et la croyance qu'une chose positive se produira à l'avenir, même dans des situations difficiles.
     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     To have a feeling of expectation and desire for a certain thing to happen. It involves optimism and a belief that something positive will occur in the future, even in difficult situations.
     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -38450,12 +39211,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation";>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Les substantifs sont des mots qui désignent des personnes, des lieux et des concepts abstraits.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Substantives are words that name people, places, and abstract concepts.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Bibidikilu bidi miaku idi binyika bantu ne miaba ne meji.
     <br><br></td>
     </tr>
@@ -38577,14 +39341,17 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Le ciel ou les cieux, particulièrement lorsqu'ils sont considérés comme quelque chose de tangible. Dans une utilisation archaïque, il fait référence à l'étendue du ciel, conçue comme un dôme solide.
     
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The heavens or the sky, especially when regarded as a tangible thing. In archaic usage, it refers to the expanse of the sky, conceived as a solid dome.
     
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -------
     <br><br></td>
     </tr>
@@ -38687,12 +39454,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Durée conventionnelle voisine de la période de révolution de la Terre autour du Soleil.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Conventional duration close to the period of revolution of the Earth around the Sun.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -38893,12 +39663,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     "Tshikondu" se réfère à une durée spécifique ou à une portion de temps caractérisée par des caractéristiques, des événements ou des conditions particulières. Cela désigne une durée marquée par son début et sa fin, ayant souvent des caractéristiques ou des buts distincts à l'intérieur de cette période.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "Tshikondu" refers to a specific length or portion of time characterized by particular features, events, or conditions. It signifies a duration marked by its beginning and end, often having distinct characteristics or purposes within that time frame. Tshikondu is not employed to describe the time of day, but moreso employed to describe a period.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -39498,15 +40271,18 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     La fin vers laquelle l'effort est dirigé.
                     <br><br>
                     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     The end toward which effort is directed.
     
     <br><br>
                    
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -39596,12 +40372,15 @@ const nkongamiaku2 = [
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Un "groupe" fait référence à une collection d'individus ou de choses rassemblés en fonction d'une caractéristique, d'un objectif ou d'une association communs.
                     <br><br>
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     "A group" refers to a collection of individuals or things gathered together based on a common characteristic, purpose, or association.
                     <br><br>
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     ----
     <br><br></td>
     </tr>
@@ -39786,15 +40565,18 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Une portion ou une quantité séparée ou limitée de quelque chose.
                     <br><br>
                     
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     A separate or limited portion or quantity of something.
     
     <br><br>
                    
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     -----
     <br><br></td>
     </tr>
@@ -40173,14 +40955,17 @@ const nkongamiaku2 = [
     <tr style="text-align:left";>
     <td colspan="3" class="analogy"><br>
     <b><i>Explication</i></b><br>
+<p class="explanation-fr">
     Marcher en inclinant le corps d'un côté.
                     <br><br>
                     &nbsp
     <b><i>Explanation</i></b><br>
+<p class="explanation-en">
     Walk with your body tilted to one side.
                     <br><br>
                     &nbsp&nbsp
     <b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
     Kuenda nebe mubidi webe udi muinama pa luseka umwe.
     <br><br></td>
     </tr>

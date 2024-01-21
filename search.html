@@ -390,7 +390,25 @@ shuffle(mwdarrayx);
     metaTitle2.innerHTML = `TSHILUBA.co Dictionary | ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}`;
     document.getElementsByTagName('head')[0].appendChild(metaTitle2);
     const metaTitle3 = encodeURIComponent(document.querySelector('title').textContent);
-
+    /*The meta description tag*/
+    var metaDescription = document.createElement('meta');
+    metaDescription.setAttribute('name', 'description');
+    var metaDescriptionFill = document.querySelector(".explanation-en");
+    var metaDescriptionFill3 = document.querySelectorAll(".tabledef");
+    var metaDescriptionFillfr = document.querySelector(".explanation-fr");
+    var metaDescriptionFilltsh = document.querySelector(".explanation-tsh");
+    if (!metaDescriptionFill){
+        /*The meta description tag*/
+    var metaDescription2 = document.createElement('meta');
+    metaDescription2.setAttribute('name', 'description');
+    var metaDescriptionFill2 = document.querySelector(".analogy");
+    metaDescription2.content = `In Tshiluba, ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}, translates to ${metaDescriptionFill3[1].innerText.replace(/[0-9]/g, "").trim()}. En Tshiluba, ${metaTitleWord.innerText.replace(/[0-9]/g, "").trim()}, se traduit en ${metaDescriptionFill3[0].innerText.replace(/[0-9]/g, "").trim()}`;
+    document.getElementsByTagName('head')[0].appendChild(metaDescription2);
+    }
+    else {
+    metaDescription.content = `The definition of ${metaTitleWord.innerText} in Tshiluba is ${metaDescriptionFill3[1].innerText.split(" ")[0]}: ${metaDescriptionFill.innerText} La définition de ${metaTitleWord.innerText} en Tshiluba est ${metaDescriptionFill3[0].innerText.split(" ")[0]}: ${metaDescriptionFillfr.innerText} Diumvuija dia ${metaTitleWord.innerText} didi ${metaDescriptionFilltsh.innerText}`;
+    document.getElementsByTagName('head')[0].appendChild(metaDescription);
+    }
 </script>
 
 
