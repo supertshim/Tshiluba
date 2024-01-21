@@ -22,7 +22,7 @@
 }
 /* The header including background photo*/
 .header{
-    min-height: 110vh;
+    min-height: 100vh;
     width: 100%;
     /*background-image:linear-gradient(rgb(11, 0, 77, .75),rgba(0, 0, 0, 1)), url(images/COA.png), linear-gradient(rgb(11, 0, 77, 1),rgb(11, 0, 77, 1));
     */
@@ -31,6 +31,7 @@
     background-repeat: no-repeat;
     background-attachment:scroll;
     background-size:auto;
+    overflow: visible;
 }
 
 /* The Navigation Menu positioning on page*/
@@ -39,6 +40,7 @@ nav{
     padding: 40px;
     justify-content: space-between;
     align-items: center;
+    z-index: 2;
 }
 
 /* The Navigation Link Position on Page*/
@@ -62,6 +64,7 @@ nav{
     color: #000000;
     text-decoration: none;
     font-size: 20px;
+    font-weight: 500;
 }
 /*********************************************/
 .nav-links ul li button{
@@ -71,6 +74,7 @@ nav{
     font-size: 20px;
     background-color: transparent;
     border: none;
+    font-weight: 500;
 }
 
 .nav-links ul .games_dd2{
@@ -81,7 +85,7 @@ nav{
     font-family: 'Montserrat', sans-serif;
     color: #000000;
     font-size: 20px;
-    background-color: transparent;
+    background-color: white;
     border: solid rgb(0, 0, 0) 1px;
     position: absolute;
     border-radius: 5px;
@@ -94,6 +98,7 @@ nav{
     transform: translateY(9px);
     width: fit-content;
     overflow: hidden;
+    z-index: 2;
 }
 
 .nav-links .dropdown a {
@@ -127,7 +132,7 @@ nav{
 /************************************/
 
 /*********************************************/
-.searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button, .searchheader .nav-links ul li button {
+.searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     text-decoration: none;
@@ -136,11 +141,11 @@ nav{
     border: none;
 }
 
-.searchheader4 .nav-links ul .games_dd2, .searchheader5 .nav-links ul .games_dd2, .searchheader .nav-links ul .games_dd2{
+.searchheader4 .nav-links ul .games_dd2, .searchheader5 .nav-links ul .games_dd2{
     position: static;
 }
 
-.searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown, .searchheader .nav-links .dropdown {
+.searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown{
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 20px;
@@ -159,7 +164,7 @@ nav{
     opacity: 0%;
 }
 
-.searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a, .searchheader .nav-links .dropdown a {
+.searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a{
     position: relative;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
@@ -172,12 +177,12 @@ nav{
     padding: 20px;
 }
 
-.searchheader4 .nav-links ul li:hover .dropdown, .searchheader5 .nav-links ul li:hover .dropdown, .searchheader .nav-links ul li:hover .dropdown {
+.searchheader4 .nav-links ul li:hover .dropdown, .searchheader5 .nav-links ul li:hover .dropdown{
     opacity:100%;
     transform: translateY(0px);
 }
 
-.searchheader4 .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover, .searchheader .nav-links .dropdown a:hover{
+.searchheader4 .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover{
     position: relative;
     font-family: 'Montserrat', sans-serif;
     color: #000000;
@@ -194,12 +199,6 @@ nav{
     font-size: 20px;
 }
 
-.searchheader5 .nav-links ul li a{
-    font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 20px;
-}
 
 /* The Navigation Menu Animation*/
 .nav-links ul li::after{
@@ -278,16 +277,26 @@ nav{
 }
 
 
-
-.MuakuWd {
+.MuakuWD {
     display: block;
-    width: fit-content;
+    width: 100%;
+    top: -40px;
+    position: relative;
+    transform: translateY(0px);
+    transition: all .4s ;
+    box-shadow: .6em .5em 1em rgb(121, 121, 121, 0);
 }
 
 .MuakuWD :hover {
-    transition-duration: .4s;
+    transition: all .4s;
     transform: translateY(-4px);
     box-shadow: .6em .5em 1em rgb(121, 121, 121);
+}
+
+.MuakuWD :hover::after {
+    transform: translateY(4px);
+    transition: .4s;
+    box-shadow: .6em .5em 1em rgb(121, 121, 121, 0);
 }
 
 .search-bar button{
@@ -329,18 +338,19 @@ nav .fa-solid{
     margin-bottom: 50px;
     top: 0px;
     text-align: center;
-    width: fit-content;
+    min-width: 300px;
+    width: 500px;
     height: fit-content;
-    background:white;
     border-radius: 30px;
     padding: 20px;
-    border: solid gold;
+    border: 10px solid #001163;
     cursor: pointer;
+    overflow: hidden;
 }
 
 .mwd .mwdtitle {
     font-family: 'Montserrat', sans-serif;
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 700;
     letter-spacing: -1px;
     pointer-events: none;
@@ -365,10 +375,11 @@ nav .fa-solid{
     font-size: 67px;
     font-weight: 700;
     color: #090152;
-    margin-top: 15px;
-    line-height:2cap;
+    margin-top: 0px;
+    line-height:1.5cap;
     overflow: hidden;
     pointer-events: none;
+    margin-bottom: 20px;
 }
 .mwd .mwdPhon {
     font-family: Tahoma, sans-serif;
@@ -380,11 +391,19 @@ nav .fa-solid{
 }
 .mwd .mwdefinition {
     font-family: 'Jost', sans-serif;
-    font-size: 20px;
-    font-weight: 700;
-    margin-top: 50px;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom:20px;
     pointer-events: none;
+    line-height: 25px;
+    overflow: hidden;
 }
+
+
+
+
+
 
 /*Settings For Screens with Max width 700px*/
 
@@ -396,11 +415,11 @@ nav .fa-solid{
 
     .header .text-box {
         width: 100%;
-        height: 100%;
+        height: 170px;
         color: #fff;
         position: relative;
         padding: 0px 0px;
-        top: 80px;
+        top: 40px;
         font-family: 'Jost', sans-serif;
         overflow: hidden;
         display: block;
@@ -412,7 +431,8 @@ nav .fa-solid{
         display: block;
         position: relative;
         left: 0px;
-        font-size: 8vw;
+        font-size: 30px;
+        margin-bottom: -40px;
     }
     .search-bar input{
         font-size: 18px;
@@ -473,15 +493,6 @@ nav .fa-solid{
         padding: 40px;
     }
 
-    .searchheader nav .fa-bars{
-        color: rgb(255, 255, 255);
-        align-items: right;
-        width: 20px;
-        position: absolute;
-        right: 0px;
-        top: 0px;
-        padding: 20px;
-    }
     
     .searchheader4 nav .fa-bars{
         color: rgb(255, 255, 255);
@@ -538,7 +549,7 @@ nav .fa-solid{
         padding: 0px;
     }
 
-    .searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown, .searchheader .nav-links .dropdown {
+    .searchheader4 .nav-links .dropdown, .searchheader5 .nav-links .dropdown{
         font-family: 'Montserrat', sans-serif;
         color: #000000;
         font-size: 18px;
@@ -558,7 +569,7 @@ nav .fa-solid{
         zoom: 0.7;
     }
 
-    .searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a, .searchheader .nav-links .dropdown a  {
+    .searchheader4 .nav-links .dropdown a, .searchheader5 .nav-links .dropdown a{
         position: relative;
         font-family: 'Montserrat', sans-serif;
         color: #000000;
@@ -571,7 +582,7 @@ nav .fa-solid{
         padding: 0px;
     }
 
-    .searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button, .searchheader .nav-links ul li button{
+    .searchheader4 .nav-links ul li button, .searchheader5 .nav-links ul li button{
         font-family: 'Montserrat', sans-serif;
         color: #000000;
         text-decoration: none;
@@ -580,7 +591,7 @@ nav .fa-solid{
         border: none;
     }
 
-    .searchheader4 .nav-links .dropdown a:hover, .searchheader .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover{
+    .searchheader4 .nav-links .dropdown a:hover, .searchheader5 .nav-links .dropdown a:hover{
         position: relative;
         font-family: 'Montserrat', sans-serif;
         color: #ffffff;
@@ -605,14 +616,15 @@ nav .fa-solid{
     }
     .mwd .mwdbigword {
         font-family: 'Jost', sans-serif;
-        font-size: 9vw;
+        font-size: 10vw;
         font-weight: 700;
         color: #090152;
-        margin-top: 5vh;
+        margin-top: 4vw;
+        margin-bottom: 4vw;
         word-wrap:break-word;
         line-height:1.2ch;
-        overflow: hidden;    
-        height: 8vh;
+        overflow: visible;    
+        height: fit-content;
     }
 
     .mwd .mwdPhon {
@@ -625,8 +637,8 @@ nav .fa-solid{
 
     .mwd .mwdefinition {
         font-family: 'Jost', sans-serif;
-        font-size: 4vw;
-        font-weight: 700;
+        font-size: 24px;
+        font-weight: 500;
         margin-top: 4vh;
     }
 
@@ -644,6 +656,27 @@ nav .fa-solid{
         letter-spacing: -1px;
         margin-top: -5px;
     }
+
+    .MuakuWD {
+        display: block;
+        width: 100%;
+        top: 0px;
+        position: relative;
+        overflow: hidden;
+        scroll-behavior: none;
+    }
+
+    .MuakuWD .mwd {
+        display: block;
+        position: relative;
+        top:0px;
+        margin-top: 20px;
+        margin-bottom: 100px;
+        box-shadow: .6em .5em 1em rgb(121, 121, 121);
+        
+    }
+
+
 }
 /*------ABOUT US PAGE-------*/
 /* The Nav Link Text Color & Font*/
@@ -691,67 +724,7 @@ nav .fa-solid{
     text-align: left;
 }
 /*------Search Page-------*/
-.searchheader .wrapper{
-    height: fit-content;
-    width: 100%;
-    position:relative;
-    overflow-y: auto;
-}
-.searchheader{
-    height:100%;
-    min-height:50vh;
-    width: 100%;
-    background-color: #001163;
-    background-position: center;
-    background-size: cover;
-    position: absolute;
-    padding: 0px 0px;
-}
 
-/* The Navigation Menu positioning on page*/
-.searchheader nav{
-    display: block;
-    padding: 40px;
-    justify-content: space-between;
-    align-items: center;
-}
-
-/* The Navigation Link Position on Page*/
-.searchheader .nav-links{
-    flex: 1;
-    text-align: right;
-    position: static;
-    color: white;
-}
-
-/* The Navigation Menu Spacing & Orientation*/
-.searchheader .nav-links ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 8px 12px;
-    position: static;
-}
-
-/* The Nav Link Text Color & Font*/
-.searchheader .nav-links ul li a{
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-/* The Navigation Menu Animation*/
-.searchheader .nav-links ul li::after{
-    content: '';
-    width: 0%;
-    height: 2px;
-    background: #fff;
-    display: block;
-    margin: auto;
-    transition: 0.5s;
-}
-.searchheader .nav-links ul li:hover::after{
-    width: 100%;
-}
 .searchheader4 .nav-links ul li::after{
     content: '';
     width: 0%;
@@ -779,316 +752,10 @@ nav .fa-solid{
 }
 /* The Cage for the search header
 */
-.searchheader .cage {
-    position: absolute;
-    height: 95vh;
-    width: 90%;
-    top: 120px;
-    display: inline;
-    left: 5%;
-}
-
-.searchheader .text-box{
-    width: 100%;
-    color: #fff;
-    position: relative;
-    padding: 0px;
-    text-align: center;
-    display: inline;
-    top: 0px;
-    overflow: hidden;
-}
-.searchheader .text-box img{
-    width:200px;
-}
-
-.searchheader .text-box h1{
-    font-size: 50px;
-    padding: 20px;
-    font-family: 'Jost', sans-serif;
-}
-
-.searchheader .search-bar{
-    height: 100%;
-    background: rgba(255, 255, 255, 1);
-    display: flex;
-    max-width: 700px;
-    border-radius: 60px;
-    padding: 0px 5px;
-    backdrop-filter: blur(10px) saturate(180%);
-    position: relative;
-    top: 0%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    align-items: center;
-}
-
-.searchheader .search-bar:focus-within{
-    border:none;
-    transition-duration: .4s;
-    filter: drop-shadow(.2em .2em .4em rgb(0, 0, 0));
-}
-
-.searchheader .search-bar:hover{
-    border:none;
-    transition-duration: .4s;
-    box-shadow: .6em .5em 1em rgb(0, 0, 49);
-}
 
 
-.searchheader .cage .text-box .container .TTDDT img{
-    width: 70px;
-    padding: 5px;
-    position: relative;
-}
 
-.searchheader .search-bar button{
-    background:transparent;
-    border: 0;
-    border-radius: 50%;
-}
 
-.searchheader .search-bar img{
-    width: 30px;
-    cursor: pointer;
-}
-
-.searchheader .search-bar input{
-    background: transparent;
-    padding: 10px 20px;
-    font-size: 22px;
-    font-family: 'Montserrat', sans-serif;
-    color: black;
-    font-weight: 700;
-}
-
-.searchheader nav .fa{
-    display: none;
-}
-.searchheader nav .fa-solid{
-    display: none;
-}
-
-.searchheader .IndexTable{
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    width: 100%;
-    font-size: 40px;
-    position: relative;
-}
-.searchheader .tablewrapper2{
-    text-align: center;
-    background-color: transparent;
-    width: 100vw;
-    font-family: 'Jost', sans-serif;
-    font-weight: 500;
-    font-style: normal;
-}
-.searchheader .tablewrapper2 h1{
-    text-align: center;
-    background-color: transparent
-    width: fit-content;
-    height: fit-content;
-    font-size: 50px;
-    padding: 20px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-.searchheader .tablewrapper2 ol{
-    list-style-position: inside;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    font-size: 30px;
-}
-.searchheader .tablewrapper2 ol li a{
-    color:black;
-}
-/* The Cage for the search results
-*/
-.searchheader .cardcage{
-    position: absolute;
-    height: 95vh;
-    width: 100%;
-    min-width: 100%;
-    top: 300px;
-    height: auto;
-    overflow: auto;
-}
-.searchheader .card{
-    width: fit-content;
-    max-width: 80%;
-    background-color: rgb(245, 245, 245);
-    color: #000000;
-    position: relative;
-    text-align: center;
-    display: block;
-    overflow: hidden;
-    height:auto;
-    border: solid gold;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 50px;
-    margin-bottom: 100px;
-    padding-top: 30px;
-    box-shadow: .6em .5em 1em rgb(0, 0, 49);
-}
-.searchheader .card .bigword{
-    font-family: 'Jost', sans-serif;
-    font-size: 62px;
-    margin-bottom: -10px;
-    line-height: 1.2;
-    position: relative;
-    width:fit-content;
-    overflow-y:hidden;
-    padding: 10px;
-    display: block;
-    background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.searchheader .card .bigword p{
-    overflow-y:hidden;
-}
-.searchheader .card .PartOfSpeech{
-    font-family: 'DM Serif Display';
-    font-style: italic;
-    font-size: 32px;
-    background-color: transparent ;
-    display: block;
-    text-align: center;
-    top: 50px;
-    width: 100%;
-}
-.searchheader .card .Phonetics{
-    font-family: 'Tinos', sans-serif;
-    color: rgb(63, 63, 63);
-    font-size: 20px;
-    padding: 0px;
-    position: sticky;
-    background-color: transparent ;
-    display: block;
-    transform: translate(0, 0px);
-}
-.space{
-    height: 11vw;
-    background-color: #ffffff;
-
-}
-
-/* The Cage for the search results table
-*/
-.searchheader .tablewrapper{
-    width: 100%;
-    margin: 0 auto;
-    transform: translate(0px,0px);
-    background-color: rgb(255, 255, 255);
-    height: auto;
-    overflow: auto;
-    display: block;
-}
-
-a.links{
-    text-decoration: none;
-    color: rgba(0, 0, 255, 0.671);
-    font-style: italic;
-}
-a.links:hover {
-    text-decoration:line;
-    color: rgb(148, 0, 0);
-    margin: auto;
-  }
-a.links:visited {
-    text-decoration:line;
-    color: rgb(48, 48, 48);
-    margin: auto;
-  }
-
-  .searchheader .card .tablewrapper {
-    display:block;
-    width: 100%;
-    position: relative;
-}
-.searchheader .card .tablewrapper .Xinfo {
-    /*background-color: rgb(0, 255, 55);*/
-    display: block;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.searchheader .card .tablewrapper .Xinfo tbody{
-    overflow: hidden;
-    width: 100%;
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: rgb(255, 255, 255);
-    display: block;
-}
-
-.searchheader .card .tablewrapper .Xinfo .PartOfSpch{
-    color: blue;
-    font-weight: 400;
-    font-size: 18px;
-}
-
-.searchheader .card .tablewrapper .Xinfo tr td{
-    font-family:'Jost', sans-serif;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 36px;
-    width: 33%;
-    position: relative;
-    text-align: center;
-}
-
-.searchheader .card .tablewrapper .Xinfo tr th{
-    font-family:'Jost', sans-serif;
-    font-variant-caps: all-small-caps;
-    font-size: 3vw;
-    width: 20%;
-    position: relative;
-    text-align: left;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 20px;
-    /*background-color: gold;*/
-}
-.searchheader .card .tablewrapper .Xinfo .dividerspace{
-    border-top: 2px solid rgb(150, 150, 150);
-    width: 100%;
-}
-.searchheader .card .tablewrapper .Xinfo .tabledef{
-    font-family:'Tinos', sans-serif;
-    padding: 20px;
-    font-size: 24px;
-    position: relative;
-    text-align: left;
-    font-weight: 700;
-}
-.searchheader .card .tablewrapper .Xinfo .tabledef_a{
-    font-family:'Tinos', sans-serif;
-    padding: 2px;
-    font-size: 18px;
-    width: 100%;
-    position: relative;
-}
-
-.searchheader .card .tablewrapper .Xinfo .analogy{
-    font-family:'Tinos', sans-serif;
-    padding: 20px;
-    font-size: 24px;
-    width: 100%;
-    position: relative;
-    border-top: 2px solid rgb(150, 150, 150);
-    text-align: center;
-}
 
 
 .footer {
@@ -1104,38 +771,42 @@ a.links:visited {
     font-family:'Jost', sans-serif;
     font-weight: 700;
     color: #000000;
+    margin-top: 100px;
 }
-.footer a{
+.footer a, .footer th{
     color: black;
+    font-family:'Jost', sans-serif;
 }
 
 .footer img{
-    height: 100px;
+    height: 200px;
 }
 
 .footer .social-media{
     margin-top: 50px;
-    height: 30px;
-    padding: 10px;
+    height: 30px !important;
+    padding: 0px !important;
 }
 
 .footer table {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    width: 80;
     height: 100%;
     margin-top: 80px;
     background-color: #f7f7f7;
     padding: 20px;
+    justify-content: center;
 }
 .footer table tr th{
     position: relative;
     font-size: 20px;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 30vw;
     height: 100%;
+    text-align: center;
 }
 .searchheader4 .wrapper{
     height: fit-content;
@@ -1154,265 +825,7 @@ a.links:visited {
     padding: 0px 0px;
 }
 
-.searchheader5 .wrapper{
-    height: fit-content;
-    width: 100%;
-    position:relative;
-    overflow-y: auto;
-}
-.searchheader5 {
-    height:100%;
-    min-height:50vh;
-    width: 100%;
-    background-color: rgb(11, 0, 77);
-    background-position: center;
-    background-size: cover;
-    position: absolute;
-    padding: 0px 0px;
-}
-/*------Word of the Day Page-------*/
-.wordofthedaypage .wrapper{
-    height: auto;
-    width: 100%;
-    position:relative;
-    overflow-y: auto;
-}
-.wordofthedaypage{
-    height:100vh;
-    min-height:50vh;
-    width: 100%;
-    background-color: rgb(11, 0, 77);
-    background-position: center;
-    background-size: cover;
-    position: absolute;
-    padding: 0px 0px;
-}
 
-/* The Navigation Menu positioning on page*/
-.wordofthedaypage nav{
-    display: flex;
-    padding: 2% 6%;
-    justify-content: space-between;
-    align-items: center;
-}
-
-/* The Navigation Link Position on Page*/
-.wordofthedaypage .nav-links{
-    flex: 1;
-    text-align: right;
-    position: relative;
-}
-
-/* The Navigation Menu Spacing & Orientation*/
-.wordofthedaypage .nav-links ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 8px 12px;
-    position: relative;
-}
-
-/* The Nav Link Text Color & Font*/
-.wordofthedaypage .nav-links ul li a{
-    color: #fff;
-    text-decoration: none;
-    font-size: 20px;
-}
-
-/* The Navigation Menu Animation*/
-.wordofthedaypage .nav-links ul li::after{
-    content: '';
-    width: 0%;
-    height: 2px;
-    background: #fff;
-    display: block;
-    margin: auto;
-    transition: 0.5s;
-}
-.wordofthedaypage .nav-links ul li:hover::after{
-    width: 100%;
-}
-
-.wordofthedaypage .tablewrapper3{
-    margin-left: auto;
-    margin-right:auto;
-    background-color: transparent;
-    width: fit-content;
-    font-family: 'Jost', sans-serif;
-    font-size: 40px;
-    font-weight: 700;
-    border-radius: 30px;
-    margin-bottom: 30px;
-}
-
-.wordofthedaypage .MWDsection{
-    position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    top: 0px;
-    text-align: center;
-    width: fit-content;
-    height: fit-content;
-    background:white;
-    border-radius: 30px;
-    padding: 20px;
-}
-
-.wordofthedaypage .MWDsection .mwdtitle {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 22px;
-    font-weight: 700;
-    letter-spacing: -1px;
-}
-.wordofthedaypage .MWDsection .mwdtitletx {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: -1px;
-    margin-top: -5px;
-}
-.wordofthedaypage .MWDsection .mwdate {
-    font-family: Tahoma, sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-    margin-bottom: 10px;
-}
-.wordofthedaypage .MWDsection .mwdbigword {
-    font-family: 'Jost', sans-serif;
-    font-size: 67px;
-    font-weight: 700;
-    color: #090152;
-    margin-top: 15px;
-}
-.wordofthedaypage .MWDsection .mwdPhon {
-    font-family: Tahoma, sans-serif;
-    font-size: 14px;
-    font-weight: 400;
-    margin-top: -20px;
-    color: #000000;
-}
-.wordofthedaypage .MWDsection .mwdefinition {
-    font-family: 'Jost', sans-serif;
-    font-size: 20px;
-    font-weight: 700;
-    margin-top: 50px;
-}
-
-.searchheader5 .documentarea{
-    text-align: center;
-    background-color: rgb(11, 0, 77);
-    width: 100%;
-    font-family: 'Jost', sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    height: fit-content;
-    padding: 0px 0px;
-    margin-left: auto;
-    margin-right: auto;
-    overflow:hidden;
-    margin-bottom: 100px;
-}
-.searchheader5 .documentarea h1{
-    text-align: center;
-    width: 100%;
-    height:fit-content;
-    font-size: 90px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-.searchheader5 .documentarea .Privacy {
-    text-align: justify;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 90%;
-    height: fit-content;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    padding: 30px;
-    border:solid gold;
-    border-radius: 40px;
-}
-
-.searchheader4 .documentarea1{
-    text-align: center;
-    background-color: rgb(11, 0, 77);
-    width: 700px;
-    font-family: 'Jost', sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    height: fit-content;
-    padding: 0px 0px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 100px;
-    position: relative;
-    top:10px;
-}
-.searchheader4 .documentarea1 h1{
-    text-align: center;
-    background-color: rgb(11, 0, 77);
-    width: 100%;
-    height:fit-content;
-    font-size: 80px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-}
-.searchheader4 .documentarea1 .Privacy {
-    text-align: center;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 255, 255);
-    width: 90%;
-    height: fit-content;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    border:solid gold;
-    border-radius: 40px;  
-}
-
-.searchheader4 .documentarea1 .Privacy form{
-    display: block;
-    padding: 50px;
-    align-items: center;
-}
-
-.searchheader4 .documentarea1 .Privacy form p{
-    display: block;
-    font-size: 20px;
-}
-.searchheader4 .documentarea1 .Privacy .contactform{
-    border-radius:2px;
-    padding-left: 10px;
-    width: 500px;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
-    height: 50px;
-    margin-bottom: 0px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    text-align: left;
-}
-
-.searchheader4 .documentarea1 .Privacy .contactformmessage {
-    border-radius:0px;
-    width: 480px;
-    padding: 20px;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
-    margin-bottom: 20px;
-    font-family: 'Montserrat', sans-serif;
-    font-size:16px;
-    text-align: left;
-    height: 300px;
-    font-weight: 700;
-    resize: none;
-}
 
 .g-recaptcha {
    transform: scale(1);
@@ -1429,46 +842,6 @@ a.links:visited {
 
 }
 
-.searchheader4 .documentarea1 .Privacy .buttxn{
-    border-radius:10px;
-    width: 300px;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .05em rgb(156, 156, 156));
-    font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
-    text-align: center;
-    height: 100px;
-    font-weight: 700;
-    background-color: gold;
-    margin: 50px;
-    margin-bottom:40px;
-    cursor: pointer;
-    transition-duration: 0.4s;
-}
-
-.searchheader4 .documentarea1 .Privacy .buttxn:hover{
-    background-color: #001163;
-    color: white;
-}
-
-
-.searchheader4 .documentarea1 .Privacy .buttxn:active{
-    background-color: #ffffff;
-    color: rgb(0, 0, 0);
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
-
-}
-
-.searchheader4 .documentarea1 .Privacy h1{
-   font-size: 50px;  
-}
-
-.searchheader4 .documentarea1 .Privacy img{
-    width: 100px;
-    padding: 10px;
-}
 
 .searchheader4 .Privacy h1{
     color: rgb(0, 0, 0);
@@ -1579,215 +952,6 @@ a.links:visited {
     
 }
 
-.gamearea {
-    position: relative;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Jost', sans-serif;
-}
-
-.gamearea h1{
-    font-family: 'Jost', sans-serif;
-    font-size: 80px;
-    text-align: center;
-    color: white;
-}
-
-.ws_gamebox {
-    position: relative;
-    background-color: rgb(255, 255, 255);
-    width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Jost', sans-serif;
-    border: 2px solid gold;
-    border-radius: 50px;
-    box-shadow: 1em 1em 1em rgb(7, 0, 34);
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-bottom: 100px;
-    height: 600px;
-    overflow: hidden;
-    zoom: 0.9;
-}
-
-.ws_gamebox .word_box{
-    display: flex;
-    align-items: center;
-    font-size: 60px;
-    text-align: center;
-    letter-spacing: 20px;
-    word-wrap: break-word;
-    width: 100%;
-    padding-left: 0px;
-    margin-bottom: 0px;
-    height: 150px;
-    overflow: hidden;
-    line-height: 50px;
-}
-.ws_gamebox .ws_word{
-    vertical-align: middle;
-    font-size: 60px;
-    text-align: center;
-    letter-spacing: 20px;
-    word-wrap: break-word;
-    width: 100%;
-    padding-left: 20px;
-    margin-bottom: 0px;
-    height: fit-content;
-    overflow: hidden;
-    line-height: 80px;
-}
-
-.ws_gamebox .ws_details{
-    position: relative;
-    font-size: 24px;
-    text-align: center;
-    width: 100%;
-    height: 100px;
-    overflow: visible;
-    scroll-behavior: none;
-    display: block;
-}
-
-.ws_gamebox .ws_details .ws_timeleft {
-    position: relative;
-    text-align: center;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 40px;
-    overflow: hidden;
-}
-
-.ws_gamebox .ws_details .ws_timeleft span{
-    position: relative;
-    font-size: 60px;
-    text-align: justify;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.ws_gamebox ::placeholder{
-    font-family: 'Jost', sans-serif;
-    font-size: 30px;
-    justify-content: center;
-    text-align: center;
-    color: #b3b3b3;
-}
-
-
-.ws_gamebox input{
-    font-family: 'Jost', sans-serif;
-    position: relative;
-    font-size: 30px;
-    text-align: center;
-    vertical-align: baseline;
-    width: 470px;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    padding: 10px;
-    margin-top: 60px;
-    margin-bottom: 0px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-
-.ws_gamebox .ws_buttons{
-    position: relative;
-    font-size: 30px;
-    text-align: center;
-    justify-content: center;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top:60px;
-    height: fit-content;
-    margin-top: 0px;
-}
-
-
-.ws_gamebox .ws_refresh{
-    position: relative;
-    font-size: 24px;
-    text-align: center;
-    justify-content: center;
-    width: 35%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    border: none;
-    background-color: rgb(25, 75, 150);
-    font-family: 'Jost', sans-serif;
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    transform: translateY(8px);
-
-}
-.ws_gamebox .ws_refresh img{
-    width: 44px;
-}
-
-.ws_gamebox .ws_refresh:hover img{
-    filter: invert(100%);
-}
-
-
-button.ws_refresh:hover{
-    background-color: #001163;
-    color: white;
-};
-
-.ws_gamebox .ws_refresh:active{
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    transform: translateY(4px);
-
-}
-
-.ws_gamebox .ws_check{
-    position: relative;
-    font-size: 24px;
-    text-align: center;
-    justify-content: center;
-    width: 35%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    border-radius: 10px;
-    border:none;
-    background-color: rgb(170, 75, 75);
-    font-family: 'Jost', sans-serif;
-    box-shadow: 0em .2em rgb(129, 129, 129);
-}
-
-.ws_gamebox .ws_check:hover{
-    background-color: #630000;
-    color: white;
-}
-
-.ws_checkanimate {
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    animation: tilt-shaking 0.25s 1;
-    background-color: #9b0000;
-}
-
-.ws_checkanimateWin {
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    animation: jump-shaking 0.83s 1;
-}
-
-.ws_refreshWobble {
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    animation: tilt-shaking2 0.25s 1;
-
-}
 
 
 /*Settings For Screens with Max width 700px*/
@@ -1795,16 +959,6 @@ button.ws_refresh:hover{
 @media(max-width: 700px){
 
 
-    .searchheader .cage {
-        position: relative;
-        height: 95vh;
-        width: 80%;
-        display: block;
-        left: 10%;
-        overflow: hidden;
-        top: 0px;
-        background-color: #001163;
-    }
     .searchheader .cage2 {
         position: absolute;
         height: 95vh;
@@ -1924,140 +1078,12 @@ button.ws_refresh:hover{
         color: black;
     } 
 
-    .searchheader .cardcage{
-        font-size: 32px;
-        padding: 0px 0px;
-        transform: translateY(-60px);
-        display:block;
-        overflow-y: hidden;
-        z-index: 1;
-    }
-    .searchheader .card{
-        padding: 0px 0px;
-        align-items: center;
-        width: 80%;
-        display: block;
-    }
-    .searchheader .card .bigword{
-        font-size: 7vw;
-        padding-top: 30px;
-        padding-bottom: 20px;
-    }
-    .searchheader .card .PartOfSpeech{
-        font-size: 4vw;
-        display: inline-block;
-        width: 100%;
-        margin-top: 0px;
-        margin-bottom: 10px;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo  .PartOfSpch{
-        color: blue;
-        font-weight: 400;
-        font-size: 12px;
-    }
-    .searchheader .card .Phonetics{
-        font-size: 4vw;
-        padding: 10px;
-        position: sticky;
-        background-color: transparent;
-        transform: translate(0, -30px);
-        margin-bottom: -30px;
-        margin-top: 0px;
-    }
-    .searchheader .tablewrapper{
-        width: 100%;
-        overflow-y: hidden;
-    }
-
-    .searchheader .IndexTable{
-        text-align: center;
-        background-color: rgb(255, 255, 255);
-        width: 100%;
-        font-size: 40px;
-        position: relative;
-        height: fit-content;
-    }
-
+   
     a.links:link{
         color: rgb(0, 47, 255);
         text-decoration: none;    
     }
 
-
-    .searchheader .card .tablewrapper .Xinfo {
-        width:100%;
-        position: relative;
-        overflow-y: hidden;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo tbody{
-        overflow: hidden;
-        position: relative;
-        width: 100%;
-        display: block;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo tr{
-        padding: 4px;
-        font-size: 6vw;
-        position: relative;
-        text-align: left;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo tr th{
-      font-size: 5vw;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo .dividerspace{
-        border-top: 2px solid rgb(150, 150, 150);
-        width: 100%;
-    }
-
-    .searchheader .card .tablewrapper .Xinfo .analogy{
-        font-family:'Tinos', sans-serif;
-        font-size: 5vw;
-        position: relative;
-        border-top: 2px solid rgb(56, 56, 56);
-        margin-left: auto;
-        margin-right: auto;
-    }
-    .searchheader .card .tablewrapper .Xinfo .tabledef{
-        font-family:'Tinos', sans-serif;
-        position: relative;
-        padding-left: 10px;
-        padding-right: 10px;
-        font-size: 4vw;
-        text-align: left;
-        word-wrap: break-word;
-        /*background-color: green;*/
-    }
-    .searchheader .card .tablewrapper .Xinfo .tabledef_a{
-        font-family:'Tinos', sans-serif;
-        padding: 2px;
-        font-size: 16px;
-        text-align: center;
-        width: 100%;
-    }
-    .searchheader .tablewrapper2 {
-       position:  relative;
-       display: block;
-       height: fit-content;
-       background-color: transparent;
-}
-    .searchheader .tablewrapper2  h1{
-            font-size: 40px;
-            padding: 0px 0px;
-            position: relative;
-    }
-    .searchheader .tablewrapper2 ol{
-        list-style-position: inside;
-        text-align: left;
-        padding-left: 5%;
-        font-size: 25px;
-    }
 
     .searchheader .cage .text-box .container .TTDDT img{
         width: 50px;
@@ -2249,7 +1275,7 @@ button.ws_refresh:hover{
     font-size: 12px;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    width: 30vw;
     height: 100%;
 }
 
@@ -2297,252 +1323,6 @@ button.ws_refresh:hover{
     display: block;
 }
 
-.searchheader4 .documentarea1 .Privacy form p{
-    display: block;
-    font-size: 16px;
-}
-.searchheader4 .documentarea1 .Privacy .contactform{
-    border-radius:2px;
-    margin-left: -20px;
-    width: 100%;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
-    height: 50px;
-    margin-bottom: 0px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
-    text-align: left;
-}
-
-.searchheader4 .documentarea1 .Privacy .contactformmessage {
-    border-radius:0px;
-    width: 100%;
-    padding: 20px;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
-    margin-bottom: 20px;
-    margin-left: -20px;
-    font-family: 'Montserrat', sans-serif;
-    font-size:16px;
-    text-align: left;
-    height: 300px;
-    font-weight: 700;
-    resize: none;
-}
-
-.searchheader4 .documentarea1 .Privacy .buttxn{
-    border-radius:10px;
-    width: 200px;
-    border:none;
-    outline:none;
-    filter: drop-shadow(.2em .2em .05em rgb(156, 156, 156));
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    text-align: center;
-    height: 50px;
-    font-weight: 700;
-    background-color: gold;
-    margin: 20px;
-    margin-bottom:20px;
-}
-
-
-.g-recaptcha {
-    transform: scale(1);
-    margin-left: -30vw;
-    position: relative;
-    width: 100vw;
-     -webkit-transform:scale(1);
-     transform-origin:0 0;
-     -webkit-transform-origin:0 0;
- }
- .g-recaptcha > div:nth-child(1) {
-     overflow: hidden;
-     height: fit-content;
-     width: fit-content;
-     margin-left: auto;
-     margin-right: auto;
- 
- }
-
- .ws_gamebox {
-    width: 75%;
-    height: 600px;
-}
-
-
-.gamearea h1{
-    font-family: 'Jost', sans-serif;
-    font-size: 40px;
-    text-align: center;
-    color: white;
-}
-
-
-.ws_gamebox .word_box{
-    display: flex;
-    align-items: center;
-    font-size: 60px;
-    text-align: center;
-    letter-spacing: 20px;
-    word-wrap: break-word;
-    width: 100%;
-    padding-left: 0px;
-    margin-bottom: 0px;
-    height: 150px;
-    overflow: hidden;
-    line-height: 60px;
-}
-.ws_gamebox .ws_word{
-    vertical-align: middle;
-    font-size: 60px;
-    text-align: center;
-    letter-spacing: 0px;
-    word-wrap: break-word;
-    width: 100%;
-    padding-left: 0px;
-    margin-bottom: 0px;
-    height: auto;
-    overflow: hidden;
-    line-height:60px;
-}
-
-
-.ws_gamebox input{
-    font-family: 'Jost', sans-serif;
-    position: relative;
-    font-size: 24px;
-    text-align: center;
-    vertical-align: baseline;
-    width: 100%;
-    display: flex;
-    font-weight: 700;
-    text-transform: uppercase;
-    left: -10px;
-}
-
-
-.ws_gamebox .ws_buttons{
-    position: relative;
-    font-size: 30px;
-    text-align: center;
-    justify-content: center;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    padding-top:0px;
-    height: 500px;
-    margin-top: 0px;
-}
-
-
-.ws_gamebox .ws_refresh{
-    position: relative;
-    font-size: 12px;
-    text-align: center;
-    justify-content: center;
-    width: 35%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    border: none;
-    background-color: rgb(25, 75, 150);
-    font-family: 'Jost', sans-serif;
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    transform: translateY(8px);
-    height: 150px;
-    top: 60px;
-
-}
-.ws_gamebox .ws_refresh img{
-    width: 40px;
-}
-
-.ws_gamebox .ws_check{
-    position: relative;
-    font-size: 20px;
-    text-align: center;
-    justify-content: center;
-    width: 35%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    border-radius: 10px;
-    border:none;
-    background-color: rgb(170, 75, 75);
-    font-family: 'Jost', sans-serif;
-    box-shadow: 0em .2em rgb(129, 129, 129);
-    height: 150px;
-    top:50px;
-}
-
-.ws_gamebox .ws_details{
-    position: relative;
-    font-size: 18px;
-    text-align: center;
-    width: 100%;
-    height: 100px;
-    overflow: visible;
-    scroll-behavior: none;
-    display: block;
-}
-
-.ws_gamebox .ws_details .ws_timeleft {
-    position: relative;
-    text-align: center;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 40px;
-    overflow: hidden;
-    font-size: 20px;
-}
-
-.ws_gamebox .ws_details .ws_timeleft span{
-    position: relative;
-    text-align: center;
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 40px;
-    overflow: hidden;
-    font-size: 30px;
-}
-
 
 
 }
-
-@keyframes tilt-shaking {
-    
-    0% { transform: rotate(0deg);  background-color: #e40000;}
-    25% { transform: rotate(5deg); background-color: #e40000;}
-    50% { transform: rotate(0deg); background-color: #e40000;}
-    75% { transform: rotate(-5deg); background-color: #e40000;}
-    100% { transform: rotate(0deg); background-color: #e40000;}
-  }
-
-
-  
-@keyframes tilt-shaking2 {
-    
-    0% { transform: rotate(0deg);  background-color: gold;}
-    25% { transform: rotate(5deg); background-color:  gold;}
-    50% { transform: rotate(0deg); background-color: gold;}
-    75% { transform: rotate(-5deg); background-color:  gold;}
-    100% { transform: rotate(0deg); background-color: gold}
-  }
-
-  @keyframes jump-shaking {
-    0% { transform: translateX(0); }
-    25% { transform: translateY(-40px); }
-    35% { transform: translateY(-40px) rotate(17deg); background-color: #00b919;}
-    55% { transform: translateY(-40px) rotate(-17deg); background-color: #00b919;}
-    65% { transform: translateY(-40px) rotate(17deg); background-color: #00b919;}
-    75% { transform: translateY(-40px) rotate(-17deg); background-color: #00b919;}
-    100% { transform: translateY(0) rotate(0) }
-  }
