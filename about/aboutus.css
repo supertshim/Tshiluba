@@ -1,0 +1,286 @@
+.header .documentarea{
+    text-align: center;
+    width: 700px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    position: relative;
+    top:10px;
+    width: 100%;
+}
+.header .documentarea h1{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.header .documentarea .AboutUs {
+    text-align: justify;
+    width: 650px;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border:10px solid #001163;
+    border-radius: 0px;  
+    padding:20px;
+    margin-top: 20px;
+    box-shadow: .6em .5em .5em rgb(163, 163, 163);
+}
+.header .documentarea .AboutUs p{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.header .documentarea .AboutUs form{
+    display: block;
+    padding: 50px;
+    align-items: center;
+}
+
+.header .documentarea .AboutUs form p{
+    display: block;
+    font-size: 20px;
+}
+.header .documentarea .AboutUs .contactform{
+    border-radius:2px;
+    padding-left: 10px;
+    width: 500px;
+    border:none;
+    outline:none;
+    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    height: 50px;
+    margin-bottom: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+.header .documentarea .AboutUs .contactformmessage {
+    border-radius:0px;
+    width: 480px;
+    padding: 20px;
+    border:none;
+    outline:none;
+    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    text-align: left;
+    height: 300px;
+    font-weight: 700;
+    resize: none;
+}
+
+/*-------------------COMMMENT SECTION STYLING ----------------*/
+
+.header .commentArea {
+    text-align: justify;
+    width: 650px;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border:10px solid #001163;
+    background-color: rgb(236, 236, 236);
+    border-radius: 0px;  
+    padding:20px;
+    margin-top: 20px;
+    box-shadow: .6em .5em .5em rgb(163, 163, 163);
+}
+
+.header .commentArea h3{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+}
+
+#HCB_comment_box #hcb_form_content,
+#HCB_comment_box #hcb_form_email,
+#HCB_comment_box #hcb_form_name,
+#HCB_comment_box #hcb_form_website 
+{
+      background-color:rgb(255, 255, 255);
+}
+
+#HCB_comment_box textarea {
+    min-height:200px;
+    display: block;
+    border-radius: 10px !important;
+}
+
+#HCB_comment_box #hcb_form .home-desc {
+    margin-top: 12px;
+    display: none;
+}
+
+#HCB_comment_box #hcb_form textarea, #HCB_comment_box #hcb_form #hcb_form_name {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    padding: 8px;
+    margin: 0;
+}
+
+#HCB_comment_box {
+    font-family: 'montserrat', sans-serif !important;
+    letter-spacing: 0.25;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#HCB_comment_box .author {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 16px !important;
+    text-transform: uppercase ;
+}
+
+
+#HCB_comment_box .submit {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color:rgb(0, 132, 255) !important;
+    border:1px solid darkgreen;
+    color: rgb(255, 255, 255) !important;
+  }
+
+  #HCB_comment_box .hcb-comment-body {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 20px !important;
+    margin: 8px 0 0 0;
+    padding: 0;
+}
+
+#HCB_comment_box .comment {
+    margin-bottom: 3em;
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 10px !important;
+    padding: 20px !important;
+}
+
+#HCB_comment_box .comment .likes {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px !important;
+}
+
+aside {
+    width: 30%;
+    float: right;
+}
+
+/*---------------------------------------------------------*/
+
+
+/*------------------THE NEW COMMENT SECTION------------------
+.commentArea {
+    font-family: 'Jost', sans-serif !important;
+}
+
+.header .commentArea h3{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+}
+.commentArea .author-wrapper {
+    overflow: hidden;
+}
+.commentArea .author-wrapper .author {
+    overflow: hidden;
+    font-size: 16px !important;
+    font-family: 'Jost', sans-serif !important;
+    text-transform: uppercase !important;
+}
+
+.commentArea .avatar {
+    min-width: 80px !important;
+    min-height: 80px !important;
+}
+.commentArea .avatar svg {
+    min-width: 80px !important;
+    min-height: 80px !important;
+}
+.commentArea .avatar span {
+    font-size: 24px !important;
+    overflow: hidden;
+}
+
+.commentArea .upvote span, .commentArea .downvote span {
+    font-size: 18px !important;
+    font-family: 'Jost', sans-serif !important;
+    overflow: hidden;
+}
+
+.commentArea .text, .commentArea .compose-container input {
+    font-family: 'Montserrat', sans-serif !important;
+    overflow: hidden;
+    font-size: 20px !important;
+}
+
+.commentArea .compose-container .comment-compose-body {
+    font-family: 'Montserrat', sans-serif !important;
+    overflow: hidden;
+    font-size: 20px !important;
+    text-transform: uppercase !important;
+}
+
+.commentArea .compose-container .comment-compose-body textarea{
+    font-family: 'Montserrat', sans-serif !important;
+    overflow: hidden;
+    font-size: 20px !important;
+}
+
+
+--------------------------------------------------------*/
+
+@media(max-width: 700px){
+    .header .documentarea{
+        font-size: 32px;
+        display:block;
+        overflow-y: hidden;
+        z-index: 1;
+        top:-50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .header .documentarea .AboutUs{
+        padding: 20px;
+        align-items: center;
+        width: 80%;
+        display: block;
+    }
+    .header .documentarea .AboutUs h1{
+        font-size: 12vw;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .header .documentarea .AboutUs p{
+        font-size: 18px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+}
