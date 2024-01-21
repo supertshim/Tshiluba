@@ -1,0 +1,292 @@
+.blue-header .wrapper{
+    height: fit-content;
+    width: 100%;
+    position:relative;
+    overflow-y: auto;
+}
+
+.blue-header {
+    height:100%;
+    height: fit-content;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding: 0px 0px;
+    top:10px;
+}
+
+.blue-header .documentarea{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+    margin-bottom: 100px;
+}
+.blue-header .documentarea h1{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.blue-header .documentarea .Privacy {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 650px;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 30px;
+    border:10px solid #001163;
+    border-radius: 0px;
+    box-shadow: .6em .5em .5em rgb(163, 163, 163);
+}
+
+
+.blue-header .nav-links ul li a{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.blue-header .nav-links ul li button{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+.blue-header .nav-links ul .games_dd2{
+    position: static;
+}
+
+.blue-header .nav-links .dropdown{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: transparent;
+    border: solid rgb(0, 0, 0) 1px;
+    position: absolute;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    right: 50px;
+    display: none;
+    transition: .5s;
+    transform: translateY(9px);
+    width: fit-content;
+    overflow: hidden;
+    opacity: 0%;
+}
+
+.blue-header .nav-links .dropdown a{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: transparent;
+    text-decoration: none;
+    transition: .5s;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+.blue-header .nav-links ul li:hover .dropdown{
+    opacity:100%;
+    transform: translateY(0px);
+}
+
+.blue-header .nav-links .dropdown a:hover{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.blue-header .nav-links ul li::after{
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #000000;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+}
+.blue-header .nav-links ul li:hover::after{
+    width: 100%;
+}
+
+
+/***************min 700************************/
+
+@media(max-width: 700px){
+
+
+    .blue-header .text-box {
+        width: 100%;
+        height: 100%;
+        color: #fff;
+        position: relative;
+        padding: 0px 0px;
+        top: 80px;
+        font-family: 'Jost', sans-serif;
+        overflow: hidden;
+        display: block;
+        text-align: center;
+
+    }
+
+    .blue-header .text-box h1{
+        white-space: nowrap;
+        display: block;
+        position: relative;
+        left: 0px;
+        font-size: 8vw;
+    }
+
+.blue-header nav .fa-bars{
+    color: rgb(0, 0, 0);
+    align-items: right;
+    width: 20px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+.blue-header .nav-links .dropdown{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    background-color: transparent;
+    border: solid rgb(0, 0, 0) 1px;
+    position: absolute;
+    border-radius: 5px;
+    margin-top: 10px;
+    right: 0px;
+    opacity: 0%;
+    display: none;
+    transition: .5s;
+    transform: translateY(9px);
+    width: fit-content;
+    overflow: hidden;
+    text-align: center;
+    zoom: 0.7;
+}
+
+.blue-header .nav-links .dropdown a{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background-color: transparent;
+    text-decoration: none;
+    transition: .5s;
+    height: 100px;
+    width: 100px;
+    padding: 0px;
+}
+
+.blue-header .nav-links ul li button{
+    font-family: 'Montserrat', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+}
+
+.blue-header .nav-links .dropdown a:hover{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.blue-header .nav-links ul li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.blue-header .nav-links{
+    position: absolute;
+    background-color: #ffffff;
+    height: 100vh;
+    width: 150px;
+    top: 0;
+    right: -200px;
+    text-align: left;
+    z-index: 2;
+    transition:.5s;
+    overflow: hidden;
+    color: black;
+}
+
+.blue-header nav .fa{
+    display: block;
+    color: #000000;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.blue-header .documentarea {
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top:100px;
+    align-items: center;
+    height: fit-content;
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.blue-header .documentarea h1 a{
+    font-size: 11vw;
+    text-align: center;
+    margin-left: auto;
+}
+
+.blue-header .documentarea .Privacy{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 30px;  
+}
+
+.blue-header .documentarea .Privacy h1{
+   font-size: 12vw;
+}
+
+}
