@@ -130,7 +130,13 @@
         <a class="share-icon fbshare" href=" "><img src="/images/share-fb.png" alt=""></a>
         <a class="share-icon xshare" href=" "><img src="/images/share-x.png" alt=""></a>
         <a class="share-icon whatsappshare" href=" " data-action="share/whatsapp/share"><img src="/images/share-whatsapp.png" alt=""></a>
+        
+        <button type="submit" onclick="Copy();"><a class="share-icon copyshare" id="popup-link"><img src="/images/share-copy.png"></a><textarea style="opacity:0%;" id="urlCopy" rows="1" cols="30"></textarea></button>
+        <div id="popup-window">
+        <p>Link Copied</p>
+        </div>
     </div>
+    
     <!--END SHARE LINKS-->
     
 <!-- customize labels of htmlcommentbox.com -->
@@ -421,7 +427,30 @@ fblink.setAttribute("data-href", getwindowlink);
      let whatsapplink = document.querySelector('.whatsappshare');
     whatsapplink.setAttribute("href", `https://api.whatsapp.com/send?text=${getwindowlink}`);
 
+    /*The Copy link button*/
+    function Copy() {
+    var urlCopy = document.getElementById("urlCopy");
+    urlCopy.innerHTML = document.location.href;
+    urlCopy.select();
+    document.execCommand("copy");
+    }
+
 </script>
+
+<script>
+    // Get the elements by their ID
+    var popupLink = document.getElementById("popup-link");
+    var popupWindow = document.getElementById("popup-window");
+    var closeButton = document.getElementById("close-button");
+    // Show the pop-up window when the link is clicked
+    popupLink.addEventListener("click", function(event) {
+      event.preventDefault();
+      popupWindow.style.display = "block";
+      setTimeout(() => {
+        popupWindow.style.display = "none";
+      }, 2000);
+    });
+  </script>      
 
 </body>
 
