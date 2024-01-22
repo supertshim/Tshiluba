@@ -23,6 +23,11 @@ br {
     padding: 10px;
 }
 
+.article .article-lang{
+width: 100%;
+text-align: center;
+}
+
 .article p {
     font-family: 'Rasa';
     font-weight: 400;
@@ -155,10 +160,16 @@ br {
 /*---------------end of article image settings---------------*/
 
 /*---------------------------SHARE ARTICLE------------------------------*/
-.fbshare img{
+.share-icon img{
     width: 40px;
     margin: 10px;
 }
+.share-box{
+    width: 100%;
+    margin: 10px;
+    text-align: center;
+}
+
 
 
 /*---------------------------END OF FOLLOW US------------------------------*/
