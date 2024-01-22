@@ -164,13 +164,14 @@ text-align: center;
     width: 40px;
     margin: 5px;
 }
+
 .share-box{
     width: 100%;
-    height: 200px;
     margin: 0px;
     text-align: center;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .share-box button {
@@ -197,12 +198,11 @@ text-align: center;
     background: rgb(0, 0, 0);
     border: 0px solid rgb(8, 8, 8);
     margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
     z-index: 10;
     display: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
   }  
 
   #popup-window p{
