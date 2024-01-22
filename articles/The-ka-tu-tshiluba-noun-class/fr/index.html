@@ -129,6 +129,7 @@
         <p><br>-partager-</p>
         <a class="share-icon fbshare" href=" "><img src="/images/share-fb.png" alt=""></a>
         <a class="share-icon xshare" href=" "><img src="/images/share-x.png" alt=""></a>
+        <a class="share-icon whatsappshare" href=" " data-action="share/whatsapp/share"><img src="/images/share-whatsapp.png" alt=""></a>
     </div>
     <!--END SHARE LINKS-->
     
@@ -415,6 +416,10 @@ fblink.setAttribute("data-href", getwindowlink);
     let xtitle = document.querySelector('.title-box').innerText;
     let xhandle = `${xtitle} -- ${getwindowlink} via @TshilubaCo`;
     xlink.setAttribute("href", `http://twitter.com/intent/tweet?text=${xhandle}`);
+
+     /*The whatsapp share link*/
+     let whatsapplink = document.querySelector('.whatsappshare');
+    whatsapplink.setAttribute("href", `https://api.whatsapp.com/send?text=${getwindowlink}`);
 
 </script>
 
