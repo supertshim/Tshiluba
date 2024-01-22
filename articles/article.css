@@ -161,12 +161,12 @@ text-align: center;
 
 /*---------------------------SHARE ARTICLE------------------------------*/
 .share-icon img{
-    width: 40px;
-    margin: 10px;
+    width: 30px;
+    margin: 5px;
 }
 .share-box{
     width: 100%;
-    margin: 10px;
+    margin: 0px;
     text-align: center;
 }
 
