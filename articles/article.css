@@ -347,18 +347,16 @@ text-align: center;
 
 .header .commentArea {
     text-align: justify;
-    width: 100%;
+    width: 90%;
     height: fit-content;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:0px solid #001163;
     background-color: rgb(236, 236, 236);
     border-radius: 0px;  
     padding:20px;
     margin-top: 20px;
-    box-shadow: 0 0 0 rgb(163, 163, 163);
 }
 
 .header .commentArea h3{
@@ -383,6 +381,13 @@ text-align: center;
       background-color:rgb(255, 255, 255);
 }
 
+#HCB_comment_box #hcb_form #hcb_form_name_container
+{
+    width: 100%;
+    padding: 0px;
+}
+
+
 #HCB_comment_box textarea {
     min-height:200px;
     display: block;
@@ -398,9 +403,14 @@ text-align: center;
     font-family: 'montserrat', sans-serif !important;
     font-size: 18px !important;
     font-weight: 700 !important;
-    padding: 8px;
+    padding: 5px;
     margin: 0;
-    width: 100%;
+    overflow: hidden;
+}
+
+
+#HCB_comment_box #hcb_form #hcb_form_name {
+    width: 96%;
 }
 
 #HCB_comment_box {
@@ -412,7 +422,7 @@ text-align: center;
 }
 
 #HCB_comment_box .author {
-    font-family: 'montserrat', sans-serif !important;
+    font-family: 'Montserrat', sans-serif !important;
     font-size: 16px !important;
     text-transform: uppercase ;
 }
@@ -420,7 +430,6 @@ text-align: center;
 #HCB_comment_box .submit {
     background:none; /* Clear twitter bootstrap style. */
     background-color:rgb(0, 132, 255) !important;
-    border:1px solid darkgreen;
     color: rgb(255, 255, 255) !important;
   }
 
@@ -436,7 +445,7 @@ text-align: center;
     background-color: rgb(255, 255, 255) !important;
     border-radius: 10px !important;
     padding: 20px !important;
-    font-family: 'montserrat', sans-serif !important;
+    font-family: 'Montserrat';
 }
 
 #HCB_comment_box .comment .likes {
@@ -446,14 +455,19 @@ text-align: center;
     padding: 10px !important;
 }
 
-#HCB_comment_box #comments_list p{
-    text-align: center;
-    font-weight: 500;
-    font-family: 'montserrat', sans-serif !important;
-    font-size: 18px;
+#HCB_comment_box #no_comments{
+    text-align: left;
+    font-weight: 700;
 }
 
-/*---------------------------------------------------------*/
+#HCB_comment_box #comments_list .author-name, #HCB_comment_box #comments_list .date, #HCB_comment_box .hcb-comment-tb button{
+    font-family: 'Montserrat' !important;
+    font-weight: 700;
+}
+
+
+
+/*-------------------END OF COMMENT SECTION--------------------------------------*/
 
 *{
     margin: 0px;
