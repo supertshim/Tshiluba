@@ -11,6 +11,13 @@
     <meta property="og:description"   content="In this class, ka- is prefixed for the singular and tu- for the plural . This class is used almost exclusively in the formation of
     diminutives, indicating either smallness in size or in amount." />
     <meta property="og:image"         content="https://tshiluba.co/articles/The-ka-tu-tshiluba-noun-class/katu.png" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@TshilubaCo">
+    <meta name="twitter:creator" content="@TshilubaCo">
+    <meta name="twitter:title" content="TSHILUBA.co | The Ka-Tu Tshiluba Noun Class">
+    <meta name="twitter:description" content="In this class, ka- is prefixed for the singular and tu- for the plural . This class is used almost exclusively in the formation of
+    diminutives, indicating either smallness in size or in amount.">
+    <meta name="twitter:image" content="https://tshiluba.co/articles/The-ka-tu-tshiluba-noun-class/katu.png">
 <title>TSHILUBA.co | The Ka-Tu Tshiluba Noun Class</title>
 <meta name="description" content="The inflection of nouns is made not by suffix terminations, as
 in the Indo-European system of languages, but by the use of prefixes. In this class, ka- is prefixed for the singular and tu- for the plural . This class is used almost exclusively in the formation of diminutives, indicating either smallness in size or in amount. Ka- and tu- are prefixed to the stem of the noun regardless of its class.">
@@ -127,10 +134,10 @@ in the Indo-European system of languages, but by the use of prefixes. In this cl
                 </p>
     
 
-                <!--SHARE LINKS-->
+<!--SHARE LINKS-->
 <span><hr></span>
 <div class="share-box">
-    <p>Share</p>
+    <p><br>-share-</p>
     <a class="share-icon fbshare" href=" "><img src="/images/share-fb.png" alt=""></a>
     <a class="share-icon xshare" href=" "><img src="/images/share-x.png" alt=""></a>
 </div>
@@ -410,17 +417,16 @@ fblink.setAttribute("data-href", getwindowlink);
 
     /*the fb share link*/
     let fblink2 = document.querySelector('.fbshare');
-    var getwindowlink = document.location.href
+    var getwindowlink = encodeURIComponent(document.location.href)
     fblink2.href = `https://www.facebook.com/share.php?u=${getwindowlink}`;
     fblink2.setAttribute("data-href", `https://www.facebook.com/share.php?u=${getwindowlink}`);
     fblink2.setAttribute("href", `https://www.facebook.com/share.php?u=${getwindowlink}`);
 
     /*the x share link*/
     let xlink = document.querySelector('.xshare');
-    let xtitle = document.title;
-    xlink.href = `https://twitter.com/intent/tweet?text=${xtitle}&url=${getwindowlink}`;
-    xlink.setAttribute("data-href", `https://twitter.com/intent/tweet?text=${xtitle}&url=${getwindowlink}`);
-    xlink.setAttribute("href", `https://twitter.com/intent/tweet?text=${xtitle}&url=${getwindowlink}`);
+    let xtitle = document.querySelector('.title-box').innerText;
+    let xhandle = `${xtitle} -- ${getwindowlink} via @TshilubaCo`
+    xlink.setAttribute("href", `http://twitter.com/intent/tweet?text=${xhandle}`);
 
 </script>
 
