@@ -172,17 +172,18 @@ text-align: center;
     justify-content: center;
     align-items: center;
     position: relative;
+    overflow: hidden;
 }
 
 .share-box button {
     border: none;
     cursor: pointer;
     appearance: none;
-    background-color: inherit;
+    background-color: transparent;
     justify-content: center;
     align-items: center;
     width: 40px;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .copyshare img{
@@ -826,9 +827,6 @@ body{
     font-size: 20px;
 }
 
-#popup-window {
-    display: none;
-  }  
 
 
 }
