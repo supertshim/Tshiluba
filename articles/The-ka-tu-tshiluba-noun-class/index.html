@@ -442,6 +442,7 @@ fblink.setAttribute("data-href", getwindowlink);
     /*The Copy link button*/
     function Copy() {
     var urlCopy = document.getElementById("urlCopy");
+    urlCopy.setAttribute("readonly",`readonly`);
     urlCopy.innerHTML = document.location.href;
     urlCopy.select();
     document.execCommand("copy");
@@ -458,10 +459,8 @@ fblink.setAttribute("data-href", getwindowlink);
       event.preventDefault();
       popupWindow.style.display = "block";
       popupLink.style.display = "block";
-      popupLink.setAttribute("readonly",`readonly`);
       setTimeout(() => {
         popupWindow.style.display = "none";
-        popupLink.removeAttribute("readonly",`readonly`);
       }, 2000);
     });
   </script>  
