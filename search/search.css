@@ -2,12 +2,14 @@
 .header .sidebar-container {
     background-color: rgb(255, 255, 255);
     z-index: 1;
-    width: 100%;
+    width: 1200px;
     height: 100%;
     position: relative;
     display: flex;
     align-items: top;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header .cardcage{
@@ -17,12 +19,11 @@
     height: auto;
     padding-top: 30px;
     top:-30px;
-    padding-right: 30px ;
+    padding-right: 30px;
 
 }
 .header .card{
-    width: fit-content;
-    max-width: 100%;
+    width: 100%;
     background-color: rgb(245, 245, 245);
     color: #000000;
     position: relative;
@@ -337,7 +338,7 @@ a.links:visited {
 .sidebar {
     background-color: rgb(228, 228, 228);
     z-index: 1;
-    width: 300px;
+    width: 30%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -675,6 +676,23 @@ a.links:visited {
     width: 30vw;
     /*background-color: green;*/
 }
+
+
+.header .card .tablewrapper .Xinfo tr th{
+    font-family:'Jost', sans-serif;
+    font-variant-caps: all-small-caps;
+    font-size: 4vw;
+    width: 20%;
+    position: relative;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+
+}
+
+
+
 .header .card .tablewrapper .Xinfo .tabledef_a{
     font-family:'Tinos', sans-serif;
     padding: 2px;
@@ -696,4 +714,88 @@ a.links:visited {
     font-size: 20px;
 }
 
+}
+
+@media(min-width: 700px){
+@media(max-width: 1200px){
+
+
+    .header .sidebar-container {
+        width: 90%;
+    }
+
+    .cardcage {
+        width: 60%;
+        height: 100%;
+    }
+
+    .header .card .tablewrapper .Xinfo tr th{
+        font-family:'Jost', sans-serif;
+        font-variant-caps: all-small-caps;
+        font-size: 4vw;
+        width: 20%;
+        position: relative;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+
+    }
+
+
+    .header .card .tablewrapper .Xinfo .tabledef {
+        font-family: 'Tinos', sans-serif;
+        padding-left: 10px;
+        position: relative;
+        text-align: left;
+        font-weight: 700;
+        font-size: 2.45vw;
+    }
+
+    .sidebar-container .sidebar {
+        scale: 1;
+        width: 40%;
+        max-width: 40%;
+    }
+
+    .MuakuWD {
+        scale: 1;
+        width: 100%;
+        box-shadow: 0 0 0 rgb(121, 121, 121);
+    }
+
+    .mwd {
+        min-width: fit-content;
+        padding: 5px;
+    }
+
+    .commentArea{
+        box-shadow: 0 0 0 rgb(163, 163, 163) !important;
+    }
+
+    .mwd .mwdbigword {
+        font-family: 'Jost', sans-serif;
+        font-size: 300%;
+        font-weight: 700;
+        color: #090152;
+        margin-top: 0px;
+        line-height:1.5cap;
+        overflow: hidden;
+        pointer-events: none;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    #HCB_comment_box #hcb_form textarea, #HCB_comment_box #hcb_form #hcb_form_name {
+        font-family: 'montserrat', sans-serif !important;
+        font-size: 18px !important;
+        font-weight: 500 !important;
+        padding: 8px;
+        margin: 0;
+        width: 100%;
+    }
+
+    
+    
+}
 }
