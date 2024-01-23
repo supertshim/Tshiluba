@@ -13,11 +13,12 @@
 
 .gamearea {
     position: relative;
-    width: 100%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
     background-color: #ffffff;
+    padding: 0px;
 }
 
 .gamearea h1{
@@ -30,21 +31,19 @@
 .ws_gamebox {
     position: relative;
     background-color: rgb(255, 255, 255);
-    width: 600px;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
     border: 10px solid #001163;
-    border-radius: 0px;
-    box-shadow: .6em .6em .6em rgb(129, 129, 129);
-    padding-left: 40px;
-    padding-right: 40px;
+    border-radius: 20px;
+    box-shadow: .0em .0em .0em rgb(129, 129, 129);
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 100px;
     height: 600px;
     overflow: hidden;
-    zoom: 0.9;
+    zoom: 1;
     top: 10px;
 }
 
@@ -598,6 +597,12 @@ button.ws_refresh:hover{
     font-size: 8vw;
 }
 
+.MuakuWD {
+    scale: 1;
+    width: 100%;
+    box-shadow: 0 0 0 rgb(121, 121, 121);
+}
+
 
 }
 
@@ -636,3 +641,146 @@ button.ws_refresh:hover{
     75% { transform: translateY(-40px) rotate(-17deg); background-color: #00b919;}
     100% { transform: translateY(0) rotate(0) }
   }
+
+
+  @media(min-width: 700px){
+    @media(max-width: 1200px){
+    
+    
+        .header .sidebar-container {
+            width: 90%;
+        }
+
+        .gamearea {
+            width: 60%;
+            height: fit-content;
+        }
+    
+        .gamearea .ws_gamebox {
+            width: 80%;
+            height: fit-content;
+            padding: 5px;
+        }
+
+        .ws_gamebox .ws_word{
+            vertical-align: middle;
+            font-size: 6vw;
+            text-align: center;
+            letter-spacing: 0px;
+            word-wrap: break-word;
+            width: 100%;
+            padding-left: 0px;
+            margin-bottom: 0px;
+            height: auto;
+            overflow: hidden;
+            line-height:6vw;
+        }
+
+        .ws_gamebox .ws_hint{
+            vertical-align: middle;
+            font-size: 3vw;
+            text-align: center;
+            letter-spacing: 0px;
+            word-wrap: break-word;
+            width: 100%;
+            padding-left: 0px;
+            margin-bottom: 0px;
+            height: auto;
+            overflow: hidden;
+            line-height:3vw;
+        }
+
+        .gamearea #ws_input {
+            width: 80%;
+            height: fit-content;
+        }
+
+        .ws_gamebox .ws_details .ws_timeleft {
+            position: relative;
+            text-align: center;
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: auto;
+            overflow: hidden;
+        }
+        
+        .ws_gamebox .ws_details .ws_timeleft span{
+            position: relative;
+            font-size: 4vw;
+            text-align: justify;
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    
+        .header .card .tablewrapper .Xinfo tr th{
+            font-family:'Jost', sans-serif;
+            font-variant-caps: all-small-caps;
+            font-size: 4vw;
+            width: 20%;
+            position: relative;
+            text-align: left;
+            margin-left: auto;
+            margin-right: auto;
+            padding-left: 10px;
+    
+        }
+    
+    
+        .header .card .tablewrapper .Xinfo .tabledef {
+            font-family: 'Tinos', sans-serif;
+            padding-left: 10px;
+            position: relative;
+            text-align: left;
+            font-weight: 700;
+            font-size: 2.45vw;
+        }
+    
+        .sidebar-container .sidebar {
+            scale: 1;
+            width: 40%;
+            max-width: 40%;
+        }
+    
+        .MuakuWD {
+            scale: 1;
+            width: 100%;
+            box-shadow: 0 0 0 rgb(121, 121, 121);
+        }
+    
+        .mwd {
+            min-width: fit-content;
+            padding: 5px;
+        }
+    
+        .commentArea{
+            box-shadow: 0 0 0 rgb(163, 163, 163) !important;
+        }
+    
+        .mwd .mwdbigword {
+            font-family: 'Jost', sans-serif;
+            font-size: 300%;
+            font-weight: 700;
+            color: #090152;
+            margin-top: 0px;
+            line-height:1.5cap;
+            overflow: hidden;
+            pointer-events: none;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+    
+        #HCB_comment_box #hcb_form textarea, #HCB_comment_box #hcb_form #hcb_form_name {
+            font-family: 'montserrat', sans-serif !important;
+            font-size: 18px !important;
+            font-weight: 500 !important;
+            padding: 8px;
+            margin: 0;
+            width: 100%;
+        }
+    
+        
+        
+    }
+    }
