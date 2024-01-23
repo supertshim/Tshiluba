@@ -16,6 +16,7 @@
     position: relative;
     height: 95vh;
     width: 60%;
+    --main-width: .6*1200px;
     height: auto;
     padding-top: 30px;
     top:-30px;
@@ -131,10 +132,10 @@ a.links:visited {
     overflow: hidden;
     width: 100%;
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
     background-color: rgb(255, 255, 255);
-    display: block;
+    display: inline-table;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .header .card .tablewrapper .Xinfo .PartOfSpch{
