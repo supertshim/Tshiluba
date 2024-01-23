@@ -457,11 +457,9 @@ fblink.setAttribute("data-href", getwindowlink);
     // Show the pop-up window when the link is clicked
     popupLink.addEventListener("click", function(event) {
       event.preventDefault();
-      popupWindow.style.opacity = "100%";
-      popupLink.style.opacity = "100%";
+      popupWindow.style.display = "block";
       setTimeout(() => {
-        popupWindow.style.opacity = "0%";
-        popupLink.style.opacity = "100%";
+        popupWindow.style.display = "none";
       }, 2000);
     });
   </script>  
