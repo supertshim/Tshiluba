@@ -458,6 +458,7 @@ fblink.setAttribute("data-href", getwindowlink);
     popupLink.addEventListener("click", function(event) {
       event.preventDefault();
       popupWindow.style.display = "block";
+      popupLink.style.display = "block";
       setTimeout(() => {
         popupWindow.style.display = "none";
       }, 2000);
