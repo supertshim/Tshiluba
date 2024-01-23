@@ -200,11 +200,10 @@ text-align: center;
     border: 0px solid rgb(8, 8, 8);
     margin: auto;
     z-index: 10;
-    display: block;
+    display: none;
     position: absolute;
     top: 0px;
     right: 0px;
-    opacity: 0%;
   }  
 
   #popup-window p{
