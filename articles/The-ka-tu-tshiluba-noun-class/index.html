@@ -458,8 +458,10 @@ fblink.setAttribute("data-href", getwindowlink);
     popupLink.addEventListener("click", function(event) {
       event.preventDefault();
       popupWindow.style.opacity = "100%";
+      popupLink.style.opacity = "100%";
       setTimeout(() => {
         popupWindow.style.opacity = "0%";
+        popupLink.style.opacity = "100%";
       }, 2000);
     });
   </script>  
