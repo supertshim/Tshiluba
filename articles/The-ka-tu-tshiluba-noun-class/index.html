@@ -458,8 +458,10 @@ fblink.setAttribute("data-href", getwindowlink);
       event.preventDefault();
       popupWindow.style.display = "block";
       popupLink.style.display = "block";
+      popupLink.setAttribute("readonly",`readonly`);
       setTimeout(() => {
         popupWindow.style.display = "none";
+        popupLink.removeAttribute("readonly",`readonly`);
       }, 2000);
     });
   </script>  
