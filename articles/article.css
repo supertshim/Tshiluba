@@ -885,6 +885,16 @@ body{
     font-size: 20px;
 }
 
+.article-title p{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+
+}
+
 
 
 
