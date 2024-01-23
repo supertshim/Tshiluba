@@ -143,8 +143,8 @@ in the Indo-European system of languages, but by the use of prefixes. In this cl
     <a class="share-icon xshare" href=" "><img src="/images/share-x.png" alt=""></a>
     <a class="share-icon whatsappshare" href=" " data-action="share/whatsapp/share"><img src="/images/share-whatsapp.png" alt=""></a>
 
-    <button type="submit" onclick="Copy();"><a class="share-icon copyshare" id="popup-link"><img src="/images/share-copy.png"></a><textarea style="opacity:0%;" id="urlCopy" rows="1" cols="30"></textarea></button>
-    <div id="popup-window">
+    <button type="submit" onclick="Copy();"><a class="share-icon copyshare" id="popup-link"><img src="/images/share-copy.png"></a><textarea style="opacity:100%;" id="urlCopy" rows="1" cols="30"></textarea></button>
+    <div id="popup-window"> 
     <p>Link Copied</p>
     </div>
 </div>
@@ -453,7 +453,6 @@ fblink.setAttribute("data-href", getwindowlink);
     // Get the elements by their ID
     var popupLink = document.getElementById("popup-link");
     var popupWindow = document.getElementById("popup-window");
-    var closeButton = document.getElementById("close-button");
     // Show the pop-up window when the link is clicked
     popupLink.addEventListener("click", function(event) {
       event.preventDefault();
