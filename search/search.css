@@ -325,8 +325,8 @@ a.links:visited {
     padding: 10px !important;
 }
 
-#HCB_comment_box #comments_list {
-    text-align: center;
+#HCB_comment_box #no_comments{
+    text-align: left;
     font-weight: 700;
     font-style: 'Jost';
 }

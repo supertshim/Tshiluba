@@ -273,80 +273,10 @@ Nubuelayi apa diandamuna webe.`,
         navLinks.style.right = "-200px"
     }
     
-    function shuffle(array) {
-        let currentIndex = array.length,  randomIndex;
-
-        // While there remain elements to shuffle.
-        while (currentIndex > 0) {
-
-         // Pick a remaining element.
-        randomIndex = Math.floor(Math.random() * currentIndex);
-        currentIndex--;
-
-        // And swap it with the current element.
-        [array[currentIndex], array[randomIndex]] = [
-        array[randomIndex], array[currentIndex]];
-         }
-
-        return array;
-    }
+ 
 
 </script>
-<!--Java Script For Dictionary Search-->
-<script>
 
-var getitem = window.location.search;
-var homeindexword = getitem.slice(7,getitem.length);
-console.log(homeindexword);
-const tshiWords = nkongamiaku2.map(({Tshiluba}) => Tshiluba);
-const tshiWordsLength = tshiWords.length;
-const mwdarray = new Array(tshiWordsLength);
-const mwdarrayx = mwdarray.fill().map((item, index) => index);
-shuffle(mwdarrayx);
-
-    var xnum = [34, 6, 47, 25, 32, 2, 14, 4, 61, 44, 42, 38, 55, 22, 10, 27, 3, 53, 8, 13, 30, 67, 15, 50, 71, 66, 46, 17, 45, 5, 60, 63, 72, 51, 69, 29, 9, 35, 26, 65, 52, 36, 7, 70, 24, 54, 56, 21, 43, 11, 49, 1, 31, 58, 33, 59, 73, 68, 20, 16, 19, 62, 39, 57, 28, 41, 18, 12, 74, 37, 64, 0, 40, 48, 23];
-    var xdate = new Date(),
-        xmonth = xdate.getMonth(),
-        xday = xdate.getDate(),
-        xyear = xdate.getFullYear();
-    var xnum2 = xnum[xday];
-    var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
-        xmonth = xmonths[xmonth];
-    
-    //UPDATE THE WORDS ARRAY ON A MONTHLY TING
-
-
-    var xnumremove = xnum.slice(0, 31);
-    //.sort((a,b) => a-b);
-    var xnum2;
-    
-    //mwdarrayx is the new array to use every month. Whenever the list updates, mwdarrayx will be
-    //the randomized list shuffled again, removing the words already used.
-    // this makes it so that you can update the word list and not worry about repeating words month
-    //to month.
-    //So TAKE the new raw result of mwdarrayx and paste into xnum every month
-    let z=0;
-    while (z < xnumremove.length){
-        let xx = mwdarrayx.indexOf(xnumremove[z]);
-        mwdarrayx.splice(xx, 1);
-        z++;
-    }
-
-
-
-    var wordoftheday = tshiWords[xnum2].toUpperCase();
-    console.log(wordoftheday);
-    let wordOfDituku = document.querySelector('.mwdbigword');
-    wordOfDituku.innerHTML = `${wordoftheday}`;
-    mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;
-    let mwdate = document.querySelector('.mwdate');
-    mwdate.innerHTML = mwdatex;
-    let link = document.getElementById('dailylink');
-    link.href = `/search/?inpt1=${wordoftheday}`;
-    
-    mwditukux();
-
-</script>
 
 <!--FB SHARE BUTTON CODE-->
 <script>
