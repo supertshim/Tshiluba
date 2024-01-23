@@ -40979,6 +40979,87 @@ const nkongamiaku2 = [
 /***********THE FRENCH/ENGLISH WORD INPUT SEARCH FUNCTION *********/
 
 
+/****************************************/
+
+function shuffle(array) {
+    let currentIndex = array.length,  randomIndex;
+
+    // While there remain elements to shuffle.
+    while (currentIndex > 0) {
+
+     // Pick a remaining element.
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+    array[randomIndex], array[currentIndex]];
+     }
+
+    return array;
+}
+
+var getitem = window.location.search;
+var homeindexword = getitem.slice(7,getitem.length);
+console.log(homeindexword);
+const tshiWords = nkongamiaku2.map(({Tshiluba}) => Tshiluba);
+const tshiWordsLength = tshiWords.length;
+const mwdarray = new Array(tshiWordsLength);
+const mwdarrayx = mwdarray.fill().map((item, index) => index);
+shuffle(mwdarrayx);
+mwdarrayx1 = mwdarrayx.slice(0,100);
+mwdarrayx2 = mwdarrayx.slice(100);
+console.log(mwdarrayx1);
+console.log(mwdarrayx2);
+
+xnumA = [139, 8, 6, 105, 166, 20, 24, 161, 2, 77, 116, 12, 132, 59, 41, 96, 57, 76, 93, 73, 45, 122, 83, 151, 27, 49, 133, 80, 135, 64, 90, 109, 101, 168, 103, 31, 55, 40, 160, 78, 121, 48, 51, 85, 115, 100, 141, 63, 29, 149, 56, 32, 38, 159, 65, 165, 88, 35, 5, 84, 25, 112, 1, 43, 167, 92, 157, 155, 67, 102, 34, 33, 79, 72, 128, 120, 28, 106, 107, 154, 158, 66, 137, 138, 111, 148, 95, 108, 0, 145, 110, 61, 146, 125, 118, 58, 119, 10, 129, 156];
+xnumB = [18, 2, 41, 0, 105, 137, 36, 91, 15, 156, 159, 8, 71, 130, 70, 27, 81, 132, 82, 126, 157, 88, 148, 118, 50, 9, 150, 142, 61, 56, 84, 146, 109, 90, 40, 140, 121, 58, 47, 77, 160, 38, 167, 64, 51, 35, 111, 138, 79, 10, 102, 59, 30, 131, 164, 28, 104, 83, 144, 134, 149, 165, 7, 20, 128, 86, 69, 125, 96];
+
+    var xnum = xnumA.concat(xnumB);
+    var xdate = new Date(),
+        xmonth = xdate.getMonth(),
+        xday = xdate.getDate(),
+        xyear = xdate.getFullYear();
+    var xnum2 = xnum[xday];
+    var xmonths = ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"];
+        xmonth = xmonths[xmonth];
+    
+    //UPDATE THE WORDS ARRAY ON A MONTHLY TING
+
+
+    var xnumremove = xnum.slice(0, 31);
+    //.sort((a,b) => a-b);
+    var xnum2;
+    
+    //mwdarrayx is the new array to use every month. Whenever the list updates, mwdarrayx will be
+    //the randomized list shuffled again, removing the words already used.
+    // this makes it so that you can update the word list and not worry about repeating words month
+    //to month.
+    //So TAKE the new raw result of mwdarrayx and paste into xnum every month
+    let z=0;
+    while (z < xnumremove.length){
+        let xx = mwdarrayx.indexOf(xnumremove[z]);
+        mwdarrayx.splice(xx, 1);
+        z++;
+    }
+
+
+
+    var wordoftheday = tshiWords[xnum2].toUpperCase();
+    console.log(wordoftheday);
+    let wordOfDituku = document.querySelector('.mwdbigword');
+    wordOfDituku.innerHTML = `${wordoftheday}`;
+    mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;
+    let mwdate = document.querySelector('.mwdate');
+    mwdate.innerHTML = mwdatex;
+    let link = document.getElementById('dailylink');
+    link.href = `/search/?inpt1=${wordoftheday}`;
+    
+    mwditukux();
+
+
+/****************************************/
+
 var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length);
 
