@@ -8468,7 +8468,7 @@ Kadi, pa ndi mfika kuntu aku :
 {
     English: "black",
     French: "noir",
-    Tshiluba: "--toke",
+    Tshiluba: "--fike",
     PartOfSpeech: '<a class="links" href="/search/?inpt1=adjectif">adjectif</a> | <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a><br>',
     Phonetics: "--to·ke<p>/toh-kah/</p>",
     PhoneticsT: "noir / black",
