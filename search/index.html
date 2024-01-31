@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script defer src="../components/header.js"></script>
+    <script defer src="../components/footer.js"></script>
+    <script defer src="../components/sidebar.js"></script>
+    <script defer src="../components/MWDcard.js"></script>
+    <script defer src="../dictionary-mwd.js"></script>
+    <script defer src="../components/comment-section.js"></script>
+    <script src="../dictionary.js"></script>
     <link rel="icon" href="/images/Tco_logo2.png">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
      crossorigin="anonymous"></script>
@@ -27,24 +34,7 @@
 </head>
 <body>
 <section class="header">
-    <nav>
-        <div class="nav-links" id="navLinks">
-        <!--The X icon placed in the nav menu-->
-        <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="/">HOME</a></li>
-                <li><a href="/alphabetindex/">INDEX</a></li>
-                <li><a href="/blog/">BLOG</a></li>
-                <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
-                    <div class="dropdown">
-                        <a href="/games/word-scramble/">WORD SCRAMBLE</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
-    </nav>
-
+   <nav-header></nav-header>
 <div class="text-box">
     <!--Navigation Menu LOGO image-->
    <h1><a href="/">TSHILUBA.co</a></h1>
@@ -74,156 +64,16 @@
             </div>
         </div>
      
-            <!--COMMENT AREA-->
-            <!-- customize labels of htmlcommentbox.com -->
-            <script>
-                /* This code goes ABOVE the main HTML Comment Box code!
-                replace the text in the single quotes below to customize labels.*/
-                hcb_user = {
-                    /* L10N */
-                    comments_header : 'Comments <br> Commentaires <br> Tua Kuamba',
-                    name_label : 'Name. Nom. Dina.',
-                    content_label: `Enter your comment here. 
-Entrez votre commentaire ici.
-Nubuelayi apa diandamuna webe.`,
-                    submit : 'Comment',
-                    logout_link : '<img title="log out" src="https://www.htmlcommentbox.com/static/images/door_out.svg" alt="[logout]" class="hcb-icon hcb-door-out"/>',
-                    admin_link : '<img src="https://www.htmlcommentbox.com/static/images/door_in.svg" alt="[login]" class="hcb-icon hcb-door-in"/>',
-                    no_comments_msg: `No one has commented yet. Be the first ! <br><br> Personne n'a encore commenté. Soyez le premier ! <br><br> Muntu nansha umwe mua kufila diandamuna to. Ikalayi wa kumpala !`,
-                    add:'Add your comment',
-                    again: 'Post another comment',
-                    rss:'<img src="https://www.htmlcommentbox.com/static/images/feed.svg" class="hcb-icon" alt="rss"/> ',
-                    said:'said:',
-                    prev_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_left.png" class="hcb-icon" title="previous page" alt="[prev]"/>',
-                    next_page:'<img src="https://www.htmlcommentbox.com/static/images/arrow_right.png" class="hcb-icon" title="next page" alt="[next]"/>',
-                    showing:'Showing',
-                    to:'to',
-                    website_label:'website (optional)',
-                    email_label:'email',
-                    anonymous:'Anonymous',
-                    mod_label:'(mod)',
-                    subscribe:'Email Me Replies',
-                    add_image:'Add Image',
-                    are_you_sure:'Do you want to flag this comment as inappropriate?',
-                
-                    reply:'Reply',
-                    flag:'Flag',
-                    like:'Like',
-                
-                    /* dates */
-                    days_ago:'days ago',
-                    hours_ago:'hours ago',
-                    minutes_ago:'minutes ago',
-                    within_the_last_minute:'within the last minute',
-                
-                    msg_thankyou:'Thank you for commenting!',
-                    msg_approval:'NOTE: This comment is not published until approved',
-                    msg_approval_required:'Thank you for commenting! Your comment will appear once approved by a moderator.',
-                
-                    err_bad_html:'Your comment contained bad html.',
-                    err_bad_email:'Please enter a valid email address.',
-                    err_too_frequent:'You must wait a few seconds between posting comments.',
-                    err_comment_empty:'Your comment was not posted because it was empty!',
-                    err_denied:'Your comment was not accepted.',
-                    err_unknown:'Your comment was blocked for unknown reasons, please report this.',
-                    err_spam:'Your comment was detected as spam.',
-                    err_blocked:'Your comment was blocked by site policy.',
-                
-                    /* SETTINGS */
-                    MAX_CHARS: 8192,
-                    PAGE:'', /* ID of the webpage to show comments for. defaults to the webpage the user is currently visiting. */
-                    ON_COMMENT: function(){}, /* Function to call after commenting. */
-                    RELATIVE_DATES:true /* show dates in the form "X hours ago." etc. */
-                };
-                </script>
-                <!-- done customizing labels of htmlcommentbox.com -->
-
-<span><hr></span>
-
-            <!-- begin wwww.htmlcommentbox.com -->
-            <div class="commentArea">
-                <div id="HCB_comment_box">
-                    <a href="http://www.htmlcommentbox.com">Comment Form</a> is loading comments...</div>
-                <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
-                <script type="text/javascript" id="hcb"> /*<!-*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24YkI2CHNezk32RtbUp6jyD."+"&opts=16798&num=10&ts=1705329902461");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*--*/ </script>
-                </div>               
-<span><hr></span>
-
-                <!-- end www.htmlcommentbox.com -->
-            <!--END COMMENT AREA-->
+<comment-section></comment-section>
 </div>
 <!--SIDE BAR CODE-->
-<div class="sidebar">
-    <span>Word of the Day</span>
-    <span><hr></span>
-    <div class="MuakuWD" >
-        <div class="mwd" id="mwd"><a id="dailylink"; href="?inpt1="; style="text-decoration: none; color: black;">
-            <h1 class="mwdate" id="mwdate"></h1>
-            <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
-            <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
-            <h1 class="mwdbigword" id="mwdinf1"></h1>
-            <h1 class="mwdPhon" id="mwdPho"></h1>
-            <h1 class="mwdefinition" id="mwdef"></h1></a>
-        </div>
-    </div>
-    <span><hr></span>
-    <div class="pageLinks">
-        <h1>Pages</h1>
-        </div>
-        <span><hr></span>
-    <div class="pageLinks">
-        <ul>
-            <li><a href="/">HOME</a></li>
-            <li><a href="/blog/">BLOG</a></li>
-            <li><a href="/alphabetindex/">INDEX</a></li>
-            <li><a href="/blog/">BLOG</a></li>
-            <li><a href="/games/word-scramble/">WORD SCRAMBLE</a></li>
-            <li ><a href="/about/">ABOUT US</a></li>
-            <li ><a href="/contact/">CONTACT US</a></li>
-            <li ><a href="/privacy/">PRIVACY POLICY</a></li>
-            <li ><a href="/disclaimer/">DISCLAIMER</a></li>
-        </ul>
-    </div>
-    <span><hr></span>
-    <div class="pageLinks">
-        <h1>FOLLOW US</h1>
-        </div>
-        <div class="pageLinks">
-            <div class="followUs">
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-            </div>
-        </div>
-    <span><hr></span>
+<side-bar class="sidebar"></side-bar>
 
-
- <!--END OF SIDE BAR CODE-->
 </div>
 </section>
+<tshilubaco-footer></tshilubaco-footer>
 
-<footer class="footer">
-    <table>
-        <tr class="ft1">
-            <th><a href="/about/" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contact/" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer/" style="text-decoration: none;">DISCLAIMER</a></th>
-            <th><a href="/"><img src="/images/Tco_logo2.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
-                </th>
-            <th><a href="/privacy/" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
-        </tr>
-        <th >
-        </th>
-           <th>
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-           </th>
-           <th>
-        </th>
-        </tr>
-    </table>
-</footer>
+
 <!--Java Script For Toggle Menu-->
 <script>
 
@@ -235,9 +85,6 @@ Nubuelayi apa diandamuna webe.`,
         navLinks.style.right = "-200px"
     }
 
-</script>
-<!--Java Script For Dictionary Search-->
-<script src="/dictionary.js">
 </script>
 
 <!--Script For Enter Button-->
