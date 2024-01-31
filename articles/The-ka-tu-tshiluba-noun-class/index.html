@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script defer src="../../components/header.js"></script>
+    <script defer src="../../components/footer.js"></script>
+    <script defer src="../../components/sidebar.js"></script>
+    <script defer src="../../components/MWDcard.js"></script>
+    <script defer src="../../dictionary-mwd.js"></script>
+    <script src="../../dictionary.js"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
      crossorigin="anonymous"></script>
     <meta charset="UTF-8">
@@ -54,24 +60,7 @@ in the Indo-European system of languages, but by the use of prefixes. In this cl
 <div id="wrapper">
 <body>
 <section class="header">
-
-    <nav>
-        <div class="nav-links" id="navLinks">
-        <!--The X icon placed in the nav menu-->
-        <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="/">HOME</a></li>
-                <li><a href="/alphabetindex/">INDEX</a></li>
-                <li><a href="/blog/">BLOG</a></li>
-                <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
-                    <div class="dropdown">
-                        <a href="/games/word-scramble/">WORD SCRAMBLE</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
-    </nav>
+<nav-header></nav-header>
 <div class="article-title">
     <div class="title-box">
     <span><img src="/images/Tco_logo3.png" alt=""></span>
@@ -89,8 +78,7 @@ in the Indo-European system of languages, but by the use of prefixes. In this cl
             <span>Credit: Grammar and Dictionary of the Buluba-Lulua Language - W.M. Morrison (1906)</span>
         </div>
         <p>The inflection of nouns is made not by <i>suffix</i> terminations, as
-            in the Indo-European system of languages, but by the use of <i>prefixes</i>. In this class, <strong>ka-</strong> is prefixed for the singular and <strong>tu-</strong> for the
-            plural . This class is used almost exclusively in the formation of
+            in the Indo-European system of languages, but by the use of <i>prefixes</i>. In this class, <strong>ka-</strong> is prefixed for the singular and <strong>tu-</strong> for the plural. This class is used almost exclusively in the formation of
             diminutives, indicating either smallness in size or in amount. <strong>Ka-</strong> and
             <strong>tu-</strong> are prefixed to the stem of the noun regardless of its class.<br><br></p>
 
@@ -228,82 +216,16 @@ Nubuelayi apa diandamuna webe.`,
 
 
     </article>
+<!-- Sidebar CODE -->
+<side-bar class="sidebar"></side-bar>
 
-
-
-    <div class="sidebar">
-        <span>Word of the Day</span>
-        <span><hr></span>
-        <div class="MuakuWD" >
-            <div class="mwd" id="mwd"><a id="dailylink"; href="/search/?inpt1="; style="text-decoration: none; color: black;">
-                <h1 class="mwdate" id="mwdate"></h1>
-                <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
-                <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
-                <h1 class="mwdbigword" id="mwdinf1"></h1>
-                <h1 class="mwdPhon" id="mwdPho"></h1>
-                <h1 class="mwdefinition" id="mwdef"></h1></a>
-            </div>
-        </div>
-        <span><hr></span>
-        <div class="pageLinks">
-            <h1>Pages</h1>
-            </div>
-            <span><hr></span>
-        <div class="pageLinks">
-            <ul>
-                <li><a href="/">HOME</a></li>
-                <li><a href="/blog/">BLOG</a></li>
-                <li><a href="/alphabetindex/">INDEX</a></li>
-                <li><a href="/games/word-scramble/">WORD SCRAMBLE</a></li>
-                <li><a href="/about/">ABOUT US</a></li>
-                <li><a href="/contact/">CONTACT US</a></li>
-                <li><a href="/privacy/">PRIVACY POLICY</a></li>
-                <li><a href="/disclaimer/">DISCLAIMER</a></li>
-            </ul>
-        </div>
-        <span><hr></span>
-        <div class="pageLinks">
-            <h1>FOLLOW US</h1>
-            </div>
-            <div class="pageLinks">
-                <div class="followUs">
-                    <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                    <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                    <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                    <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-                </div>
-            </div>
-            <span><hr></span>
-
-    </div>
 
 
 </div>
 
 </section>
 
-<footer class="footer">
-    <table>
-        <tr class="ft1">
-            <th><a href="/about/" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contact/" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer/" style="text-decoration: none;">DISCLAIMER</a></th>
-            <th><a href="/"><img src="/images/Tco_logo2.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
-                </th>
-            <th><a href="/privacy/" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
-        </tr>
-        <th>
-        </th>
-           <th>
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-           </th>
-           <th>
-        </th>
-        </tr>
-    </table>
-</footer>
-
+<tshilubaco-footer></tshilubaco-footer>
 
 <!--Java Script For Toggle Menu-->
 <script>
@@ -318,9 +240,6 @@ Nubuelayi apa diandamuna webe.`,
 
 </script>
 
-<!--Java Script For Toggle Menu-->
-<script src="/dictionary.js">
-</script>
 <script>
     
     var navLinks = document.getElementById("navLinks");
