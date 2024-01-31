@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script defer src="/components/header.js"></script>
+    <script defer src="/components/footer.js"></script>
+    <script defer src="../components/MWDcard.js"></script>
+    <script defer src="../dictionary-mwd.js"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
      crossorigin="anonymous"></script>
      <!--ALLOW ADS-->
@@ -68,25 +72,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="icon" href="images/Tco_logo2.png">
 </head>
+
 <body>
+<nav-header></nav-header>
+
 <section class="header">
-    <nav>
-        <div class="nav-links" id="navLinks">
-        <!--The X icon placed in the nav menu-->
-        <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="/">HOME</a></li>
-                <li><a href="/alphabetindex/">INDEX</a></li>
-                <li><a href="/blog/">BLOG</a></li>
-                <li class="games_dd2"><button id="games_dd">GAMES ▼</button>
-                    <div class="dropdown">
-                        <a href="/games/word-scramble/">WORD SCRAMBLE</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
-    </nav>
+   
         <div class="text-box">
             <!--Navigation Menu LOGO image-->
             <h1><a href="/">TSHILUBA.co</a></h1>
@@ -100,40 +91,10 @@
             </p>
             <br>
         </div>
-            <div class="MuakuWD" >
-                <div class="mwd" id="mwd"><a id="dailylink"; href="search/?inpt1="; style="text-decoration: none; color: black;">
-                    <h1 class="mwdate" id="mwdate"></h1>
-                    <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
-                    <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
-                    <h1 class="mwdbigword" id="mwdinf1"></h1>
-                    <h1 class="mwdPhon" id="mwdPho"></h1>
-                    <h1 class="mwdefinition" id="mwdef"></h1></a>
-                </div>
-            </div>
+<muakuwd-card class="MuakuWD"></muakuwd-card>
 </section>
 
-<footer class="footer">
-    <table>
-        <tr class="ft1">
-            <th><a href="/about/" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contact/" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer/" style="text-decoration: none;">DISCLAIMER</a></th>
-            <th><a href="/"><img src="/images/Tco_logo2.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
-                </th>
-            <th><a href="/privacy/" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
-        </tr>
-        <th>
-        </th>
-           <th>
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-           </th>
-           <th>
-        </th>
-        </tr>
-    </table>
-</footer>
-
+<tshilubaco-footer></tshilubaco-footer>
 <!--Java Script For Toggle Menu-->
 <script src="/dictionary.js">
 </script>

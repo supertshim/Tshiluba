@@ -215,6 +215,66 @@ a.links:visited {
     font-weight: 700;
 }
 
+/* ___________________SHARE BOX_________________________ */
+
+.share-icon img{
+    width: 40px;
+    margin: 5px;
+}
+
+.share-box{
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.share-box button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.copyshare img{
+    width:35px !important;
+    padding: 5px;
+    margin-left: -2px;
+}
+
+#popup-window {
+    position: static;
+    width: fit-content;
+    height: fit-content;
+    background: rgb(0, 0, 0);
+    border: 0px solid rgb(8, 8, 8);
+    margin: auto;
+    z-index: 10;
+    display: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }  
+
+  #popup-window p{
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color: white;
+    padding: 5px;
+  }
+
+/* __________________________________________________________________ */
+
+
 /*-------------------COMMMENT SECTION STYLING ----------------*/
 
 .header .commentArea {
@@ -466,6 +526,8 @@ a.links:visited {
 }
 /*-------------------END OF MWD SECTION---------------------------------*/
 
+
+
 /*------------------------PAGE LINKS SECTION-----------------------*/
 .sidebar .pageLinks {
     width: 100%;
@@ -496,15 +558,6 @@ a.links:visited {
 /*---------------------------END OF FOLLOW US------------------------------*/
 
 /*---------------------------SHARE FACEBOOK------------------------------*/
-
-.fbshare img{
-    width: 100px !important;
-    text-align: center ;
-    display: flex !important;
-    justify-content: center;
-    padding: 20px;
-    cursor: pointer;
-}
 
 /*---------------------------END OF FB------------------------------*/
 
