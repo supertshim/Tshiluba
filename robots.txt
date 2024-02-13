@@ -1,1 +1,2 @@
 Sitemap: https://tshiluba.co/sitemap_index.xml
+Sitemap: https://tshiluba.co/sitemaps/sitemap_alphabet_index.xml
