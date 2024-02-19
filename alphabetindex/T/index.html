@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
+    <script defer src="../../components/header.js"></script>
     <script defer src="../../components/footer.js"></script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
      crossorigin="anonymous"></script>
     <meta charset="UTF-8">
@@ -30,23 +31,7 @@
 
 
 <section class="header">
-    <nav>
-        <div class="nav-links" id="navLinks">
-        <!--The X icon placed in the nav menu-->
-        <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-<li class="li"><a href="/index.html">HOME</a></li>
-<li class="li"><a href="wordindex pagination.html">INDEX</a></li>
-                <li><a href="/blog.html">BLOG</a></li>
-<li class="games_dd2"><button id="games_dd">GAMES ▼</button>
-    <div class="dropdown">
-                        <a href="/wordscramble.html">WORD SCRAMBLE</a>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <i class="fa-solid fa-bars" onclick="showMenu()"></i>
-    </nav>
+    <nav-header></nav-header>
 
 
 
@@ -162,29 +147,9 @@
 
 </section>
 
-<footer class="footer">
-    <table>
-        <tr class="ft1">
-            <th><a href="/aboutus.html" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contactus.html" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer.html" style="text-decoration: none;">DISCLAIMER</a></th>
-            <th><a href="/index.html"><img src="/images/Tco_logo2.png"></a><br>TSHILUBA.co, LLC 2023<br>
-</th>
-            <th><a href="/privacypolicy.html" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
-        </tr>
-        <tr>
-        <th>
-        </th>
-           <th>
-<a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-<a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-<a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-<a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-           </th>
-           <th>
-        </th>
-        </tr>
-    </table>
-</footer>
+<tshilubaco-footer></tshilubaco-footer>
 <!--Java Script For Toggle Menu-->
+<script src="../../components/header.js"></script>
 <script>
 
     var navLinks = document.getElementById("navLinks");
