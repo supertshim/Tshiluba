@@ -729,6 +729,12 @@ body{
         justify-content: center;
     }
 
+    .article .table-container{
+        width: 100%;
+        display: block;
+        background-color: white;
+    }
+
     .mwd .mwdbigword {
         font-family: 'Jost', sans-serif;
         font-size: 10vw !important;
