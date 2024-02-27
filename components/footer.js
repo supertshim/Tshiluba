@@ -6,7 +6,7 @@ class Footer extends HTMLElement {
         <table>
             <tr class="ft1">
                 <th><a href="/about/" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contact/" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer/" style="text-decoration: none;">DISCLAIMER</a></th>
-                <th><a href="/"><img src="/images/Tco_logo2.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
+                <th><a href="/"><img src="/images/tshiluba_co_logo_8.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
                     </th>
                 <th><a href="/privacy/" style="text-decoration: none;">Privacy Policy</a><br><br>
                 <a href="/terms/" style="text-decoration: none;">Terms & Conditions</a></th>
