@@ -1,0 +1,81 @@
+.header .documentarea {
+    border: 10px solid #001163;
+    width: fit-content;
+    display: block;
+    position: relative;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+
+.header .ThankYou h1{
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    width: fit-content;
+    height: fit-content;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Jost', sans-serif;
+    margin: 0 auto;
+}
+
+.header .ThankYou{
+    text-align: center;
+    background-color:transparent;
+    width: fit-content;
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    height: fit-content;
+    padding: 0px 0px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+
+@media(max-width: 700px){
+
+    .header {
+        position: relative;
+        height: fit-content;
+    }
+
+    .header .documentarea{
+        position: relative;
+        height: fit-content;
+        top:0px;
+        padding: 20px;
+    }
+
+    .header .ThankYou{
+        text-align: center;
+        background-color:transparent;
+        width: 100%;
+        font-family: 'Jost', sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        height: fit-content;
+        margin-left: auto;
+        margin-right: auto;
+        overflow:hidden;
+        position: relative;
+    }
+    
+   
+    .header .ThankYou h1{
+        color: rgb(0, 0, 0);
+        background-color: transparent;
+        width: fit-content;
+        height: fit-content;
+        font-size: 30px;
+        text-align: center;
+        font-family: 'Jost', sans-serif;
+        margin: 0 auto;
+        position: relative;
+    }
+
+
+}
