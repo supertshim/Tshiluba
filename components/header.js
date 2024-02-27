@@ -8,6 +8,8 @@ class Header extends HTMLElement {
         <i class="fa fa-times" onclick="hideMenu()"></i>
             <ul>
                 <li><a href="/">HOME</a></li>
+                <li><a href="/about/">ABOUT</a></li>
+                <li><a href="/contact/">CONTACT</a></li>
                 <li><a href="/alphabetindex/">INDEX</a></li>
                 <li><a href="/blog/">BLOG</a></li>
                 <li class="games_dd2"><button id="games_dd">GAMES ▼</button>

@@ -8,7 +8,8 @@ class Footer extends HTMLElement {
                 <th><a href="/about/" style="text-decoration: none;">ABOUT US</a><br><br><a href="/contact/" style="text-decoration: none;">CONTACT US</a><br><br><a href="/disclaimer/" style="text-decoration: none;">DISCLAIMER</a></th>
                 <th><a href="/"><img src="/images/Tco_logo2.png"></a><br><br>TSHILUBA.co, LLC 2023<br>
                     </th>
-                <th><a href="/privacy/" style="text-decoration: none;">Privacy, Terms, & Cookies</a></th>
+                <th><a href="/privacy/" style="text-decoration: none;">Privacy Policy</a><br><br>
+                <a href="/terms/" style="text-decoration: none;">Terms & Conditions</a></th>
             </tr>
             <th>
             </th>
