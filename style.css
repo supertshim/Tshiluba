@@ -154,7 +154,7 @@ nav{
     text-align: center;
     font-family: 'Jost', sans-serif;
     top: 0px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
 }
 
 .text-box img{
@@ -208,11 +208,26 @@ nav{
     filter: drop-shadow(.2em .2em .2em rgb(182, 182, 182));
 }
 
+.search-directions {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f7f7f7;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+.search-directions .d-list {
+    list-style-position: inside;
+}
+
 
 .MuakuWD {
     display: block;
     width: 100%;
-    top: -40px;
+    top: 0px;
     position: relative;
     transform: translateY(0px);
     transition: all .4s ;
@@ -538,6 +553,19 @@ nav .fa-solid{
         font-size: 14px;
     }
 
+    .search-directions {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+        border-radius: 10px;
+        background-color: #f7f7f7;
+        font-family: 'Montserrat';
+        font-weight: 500;
+        font-size: 14px;
+    }
+    
+
 
 
 
@@ -618,10 +646,6 @@ nav .fa-solid{
 */
 
 
-
-
-
-
 .footer {
     height: fit-content;
     width: 100%;
@@ -635,7 +659,7 @@ nav .fa-solid{
     font-family:'Jost', sans-serif;
     font-weight: 700;
     color: #000000;
-    margin-top: 100px;
+    margin-top: 40px;
 }
 .footer a, .footer th{
     color: black;
