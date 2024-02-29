@@ -107,14 +107,39 @@ text-align: center;
     line-height: 4rem;
 }
 
-.article-title p{
+.article-author {
+    display: flex;
+    vertical-align: center;
+    justify-content: left;
+}
+
+.article-author .author-img {
+    width: 60px;
+    height: 60px;
+}
+
+.article-author p a{
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    overflow: hidden;
+    text-align: left;
+    color: #000000;
+    font-size: 20px;
+}
+
+.article-author p a:hover{
+    color: blue;
+}
+
+.article-author p{
+    font-size: 1rem;
+    font-weight: 500;
     font-family: 'Montserrat';
     overflow: hidden;
     padding: 10px;
     text-align: left;
-
+    font-size: 16px;
 }
 
 .article-table {
@@ -906,6 +931,31 @@ body{
     text-align: center;
 
 }
+
+.article-author p a{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    overflow: hidden;
+    text-align: left;
+    color: #000000;
+    font-size: 14px;
+}
+.article-author p {
+    font-family: 'Montserrat';
+    overflow: hidden;
+    text-align: left;
+    color: #000000;
+    font-size: 12px !important;
+}
+
+.article-author .author-img{
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 40px;
+    height: 40px;
+}
+
 
 
 
