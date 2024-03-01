@@ -19,6 +19,7 @@ class Header extends HTMLElement {
                 </li>
             </ul>
         </div>
+        <img src="/images/Tco_logo3.png" alt="">
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
     </nav>
         `
