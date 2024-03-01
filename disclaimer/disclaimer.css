@@ -29,7 +29,7 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:10px solid #001163;
+    border:2px solid #001163;
     border-radius: 0px;  
     padding:20px;
     margin-top: 20px;
@@ -87,7 +87,7 @@
         display:block;
         overflow-y: hidden;
         z-index: 1;
-        top:-50px;
+        top:0px;
         padding-top: 20px;
         padding-bottom: 20px;
     }

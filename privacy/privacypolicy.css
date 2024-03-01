@@ -14,7 +14,7 @@
     background-size: cover;
     position: relative;
     padding: 0px 0px;
-    top:10px;
+    top:100px;
 }
 
 .blue-header .documentarea{
@@ -52,7 +52,7 @@
     margin-right: auto;
     position: relative;
     padding: 30px;
-    border:10px solid #001163;
+    border:2px solid #001163;
     border-radius: 0px;
     box-shadow: .6em .5em .5em rgb(163, 163, 163);
 }
@@ -64,18 +64,18 @@
 @media(max-width: 700px){
 
 
+
     .blue-header .text-box {
         width: 100%;
         height: 100%;
         color: #fff;
         position: relative;
         padding: 0px 0px;
-        top: 80px;
+        top: 40px;
         font-family: 'Jost', sans-serif;
         overflow: hidden;
         display: block;
         text-align: center;
-
     }
 
     .blue-header .text-box h1{
@@ -84,6 +84,10 @@
         position: relative;
         left: 0px;
         font-size: 8vw;
+        margin-bottom: 10px;
+        padding:1vw;
+        height: max-content;
+        color:#001163;
     }
 
 .blue-header .documentarea {
@@ -91,7 +95,7 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top:100px;
+    top:40px;
     align-items: center;
     height: fit-content;
     overflow: hidden;

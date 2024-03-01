@@ -30,7 +30,7 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:10px solid #001163;
+    border:2px solid #001163;
     border-radius: 0px;  
     padding:20px;
     margin-top: 0px;
@@ -145,12 +145,24 @@
  }
 
 @media(max-width: 700px){
+
+    .header .text-box h1{
+        white-space: nowrap;
+        display: block;
+        position: relative;
+        left: 0px;
+        font-size: 8vw;
+        margin-bottom: 10px;
+        padding:1vw;
+        height: max-content;
+        color:#001163;
+    }
     .header .documentarea{
         font-size: 32px;
         display:block;
         overflow-y: hidden;
         z-index: 1;
-        top:-50px;
+        top:0px;
         padding-top: 20px;
         padding-bottom: 20px;
     }

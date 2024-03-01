@@ -14,7 +14,7 @@
     background-size: cover;
     position: relative;
     padding: 0px 0px;
-    top:10px;
+    top:100px;
 }
 
 .blue-header .documentarea{
@@ -52,7 +52,7 @@
     margin-right: auto;
     position: relative;
     padding: 30px;
-    border:10px solid #001163;
+    border:2px solid #001163;
     border-radius: 0px;
     box-shadow: .6em .5em .5em rgb(163, 163, 163);
 }
@@ -68,10 +68,10 @@
     .blue-header .text-box {
         width: 100%;
         height: 100%;
-        color: #fff;
+        color:#001163;
         position: relative;
         padding: 0px 0px;
-        top: 80px;
+        top: 50px;
         font-family: 'Jost', sans-serif;
         overflow: hidden;
         display: block;
@@ -92,7 +92,7 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top:100px;
+    top:80px;
     align-items: center;
     height: fit-content;
     overflow: hidden;

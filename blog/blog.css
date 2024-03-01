@@ -487,6 +487,12 @@ body{
 /*----------------------------------------------------------------*/
 
 @media(max-width: 700px){
+
+    nav img{
+        width: auto;
+        height: 150px;
+    }
+
     .header .documentarea{
         font-size: 32px;
         display:block;
