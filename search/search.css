@@ -607,7 +607,7 @@ a.links:visited {
 @media(max-width: 700px){
 
     .sidebar-container{
-        top:100px;
+        top:20px;
         display: block !important;
         justify-content: center;
         align-items: center;
@@ -653,7 +653,7 @@ a.links:visited {
 .header .card{
     width: fit-content;
     max-width: 90%;
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(255, 255, 255);
     color: #000000;
     position: relative;
     text-align: center;
@@ -808,10 +808,40 @@ a.links:visited {
     font-size: 20px;
 }
 
+.text-box {
+    overflow: hidden;
+    border-bottom: 1px solid rgb(180, 180, 180);
+    padding-bottom:10px;
+    position: absolute;
+    height: 0px;
+}
+
+.text-box br{
+    display: none;
+}
+
+.text-box h1{
+    position: absolute;
+    top: 10px;
+    z-index: 1;
+    padding: 20px;
+    font-size: 30px;
+}
+
 }
 
 @media(min-width: 700px){
 @media(max-width: 1200px){
+
+    .text-box {
+        overflow: hidden;
+        border-bottom: 1px solid rgb(180, 180, 180);
+        padding-bottom:10px;
+    }
+    
+    .text-box h1{
+        display: none;
+    }
 
 
     .header .sidebar-container {
