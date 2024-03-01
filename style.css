@@ -251,6 +251,8 @@ nav h1 a{
     background-color: #f7f7f7;
     font-family: 'Montserrat';
     font-weight: 500;
+    overflow: visible;
+    margin-bottom: 100px;
 }
 
 .search-directions .d-list {
@@ -390,31 +392,34 @@ nav .fa-solid{
 
 @media(max-width: 700px){
     .header {
-    background-position: top;
     position: relative;
+    margin-top: 50px;
+    margin-bottom:20px;
+    overflow: visible;
     }
 
     .header .text-box {
         width: 100%;
-        height: 170px;
+        height: 50%;
         color: #fff;
         position: relative;
         padding: 0px 0px;
         top: 40px;
         font-family: 'Jost', sans-serif;
-        overflow: hidden;
+        overflow: visible;
         display: none;
         text-align: center;
-        margin-bottom: 10vw;
-
+        display: block;
+        margin-bottom: 20px;
     }
+
     .header .text-box h1{
         white-space: nowrap;
         display: block;
         position: relative;
         left: 0px;
         font-size: 8vw;
-        margin-bottom: -30px;
+        margin-bottom: 10px;
         padding:1vw;
         height: max-content;
         
@@ -600,15 +605,8 @@ nav .fa-solid{
     }
 
     .search-directions {
-        width: 80%;
-        margin-left: auto;
-        margin-right: auto;
-        padding: 20px;
-        border-radius: 10px;
-        background-color: #f7f7f7;
-        font-family: 'Montserrat';
-        font-weight: 500;
-        font-size: 14px;
+        overflow: visible !important;
+        margin-bottom: 100px;
     }
     
 
