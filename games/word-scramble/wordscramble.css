@@ -35,7 +35,7 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
-    border: 10px solid #001163;
+    border: 3px solid #001163;
     border-radius: 20px;
     box-shadow: .0em .0em .0em rgb(129, 129, 129);
     padding-top: 20px;
@@ -223,10 +223,11 @@ button.ws_refresh:hover{
 }
 
 /*------------SIDEBAR CODES-------------------*/
+/*------------SIDEBAR CODES-------------------*/
 .sidebar {
-    background-color: rgb(228, 228, 228);
+    background-color: white;
     z-index: 1;
-    width: 30%;
+    width: 25%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -250,6 +251,8 @@ button.ws_refresh:hover{
     overflow: hidden;
     padding: 0px;
     text-align:center;
+    background-color: #001163;
+    color:white;
 }
 
 /*---------------WORD OF THE DAY--------------*/
@@ -482,6 +485,7 @@ button.ws_refresh:hover{
     text-transform: uppercase;
     left: -10px;
     margin-top: 10px;
+    height: 20px;
 }
 
 
@@ -579,10 +583,10 @@ button.ws_refresh:hover{
 
 .header .text-box {
     width: 100%;
-    color: #fff;
+    color:#001163;
     position: relative;
     padding: 0px 0px;
-    top: 40px;
+    top: 0px;
     font-family: 'Jost', sans-serif;
     overflow: hidden;
     display: block;

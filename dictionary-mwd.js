@@ -2812,6 +2812,121 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*-Dia*/   
+    {
+        English: "to eat",
+        French: "manger",
+        Tshiluba: "Kudia",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·dia<p>/Koo-djah/</p>",
+        PhoneticsT: "Manger | Eat",
+        English2: "eat",
+        French2: "dia",
+        Tshiluba2: "-dia",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    manger <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    eat <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kudia <i class="PartOfSpch">md</i><br>
+    -dia
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    L'action de consommer de la nourriture par la bouche, généralement dans le but de se nourrir et de se sustenter.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The action of consuming food through the mouth, typically for sustenance and nourishment.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3" class="analogy">
+    <table class="h-lines" id="h-lines"></table><br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/search/?inpt1=kunua">kunua</a>, 
+                    <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
+                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
+                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
+                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
+                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
+                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
+                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
+                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
+                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+    1. je mange | I eat | <b>ndi ndia </b><br><br>
+    2. tu manges | you eat | <b>udi udia </b><br><br>
+    3. il/elle/on mange | he/she's eats | <b>udi udia</b><br><br>
+    4. nous mangeons | we eat | <b>tudi tudia</b><br><br>
+    5. vous mangez | you eat | <b>nudi nudia</b><br><br>
+    6. ils/elles mangent | they eat | <b>badi badia</b><br><br>
+    </td>
+    </tr>
+    `
+    },
     /*Diba*/   
     {
         English: "time",
@@ -4718,6 +4833,132 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*-Dima*/   
+    {
+        English: "to plow",
+        French: "labourer",
+        Tshiluba: "Kudima",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·di·ma<p>/Koo-dee-mah/</p>",
+        PhoneticsT: "labourer | plow",
+        English2: "to cultivate",
+        French2: "cultiver",
+        Tshiluba2: "-dima",
+        PhoneticsT2: " ",
+        English3: "cultivate",
+        French3: "travailler la terre",
+        Tshiluba3: "dima",
+        PhoneticsT3: " ",
+        English4: "plough",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    1. labourer <i class="PartOfSpch">v</i> <br><br>
+    2. cultiver <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    1. plow <i class="PartOfSpch">v</i> <br>
+    plough <i class="PartOfSpch">v</i> <br><br>
+    2. cultivate <i class="PartOfSpch">v</i> 
+    </td>
+    <td class="tabledef" valign=top>
+    kudima <i class="PartOfSpch">md</i><br>
+    -dima
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La pratique agricole consistant à retourner la terre à l'aide d'une charrue, un outil ou un instrument généralement tiré par un tracteur ou des animaux de trait tels que des chevaux ou des bovins. Le but de labourer est de briser et d'ameublir le sol, le rendant ainsi propice à la plantation de cultures en améliorant l'aération, le drainage du sol et l'incorporation de matière organique.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The agricultural practice of turning over soil using a plow, a tool or implement typically drawn by a tractor or draft animals such as horses or oxen. The purpose of plowing is to break up and loosen the soil, making it suitable for planting crops by improving soil aeration, drainage, and the incorporation of organic matter.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3" class="analogy">
+    <table class="h-lines" id="h-lines"></table><br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
+                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
+                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
+                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
+                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
+                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
+                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
+                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
+                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+    1. je laboure | I plow | <b>ndi ndima </b><br><br>
+    2. tu labours | you plow | <b>udi udima </b><br><br>
+    3. il/elle/on laboure | he/she's plows | <b>udi udima</b><br><br>
+    4. nous labourons | we plow | <b>tudi tudima</b><br><br>
+    5. vous labourez | you plow | <b>nudi nudima</b><br><br>
+    6. ils/elles labourent | they plow | <b>badi badima</b><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy" ><br>
+    Tshiadima umwe, tshiadia bangi.
+                    <br><br>
+    Ce qui est cultivé par un seule personne est mangée par plusieurs.
+    <br><br>
+    That which has been cultivated by one, is eaten by many.
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Dinanga*/   
     {
         English: "love",
@@ -6518,6 +6759,121 @@ const nkongamiaku2 = [
     <tr>
     ` 
     },
+        /*-Ela*/   
+    {
+        English: "to throw",
+        French: "jeter",
+        Tshiluba: "Kuela",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        Phonetics: "Ku·e·la<p>/Kweh-lah/</p>",
+        PhoneticsT: "jeter | throw",
+        English2: "throw",
+        French2: "toss",
+        Tshiluba2: "-ela",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: "ela",
+        PhoneticsT3: " ",
+        English4: "to cast",
+        French4: "cast",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    jeter <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    throw <i class="PartOfSpch">v</i> <br> 
+    </td>
+    <td class="tabledef" valign=top>
+    kuela <i class="PartOfSpch">md</i><br>
+    -ela
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Propulser quelque chose dans l'air avec force en utilisant son bras ou sa main. Cela implique de relâcher un objet de sa prise de manière contrôlée, souvent dans le but de le diriger vers une cible ou une destination spécifique. <br><br>
+
+    "Kuela" en tshiluba est également utilisé comme une conjonction avec des substantifs pour indiquer des actions reflétant l'utilisation du substantif en question : kuela meji, penser ; kuela mayi, arroser ; kuela muadi, pleurer.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To propel something through the air with force using one's arm or hand. It involves releasing an object from one's grasp in a controlled manner, often with the intention of directing it towards a target or a specific destination.<br><br>
+
+    "Kuela" in Tshiluba is also used as a conjunction with substantives to denote actions reflecting the use of the substantive in question: kuela meji, to think; kuela mayi, to water; kuela muadi, to cry. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3" class="analogy">
+    <table class="h-lines" id="h-lines"></table><br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/search/?inpt1=kuasa">kuasa</a>,
+                    <a class="links" href="/search/?inpt1=kuela muadi">kuela muadi</a>, 
+                    <a class="links" href="/search/?inpt1=kuela meji">kuela meji</a>, 
+                    <a class="links" href="/search/?inpt1=kuela mbila">kuela mbila</a>, 
+                    <a class="links" href="/search/?inpt1=kuela musha">kuela musha</a>, 
+                    <a class="links" href="/search/?inpt1=kuela munda">kuela munda</a>,
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>
+    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
+    1. je jette | I throw | <b>ndi ngela </b><br><br>
+    2. tu jettes | you throw | <b>udi wela </b><br><br>
+    3. il/elle/on jette | he/she's throws | <b>udi wela</b><br><br>
+    4. nous jetons | we throw | <b>tudi tuela</b><br><br>
+    5. vous jetez | you throw | <b>nudi nuela</b><br><br>
+    6. ils/elles jettent | they throw | <b>badi bela</b><br><br>
+    </td>
+    </tr>
+    `
+    },
     /*-Enda*/   
     {
         English: "to walk",
@@ -7027,117 +7383,6 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Kadi, pa ndi mfika kuntu aku :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*--Fike*/   
-    {
-        English: "black",
-        French: "noir",
-        Tshiluba: "--toke",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=adjectif">adjectif</a> | <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a><br>',
-        Phonetics: "--to·ke<p>/toh-kah/</p>",
-        PhoneticsT: "noir / black",
-        English2: "le noir",
-        French2: " ",
-        Tshiluba2: " ",
-        PhoneticsT2: " ",
-        English3: " ",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    noir (couleur) <i class="PartOfSpch">adj</i>
-    </td>
-
-    <td class="tabledef" valign=top>
-    black (color) <i class="PartOfSpch">adj</i>
-
-    <td class="tabledef" valign=top >
-    --fike <i class="PartOfSpch">mf</i>
-    </td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=butoke">butoke</a>, 
-                    <a class="links" href="/search/?inpt1=butoke">butoke</a>,
-                    <a class="links" href="/search/?inpt1=--kunze">--kunze</a>,
-                    <a class="links" href="/search/?inpt1=--toke">--toke</a>, 
-                    <a class="links" href="/search/?inpt1=mutoke">mutoke</a>, 
-                    <a class="links" href="/search/?inpt1=midima">midima</a>, 
-                    <a class="links" href="/search/?inpt1=muendu">muendu</a>           
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-<p class="explanation-fr">
-    "Le noir" est une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
-                    <br><br>
-    <b><i>Explanation</i></b><br>
-<p class="explanation-en">
-    "Black" is a color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
-                    <br><br>
-    <b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-    ----
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy" ><br>:
-    Nous marchons dans l'obscurité
-                    :<br>
-                    &nbsp
-    We walk in the darkness
-                    :<br>
-                    &nbsp:&nbsp
-    Tuetu tuenda mu bufike :
     <br><br></td>
     </tr>
     `
@@ -8591,7 +8836,7 @@ const nkongamiaku2 = [
     {
         English: "grandparent",
         French: "grand-parent",
-        Tshiluba: "bukonda",
+        Tshiluba: "kaku",
         PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Ka·ku<p>/Kah-koo/</p>",
         PhoneticsT: "grand-parent / grandparent",
@@ -9248,7 +9493,7 @@ const nkongamiaku2 = [
     },
     /*-Lela*/   
     {
-        English: "to give birth tp",
+        English: "to give birth to",
         French: "enfanter",
         Tshiluba: "Kulela",
         PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
@@ -12103,11 +12348,11 @@ const nkongamiaku2 = [
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: "ladies",
-        French4: " ",
+        French4: "femelle",
         Tshiluba4: " ",
         PhoneticsT4: " ",
         English5: " ",
-        French5: " ",
+        French5: "demoiselle",
         Tshiluba5: " ",
         PhoneticsT5: " ",
         English6: " ",
@@ -15436,15 +15681,15 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>` 
     },
-    /*nkongamiaku2*/  
+    /*Nkongamiaku*/  
     {
             English: "Dictionary",
             French: "Dictionnaire",
-            Tshiluba: "nkongamiaku2",
+            Tshiluba: "Nkongamiaku",
             PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
             Phonetics: "Nkon·ga·mia·ku<p>/Kong-ah-mya-koo/</p>",
             PhoneticsT: "Dictionnaire / Dictionary",
-            English2: " ",
+            English2: "nkonga-miaku",
             French2: "Nkonga miaku",
             Tshiluba2: " ",
             PhoneticsT2: " ",
@@ -15501,7 +15746,7 @@ const nkongamiaku2 = [
     dictionary <i class="PartOfSpch">n</i>
         </td>
         <td class="tabledef" valign=top >
-    nkongamiaku2 <i class="PartOfSpch">tshi6</i>
+    nkongamiaku <i class="PartOfSpch">tshi6</i>
         </td>
     </tr>
     <tr style="text-align:left";>
@@ -15530,7 +15775,7 @@ const nkongamiaku2 = [
     A Dictionary of the Tshiluba language.
                     :<br>
                     &nbsp:&nbsp
-    nkongamiaku2 wa muakulu wa Tshiluba. :
+    Nkongamiaku wa muakulu wa Tshiluba. :
     <br><br></td>
     </tr>
     <tr>` 
