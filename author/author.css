@@ -229,9 +229,9 @@ text-align: center;
 
 /*------------SIDEBAR CODES-------------------*/
 .sidebar {
-    background-color: rgb(228, 228, 228);
+    background-color: white;
     z-index: 1;
-    width: 30%;
+    width: 25%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -246,7 +246,7 @@ text-align: center;
     flex-direction: column;
 }
 
-.sidebar span{
+.sidebar span, .sidebar .pageLinks h1{
     text-align:center;
     width: 100%;
     font-size: 1.2rem;
@@ -255,8 +255,9 @@ text-align: center;
     overflow: hidden;
     padding: 0px;
     text-align:center;
+    background-color: #001163;
+    color:white;
 }
-
 /*---------------WORD OF THE DAY--------------*/
 
 .MuakuWD {
