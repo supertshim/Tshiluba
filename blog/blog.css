@@ -319,7 +319,7 @@ body{
     border: 0px solid black;
     text-align: center;
     color: white;
-    height: 500px;
+    height: max-content;
     display: inline-flex;
     position: relative;
     align-items: center;
@@ -336,6 +336,7 @@ body{
     display: flex;
     height: fit-content;
     justify-content: center;
+    overflow: visible;
 }
 
 .blog-front-page .front-page-topic, .blog-front-page .front-page-date {
@@ -354,6 +355,7 @@ body{
 
 .topic-and-date span{
     width: 150px;
+    overflow: visible;
 }
 
 .topic-and-date img{
@@ -385,6 +387,7 @@ body{
     height: fit-content;
     position: relative;
     width: 80%;
+    overflow: visible;
 }
 
 .blog-front-page .front-page-title h2{
@@ -544,13 +547,14 @@ body{
         background-color:  #000000;
         text-align: center;
         color: white;
-        height: 500px;
+        height: fit-content;
         display: inline-flex;
         position: relative;
         align-items: center;
         justify-content: space-evenly;
         width: 100%;
         flex-direction: column;
+        top:50px;
     }
 
     .blog-front-page .front-page-title{
