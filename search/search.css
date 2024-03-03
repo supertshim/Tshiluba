@@ -565,6 +565,29 @@ a.links:visited {
 /*-------------------END OF MWD SECTION---------------------------------*/
 
 
+/*------------------------LATEST POSTS-----------------------*/
+.latest {
+    align-items: left;
+}
+
+.latest a:active{
+    color:blue;
+}
+
+.latest p {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 800;
+    color: #001163;
+}
+
+.post-icon {
+    width: 150px;
+    position: relative;
+}
+
+/*-------------------END OF POSTS---------------------------------*/
+
 
 /*------------------------PAGE LINKS SECTION-----------------------*/
 .sidebar .pageLinks {
