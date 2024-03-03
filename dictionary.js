@@ -1207,12 +1207,12 @@ kubala <i class="PartOfSpch">v.tr</i>
 <tr>
 <td colspan="3" class="analogy"><br>
 <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je lis | I read | <b>ndi ngenza</b><br><br>
-2. tu lis | you read | <b>udi wenza</b><br><br>
-3. il/elle lit | he/she reads | <b>udi wenza</b><br><br>
-4. nous lisons | we read | <b>tudi tuenza</b><br><br>
-5. vous lisez | you read | <b>nudi nuenza</b><br><br>
-6. ils lisent | they read | <b>badi benza</b><br><br>
+1. je lis | I read | <b>ndi mbala</b><br><br>
+2. tu lis | you read | <b>udi ubala</b><br><br>
+3. il/elle lit | he/she reads | <b>udi ubala</b><br><br>
+4. nous lisons | we read | <b>tudi tubala</b><br><br>
+5. vous lisez | you read | <b>nudi nubala</b><br><br>
+6. ils lisent | they read | <b>badi bala</b><br><br>
 
 </td>
 </tr>
