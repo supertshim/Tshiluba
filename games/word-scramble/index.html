@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <script defer src="../../components/footer.js"></script>
+    <script defer src="../../components/sidebar.js"></script>
+    <script defer src="../../components/MWDcard.js"></script>
+    <script defer src="../../dictionary-mwd.js"></script>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
      crossorigin="anonymous"></script>
     <meta charset="UTF-8">
@@ -61,54 +64,9 @@
         </div>
 </div>
 
-<!--SIDE BAR CODE-->
-<div class="sidebar">
-    <span>Word of the Day</span>
-    <span><hr></span>
-    <div class="MuakuWD" >
-        <div class="mwd" id="mwd"><a id="dailylink"; href="?inpt1="; style="text-decoration: none; color: black;">
-            <h1 class="mwdate" id="mwdate"></h1>
-            <h1 class="mwdtitle">MUAKU WA DITUKU</h1>
-            <h1 class="mwdtitletx">MOT DU JOUR | WORD OF THE DAY</h1>
-            <h1 class="mwdbigword" id="mwdinf1"></h1>
-            <h1 class="mwdPhon" id="mwdPho"></h1>
-            <h1 class="mwdefinition" id="mwdef"></h1></a>
-        </div>
-    </div>
-    <span><hr></span>
-    <div class="pageLinks">
-        <h1>Pages</h1>
-        </div>
-        <span><hr></span>
-    <div class="pageLinks">
-        <ul>
-            <li><a href="/">HOME</a></li>
-            <li><a href="/blog/">BLOG</a></li>
-            <li><a href="/alphabetindex/">INDEX</a></li>
-            <li><a href="/games/word-scramble/">WORD SCRAMBLE</a></li>
-            <li ><a href="/about/">ABOUT US</a></li>
-            <li ><a href="/contact/">CONTACT US</a></li>
-            <li ><a href="/privacy/">PRIVACY POLICY</a></li>
-            <li ><a href="/disclaimer/">DISCLAIMER</a></li>
-        </ul>
-    </div>
-    <span><hr></span>
-    <div class="pageLinks">
-        <h1>FOLLOW US</h1>
-        </div>
-        <div class="pageLinks">
-            <div class="followUs">
-                <a class="links" href="https://www.instagram.com/tshiluba.co/"><img class="social-media" src="/images/instagram.webp"></a>
-                <a class="links" href="https://www.threads.net/@tshiluba.co"><img class="social-media" src="/images/threads-app-icon.webp"></a>
-                <a class="links" href="https://www.facebook.com/profile.php?id=61554919941344&mibextid=ZbWKwL"><img class="social-media" src="/images/facebook-icon-1.svg"></a>
-                <a class="links" href="https://x.com/Tshilubaco?t=fTiZBeDJoFicRPfnjdl1Gg&s=09"><img class="social-media" src="/images/x-social-media-logo-icon.webp"></a>
-            </div>
-        </div>
-    <span><hr></span>
+<!-- Sidebar CODE -->
+<side-bar class="sidebar"></side-bar>
 
-
- <!--END OF SIDE BAR CODE-->
-</div>
 
 </div>
 
@@ -116,9 +74,7 @@
 
 <tshilubaco-footer></tshilubaco-footer>
 
-<!--Java Script For Toggle Menu-->
-<script src="/dictionary-mwd.js">
-</script>
+<script src="../../dictionary-game.js"></script>
 <script src="../../components/header.js"></script>
 <script>
 
@@ -172,7 +128,7 @@
     }
     const initwsGame = () => {
             initTimer(30);
-            let randomChoice = nkongamiaku2[Math.floor(Math.random() * nkongamiaku2.length)];
+            let randomChoice = nkongamiaku3[Math.floor(Math.random() * nkongamiaku3.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
             correctWord = `${randomWord}`;
@@ -191,7 +147,7 @@
             timeText = document.querySelector(".ws_timeleft b");
             console.log(timeText);
             initTimer(30);
-            let randomChoice = nkongamiaku2[Math.floor(Math.random() * nkongamiaku2.length)];
+            let randomChoice = nkongamiaku3[Math.floor(Math.random() * nkongamiaku3.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
             correctWord = `${randomWord}`;
@@ -208,7 +164,7 @@
                 }, 0);
     }
     initwsGame(30);
-    const tshiWord = nkongamiaku2.map(({Tshiluba}) => Tshiluba);
+    const tshiWord = nkongamiaku3.map(({Tshiluba}) => Tshiluba);
     console.log(tshiWord);
     var wrongAnswer = '.ws_gamebox .ws_check:active {animation: tilt-shaking 0.12s infinite;}';
     var doWrongAnswer = document.createElement('style');
