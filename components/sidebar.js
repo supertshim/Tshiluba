@@ -5,6 +5,25 @@ class Sidebar extends HTMLElement {
         <span>Word of the Day</span>
         
         <muakuwd-card class="MuakuWD"></muakuwd-card>
+        <div class="pageLinks">
+        <h1>Latest Posts</h1>
+        </div>
+        <div class="latest">
+        <a href="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/">
+        <img class="post-icon" src="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/Luba-Grammaire.png"><br>
+        <p>Exploring the Noun Class System in Tshiluba: A Detailed Examination</p>
+        </a><br>
+
+        <a href="/articles/The-Mu-Ba-Tshiluba-Noun-Class/">
+        <img class="post-icon" src="/articles/The-Mu-Ba-Tshiluba-Noun-Class/Mu-ba.png"><br>
+        <p>The Mu-Ba Tshiluba Noun Class</p>
+        </a><br>
+
+        <a href="/articles/The-ka-tu-tshiluba-noun-class/">
+        <img class="post-icon" src="/articles/The-ka-tu-tshiluba-noun-class/katu.png"><br>
+        <p>The Ka-Tu Tshiluba Noun Class</p>
+        </a><br>
+        </div>
         
         <div class="pageLinks">
             <h1>Pages</h1>
