@@ -405,7 +405,7 @@ body{
 }
  
 .blog-box{
-    width:500px;
+    width:400px;
     background-color: #ffffff;
     border: 1px solid #ececec;
     margin: 20px 20px;
@@ -427,18 +427,21 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
 .blog-text span{
     color: #747474;
     font-size: 0.9rem;
 }
+
 .blog-text .blog-title{
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 900;
     color: #000130;
     font-family: 'Old Standard TT', sans-serif;
     line-height: 1em;
     text-align: center;
 }
+
 .blog-text p{
     color: #9b9b9b;
     font-size: 0.9rem;
