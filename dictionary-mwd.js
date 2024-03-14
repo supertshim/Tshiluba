@@ -19468,7 +19468,7 @@ var xnumB = [18, 2, 41, 0, 105, 137, 36, 91, 15, 156, 159, 8, 71, 130, 70, 27, 8
     mwdatex = `${xmonth.toLocaleUpperCase()} ${xday}, ${xyear}`;
     let mwdate = document.querySelector('.mwdate');
     mwdate.innerHTML = mwdatex;
-    let mwdLetter = wordoftheday2[0];
+    let mwdLetter = firstLetter2;
     let link = document.getElementById('dailylink');
     link.href = `/alphabetindex/${mwdLetter}/${wordoftheday2}`;
     
