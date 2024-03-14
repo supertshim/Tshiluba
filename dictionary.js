@@ -934,7 +934,7 @@ The soul is a metaphysical or spiritual entity, often regarded as the eternal, i
                 :: <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -1367,7 +1367,7 @@ The internal framework of bones in an organism, providing structural support, fa
                 <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
                 <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -3640,7 +3640,7 @@ The mammary gland and the overlying tissue on the front of the chest in humans, 
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -3686,20 +3686,20 @@ The mammary gland and the overlying tissue on the front of the chest in humans, 
 </tr>
 `
 },
-/*Diboko*/   
+/*Diboku*/   
 {
     English: "arm",
     French: "bras",
-    Tshiluba: "diboko",
+    Tshiluba: "diboku",
     PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-    Phonetics: "Di·bo·ko<p>/DJEE-boh-koh/</p>",
+    Phonetics: "Di·bo·ko<p>/DJEE-boh-koo/</p>",
     PhoneticsT: "bras / arm",
     English2: "an arm",
     French2: "le bras",
-    Tshiluba2: "diboko",
+    Tshiluba2: "diboku",
     PhoneticsT2: " ",
-    English3: "maboko",
-    French3: " ",
+    English3: "maboku",
+    French3: "diboku",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -3751,8 +3751,8 @@ bras <i class="PartOfSpch">n</i>
 arm <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-diboko <i class="PartOfSpch">tshi4</i><br>
-<i class="PartOfSpch">pl</i> maboko
+diboku <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> maboku
 </td>
 </tr>
 <tr>
@@ -4044,7 +4044,7 @@ To the part of the body between the chest and the pelvis, containing the digesti
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>,
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -4282,7 +4282,7 @@ The lower extremity of the leg, below the ankle and consisting of the heel, arch
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
                 <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
@@ -4421,7 +4421,7 @@ The "shoulder" is the part of the body where the upper arm connects to the torso
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
                 <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
@@ -4560,7 +4560,7 @@ The strip of hair located above the eye, along the brow bone, serving to protect
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
@@ -4698,7 +4698,7 @@ The outermost protective covering of the body, consisting of multiple layers of 
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -4944,7 +4944,7 @@ The back of the neck, specifically the lower part where the hairline meets the n
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -6544,7 +6544,7 @@ A "tooth" is a small, hard, calcified structure set in the jaw of most vertebrat
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -6898,7 +6898,7 @@ disu <i class="PartOfSpch">tshi</i><br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -7160,7 +7160,7 @@ Either of the two rounded fleshy masses forming the human butt, located at the b
                 <a class="links" href="/search/?inpt1=disu">disu</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                 <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -7412,7 +7412,7 @@ The organ responsible for hearing and balance, consisting of the external ear, m
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -7898,7 +7898,7 @@ diulu <i class="PartOfSpch">tshi9</i><p>
                 <a class="links" href="/search/?inpt1=tshibuashibuashi">tshibuashibuashi</a>,
                 <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -13517,7 +13517,7 @@ The red fluid that circulates in the arteries and veins of humans and other vert
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -14655,7 +14655,7 @@ The "body" refers to the physical structure of a person, excluding the head, nec
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -15351,7 +15351,7 @@ The part of the body used for eating, speaking, and breathing. It's the opening 
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -15974,7 +15974,7 @@ One of the five digits on the hand, connected to the palm and used for gripping,
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -16117,7 +16117,7 @@ muoyo <i class="PartOfSpch">tshi</i>
                 :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                 <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -16701,7 +16701,7 @@ The two fleshy parts that form the entrance to the mouth in humans. They are fle
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -17167,7 +17167,7 @@ The "head" is the anatomical region containing the brain and sensory organs atop
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -18839,7 +18839,7 @@ L'esprit" englobe l'essence ou l'énergie non physique à l'intérieur d'une per
                 :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                 <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                 <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                 <a class="links" href="/search/?inpt1=difu">difu</a>,
                 <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                 <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -22382,7 +22382,7 @@ function maininpt(){
     console.log(firstLetter);
     AlphaLocation = `../alphabetindex/${firstLetter}/${decodeWord}/`;
     console.log(AlphaLocation);
-    window.location.href = (AlphaLocation); 
+    /*window.location.href = (AlphaLocation); */
 }    
 
 

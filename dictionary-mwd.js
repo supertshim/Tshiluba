@@ -493,7 +493,7 @@ const nkongamiaku2 = [
                     :: <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
                     <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -924,7 +924,7 @@ const nkongamiaku2 = [
                     :: <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
                     <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -3167,7 +3167,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -3228,19 +3228,19 @@ const nkongamiaku2 = [
     </tr>
     `
     },
-    /*Diboko*/   
+    /*Diboku*/   
     {
         English: "arm",
         French: "bras",
-        Tshiluba: "diboko",
+        Tshiluba: "diboku",
         PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
         Phonetics: "Di·bo·ko<p>/DJEE-boh-koh/</p>",
         PhoneticsT: "bras / arm",
         English2: "an arm",
         French2: "le bras",
-        Tshiluba2: "diboko",
+        Tshiluba2: "diboku",
         PhoneticsT2: " ",
-        English3: "maboko",
+        English3: "maboku",
         French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
@@ -3293,8 +3293,8 @@ const nkongamiaku2 = [
     arm <i class="PartOfSpch">n</i><br>
     </td>
     <td class="tabledef" valign=top>
-    diboko <i class="PartOfSpch">tshi4</i><br>
-    <i class="PartOfSpch">pl</i> maboko
+    diboku <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> maboku
     </td>
     </tr>
     <tr>
@@ -3565,7 +3565,7 @@ const nkongamiaku2 = [
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>,
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -3799,7 +3799,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
                 <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
@@ -3936,7 +3936,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
                 <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
@@ -4073,7 +4073,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
@@ -4209,7 +4209,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -4451,7 +4451,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -5232,7 +5232,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -5580,7 +5580,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -5825,7 +5825,7 @@ const nkongamiaku2 = [
                     <a class="links" href="/search/?inpt1=disu">disu</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
                     <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
@@ -6072,7 +6072,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -10834,7 +10834,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -11960,7 +11960,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -12630,7 +12630,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -13230,7 +13230,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -13369,7 +13369,7 @@ const nkongamiaku2 = [
                     :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                     <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -13949,7 +13949,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -14409,7 +14409,7 @@ const nkongamiaku2 = [
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
@@ -16059,7 +16059,7 @@ const nkongamiaku2 = [
                     :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
                     <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
                     <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboko">diboko</a>, 
+                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
                     <a class="links" href="/search/?inpt1=difu">difu</a>,
                     <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
                     <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
