@@ -22384,7 +22384,7 @@ function maininpt(){
     console.log(firstLetter);
     AlphaLocation = `../alphabetindex/${firstLetter}/${decodeWord}/`;
     console.log(AlphaLocation);
-    /*window.location.href = (AlphaLocation); */
+    window.location.href = (AlphaLocation);
 }    
 
 
