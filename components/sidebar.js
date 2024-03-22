@@ -9,6 +9,10 @@ class Sidebar extends HTMLElement {
         <h1>Latest Posts</h1>
         </div>
         <div class="latest">
+        <a href="/articles/How-To-Count-In-Tshiluba/">
+        <img class="post-icon" src="/articles/How-To-Count-In-Tshiluba/count2.png"><br>
+        <p>How to count in Tshiluba</p>
+        </a><br>
         <a href="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/">
         <img class="post-icon" src="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/Luba-Grammaire.png"><br>
         <p>Exploring the Noun Class System in Tshiluba: A Detailed Examination</p>
