@@ -1436,187 +1436,6 @@ const nkongamiaku2 = [
     <br><br></td>
     </tr>` 
     },
-    /*Binunu Dikumi*/  
-    {
-        English: "Ten Thousand",
-        French: "Dix-Mille",
-        Tshiluba: "Binunu Dikumi",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Bi·nu·nu Di·ku·mi<p>/Bee-noo-noo Djee-koo-mee/</p>",
-        PhoneticsT: "Dix-Mille | Ten Thousand",
-        English2: "10000",
-        French2: "Binunu Dikumi: 10000",
-        Tshiluba2: "binunu dikumi",
-        PhoneticsT2: " ",
-        English3: "Dix Mille",
-        French3: "10,000",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "10.000",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "10k",
-        French5: " ",
-        Tshiluba5: "10000",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    dix-mille, 10000 <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    ten thousand, 10000 <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    binunu dikumi, 10000 <i class="PartOfSpch">tshi9</i><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    <b><i>Nombre Cardinale: 10000</i></b><br>
-    
-    <b><i>Cardinal Number: 10000</i></b><br>
-                
-    <b><i>Bungi Bua Dibala: 10000</i></b><br>
-    <br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
-                    <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
-                    <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
-    <br><br></td>
-    </tr>` 
-    },
-    /*Binunu Lukama*/  
-    {
-        English: "One Hundred Thousand",
-        French: "Cent-Mille",
-        Tshiluba: "Binunu Lukama",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Bi·nu·nu Lu·ka·ma<p>/Bee-noo-noo Loo-kah-mah/</p>",
-        PhoneticsT: "Cent-Mille | One Hundred Thousand",
-        English2: "100000",
-        French2: "Binunu Lukama: 100000",
-        Tshiluba2: "binunu lukama",
-        PhoneticsT2: " ",
-        English3: "Cent Mille",
-        French3: "One Hundred Thousands",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "100k",
-        French4: "100,000",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "100.000",
-        French5: " ",
-        Tshiluba5: "100000",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: "hundred thousand",
-        French7: "a hundred thousand",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: "hundred thousands",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    cent-mille, 100000 <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    one hundred thousand, 9000 <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    binunu lukama, 100000 <i class="PartOfSpch">tshi9</i><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    <b><i>Nombre Cardinale: 100000</i></b><br>
-    
-    <b><i>Cardinal Number: 100000</i></b><br>
-                
-    <b><i>Bungi Bua Dibala: 100000</i></b><br>
-    <br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
-                    <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
-                    <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
-                    <a class="links" href="/search/?inpt1=binunu dikumi">binunu dikumi [10000]</a>
-    <br><br></td>
-    </tr>` 
-    },
     /*Binunu Muanda-mutekete*/  
     {
         English: "Seven Thousand",
@@ -9836,6 +9655,97 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Lubombu*/  
+{
+    English: "Ten Thousand",
+    French: "Dix-Mille",
+    Tshiluba: "Lubombu",
+    PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Lu·bom·bu<p>/loo-bohm-boo/</p>",
+    PhoneticsT: "Dix-Mille | Ten Thousand",
+    English2: "10000",
+    French2: "Lubombu: 10000",
+    Tshiluba2: "Lubombu",
+    PhoneticsT2: " ",
+    English3: "Dix Mille",
+    French3: "10,000",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "10.000",
+    French4: "mbombu",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "10k",
+    French5: " ",
+    Tshiluba5: "10000",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+dix-mille, 10000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+ten thousand, 10000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+lubombu, 10000 <i class="PartOfSpch">tshi5</i><br>
+pl. mbombu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 10000</i></b><br>
+
+<b><i>Cardinal Number: 10000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 10000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
+                <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
+                <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
+                <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
+                <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+<br><br></td>
+</tr>` 
+},
     /*Lukama*/  
     {
         English: "Hundred",
@@ -18712,6 +18622,98 @@ const nkongamiaku2 = [
     <tr>
     ` 
     },
+    /*Tshishikula*/  
+{
+    English: "One Hundred Thousand",
+    French: "Cent-Mille",
+    Tshiluba: "Tshishikula",
+    PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
+    Phonetics: "Tshi·shi·ku·la<p>/Chee-shee-koo-lah/</p>",
+    PhoneticsT: "Cent-Mille | One Hundred Thousand",
+    English2: "100000",
+    French2: "Tshishikula: 100000",
+    Tshiluba2: "Tshishikula",
+    PhoneticsT2: " ",
+    English3: "Cent Mille",
+    French3: "One Hundred Thousands",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "100k",
+    French4: "100,000",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "100.000",
+    French5: " ",
+    Tshiluba5: "100000",
+    PhoneticsT5: " ",
+    English6: "bishikula",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "hundred thousand",
+    French7: "a hundred thousand",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "hundred thousands",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cent-mille, 100000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+one hundred thousand, 9000 <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+Tshishikula, 100000 <i class="PartOfSpch">tshi9</i><br>
+pl. bishikula
+</td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<b><i>Nombre Cardinale: 100000</i></b><br>
+
+<b><i>Cardinal Number: 100000</i></b><br>
+            
+<b><i>Bungi Bua Dibala: 100000</i></b><br>
+<br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
+                <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
+                <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
+                <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
+                <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                <a class="links" href="/search/?inpt1=10000">lubombu [10000]</a>
+<br><br></td>
+</tr>` 
+},
     /*Tshisumbu*/   
     {
         English: "group",
