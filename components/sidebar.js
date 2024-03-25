@@ -9,6 +9,8 @@ class Sidebar extends HTMLElement {
         <h1>Latest Posts</h1>
         </div>
         <div class="latest">
+        <a href="/articles/To-Be-Or-Not-To-Be/">
+        <img class="post-icon" src="/articles/To-Be-Or-Not-To-Be/to-be.png"><br>
         <a href="/articles/How-To-Count-In-Tshiluba/">
         <img class="post-icon" src="/articles/How-To-Count-In-Tshiluba/count2.png"><br>
         <p>How to count in Tshiluba</p>
