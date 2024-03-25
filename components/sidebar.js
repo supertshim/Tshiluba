@@ -11,7 +11,7 @@ class Sidebar extends HTMLElement {
         <div class="latest">
         <a href="/articles/To-Be-Or-Not-To-Be/">
         <img class="post-icon" src="/articles/To-Be-Or-Not-To-Be/to-be.png"><br>
-        <p>To Be of Not To Be: Conjugating 'To Be' in Tshiluba</p>
+        <p>To Be or Not To Be: Conjugating 'To Be' in Tshiluba</p>
         <a href="/articles/How-To-Count-In-Tshiluba/">
         <img class="post-icon" src="/articles/How-To-Count-In-Tshiluba/count2.png"><br>
         <p>How to count in Tshiluba</p>
