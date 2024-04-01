@@ -9,6 +9,9 @@ class Sidebar extends HTMLElement {
         <h1>Latest Posts</h1>
         </div>
         <div class="latest">
+        <a href="/articles/The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/">
+        <img class="post-icon" src="/articles/The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/jukayi.png"><br>
+        <p>The National Anthem 'Debout Congolais' in Tshiluba</p>
         <a href="/articles/To-Be-Or-Not-To-Be/">
         <img class="post-icon" src="/articles/To-Be-Or-Not-To-Be/to-be.png"><br>
         <p>To Be or Not To Be: Conjugating 'To Be' in Tshiluba</p>
