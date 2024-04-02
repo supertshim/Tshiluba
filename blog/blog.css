@@ -463,6 +463,15 @@ body{
     color: #042eb6;
     transition: all ease 0.3s;
 }
+
+.blog-category {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:#000288;
+    color: white;
+    padding: 10px;
+}
+
  
  
 @media(max-width:1250px){
