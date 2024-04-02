@@ -459,7 +459,7 @@ nav .fa-solid{
 
     nav img{
         width: 100px;
-        height: 100px;
+        height: auto;
         text-align: center;
         padding-top: 40px;
     }
@@ -1145,4 +1145,12 @@ nav .fa-solid{
 .blog-text a:hover{
     color: #042eb6;
     transition: all ease 0.3s;
+}
+
+.blog-category {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:#000288;
+    color: white;
+    padding: 10px;
 }
