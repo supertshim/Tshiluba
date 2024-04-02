@@ -604,6 +604,7 @@ body{
     
     .article {
         min-width: 100% ;
+        top:30px;
     }
 
     .sidebar {
@@ -883,4 +884,17 @@ body{
 
     
     
+}
+
+.blog-links, .blog-links a{
+    font-size: 18px !important;
+    font-family: 'Jost' !important;
+}
+
+.blog-category {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:#000288;
+    color: white;
+    padding: 10px;
 }
