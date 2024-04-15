@@ -1047,11 +1047,11 @@ nav .fa-solid{
 
     .sidebar-container{
         top:20px;
-        display: block !important;
+        display: block;
         justify-content: center;
         align-items: center;
         width: 100% !important;
-        flex-direction: column;
+        flex-direction: column-reverse;
         margin-left: auto !important;
         margin-right: auto;
     }
