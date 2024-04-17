@@ -885,7 +885,6 @@ nav .fa-solid{
     position: relative;
     
 }
-
  
 .blog-box{
     width: 40%;
@@ -947,12 +946,17 @@ nav .fa-solid{
     transition: all ease 0.3s;
 }
 
-.blog-category {
+.blog-category{
     font-family: 'Jost';
     font-weight: 700;
     background-color:#000288;
-    color: white;
+    color: white !important;
     padding: 10px;
+    text-decoration: none;
+}
+
+.blog-category a {
+    text-decoration: none;
 }
 
 .blog-frontpage-container {
