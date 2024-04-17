@@ -8951,7 +8951,7 @@ const nkongamiaku2 = [
         PhoneticsT: "Couper | Cut",
         English2: "Cease",
         French2: "Cesser",
-        Tshiluba2: "kukosa",
+        Tshiluba2: "-kosa",
         PhoneticsT2: "<br>Cesser | Cease",
         English3: "cut",
         French3: "Kosa",
