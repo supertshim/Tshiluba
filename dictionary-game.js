@@ -1976,7 +1976,7 @@ const nkongamiaku3 = [
     {
         English: "blackness",
         French: "noirceur",
-        Tshiluba: "Butoke",
+        Tshiluba: "Bufike",
         PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a><br>',
         Phonetics: "Bu·to·ke<p>/BOO-toh-kah/</p>",
         PhoneticsT: "noirceur / blackness",
@@ -11198,6 +11198,112 @@ pl. mbombu
     </tr>
     `
     },
+    /*Moyo*/   
+{
+    English: "Hello",
+    French: "Bonjour",
+    Tshiluba: "Moyo",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>',
+    Phonetics: "Mo·yo<p>/moh-yoh/</p>",
+    PhoneticsT: "Bonjour / Hello",
+    English2: "Hi",
+    French2: "bonsoir",
+    Tshiluba2: "Moyo",
+    PhoneticsT2: " ",
+    English3: "good day",
+    French3: "goodday",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "good morning",
+    French4: "salut",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonjour <i class="PartOfSpch">interj</i><br>
+bonsoir <i class="PartOfSpch">interj</i><br>
+</td>
+<td class="tabledef" valign=top >
+hello <i class="PartOfSpch">interj</i><br>
+hi <i class="PartOfSpch">interj</i><br>
+good day <i class="PartOfSpch">interj</i><br>
+good evening <i class="PartOfSpch">interj</i><br>
+
+</td>
+<td class="tabledef" valign=top >
+moyo <i class="PartOfSpch">tshik</i><p>
+<br>
+tangila:<br>
+<a class="links" href="/alphabetindex/M/Muoyo/">muoyo</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Moyo" est l'une des salutations courantes utilisées pour saluer quelqu'un en tshiluba. Le mot "moyo" est dérivé de "muoyo" qui signifie vie en tshiluba.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Moyo" is one of the common greetings used to greet someone or in Tshiluba. The word "moyo" is derived from "muoyo" which means life in Tshiluba.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>:
+<i>Bonjour a vous!
+                :<br>
+                &nbsp:
+Hello to you all! 
+                :<br>
+                &nbsp:&nbsp
+Moyo wenu! :
+<br><br></td>
+</tr>
+`
+},
     /*Muaku*/   
     {
         English: "Word",
@@ -17892,6 +17998,105 @@ pl. mbombu
     <br><br></td>
     </tr>` 
     },
+    /*Tshikemu*/   
+{
+    English: "Interjection",
+    French: "Interjection",
+    Tshiluba: "Tshikemu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Tshi·ke·mu<p>/chee-keh-moo/</p>",
+    PhoneticsT: "Interjection / Interjection",
+    English2: "exclamation",
+    French2: " ",
+    Tshiluba2: "tshikemu",
+    PhoneticsT2: " ",
+    English3: "interjections",
+    French3: "exclamations",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: "Bikemu",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+interjection <i class="PartOfSpch">n</i> <br>
+
+</td>
+<td class="tabledef" valign=top>
+interjection  <i class="PartOfSpch">n</i> <br>
+
+</td>
+<td class="tabledef" valign=top>
+tshikemu <i class="PartOfSpch">tshi9</i><br>
+<i class="PartOfSpch">pl</i> bikemu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation";>
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une partie du discours qui exprime une émotion ou un sentiment spontané ou soudain, souvent insérée dans une phrase pour transmettre un sentiment, une attitude ou une réaction.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A part of speech that expresses a spontaneous or sudden emotion or sentiment, often inserted into a sentence to convey a feeling, attitude, or reaction. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+Des exemples d'interjections incluent "waouh", "oh", "aïe", "bravo", "hé" et "hélas".
+                <br><br>
+Examples of interjections include "wow," "oh," "ouch," "bravo," "hey," and "alas."
+                <br><br>
+Bilejilu bia bikemu badi: "aka!", "ayi!", "kakakaka!", "eyi!", "yekelekele!"
+<br></td>
+</tr>
+`
+},
     /*Tshikondu*/   
     {
         English: "period",
