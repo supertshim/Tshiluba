@@ -1379,6 +1379,12 @@ nav .fa-solid{
             border-radius: 20px;
             height: max-content;
         }
+
+        .blog-frontpage .blog-title {
+            padding: 30px;
+            align-items: center;
+            font-size: 7vw !important;
+        }
     
         
         
