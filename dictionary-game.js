@@ -5,7 +5,7 @@ const nkongamiaku3 = [
         English: "to speak",
         French: "parler",
         Tshiluba: "Kuakula",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·a·ku·la<p>/kwah-koo-lah/</p>",
         PhoneticsT: "Parler | Talk",
         English2: "Speak",
@@ -73,7 +73,7 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuakula">kuamba</a>  
+                    :: <a class="links" href="/alphabetindex/A/-AKULA/">kuamba</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@ const nkongamiaku3 = [
         English: "to say",
         French: "Dire",
         Tshiluba: "Kuamba",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·am·ba<p>/kwahm-bah/</p>",
         PhoneticsT: "Dire | Say",
         English2: "amba",
@@ -173,7 +173,7 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuakula">kuakula</a>  
+                    :: <a class="links" href="/alphabetindex/A/-AKULA/">kuakula</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ const nkongamiaku3 = [
         English: "to stack",
         French: "superposer",
         Tshiluba: "Kuambakaja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·am·ba·ka·ja<p>/kwahm-bak-kah-jah/</p>",
         PhoneticsT: "superposer | stack",
         English2: "stack",
@@ -287,7 +287,7 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuamba">kuamba</a> 
+                    :: <a class="links" href="/alphabetindex/A/-AMBA/">kuamba</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -321,7 +321,7 @@ const nkongamiaku3 = [
         English: "to take",
         French: "Prendre",
         Tshiluba: "Kuangata",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·an·ga·ta<p>/kwah-ngah-tah/</p>",
         PhoneticsT: "Prendre / Take",
         English2: "angata",
@@ -388,9 +388,9 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="/search/?inpt1=kupesha">kupesha</a>,
-                    <a class="links" href="/search/?inpt1=kupesha">kushila</a>
+                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
+                    <a class="links" href="/alphabetindex/P/-PESHA/">kupesha</a>,
+                    <a class="links" href="/alphabetindex/P/-PESHA/">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -490,53 +490,53 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
-                    <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lungenyi">lungenyi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, 
-                    <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, 
+                    <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGENYI/">lungenyi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -572,7 +572,7 @@ const nkongamiaku3 = [
         English: "to approve",
         French: "approuver",
         Tshiluba: "Kuanyisha",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·an·yi·sha<p>/Kwahn-yee-shah/</p>",
         PhoneticsT: "approuver / to approve",
         English2: "accept",
@@ -651,9 +651,9 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=eyowa">eyowa</a>, 
-                    <a class="links" href="/search/?inpt1=kulekela">kulekela</a>, 
-                    <a class="links" href="/search/?inpt1=kubenga">kubenga</a>, 
+                    :: <a class="links" href="/alphabetindex/E/EYOWA/">eyowa</a>, 
+                    <a class="links" href="/alphabetindex/L/-LEKELA/">kulekela</a>, 
+                    <a class="links" href="/alphabetindex/B/-BENGA/">kubenga</a>, 
                     
     <br><br></td>
     </tr>
@@ -711,7 +711,7 @@ const nkongamiaku3 = [
         English: "to read",
         French: "Lire",
         Tshiluba: "Kubala",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe transitif</a> | <a class="links" href="/search/?inpt1=verb">transitive verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ba·la<p>/Koo-bah-lah/</p>",
         PhoneticsT: "Lire | Read",
         English2: "Count",
@@ -846,6 +846,154 @@ const nkongamiaku3 = [
     </td>
     </tr>`
     },
+    /*Bayi*/   
+{
+    English: "husband",
+    French: "mari",
+    Tshiluba: "bayi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Ba·yi<p>/Bahh-y/</p>",
+    PhoneticsT: "husband / mari",
+    English2: "husbands",
+    French2: "epoux",
+    Tshiluba2: "bayi",
+    PhoneticsT2: " ",
+    English3: "époux",
+    French3: "bayanyi",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "bayende",
+    French4: "bayenda",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "bayabo",
+    French5: "bayandi",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bayetu",
+    French6: "bayenu",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "bayabu",
+    French7: "babayende",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "babayi",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+mari <i class="PartOfSpch">n</i><br>
+époux <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+husband <i class="PartOfSpch">n</i><br>
+spouse (male) <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+bayi <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> babayi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un partenaire masculin dans une relation matrimoniale
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A male partner in a marital relationship. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Mu dibaka, udi muntu mulume.</p>
+<br><br></td>
+</tr>
+<tr>
+<td colspan="3" class="analogy"><br>
+<i>mon mari
+                <br>
+                &nbsp
+my husband
+                <br>
+                &nbsp&nbsp
+bayanyi 
+<br><br>
+
+ton mari
+                <br>
+                &nbsp
+your husband
+                <br>
+                &nbsp&nbsp
+bayebe 
+<br><br>
+son mari
+                <br>
+                &nbsp
+her husband
+                <br>
+                &nbsp&nbsp
+bayende 
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>,
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>,  
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Bikoyikoyi*/   
     {
         English: "skeleton",
@@ -921,53 +1069,53 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, 
-                    <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lungenyi">lungenyi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, 
-                    <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, 
+                    <a class="links" href="/alphabetindex/A/ANYIMA/">anyima</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGENYI/">lungenyi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -1068,11 +1216,11 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=2">ibidi [2]</a>,
                     <a class="links" href="/search/?inpt1=21">makumi abidi ne ibidi [21]</a>, 
-                    <a class="links" href="/search/?inpt1=200">nkama abidi [200]</a>,  
-                    <a class="links" href="/search/?inpt1=2000">binunu bibidi [2000]</a>
+                    <a class="links" href="/alphabetindex/N/NKAMA IBIDI/">nkama abidi [200]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BIBIDI/">binunu bibidi [2000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -1157,12 +1305,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=4">ibidi [2]</a>,
-                    <a class="links" href="/search/?inpt1=14">dikumi ne inayi [14]</a>
-                    <a class="links" href="/search/?inpt1=24">makumi abidi ne isatu [24]</a>,
-                    <a class="links" href="/search/?inpt1=40">makumi anayi [40]</a>, 
-                    <a class="links" href="/search/?inpt1=400">nkama abidi [400]</a>,  
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE INAYI/">dikumi ne inayi [14]</a>
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE INAYI/">makumi abidi ne isatu [24]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ANAYI/">makumi anayi [40]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA INAYI/">nkama abidi [400]</a>,  
     <br><br></td>
     </tr>` 
     },
@@ -1247,12 +1395,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=6">isambombo [6]</a>,
-                    <a class="links" href="/search/?inpt1=16">dikumi ne isambombo [16]</a>, 
-                    <a class="links" href="/search/?inpt1=26">makumi abidi ne isambombo [26]</a>,
-                    <a class="links" href="/search/?inpt1=60">makumi asambombo [60]</a>,
-                    <a class="links" href="/search/?inpt1=600">nkama abidi [600]</a>  
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ISAMBOMBO/">dikumi ne isambombo [16]</a>, 
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE ISAMBOMBO/">makumi abidi ne isambombo [26]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ASAMBOMBO/">makumi asambombo [60]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ISAMBOMBO/">nkama abidi [600]</a>  
     <br><br></td>
     </tr>` 
     },
@@ -1337,12 +1485,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=isatu">isatu [3]</a>,
-                    <a class="links" href="/search/?inpt1=dikumi ne isatu">dikumi ne isatu [13]</a>
-                    <a class="links" href="/search/?inpt1=makumi abidi ne isatu">makumi abidi ne isatu [23]</a>,
-                    <a class="links" href="/search/?inpt1=makumi asatu">makumi asatu [30]</a>, 
-                    <a class="links" href="/search/?inpt1=nkama isatu">nkama isatu [300]</a>,  
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/I/ISATU/">isatu [3]</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ISATU/">dikumi ne isatu [13]</a>
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE ISATU/">makumi abidi ne isatu [23]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ASATU/">makumi asatu [30]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA ISATU/">nkama isatu [300]</a>,  
     <br><br></td>
     </tr>` 
     },
@@ -1427,11 +1575,11 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=itanu">itanu [5]</a>,
-                    <a class="links" href="/search/?inpt1=dikumi ne ibidi">dikumi ne ibidi [15]</a>, 
-                    <a class="links" href="/search/?inpt1=makumi atanu">makumi atanu [50]</a>,
-                    <a class="links" href="/search/?inpt1=nkama ibidi">nkama ibidi [500]</a>  
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/I/ITANU/">itanu [5]</a>,
+                    <a class="links" href="/alphabetindex/D/DIKU/mi ne ibidi">dikumi ne ibidi [15]</a>, 
+                    <a class="links" href="/alphabetindex/M/MAKUMI ATANU/">makumi atanu [50]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ITANU/">nkama itanu [500]</a>  
                     
     <br><br></td>
     </tr>` 
@@ -1517,12 +1665,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=7">muanda-mutekete [7]</a>,
-                    <a class="links" href="/search/?inpt1=17">dikumi ne muanda-mutekete [12]</a>,
-                    <a class="links" href="/search/?inpt1=27">makumi abidi ne muanda-mutekete [27]</a>,
-                    <a class="links" href="/search/?inpt1=70">makumi muanda-mutekete [70]</a>, 
-                    <a class="links" href="/search/?inpt1=700">nkama muanda-mutekete [700]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUTEKETE/">dikumi ne muanda-mutekete [12]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE MUANDA-MUTEKETE/">makumi abidi ne muanda-mutekete [27]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI MUANDA-MUTEKETE/">makumi muanda-mutekete [70]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUTEKETE/">nkama muanda-mutekete [700]</a>
     <br><br></td>
     </tr>` 
     },
@@ -1607,12 +1755,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=8">muanda-mukulu [8]</a>,
-                    <a class="links" href="/search/?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
-                    <a class="links" href="/search/?inpt1=28">makumi abidi ne muanda-mukulu [28]</a>,
-                    <a class="links" href="/search/?inpt1=80">makumi muanda-mukulu [80]</a>, 
-                    <a class="links" href="/search/?inpt1=800">nkama muanda-mukulu [800]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUKULU/">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE MUANDA-MUKULU/">makumi abidi ne muanda-mukulu [28]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI MUANDA-MUKULU/">makumi muanda-mukulu [80]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUKULU/">nkama muanda-mukulu [800]</a>
     <br><br></td>
     </tr>` 
     },
@@ -1697,12 +1845,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=9">tshitema [9]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi ne tshitema [19]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi abidi ne tshitema [29]</a>,
-                    <a class="links" href="/search/?inpt1=90">makumi tshitema [90]</a>, 
-                    <a class="links" href="/search/?inpt1=900">nkama tshitema [900]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi abidi ne tshitema [29]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema [90]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema [900]</a>
     <br><br></td>
     </tr>` 
     },
@@ -1711,7 +1859,7 @@ const nkongamiaku3 = [
         English: "For",
         French: "Pour",
         Tshiluba: "Bua",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=préposition">préposition</a> | <a class="links" href="/search/?inpt1=preposition">preposition</a> | <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a><br> conjonction | conjunction',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br> conjonction | conjunction',
         Phonetics: "Bua<p>/Buah/</p>",
         PhoneticsT: "Pour / For",
         English2: "Because",
@@ -1817,7 +1965,7 @@ const nkongamiaku3 = [
                     &nbsp:&nbsp<br>
     speak for someone
                     &nbsp:&nbsp<br>
-    kuakula bua <a class="links" href="/search/?inpt1=someone">muntu</a> :
+    kuakula bua <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a> :
     <br><br>
     
     pour moi
@@ -1848,7 +1996,7 @@ const nkongamiaku3 = [
     why, for what <i class="PartOfSpch">adv</i>
                     :<br>
                     &nbsp:&nbsp
-    bua <a class="links" href="/search/?inpt1=what">tshinyi</a> <i class="PartOfSpch">muam</i> :
+    bua <a class="links" href="/alphabetindex/T/TSHINYI/">tshinyi</a> <i class="PartOfSpch">muam</i> :
                 <br><br>
     </td>
     </tr>
@@ -1870,7 +2018,7 @@ const nkongamiaku3 = [
         English: "to enter",
         French: "Entrer",
         Tshiluba: "Kubuela",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·bue·la<p>/Koo-bweh-lah/</p>",
         PhoneticsT: "Entrer | Enter",
         English2: "penetrate",
@@ -1939,12 +2087,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>,
-                    <a class="links" href="/search/?inpt1=kuya">kuya</a>,
-                    <a class="links" href="/search/?inpt1=kushila">kushila</a>
+                    :: <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
+                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>,
+                    <a class="links" href="/alphabetindex/S/-SHILA/">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -2050,12 +2198,12 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=butoke">butoke</a>, 
-                    <a class="links" href="/search/?inpt1=--fike">--fike</a>,
-                    <a class="links" href="/search/?inpt1=--toke">--toke</a>, 
-                    <a class="links" href="/search/?inpt1=mutoke">mutoke</a>, 
-                    <a class="links" href="/search/?inpt1=midima">midima</a>, 
-                    <a class="links" href="/search/?inpt1=muendu">muendu</a>           
+                    :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>, 
+                    <a class="links" href="/alphabetindex/F/--FIKE/">--fike</a>,
+                    <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                    <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
+                    <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
     <br><br></td>
     </tr>
     <tr>
@@ -2163,28 +2311,28 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=mukaji">mukaji</a>,
-                    <a class="links" href="/search/?inpt1=dibaka">dibaka</a>, 
-                    <a class="links" href="/search/?inpt1=diku">diku</a>, 
-                    <a class="links" href="/search/?inpt1=kaku">kaku</a>, 
-                    <a class="links" href="/search/?inpt1=muikulu">muikulu</a>, 
-                    <a class="links" href="/search/?inpt1=mamu">mamu</a>,
-                    <a class="links" href="/search/?inpt1=manseba">manseba</a>, 
-                    <a class="links" href="/search/?inpt1=muadi">muadi</a>,
-                    <a class="links" href="/search/?inpt1=muana">muana</a>,
-                    <a class="links" href="/search/?inpt1=muana buta">muana buta</a>, 
-                    <a class="links" href="/search/?inpt1=mukulu">mukulu</a>, 
-                    <a class="links" href="/search/?inpt1=mukulumpa">mukulumpa</a>
-                    <a class="links" href="/search/?inpt1=muledi">muledi</a>, 
-                    <a class="links" href="/search/?inpt1=mulume">mulume</a>, 
-                    <a class="links" href="/search/?inpt1=mulunda">mulunda</a>,  
-                    <a class="links" href="/search/?inpt1=nsongakaji">nsongakaji</a>,
-                    <a class="links" href="/search/?inpt1=nsongaluma">nsongaluma</a>, 
-                    <a class="links" href="/search/?inpt1=tatu">tatu</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiota</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiviela</a>,
-                    <a class="links" href="/search/?inpt1=tutu">tutu</a>, 
-                    <a class="links" href="/search/?inpt1=yaya">yaya</a>
+                    :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -2209,7 +2357,7 @@ const nkongamiaku3 = [
         English: "truth",
         French: "vérité",
         Tshiluba: "Bulelela",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a><br><a class="links" href="/search/?inpt1=adverbe">adverbe</a> | <a class="links" href="/search/?inpt1=adverb">adverb</a> | <a class="links" href="/search/?inpt1=muambikila">muambikila</a><br><a class="links" href="/search/?inpt1=adjectif">adjectif</a> | <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
         Phonetics: "Bu·le·le·la<p>/BOO-leh-leh-lah/</p>",
         PhoneticsT: "vérité / truth",
         English2: "verite",
@@ -2284,7 +2432,7 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dishima">dishima</a>   
+                    :: <a class="links" href="/alphabetindex/D/DISHIMA/">dishima</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -2399,9 +2547,9 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,  
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>, 
+                    <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>
     <tr>
@@ -2595,12 +2743,12 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bufiika">bufiika</a>, 
-                    <a class="links" href="/search/?inpt1=--fiike">--fiike</a>,
-                    <a class="links" href="/search/?inpt1=--toke">--toke</a>, 
-                    <a class="links" href="/search/?inpt1=mutoke">mutoke</a>, 
-                    <a class="links" href="/search/?inpt1=midima">midima</a>, 
-                    <a class="links" href="/search/?inpt1=muendu">muendu</a>           
+                    :: <a class="links" href="/alphabetindex/B/BUFIKE/">bufike</a>, 
+                    <a class="links" href="/alphabetindex/F/--FIKE/">--fike</a>,
+                    <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                    <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
+                    <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
     <br><br></td>
     </tr>
     <tr>
@@ -2636,7 +2784,7 @@ const nkongamiaku3 = [
         English: "to eat",
         French: "manger",
         Tshiluba: "Kudia",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·dia<p>/Koo-djah/</p>",
         PhoneticsT: "Manger | Eat",
         English2: "eat",
@@ -2721,16 +2869,16 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kunua">kunua</a>, 
-                    <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
-                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
-                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
-                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
-                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
-                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
-                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
-                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
-                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>
+                    :: <a class="links" href="/alphabetindex/N/-NUA/">kunua</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>
     <br><br></td>
     </tr>
     <tr>
@@ -2831,14 +2979,14 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dituku">dituku</a>, 
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>,
-                    <a class="links" href="/search/?inpt1=musangu">musangu</a>
-                    <a class="links" href="/search/?inpt1=mutotu">mutotu</a>,
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
-                    <a class="links" href="/search/?inpt1=tshidimu">tshidimu</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>    
+                    :: <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>, 
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>,
+                    <a class="links" href="/alphabetindex/M/MUSANGU/">musangu</a>
+                    <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>,
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>    
     <br><br></td>
     </tr>
     <tr>
@@ -2870,7 +3018,7 @@ const nkongamiaku3 = [
     This is the last hour
                     :<br>
                     &nbsp:&nbsp
-    Edi diba dia <a class="links" href="/search/?inpt1=ndekelu">ndekelu</a> :
+    Edi diba dia <a class="links" href="/alphabetindex/N/NDEKELU/">ndekelu</a> :
     <br><br></td>
     </tr>
     <tr>
@@ -2984,50 +3132,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -3121,50 +3269,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -3267,15 +3415,15 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
-                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
-                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
-                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
-                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
-                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
-                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
-                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
-                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>,
+                    :: <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
     <br><br></td>
     </tr>
     <tr>
@@ -3373,7 +3521,7 @@ const nkongamiaku3 = [
     difu <i class="PartOfSpch">tshi4</i><br>
     <i class="PartOfSpch">pl</i> mafu<br><br>
     tangila:<br>
-    2. <a class="links" href="/search/?inpt1=kuikala ne difu">kuikala ne difu</a> <i class="PartOfSpch">mf</i>
+    2. <a class="links" href="/alphabetindex/I/-IKALA NE DIFU/">kuikala ne difu</a> <i class="PartOfSpch">mf</i>
     </td>
     </tr>
     <tr>
@@ -3381,50 +3529,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -3519,8 +3667,8 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kapia">kapia</a>, 
-                    <a class="links" href="/search/?inpt1=mudilu">mudilu</a>,  
+                    :: <a class="links" href="/alphabetindex/K/KAPIA/">kapia</a>, 
+                    <a class="links" href="/alphabetindex/M/MUDILU/">mudilu</a>,  
     <br><br></td>
     </tr>
     <tr>
@@ -3614,50 +3762,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -3751,50 +3899,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -3888,49 +4036,49 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>,
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -4024,50 +4172,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>,
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -4162,15 +4310,15 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=didima">didima</a>,
-                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
-                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
-                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
-                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
-                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
-                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
-                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
-                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>,
+                    :: <a class="links" href="/alphabetindex/D/DIDIMA/">didima</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
     <br><br></td>
     </tr>
     <tr>
@@ -4266,50 +4414,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>,
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -4403,28 +4551,28 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bukonda">bukonda</a>,
-                    <a class="links" href="/search/?inpt1=dibaka">dibaka</a>, 
-                    <a class="links" href="/search/?inpt1=mukaji">mukaji</a>, 
-                    <a class="links" href="/search/?inpt1=kaku">kaku</a>, 
-                    <a class="links" href="/search/?inpt1=muikulu">muikulu</a>, 
-                    <a class="links" href="/search/?inpt1=mamu">mamu</a>,
-                    <a class="links" href="/search/?inpt1=manseba">manseba</a>, 
-                    <a class="links" href="/search/?inpt1=muadi">muadi</a>,
-                    <a class="links" href="/search/?inpt1=muana">muana</a>,
-                    <a class="links" href="/search/?inpt1=muana buta">muana buta</a>, 
-                    <a class="links" href="/search/?inpt1=mukulu">mukulu</a>, 
-                    <a class="links" href="/search/?inpt1=mukulumpa">mukulumpa</a>
-                    <a class="links" href="/search/?inpt1=muledi">muledi</a>, 
-                    <a class="links" href="/search/?inpt1=mulume">mulume</a>, 
-                    <a class="links" href="/search/?inpt1=mulunda">mulunda</a>,  
-                    <a class="links" href="/search/?inpt1=nsongakaji">nsongakaji</a>,
-                    <a class="links" href="/search/?inpt1=nsongaluma">nsongaluma</a>, 
-                    <a class="links" href="/search/?inpt1=tatu">tatu</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiota</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiviela</a>,
-                    <a class="links" href="/search/?inpt1=tutu">tutu</a>, 
-                    <a class="links" href="/search/?inpt1=yaya">yaya</a>
+                    :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -4527,10 +4675,10 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,  
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>, 
+                    <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -4610,7 +4758,7 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kulela">kulela</a>    
+                    :: <a class="links" href="/alphabetindex/L/-LELA/">kulela</a>    
     <br><br></td>
     </tr>
     <tr>
@@ -4657,7 +4805,7 @@ const nkongamiaku3 = [
         English: "to plow",
         French: "labourer",
         Tshiluba: "Kudima",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·di·ma<p>/Koo-dee-mah/</p>",
         PhoneticsT: "labourer | plow",
         English2: "to cultivate",
@@ -4745,15 +4893,15 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
-                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
-                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
-                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
-                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
-                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
-                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
-                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
-                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>
+                    :: <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>
     <br><br></td>
     </tr>
     <tr>
@@ -4852,8 +5000,8 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kunanga">kunanga</a>,
-                    <a class="links" href="/search/?inpt1=kusua">kusua</a>, 
+                    :: <a class="links" href="/alphabetindex/N/-NANGA/">kunanga</a>,
+                    <a class="links" href="/alphabetindex/S/-SUA/">kusua</a>, 
     <br><br></td>
     </tr>
     <tr>
@@ -4947,13 +5095,13 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-    :: <a class="links" href="/search/?inpt1=dinganga">dinanga</a>, 
-    <a class="links" href="/search/?inpt1=ditabuja">ditabuja</a>, 
-    <a class="links" href="/search/?inpt1=ditekemena">ditekemena</a>,
-    <a class="links" href="/search/?inpt1=kueyemena">kueyemena</a>,
-    <a class="links" href="/search/?inpt1=kuindila">kuindila</a>,
-    <a class="links" href="/search/?inpt1=kuitabuja">kuitabuja</a>,
-    <a class="links" href="/search/?inpt1=kutekemena">kutekemena</a>   
+    :: <a class="links" href="/alphabetindex/D/DINANGA/">dinanga</a>, 
+    <a class="links" href="/alphabetindex/D/DITABUJA/">ditabuja</a>, 
+    <a class="links" href="/alphabetindex/D/DITEKEMENA/">ditekemena</a>,
+    <a class="links" href="/alphabetindex/E/-EYEMENA/">kueyemena</a>,
+    <a class="links" href="/alphabetindex/I/-INDILA/">kuindila</a>,
+    <a class="links" href="/alphabetindex/I/-ITABUJA/">kuitabuja</a>,
+    <a class="links" href="/alphabetindex/T/-TEKEMENA/">kutekemena</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -5049,49 +5197,49 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -5209,7 +5357,7 @@ const nkongamiaku3 = [
         English: "lie",
         French: "mensonge",
         Tshiluba: "dishima",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/search/?inpt1=adjectif">adjectif</a> | <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
         Phonetics: "Di·shi·ma<p>/DJEE-shee-mah/</p>",
         PhoneticsT: "mensonge / lie",
         English2: "lies",
@@ -5289,8 +5437,8 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bulelela">bulelela</a>,   
-                    <a class="links" href="/search/?inpt1=kushima">kushima</a>,  
+                    :: <a class="links" href="/alphabetindex/B/BULELELA/">bulelela</a>,   
+                    <a class="links" href="/alphabetindex/S/-SHIMA/">kushima</a>,  
     <br><br></td>
     </tr>
     <tr>
@@ -5397,50 +5545,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -5640,50 +5788,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>,
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>,
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -5778,12 +5926,12 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dinganga">dinanga</a>, 
-                    <a class="links" href="/search/?inpt1=dindila">dindila</a>, 
-                    <a class="links" href="/search/?inpt1=ditabuja">ditabuja</a>,
-                    <a class="links" href="/search/?inpt1=kuindila">kuindila</a>,
-                    <a class="links" href="/search/?inpt1=kuitabuja">kuitabuja</a>,
-                    <a class="links" href="/search/?inpt1=kutekemena">kutekemena</a>   
+                    :: <a class="links" href="/alphabetindex/D/DINANGA/">dinanga</a>, 
+                    <a class="links" href="/alphabetindex/D/DINDILA/">dindila</a>, 
+                    <a class="links" href="/alphabetindex/D/DITABUJA/">ditabuja</a>,
+                    <a class="links" href="/alphabetindex/I/-INDILA/">kuindila</a>,
+                    <a class="links" href="/alphabetindex/I/-ITABUJA/">kuitabuja</a>,
+                    <a class="links" href="/alphabetindex/T/-TEKEMENA/">kutekemena</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -5889,50 +6037,50 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -6028,12 +6176,12 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>,
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
-                    <a class="links" href="/search/?inpt1=tshidimu">tshidimu</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>   
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>,
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -6256,11 +6404,11 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>,
-                    <a class="links" href="/search/?inpt1=motuto">mutotu</a>,
-                    <a class="links" href="/search/?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>,
+                    <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBUASHIBUASHI/">tshibuashibuashi</a>
     <br><br></td>
     </tr>
     <tr>
@@ -6360,11 +6508,11 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>,
-                    <a class="links" href="/search/?inpt1=ditutu">ditutu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>,
-                    <a class="links" href="/search/?inpt1=mutotu">mutotu</a>,
-                    <a class="links" href="/search/?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>,
+                    <a class="links" href="/alphabetindex/D/DITUTU/">ditutu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>,
+                    <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBUASHIBUASHI/">tshibuashibuashi</a>
     <br><br></td>
     </tr>
     <tr>
@@ -6583,7 +6731,7 @@ const nkongamiaku3 = [
         English: "to throw",
         French: "jeter",
         Tshiluba: "Kuela",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·e·la<p>/Kweh-lah/</p>",
         PhoneticsT: "jeter | throw",
         English2: "throw",
@@ -6672,12 +6820,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuasa">kuasa</a>,
-                    <a class="links" href="/search/?inpt1=kuela muadi">kuela muadi</a>, 
-                    <a class="links" href="/search/?inpt1=kuela meji">kuela meji</a>, 
-                    <a class="links" href="/search/?inpt1=kuela mbila">kuela mbila</a>, 
-                    <a class="links" href="/search/?inpt1=kuela musha">kuela musha</a>, 
-                    <a class="links" href="/search/?inpt1=kuela munda">kuela munda</a>,
+                    :: <a class="links" href="/alphabetindex/A/-ASA/">kuasa</a>,
+                    <a class="links" href="/alphabetindex/E/-ELA/ muadi">kuela muadi</a>, 
+                    <a class="links" href="/alphabetindex/E/-ELA/ meji">kuela meji</a>, 
+                    <a class="links" href="/alphabetindex/E/-ELA/ mbila">kuela mbila</a>, 
+                    <a class="links" href="/alphabetindex/E/-ELA/ musha">kuela musha</a>, 
+                    <a class="links" href="/alphabetindex/E/-ELA/ munda">kuela munda</a>,
     <br><br></td>
     </tr>
     <tr>
@@ -6698,7 +6846,7 @@ const nkongamiaku3 = [
         English: "to walk",
         French: "Marcher",
         Tshiluba: "Kuenda",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
         PhoneticsT: "Marcher | Walk",
         English2: "enda",
@@ -6753,16 +6901,16 @@ const nkongamiaku3 = [
     <tr>
     <td class="tabledef" valign=top >
     1. marcher <i class="PartOfSpch">v.tr</i> <br>
-    2. <a class="links" href="/search/?inpt1=kuya">aller</a><i class="PartOfSpch">v</i>
+    2. <a class="links" href="/alphabetindex/Y/-YA/">aller</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     1. walk <i class="PartOfSpch">tr.v</i> <br>
-    2. <a class="links" href="/search/?inpt1=kuya">go</a><i class="PartOfSpch">v</i>
+    2. <a class="links" href="/alphabetindex/Y/-YA/">go</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kuenda <i class="PartOfSpch">md</i><br>
     <i class="PartOfSpch">mushilangana ne</i><br>
-    <a class="links" href="/search/?inpt1=kuya">kuya</a><i class="PartOfSpch">md</i>
+    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a><i class="PartOfSpch">md</i>
     </td>
     </td>
     </tr>
@@ -6770,12 +6918,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>
+                    :: <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -6808,7 +6956,7 @@ const nkongamiaku3 = [
         English: "to do",
         French: "Faire",
         Tshiluba: "Kuenza",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·en·za<p>/kwehn-zah/</p>",
         PhoneticsT: "Faire | Do",
         English2: "Make",
@@ -6876,7 +7024,7 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuteta">kuteta</a> 
+                    :: <a class="links" href="/alphabetindex/T/-TETA/">kuteta</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -6910,7 +7058,7 @@ const nkongamiaku3 = [
         English: "happen",
         French: "survenir",
         Tshiluba: "Kuenzeka",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·en·ze·ka<p>/kwehn-zeh-kah/</p>",
         PhoneticsT: "Survenir | Happen",
         English2: "survenir",
@@ -6983,8 +7131,8 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kufika">kufika</a>, 
-                    <a class="links" href="/search/?inpt1=kuenza">kuenza</a> 
+                    :: <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>, 
+                    <a class="links" href="/alphabetindex/E/-ENZA/">kuenza</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -7021,7 +7169,7 @@ const nkongamiaku3 = [
         English: "Yes",
         French: "Oui",
         Tshiluba: "Eyowa",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=adverbe">adverbe</a> | <a class="links" href="/search/?inpt1=adverb">adverb</a> | <a class="links" href="/search/?inpt1=muambikila">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
         Phonetics: "Ey·o·wa<p>/Eyy-yoh-wah/</p>",
         PhoneticsT: "Oui / Yes",
         English2: "of course",
@@ -7107,7 +7255,7 @@ const nkongamiaku3 = [
         English: "to arrive",
         French: "Arriver",
         Tshiluba: "Kufika",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·fi·ka<p>/koo-fee-kah/</p>",
         PhoneticsT: "Arriver / Arrive",
         English2: "Fika",
@@ -7174,12 +7322,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kufika">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="/alphabetindex/F/-FIKA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -7211,7 +7359,7 @@ const nkongamiaku3 = [
         English: "to write",
         French: "Écrire",
         Tshiluba: "Kufunda",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·fun·da<p>/Koo-foon-dah/</p>",
         PhoneticsT: "Écrire | Write",
         English2: "Denounce",
@@ -7307,7 +7455,7 @@ const nkongamiaku3 = [
     denounce someone
                     :<br>
                     &nbsp:&nbsp
-    kufunda <a class="links" href="/search/?inpt1=muntu">muntu</a> :
+    kufunda <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a> :
     <br><br></td>
     </tr>
     <tr>
@@ -7318,7 +7466,7 @@ const nkongamiaku3 = [
     write a letter to someone
                     :<br>
                     &nbsp:&nbsp
-    kufundila <a class="links" href="/search/?inpt1=muntu">muntu</a> mukanda
+    kufundila <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a> mukanda
                 <br><br>
     </td>
     </tr>
@@ -7420,12 +7568,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=12">dikumi ne ibidi [12]</a>,
-                    <a class="links" href="/search/?inpt1=20">makumi abidi [20]</a>,
-                    <a class="links" href="/search/?inpt1=22">makumi abidi ne ibidi [22]</a>,
-                    <a class="links" href="/search/?inpt1=200">nkama ibidi [200]</a>, 
-                    <a class="links" href="/search/?inpt1=2000">binunu bibidi [2000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE IBIDI/">dikumi ne ibidi [12]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI/">makumi abidi [20]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE IBIDI/">makumi abidi ne ibidi [22]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA IBIDI/">nkama ibidi [200]</a>, 
+                    <a class="links" href="/alphabetindex/B/BINUNU BIBIDI/">binunu bibidi [2000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -7434,7 +7582,7 @@ const nkongamiaku3 = [
         English: "to be",
         French: "Être",
         Tshiluba: "Kuikala",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·i·ka·la<p>/Kwee-kah-lah/</p>",
         PhoneticsT: "Être | Be",
         English2: "be",
@@ -7587,7 +7735,7 @@ const nkongamiaku3 = [
         English: "to have",
         French: "Avoir",
         Tshiluba: "Kuikala ne",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·i·ka·la ne<p>/kwee-kah-lah neh/</p>",
         PhoneticsT: "Avoir | Have",
         English2: "to be with",
@@ -7756,12 +7904,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=14">dikumi ne inayi [14]</a>,
-                    <a class="links" href="/search/?inpt1=24">makumi abidi ne inayi [24]</a>,
-                    <a class="links" href="/search/?inpt1=40">makumi anayi [40]</a>,
-                    <a class="links" href="/search/?inpt1=400">nkama inayi [400]</a>, 
-                    <a class="links" href="/search/?inpt1=4000">binunu binayi [4000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE INAYI/">dikumi ne inayi [14]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE INAYI/">makumi abidi ne inayi [24]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ANAYI/">makumi anayi [40]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA INAYI/">nkama inayi [400]</a>, 
+                    <a class="links" href="/alphabetindex/B/BINUNU BINAYI/">binunu binayi [4000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -7846,12 +7994,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=16">dikumi ne isambombo [16]</a>,
-                    <a class="links" href="/search/?inpt1=26">makumi abidi ne isambombo [26]</a>,
-                    <a class="links" href="/search/?inpt1=60">makumi asambombo [60]</a>,
-                    <a class="links" href="/search/?inpt1=600">nkama isambombo [600]</a>, 
-                    <a class="links" href="/search/?inpt1=6000">binunu bisambombo [6000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ISAMBOMBO/">dikumi ne isambombo [16]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE ISAMBOMBO/">makumi abidi ne isambombo [26]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ASAMBOMBO/">makumi asambombo [60]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ISAMBOMBO/">nkama isambombo [600]</a>, 
+                    <a class="links" href="/alphabetindex/B/BINUNU BISAMBOMBO/">binunu bisambombo [6000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -7936,12 +8084,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=13">dikumi ne isatu [13]</a>,
                     <a class="links" href="/search/?inpt1=23">makumi abidi ne isatu [13]</a>,
                     <a class="links" href="/search/?inpt1=30">makumi asatu [30]</a>,
-                    <a class="links" href="/search/?inpt1=300">nkama isatu [300]</a>, 
-                    <a class="links" href="/search/?inpt1=3000">binunu bisatu [3000]</a>
+                    <a class="links" href="/alphabetindex/N/NKAMA ISATU/">nkama isatu [300]</a>, 
+                    <a class="links" href="/alphabetindex/B/BINUNU BISATU/">binunu bisatu [3000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -7950,7 +8098,7 @@ const nkongamiaku3 = [
         English: "to believe",
         French: "croir",
         Tshiluba: "Kuitabuja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·i·ta·ba<p>/Kwee-tah-bah/</p>",
         PhoneticsT: "Croir / To Believe",
         English2: "believe",
@@ -8020,13 +8168,13 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dinganga">dinanga</a>, 
-                    <a class="links" href="/search/?inpt1=dindila">dindila</a>, 
-                    <a class="links" href="/search/?inpt1=ditabuja">ditabuja</a>,
-                    <a class="links" href="/search/?inpt1=ditekemena">ditekemena</a>,
-                    <a class="links" href="/search/?inpt1=kueyemena">kueyemena</a>,
-                    <a class="links" href="/search/?inpt1=kuindila">kuindila</a>,
-                    <a class="links" href="/search/?inpt1=kutekemena">kutekemena</a>   
+                    :: <a class="links" href="/alphabetindex/D/DINANGA/">dinanga</a>, 
+                    <a class="links" href="/alphabetindex/D/DINDILA/">dindila</a>, 
+                    <a class="links" href="/alphabetindex/D/DITABUJA/">ditabuja</a>,
+                    <a class="links" href="/alphabetindex/D/DITEKEMENA/">ditekemena</a>,
+                    <a class="links" href="/alphabetindex/E/-EYEMENA/">kueyemena</a>,
+                    <a class="links" href="/alphabetindex/I/-INDILA/">kuindila</a>,
+                    <a class="links" href="/alphabetindex/T/-TEKEMENA/">kutekemena</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -8160,12 +8308,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=15">dikumi ne itanu [15]</a>,
-                    <a class="links" href="/search/?inpt1=25">makumi abidi ne itanu [25]</a>,
-                    <a class="links" href="/search/?inpt1=50">makumi atanu [50]</a>,
-                    <a class="links" href="/search/?inpt1=500">nkama itanu [500]</a>, 
-                    <a class="links" href="/search/?inpt1=5000">binunu bitanu [5000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ITANU/">dikumi ne itanu [15]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI NE ITANU/">makumi abidi ne itanu [25]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ATANU/">makumi atanu [50]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ITANU/">nkama itanu [500]</a>, 
+                    <a class="links" href="/alphabetindex/B/BINUNU BITANU/">binunu bitanu [5000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -8244,10 +8392,10 @@ const nkongamiaku3 = [
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/search/?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
                     <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
                     <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="/search/?inpt1=muambikila">muambikila</a>   
+                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -8562,7 +8710,7 @@ const nkongamiaku3 = [
         English: "Again",
         French: "Encore",
         Tshiluba: "Kabidi",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=adverbe">adverbe</a> | <a class="links" href="/search/?inpt1=adverb">adverb</a> | <a class="links" href="/search/?inpt1=muambikila">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
         Phonetics: "Ka·bi·di<p>/Kah-bee-djee/</p>",
         PhoneticsT: "Encore | Again",
         English2: "Also",
@@ -8728,28 +8876,28 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=mukaji">mukaji</a>,
-                    <a class="links" href="/search/?inpt1=dibaka">dibaka</a>, 
-                    <a class="links" href="/search/?inpt1=diku">diku</a>, 
-                    <a class="links" href="/search/?inpt1=bukonda">bukonda</a>, 
-                    <a class="links" href="/search/?inpt1=muikulu">muikulu</a>, 
-                    <a class="links" href="/search/?inpt1=mamu">mamu</a>,
-                    <a class="links" href="/search/?inpt1=manseba">manseba</a>, 
-                    <a class="links" href="/search/?inpt1=muadi">muadi</a>,
-                    <a class="links" href="/search/?inpt1=muana">muana</a>,
-                    <a class="links" href="/search/?inpt1=muana buta">muana buta</a>, 
-                    <a class="links" href="/search/?inpt1=mukulu">mukulu</a>, 
-                    <a class="links" href="/search/?inpt1=mukulumpa">mukulumpa</a>
-                    <a class="links" href="/search/?inpt1=muledi">muledi</a>, 
-                    <a class="links" href="/search/?inpt1=mulume">mulume</a>, 
-                    <a class="links" href="/search/?inpt1=mulunda">mulunda</a>,  
-                    <a class="links" href="/search/?inpt1=nsongakaji">nsongakaji</a>,
-                    <a class="links" href="/search/?inpt1=nsongaluma">nsongaluma</a>, 
-                    <a class="links" href="/search/?inpt1=tatu">tatu</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiota</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiviela</a>,
-                    <a class="links" href="/search/?inpt1=tutu">tutu</a>, 
-                    <a class="links" href="/search/?inpt1=yaya">yaya</a>
+                    :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -8838,7 +8986,7 @@ const nkongamiaku3 = [
     kamuma <i class="PartOfSpch">tshi8</i><br>
     <i class="PartOfSpch">pl</i> tumuma <br><br>
     tangila:<br>
-    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>
+    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>
     </td>
     </tr>
     <tr>
@@ -8846,15 +8994,15 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dikonda">dikonda</a>,
-                    <a class="links" href="/search/?inpt1=ditungulu">ditungulu</a>,
-                    <a class="links" href="/search/?inpt1=lungaji">lungaji</a>,
-                    <a class="links" href="/search/?inpt1=malakuja">malakuja</a>, 
-                    <a class="links" href="/search/?inpt1=mpoma">mpoma</a>, 
-                    <a class="links" href="/search/?inpt1=tshibota">tshibota</a>,
-                    <a class="links" href="/search/?inpt1=tshikaka">tshikaka</a>,
-                    <a class="links" href="/search/?inpt1=tshikuyi">tshikuyi</a>,  
-                    <a class="links" href="/search/?inpt1=tshimuma">tshimuma</a>,
+                    :: <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
     <br><br></td>
     </tr>
     `
@@ -8946,7 +9094,7 @@ const nkongamiaku3 = [
         English: "to cut",
         French: "Couper",
         Tshiluba: "Kukosa",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ko·sa<p>/Koo-koh-sah/</p>",
         PhoneticsT: "Couper | Cut",
         English2: "Cease",
@@ -9087,7 +9235,7 @@ const nkongamiaku3 = [
         English: "to seize",
         French: "Saisir",
         Tshiluba: "Kukuata",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·kua·ta<p>/koo-kwah-tah/</p>",
         PhoneticsT: "Saisir / Seize",
         English2: "kuata",
@@ -9155,7 +9303,7 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=kuangata">kuangata</a>,
-                    <a class="links" href="/search/?inpt1=kupingaja">kupingaja</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
     <br><br></td>
     </tr>
     <tr>
@@ -9187,7 +9335,7 @@ const nkongamiaku3 = [
         English: "to show",
         French: "montrer",
         Tshiluba: "Kuleja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·le·ja<p>/Koo-leh-jah/</p>",
         PhoneticsT: "montrer / To show",
         English2: "show",
@@ -9257,7 +9405,7 @@ const nkongamiaku3 = [
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dinganga">tshilejilu</a>  
+                    :: <a class="links" href="/alphabetindex/D/DINANGA/">tshilejilu</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -9315,7 +9463,7 @@ const nkongamiaku3 = [
         English: "to give birth to",
         French: "enfanter",
         Tshiluba: "Kulela",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·le·la<p>/KOO--leh-lah/</p>",
         PhoneticsT: "Accoucher | Give Birth",
         English2: "lela",
@@ -9422,7 +9570,7 @@ const nkongamiaku3 = [
         English: "to ask",
         French: "demander",
         Tshiluba: "Kulomba",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·lom·ba<p>/koo-lohm-bah/</p>",
         PhoneticsT: "Demander | Ask",
         English2: "ask",
@@ -9492,10 +9640,10 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuakula">kuamba</a>, 
-                    <a class="links" href="/search/?inpt1=kuela">kuela</a>, 
-                    <a class="links" href="/search/?inpt1=kuimba">kuimba</a>, 
-                    <a class="links" href="/search/?inpt1=kulomba">kuakula</a>, 
+                    :: <a class="links" href="/alphabetindex/A/-AKULA/">kuamba</a>, 
+                    <a class="links" href="/alphabetindex/E/-ELA/">kuela</a>, 
+                    <a class="links" href="/alphabetindex/I/-IMBA/">kuimba</a>, 
+                    <a class="links" href="/alphabetindex/L/-LOMBA/">kuakula</a>, 
                     <a class="links" href="/search/?inpt1=lukonku">lukonku</a>
     <br><br></td>
     </tr>
@@ -9556,7 +9704,7 @@ const nkongamiaku3 = [
         English: "to come",
         French: "Venir",
         Tshiluba: "Kulua",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·lua<p>/koo-lwah/</p>",
         PhoneticsT: "Venir / Come",
         English2: "Lua",
@@ -9623,12 +9771,12 @@ const nkongamiaku3 = [
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kufika">kufika</a>, 
-                    <a class="links" href="/search/?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>, 
+                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -9737,12 +9885,12 @@ pl. mbombu
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                 <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
-                <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
-                <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
-                <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
-                <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>,
+                <a class="links" href="/alphabetindex/D/DIKU/mi">dikumi [10]</a>,
+                <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>,
+                <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -9828,10 +9976,10 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,  
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/mi">dikumi [10]</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -9909,12 +10057,12 @@ pl. mbombu
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=dituku">dituku</a>,
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
-                    <a class="links" href="/search/?inpt1=tshidimu">tshidimu</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>   
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>,
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -10038,11 +10186,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=2">ibidi [2]</a>,
-                    <a class="links" href="/search/?inpt1=12">dikumi ne ibidi [12]</a>,
-                    <a class="links" href="/search/?inpt1=200">nkama abidi [200]</a>,  
-                    <a class="links" href="/search/?inpt1=2000">binunu bibidi [2000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE IBIDI/">dikumi ne ibidi [12]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA IBIDI/">nkama abidi [200]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BIBIDI/">binunu bibidi [2000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10127,11 +10275,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=4">inayi [4]</a>,
-                    <a class="links" href="/search/?inpt1=14">dikumi ne inayi [14]</a>,
-                    <a class="links" href="/search/?inpt1=400">nkama anayi [400]</a>,  
-                    <a class="links" href="/search/?inpt1=4000">binunu binayi[4000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE INAYI/">dikumi ne inayi [14]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA INAYI/">nkama anayi [400]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BINAYI/">binunu binayi[4000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10216,11 +10364,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=6">isambombo [6]</a>,
-                    <a class="links" href="/search/?inpt1=16">dikumi ne isambombo [16]</a>,
-                    <a class="links" href="/search/?inpt1=600">nkama asambombo [600]</a>,  
-                    <a class="links" href="/search/?inpt1=6000">binunu bisambombo [6000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ISAMBOMBO/">dikumi ne isambombo [16]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ISAMBOMBO/">nkama asambombo [600]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BISAMBOMBO/">binunu bisambombo [6000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10305,11 +10453,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=3">isatu [3]</a>,
                     <a class="links" href="/search/?inpt1=13">dikumi ne isatu [13]</a>,
-                    <a class="links" href="/search/?inpt1=300">nkama asatu [300]</a>,  
-                    <a class="links" href="/search/?inpt1=3000">binunu bisatu[3000]</a>
+                    <a class="links" href="/alphabetindex/N/NKAMA ISATU/">nkama asatu [300]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BISATU/">binunu bisatu[3000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10394,11 +10542,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=5">itanu [5]</a>,
-                    <a class="links" href="/search/?inpt1=15">dikumi ne itanu [15]</a>,
-                    <a class="links" href="/search/?inpt1=500">nkama atanu [500]</a>,  
-                    <a class="links" href="/search/?inpt1=5000">binunu bitanu [5000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ITANU/">dikumi ne itanu [15]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA ITANU/">nkama atanu [500]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BITANU/">binunu bitanu [5000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10483,11 +10631,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=8">muanda-mukulu [8]</a>,
-                    <a class="links" href="/search/?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
-                    <a class="links" href="/search/?inpt1=800">nkama muanda-mukulu [800]</a>,  
-                    <a class="links" href="/search/?inpt1=8000">binunu muanda-mukulu [8000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUKULU/">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUKULU/">nkama muanda-mukulu [800]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUKULU/">binunu muanda-mukulu [8000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10572,11 +10720,11 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=7">muanda-mutekete [7]</a>,
-                    <a class="links" href="/search/?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
-                    <a class="links" href="/search/?inpt1=700">nkama muanda-mutekete [700]</a>,  
-                    <a class="links" href="/search/?inpt1=7000">binunu muanda-mutekete [7000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUTEKETE/">dikumi ne muanda-mutekete [17]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUTEKETE/">nkama muanda-mutekete [700]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUTEKETE/">binunu muanda-mutekete [7000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -10661,14 +10809,257 @@ pl. mbombu
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=9">tshitema [9]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi ne tshitema [19]</a>,
-                    <a class="links" href="/search/?inpt1=900">nkama tshitema [900]</a>,  
-                    <a class="links" href="/search/?inpt1=9000">binunu tshitema [9000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema [900]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU TSHITEMA/">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
     },
+    /*Mamu*/   
+{
+    English: "mother",
+    French: "mère",
+    Tshiluba: "mamu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Ma·mu<p>/MAH-moo/</p>",
+    PhoneticsT: "mother | mère",
+    English2: "mom",
+    French2: "maman",
+    Tshiluba2: "mamu",
+    PhoneticsT2: " ",
+    English3: "mama",
+    French3: "momma",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "mommy",
+    French4: "mam",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "mum",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+mère <i class="PartOfSpch">n</i><br>
+maman <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+mother <i class="PartOfSpch">n</i><br>
+mom <i class="PartOfSpch">n</i><br>
+mum (uk) <i class="PartOfSpch">n</i><br>
+mommy <i class="PartOfSpch">n</i><br>
+momma <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+mamu <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bamamu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un parent féminin ou la figure féminine qui a donné naissance à un enfant ou l'a élevé.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A female parent or the female figure who has given birth to or raised a child. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Manseba*/   
+{
+    English: "uncle (maternal)",
+    French: "oncle (maternel)",
+    Tshiluba: "manseba",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Man·se·ba<p>/Mah-nseh-bah/</p>",
+    PhoneticsT: "uncle | oncle",
+    English2: "unc",
+    French2: "oncle maternel",
+    Tshiluba2: "manseba",
+    PhoneticsT2: " ",
+    English3: "bamanseba",
+    French3: "maternal uncle",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "uncle",
+    French4: "oncle",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+oncle maternel <i class="PartOfSpch">n</i><br>
+oncle <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+maternal uncle <i class="PartOfSpch">n</i><br>
+uncle <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+manseba <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bamanseba<br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le frère de la mère d'une personne.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+The brother of a person's mother.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Mashi*/   
     {
         English: "blood",
@@ -10742,50 +11133,50 @@ pl. mbombu
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -10820,7 +11211,7 @@ pl. mbombu
         English: "Cold",
         French: "Froid",
         Tshiluba: "Mashika",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/search/?inpt1=adjectif">adjectif</a><br> <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a><br> <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
         Phonetics: "Ma·shi·ka<p>/Mah-shee-kah/</p>",
         PhoneticsT: "Froid / Cold",
         English2: " ",
@@ -11063,11 +11454,11 @@ pl. mbombu
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=bufike">bufike</a>, 
-                    <a class="links" href="/search/?inpt1=butoke">butoke</a>, 
-                    <a class="links" href="/search/?inpt1=--fike">--fike</a>,
-                    <a class="links" href="/search/?inpt1=--toke">--toke</a>, 
-                    <a class="links" href="/search/?inpt1=mutoke">mutoke</a>, 
-                    <a class="links" href="/search/?inpt1=muendu">muendu</a>           
+                    <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>, 
+                    <a class="links" href="/alphabetindex/F/--FIKE/">--fike</a>,
+                    <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                    <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
     <br><br></td>
     </tr>
     <tr>
@@ -11103,7 +11494,7 @@ pl. mbombu
         English: "to see",
         French: "Voir",
         Tshiluba: "Kumona",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·mo·na<p>/Koo-moh-nah/</p>",
         PhoneticsT: "Voir | See",
         English2: "Mona",
@@ -11493,11 +11884,135 @@ Moyo wenu! :
     Speak the Tshiluba language
                     :<br>
                     &nbsp:&nbsp
-    <a class="links" href="/search/?inpt1=kuakula">Kuakula</a> muakulu wa Tshiluba :
+    <a class="links" href="/alphabetindex/A/-AKULA/">Kuakula</a> muakulu wa Tshiluba :
     <br><br></td>
     </tr>
     `
     },
+    /*Muakunyi*/   
+{
+    English: "youngest (sibling)",
+    French: "cadet",
+    Tshiluba: "muakunyi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mua·ku·nyi<p>/Mwah-koo-nyee/</p>",
+    PhoneticsT: "youngest | cadet",
+    English2: "youngest",
+    French2: "cadette",
+    Tshiluba2: "muakunyi",
+    PhoneticsT2: " ",
+    English3: "bakunyi",
+    French3: "little brother",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "little sister",
+    French4: "petit frère",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "petite soeur",
+    French5: "young brother",
+    Tshiluba5: " ",
+    PhoneticsT5: "young sister",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cadet <i class="PartOfSpch">n</i><br>
+cadette <i class="PartOfSpch">n</i><br>
+plus jeune <i class="PartOfSpch">n</i><br>
+petit frère <i class="PartOfSpch">n</i><br>
+petit soeur <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+youngest <i class="PartOfSpch">n</i><br>
+youngest sibling <i class="PartOfSpch">n</i><br>
+younger brother <i class="PartOfSpch">n</i><br>
+younger sister <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+muakunyi <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bakunyi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le frère ou la sœur qui est le dernier né dans une famille.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+The sibling who is the last born in a family.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Muana wa shisha udi muledibua mu diku.</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Muambikila*/   
     {
         English: "Adverb",
@@ -11573,10 +12088,10 @@ Moyo wenu! :
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/search/?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
                     <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
                     <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a>  
+                    <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -11611,6 +12126,260 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Muana*/   
+{
+    English: "child",
+    French: "enfant",
+    Tshiluba: "muana",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mua·na<p>/Mwah-nah/</p>",
+    PhoneticsT: "child | enfant",
+    English2: "children",
+    French2: "enfants",
+    Tshiluba2: "muana",
+    PhoneticsT2: " ",
+    English3: "kid",
+    French3: "bébé",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "baby",
+    French4: "newborn",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "babies",
+    French5: "kids",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bana",
+    French6: "son",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "daughter",
+    French7: "fils",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "fille",
+    French8: "sons",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: "daughters",
+    French9: "filles",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+enfant <i class="PartOfSpch">n</i><br>
+bébé <i class="PartOfSpch">n</i><br>
+fils <i class="PartOfSpch">n</i><br>
+fille <i class="PartOfSpch">n</i><br>
+<br>
+</td>
+<td class="tabledef" valign=top>
+child <i class="PartOfSpch">n</i><br>
+baby <i class="PartOfSpch">n</i><br>
+son <i class="PartOfSpch">n</i><br>
+daughter <i class="PartOfSpch">n</i><br>
+kid <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+muana <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bana<br><br><br>
+
+tangila:
+muana mulume (fils/son)
+muana mukaji (fille/fils)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un jeune être humain qui n'est pas encore adulte.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A young human being who is not yet an adult. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Muntu mutekete eu kena mukulumpa to.</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Muana-buta*/   
+{
+    English: "first-born",
+    French: "premier-né",
+    Tshiluba: "muana-buta",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mua·na·bu·ta<p>/Mwah-nah-boo-tah/</p>",
+    PhoneticsT: "first-born | premier-né",
+    English2: "first born",
+    French2: "première-née",
+    Tshiluba2: "muana-buta",
+    PhoneticsT2: " ",
+    English3: "eldest sibling",
+    French3: "l'aîné",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "l'ainée",
+    French4: "l'aînée",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "l'ainé",
+    French5: "aîné",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "aînée",
+    French6: "eldest child",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "oldest child",
+    French7: "muana buta",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "muana'a buta",
+    French8: "muan'a buta",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: "muanabute",
+    French9: "muanabuta",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: "muana'buta",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+premiere-né <i class="PartOfSpch">n</i><br>
+première-née <i class="PartOfSpch">n</i><br>
+l'aîné <i class="PartOfSpch">n</i><br>
+l'aînée <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+first-born <i class="PartOfSpch">n</i><br>
+eldest child <i class="PartOfSpch">n</i><br>
+oldest child <i class="PartOfSpch">n</i><br>
+eldest sibling <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+muana-buta <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bana-buta
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le frère ou la sœur qui est le premier-né dans une famille.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+The sibling who is the first-born in a family.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Muana wa kumpala kudi muledibua mu diku.</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Muanda*/   
     {
         English: "Verb",
@@ -11685,10 +12454,10 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/search/?inpt1=muambikila">muambikila</a>, 
-                    <a class="links" href="/search/?inpt1=mufidi">mufidi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>, 
+                    <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
                     <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a>  
+                    <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -11804,10 +12573,10 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=18">dikumi ne muanda-mukulu [18]</a>, 
-                    <a class="links" href="/search/?inpt1=800">nkama muanda-mukulu [800]</a>,  
-                    <a class="links" href="/search/?inpt1=8000">binunu muanda-mukulu [8000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUKULU/">dikumi ne muanda-mukulu [18]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUKULU/">nkama muanda-mukulu [800]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUKULU/">binunu muanda-mukulu [8000]</a>
     <br><br></td>
     </tr>`
     },
@@ -11893,10 +12662,10 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=17">dikumi ne muanda-mutekete [17]</a>, 
-                    <a class="links" href="/search/?inpt1=700">nkama muanda-mukulu [700]</a>,  
-                    <a class="links" href="/search/?inpt1=7000">binunu muanda-mukulu [7000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUTEKETE/">dikumi ne muanda-mutekete [17]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA MUANDA-MUTEKETE/">nkama muanda-mukulu [700]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUTEKETE/">binunu muanda-mukulu [7000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -11974,50 +12743,50 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -12122,10 +12891,10 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/search/?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>, 
                     <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
                     <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a> 
+                    <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a> 
     <br><br></td>
     </tr>
     <tr style="text-align:left";>
@@ -12347,6 +13116,128 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Muikulu*/   
+{
+    English: "grandchild",
+    French: "petit-enfant",
+    Tshiluba: "muikulu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mui·ku·lu<p>/Mwee-koo-loo/</p>",
+    PhoneticsT: "grandchild | petit-enfant",
+    English2: "grandchildren",
+    French2: "petits-enfants",
+    Tshiluba2: "muikulu",
+    PhoneticsT2: " ",
+    English3: "bikulu",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "grandson",
+    French4: "petit-fils",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "granddaughter",
+    French5: "petite-fille",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "grandsons",
+    French6: "granddaughters",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+petit-enfant <i class="PartOfSpch">n</i><br>
+petit-fils <i class="PartOfSpch">n</i><br>
+petite-fille <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+grandchild <i class="PartOfSpch">n</i><br>
+grandson <i class="PartOfSpch">n</i><br>
+granddaughter <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+muikulu <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bikulu<br><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+L'enfant du fils ou de la fille. La progéniture de ses propres enfants.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+The child of one's son or daughter. The offspring of one's own children.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Muana wa muana wa muntu. </p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Mukaji*/   
     {
         English: "woman",
@@ -12422,28 +13313,28 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bukonda">bukonda</a>,
-                    <a class="links" href="/search/?inpt1=dibaka">dibaka</a>, 
-                    <a class="links" href="/search/?inpt1=diku">diku</a>, 
-                    <a class="links" href="/search/?inpt1=kaku">kaku</a>, 
-                    <a class="links" href="/search/?inpt1=muikulu">muikulu</a>, 
-                    <a class="links" href="/search/?inpt1=mamu">mamu</a>,
-                    <a class="links" href="/search/?inpt1=manseba">manseba</a>, 
-                    <a class="links" href="/search/?inpt1=muadi">muadi</a>,
-                    <a class="links" href="/search/?inpt1=muana">muana</a>,
-                    <a class="links" href="/search/?inpt1=muana buta">muana buta</a>, 
-                    <a class="links" href="/search/?inpt1=mukulu">mukulu</a>, 
-                    <a class="links" href="/search/?inpt1=mukulumpa">mukulumpa</a>
-                    <a class="links" href="/search/?inpt1=muledi">muledi</a>, 
-                    <a class="links" href="/search/?inpt1=mulume">mulume</a>, 
-                    <a class="links" href="/search/?inpt1=mulunda">mulunda</a>,  
-                    <a class="links" href="/search/?inpt1=nsongakaji">nsongakaji</a>,
-                    <a class="links" href="/search/?inpt1=nsongaluma">nsongaluma</a>, 
-                    <a class="links" href="/search/?inpt1=tatu">tatu</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiota</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiviela</a>,
-                    <a class="links" href="/search/?inpt1=tutu">tutu</a>, 
-                    <a class="links" href="/search/?inpt1=yaya">yaya</a>
+                    :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12474,6 +13365,130 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Mukalenge*/  
+{
+    English: "Master",
+    French: "Maître",
+    Tshiluba: "Mukalenge",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·ka·len·ge<p>/Moo-kah-len-gah/</p>",
+    PhoneticsT: "Master / Maître",
+    English2: "Boss",
+    French2: "patron",
+    Tshiluba2: "mukalenge",
+    PhoneticsT2: " ",
+    English3: "mukalenga",
+    French3: "lord",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "seigneur",
+    French4: "lords",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "chef",
+    French5: "chief",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "maitre",
+    French6: "prince",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "roi",
+    French7: "king",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+maître <i class="PartOfSpch">n</i><br>
+patron <i class="PartOfSpch">n</i><br>
+seigneur <i class="PartOfSpch">n</i><br>
+chef <i class="PartOfSpch">n</i><br>
+roi <i class="PartOfSpch">n</i><br>
+prince <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+master <i class="PartOfSpch">n</i><br>
+boss <i class="PartOfSpch">n</i><br>
+lord <i class="PartOfSpch">n</i><br>
+chief <i class="PartOfSpch">n</i><br>
+king <i class="PartOfSpch">n</i><br>
+prince <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+mukalenge <i class="PartOfSpch">tshi1</i><br>
+mukalenga <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakalenge <br>
+<i class="PartOfSpch">pl</i> bakalenga <br><br><br><br>
+
+tangila:<br>
+<a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a> <i class="PartOfSpch">tshi</i><br><br>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un terme polyvalent utilisé pour désigner le leadership, l'autorité ou l'importance dans divers contextes.
+                <br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A versatile term used to denote leadership, authority, or importance in various contexts.
+                <br><br>
+                &nbsp&nbsp
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/D/DITUNGA/">ditunga</a>, 
+                <a class="links" href="/alphabetindex/D/DIYI/">diyi</a>, 
+                <a class="links" href="/alphabetindex/D/DIYI DIKULU/">diyi dikulu</a>,
+                <a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKALENGE/">mukalenga</a>,
+                <a class="links" href="/alphabetindex/M/MUKENJI/">mukenji</a>,
+                <a class="links" href="/alphabetindex/M/MULUMBULUIDI/">mulumbuluidi</a>,
+                <a class="links" href="/alphabetindex/M/MULUMBULUISHI/">mulumbuluishi</a>,
+                <a class="links" href="/alphabetindex/M/MUNGALATA/">mungalata</a>,
+                <a class="links" href="/alphabetindex/M/MUSOKO/">musoko</a>,
+                <a class="links" href="/alphabetindex/T/TSHIBANJI/">tshibanji</a>,
+                <a class="links" href="/alphabetindex/T/TSHIMENGA/">tshimenga</a>, 
+                <a class="links" href="/alphabetindex/T/TSHISAMBA/">tshisamba</a> 
+<br><br></td>
+</tr>
+` 
+},
     /*Mukalu*/   
     {
         English: "Limit",
@@ -12644,50 +13659,50 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -12707,6 +13722,377 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Mukulu*/   
+{
+    English: "elder",
+    French: "ancien",
+    Tshiluba: "mukulu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·ku·lu<p>/Moo-koo-loo/</p>",
+    PhoneticsT: "elder | ancien",
+    English2: "elders",
+    French2: "ancienne",
+    Tshiluba2: "mukulu",
+    PhoneticsT2: " ",
+    English3: "ancestor",
+    French3: "aïeul",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "aieul",
+    French4: "aieule",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "aïeule",
+    French5: "ancestors",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bakulu",
+    French6: "elder brother",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "old person",
+    French7: "senior",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "elderly",
+    French8: "personne âgée",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: "older brother",
+    French9: "older",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. ancien <i class="PartOfSpch">n</i><br>
+personne âgée <i class="PartOfSpch">n</i><br>
+aîné <i class="PartOfSpch">n</i><br><br>
+
+2. ancêtre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+1. elder <i class="PartOfSpch">n</i><br>
+senior <i class="PartOfSpch">n</i><br>
+older person <i class="PartOfSpch">n</i><br><br>
+
+2. ancestor <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+mukulu <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakulu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+1. Quelqu'un qui est plus âgé ou plus senior en âge.
+2. Une personne dont on est descendant.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+1. Someone who is older or more senior in age.<br><br>
+2. A person from whom one is descended. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Mukulumpa*/   
+{
+    English: "a man of advanced years",
+    French: "un homme d'âge fait",
+    Tshiluba: "mukulumpa",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·ku·lum·pa<p>/Moo-koo-loom-pah/</p>",
+    PhoneticsT: "an older man | un homme d'âge fait",
+    English2: "adult",
+    French2: "an adult",
+    Tshiluba2: "mukulumpa",
+    PhoneticsT2: " ",
+    English3: "mukulumpe",
+    French3: "bakulumpa",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "bakulumpe",
+    French4: "personne adulte",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "adulte",
+    French5: "vieux",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+1. un homme d'âge fait <i class="PartOfSpch">n</i><br><br>
+
+2. adulte <i class="PartOfSpch">n</i><br>
+personne adulte <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+1. a man advanced in age <i class="PartOfSpch">n</i><br><br>
+
+2. adult <i class="PartOfSpch">n</i><br>
+an adult male <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+mukulumpa <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakulumpa
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+1. Un homme qui est plus âgé ou plus senior en âge.<br><br>
+
+2. Un homme qui a atteint l'âge de maturité ou la majorité légale et qui est pleinement développé et capable de prendre des décisions indépendantes et d'assumer la responsabilité de ses actes.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+1. A man who is older or more senior in age.<br><br>
+2. A man who has reached the age of maturity or legal majority and is fully grown and capable of making independent decisions and taking responsibility for their actions. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Muledi*/   
+{
+    English: "parent",
+    French: "parent",
+    Tshiluba: "muledi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·le·di<p>/Muu-leh-djee/</p>",
+    PhoneticsT: "parent / parent",
+    English2: "parents",
+    French2: "baledi",
+    Tshiluba2: "muledi",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+parent <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top>
+parent <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+muledi <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> baledi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le père ou la mère d'un individu
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+An individual's father or mother.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Tatu nansha mamu wa muntu.</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>,
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>,  
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Mulombodi*/  
     {
         English: "leader",
@@ -12892,28 +14278,28 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bukonda">bukonda</a>,
-                    <a class="links" href="/search/?inpt1=dibaka">dibaka</a>, 
-                    <a class="links" href="/search/?inpt1=diku">diku</a>, 
-                    <a class="links" href="/search/?inpt1=kaku">kaku</a>, 
-                    <a class="links" href="/search/?inpt1=muikulu">muikulu</a>, 
-                    <a class="links" href="/search/?inpt1=mamu">mamu</a>,
-                    <a class="links" href="/search/?inpt1=manseba">manseba</a>, 
-                    <a class="links" href="/search/?inpt1=muadi">muadi</a>,
-                    <a class="links" href="/search/?inpt1=muana">muana</a>,
-                    <a class="links" href="/search/?inpt1=muana buta">muana buta</a>,
-                    <a class="links" href="/search/?inpt1=mukaji">mukaji</a>, 
-                    <a class="links" href="/search/?inpt1=mukulu">mukulu</a>, 
-                    <a class="links" href="/search/?inpt1=mukulumpa">mukulumpa</a>
-                    <a class="links" href="/search/?inpt1=muledi">muledi</a>,  
-                    <a class="links" href="/search/?inpt1=mulunda">mulunda</a>,  
-                    <a class="links" href="/search/?inpt1=nsongakaji">nsongakaji</a>,
-                    <a class="links" href="/search/?inpt1=nsongaluma">nsongaluma</a>, 
-                    <a class="links" href="/search/?inpt1=tatu">tatu</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiota</a>, 
-                    <a class="links" href="/search/?inpt1=tshiota">tshiviela</a>,
-                    <a class="links" href="/search/?inpt1=tutu">tutu</a>, 
-                    <a class="links" href="/search/?inpt1=yaya">yaya</a>
+                    :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>,
+                    <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>,  
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -12944,6 +14330,125 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Mulunda*/   
+{
+    English: "friend",
+    French: "ami(e)",
+    Tshiluba: "mulunda",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·lun·da<p>/Muu-loon-dah/</p>",
+    PhoneticsT: "friend / ami",
+    English2: "friends",
+    French2: "balunda",
+    Tshiluba2: "mulunda",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+ami <i class="PartOfSpch">n</i><br>
+amie <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+friend <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mulunda <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> balunda
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une personne avec laquelle on entretient une relation étroite et de confiance, caractérisée par une affection mutuelle, un soutien et une compréhension réciproques.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A person with which one has a close, trusting relationship characterized by mutual affection, support, and understanding.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------- </p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>,
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>,  
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*Mungalata*/  
     {
         English: "Democracy",
@@ -13244,50 +14749,50 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -13382,52 +14887,52 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
-                    <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lungenyi">lungenyi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/A/ANYIMA/">anyima</a>, 
+                    <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGENYI/">lungenyi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -13544,10 +15049,10 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
                     :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/search/?inpt1=muambikila">muambikila</a>, 
+                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>, 
                     <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="/search/?inpt1=mufidi">mufidi</a>,
-                    <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a>  
+                    <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>,
+                    <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a>  
     <br><br></td>
     </tr>
     <tr>
@@ -13822,8 +15327,8 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>    
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>    
     <br><br></td>
     </tr>
     <tr>
@@ -13963,50 +15468,50 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>, 
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>,
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>, 
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>,
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -14026,6 +15531,95 @@ Moyo wenu! :
     </tr>
     `
     },
+    /*Musoko*/  
+{
+    English: "village",
+    French: "village",
+    Tshiluba: "Musoko",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·so·ko<p>/Moo-soh-koh/</p>",
+    PhoneticsT: "village / village",
+    English2: "villages",
+    French2: "misoko",
+    Tshiluba2: "musoko",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+village <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top >
+village <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+musoko <i class="PartOfSpch">tshi2</i><p>
+<i class="PartOfSpch">pl</i> misoko
+</td>
+</tr>
+<tr style="text-align:left";>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une petite communauté ou un établissement, souvent dans une zone rurale, qui est plus petit qu'une ville
+                <br><br>
+                
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A small community or settlement, often in a rural area, that is smaller than a town or city.
+<br><br>
+               
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+<br><br></td>
+</tr>
+` 
+},
     /*Musungidi*/   
     {
         English: "liberator",
@@ -14219,7 +15813,7 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=--toke">--toke</a>, 
+                    :: <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
                     <a class="links" href="/search/?inpt1=Mputu">Mputu</a>
                     
     <br><br></td>
@@ -14314,11 +15908,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>,
-                    <a class="links" href="/search/?inpt1=ditutu">ditutu</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>,
-                    <a class="links" href="/search/?inpt1=tshibuashibuashi">tshibuashibuashi</a>
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>,
+                    <a class="links" href="/alphabetindex/D/DITUTU/">ditutu</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBUASHIBUASHI/">tshibuashibuashi</a>
     <br><br></td>
     </tr>
     <tr>
@@ -14423,50 +16017,50 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>,
-                    <a class="links" href="/search/?inpt1=munu">munu</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>,
+                    <a class="links" href="/alphabetindex/M/MUNU/">munu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -14560,12 +16154,12 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=dituku">dituku</a>,
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
-                    <a class="links" href="/search/?inpt1=tshidimu">tshidimu</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>   
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>,
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -14680,7 +16274,7 @@ Moyo wenu! :
         English: "End",
         French: "Fin",
         Tshiluba: "Ndekelu",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/search/?inpt1=adjectif">adjectif</a> | <a class="links" href="/search/?inpt1=adjective">adjective</a> | <a class="links" href="/search/?inpt1=mufidi">mufidi</a>',
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a> <br> <a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
         Phonetics: "Nde·ke·lu<p>/Ndeh-keh-loo/</p>",
         PhoneticsT: "Fin / End",
         English2: "Last",
@@ -14765,7 +16359,7 @@ Moyo wenu! :
     what is your last price?
                     :<br>
                     &nbsp:&nbsp
-    Mushinga webe wa ndekelu udi <a class="links" href="/search/?inpt1=what">tshinyi</a>?:
+    Mushinga webe wa ndekelu udi <a class="links" href="/alphabetindex/T/TSHINYI/">tshinyi</a>?:
     <br><br></td>
     </tr>
     `
@@ -14950,13 +16544,13 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=dituku">dituku</a>,
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>, 
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=tshidimu">tshidimu</a>,
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>,
-                    <a class="links" href="/search/?inpt1=mutotu">mutotu</a>   
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>,
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>,
+                    <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -15066,11 +16660,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=2">ibidi [2]</a>,
-                    <a class="links" href="/search/?inpt1=12">dikumi ne ibidi [12]</a>,
-                    <a class="links" href="/search/?inpt1=20">makumi abidi [20]</a>,  
-                    <a class="links" href="/search/?inpt1=2000">binunu bibidi [2000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE IBIDI/">dikumi ne ibidi [12]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ABIDI/">makumi abidi [20]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BIBIDI/">binunu bibidi [2000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15155,11 +16749,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=3">isatu [3]</a>,
                     <a class="links" href="/search/?inpt1=13">dikumi ne isatu [13]</a>,
                     <a class="links" href="/search/?inpt1=30">makumi asatu [30]</a>,  
-                    <a class="links" href="/search/?inpt1=3000">binunu bisatu[3000]</a>
+                    <a class="links" href="/alphabetindex/B/BINUNU BISATU/">binunu bisatu[3000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15244,11 +16838,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=4">inayi [4]</a>,
-                    <a class="links" href="/search/?inpt1=14">dikumi ne inayi [14]</a>,
-                    <a class="links" href="/search/?inpt1=40">makumi anayi [40]</a>,  
-                    <a class="links" href="/search/?inpt1=4000">binunu binayi[4000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE INAYI/">dikumi ne inayi [14]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ANAYI/">makumi anayi [40]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BINAYI/">binunu binayi[4000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15333,11 +16927,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=5">itanu [5]</a>,
-                    <a class="links" href="/search/?inpt1=15">dikumi ne itanu [15]</a>,
-                    <a class="links" href="/search/?inpt1=50">makumi itanu [50]</a>,  
-                    <a class="links" href="/search/?inpt1=5000">binunu bitanu [5000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ITANU/">dikumi ne itanu [15]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ATANU/">makumi itanu [50]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BITANU/">binunu bitanu [5000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15422,11 +17016,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=6">isambombo [6]</a>,
-                    <a class="links" href="/search/?inpt1=16">dikumi ne isambombo [16]</a>,
-                    <a class="links" href="/search/?inpt1=60">makumi asambombo [60]</a>,  
-                    <a class="links" href="/search/?inpt1=6000">binunu bisambombo [6000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE ISAMBOMBO/">dikumi ne isambombo [16]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI ASAMBOMBO/">makumi asambombo [60]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU BISAMBOMBO/">binunu bisambombo [6000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15511,11 +17105,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=7">muanda-mutekete [7]</a>,
-                    <a class="links" href="/search/?inpt1=17">dikumi ne muanda-mutekete [17]</a>,
-                    <a class="links" href="/search/?inpt1=70">makumi muanda-mutekete [70]</a>,  
-                    <a class="links" href="/search/?inpt1=7000">binunu muanda-mutekete [7000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUTEKETE/">dikumi ne muanda-mutekete [17]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI MUANDA-MUTEKETE/">makumi muanda-mutekete [70]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUTEKETE/">binunu muanda-mutekete [7000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15600,11 +17194,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=8">muanda-mukulu [8]</a>,
-                    <a class="links" href="/search/?inpt1=18">dikumi ne muanda-mukulu [18]</a>,
-                    <a class="links" href="/search/?inpt1=80">makumi muanda-mukulu [80]</a>,  
-                    <a class="links" href="/search/?inpt1=8000">binunu muanda-mukulu [8000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE MUANDA-MUKULU/">dikumi ne muanda-mukulu [18]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI MUANDA-MUKULU/">makumi muanda-mukulu [80]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU MUANDA-MUKULU/">binunu muanda-mukulu [8000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15689,11 +17283,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=9">tshitema [9]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi ne tshitema [19]</a>,
-                    <a class="links" href="/search/?inpt1=90">makumi tshitema [900]</a>,  
-                    <a class="links" href="/search/?inpt1=9000">binunu tshitema [9000]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema [900]</a>,  
+                    <a class="links" href="/alphabetindex/B/BINUNU TSHITEMA/">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -15796,12 +17390,267 @@ Moyo wenu! :
     </tr>
     <tr>` 
     },
+    /*Nsongakaji*/   
+{
+    English: "damsel",
+    French: "damoiselle",
+    Tshiluba: "nsongakaji",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Nson·ga·ka·ji<p>/nnsoh-ngah-kah-zhee/</p>",
+    PhoneticsT: "damsel | damoiselle",
+    English2: "young women",
+    French2: "jeunes filles",
+    Tshiluba2: "nsongakaji",
+    PhoneticsT2: " ",
+    English3: "young girls",
+    French3: "jeune femme",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "nsongwakaji",
+    French4: "nsongawakaji",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "nsongakaji",
+    French5: "bansongakaji",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bansongakaji",
+    French6: "bansongwakaji",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "bansongwakaji",
+    French7: "adolescente",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "jouvencelle",
+    French8: "young girl",
+    Tshiluba8: " ",
+    PhoneticsT8: "young woman",
+    English9: "jeune fille",
+    French9: "damsels",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: "damoiselles",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+damoiselle <i class="PartOfSpch">n</i><br>
+jeune fille <i class="PartOfSpch">n</i><br>
+jeune femme <i class="PartOfSpch">n</i><br>
+adolescente <i class="PartOfSpch">n</i><br>
+jouvencelle <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+damsel <i class="PartOfSpch">n</i><br>
+young girl <i class="PartOfSpch">n</i><br>
+young woman <i class="PartOfSpch">n</i><br>
+teenage girl <i class="PartOfSpch">n</i><br>
+adolescent <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+nsongakaji <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bansongakaji<br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une jeune femme, souvent représentée comme délicate ou vulnérable, particulièrement dans la littérature, le folklore et les récits traditionnels.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A young woman, often portrayed as delicate or vulnerable, particularly in literature, folklore, and old-fashioned storytelling.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
+/*Nsongalume*/   
+{
+    English: "stripling",
+    French: "jouvenceau",
+    Tshiluba: "nsongalume",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Nson·ga·lu·me<p>/nnsoh-ngah-loo-mah/</p>",
+    PhoneticsT: "stripling | jouvenceau",
+    English2: "young men",
+    French2: "jeunes hommes",
+    Tshiluba2: "nsongalume",
+    PhoneticsT2: " ",
+    English3: "ephebe",
+    French3: "éphèbe",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "nsongwalume",
+    French4: "nsongawaluma",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "nsongaluma",
+    French5: "bansongalume",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bansongaluma",
+    French6: "bansongwaluma",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: "bansongwalume",
+    French7: "garcon",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "garçon",
+    French8: "lad",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: "adolescent",
+    French9: "young man",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+jouvenceau <i class="PartOfSpch">n</i><br>
+jeune homme <i class="PartOfSpch">n</i><br>
+garçon <i class="PartOfSpch">n</i><br>
+adolescent <i class="PartOfSpch">n</i><br>
+éphèbe <i class="PartOfSpch">n</i><br>
+<br>
+</td>
+<td class="tabledef" valign=top>
+stripling <i class="PartOfSpch">n</i><br>
+young man <i class="PartOfSpch">n</i><br>
+lad <i class="PartOfSpch">n</i><br>
+teenage boy <i class="PartOfSpch">n</i><br>
+ephebe <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+nsongalume <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bansongalume<br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un homme qui est dans la période de la vie entre l'enfance et l'âge adulte.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A male who is in the stage of life between childhood and adulthood.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a>, 
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*-Nunka*/   
     {
         English: "to smell",
         French: "Sentir",
         Tshiluba: "Kununka",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe transitif</a> | <a class="links" href="/search/?inpt1=verb">transitive verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·nun·ka<p>/Koo-noon-kah/</p>",
         PhoneticsT: "Sentir | Smell",
         English2: "Nunka",
@@ -15895,7 +17744,7 @@ Moyo wenu! :
         English: "to run",
         French: "Courir",
         Tshiluba: "Kunyema",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·nyem·a<p>/Koon-yem-ah/</p>",
         PhoneticsT: "Courir | Run",
         English2: "nyema",
@@ -15965,11 +17814,11 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="/search/?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>
+                    :: <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
+                    <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>
     <br><br></td>
     </tr>
     <tr>
@@ -16072,52 +17921,52 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=anyima">anyima</a>, 
-                    <a class="links" href="/search/?inpt1=bikoyikoyi">bikoyikoyi</a>, 
-                    <a class="links" href="/search/?inpt1=dibele">dibele</a>, 
-                    <a class="links" href="/search/?inpt1=diboku">diboku</a>, 
-                    <a class="links" href="/search/?inpt1=difu">difu</a>,
-                    <a class="links" href="/search/?inpt1=dikasa">dikasa</a>, 
-                    <a class="links" href="/search/?inpt1=dikaya">dikaya</a>,
-                    <a class="links" href="/search/?inpt1=dikiki">dikiki</a>,
-                <a class="links" href="/search/?inpt1=dikoshi">dikoshi</a>,
-                    <a class="links" href="/search/?inpt1=dikoba">dikoba</a>,
-                    <a class="links" href="/search/?inpt1=dinu">dinu</a>, 
-                    <a class="links" href="/search/?inpt1=disu">disu</a>,
-                    <a class="links" href="/search/?inpt1=ditaku">ditaku</a>,
-                    <a class="links" href="/search/?inpt1=ditama">ditama</a>,
-                    <a class="links" href="/search/?inpt1=ditshi">ditshi</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>,
-                    <a class="links" href="/search/?inpt1=kampombu">kampombu</a>,
-                    <a class="links" href="/search/?inpt1=ludimi">ludimi</a>,
-                    <a class="links" href="/search/?inpt1=lukofi">lukofi</a>,
-                    <a class="links" href="/search/?inpt1=lungenyi">lungenyi</a>,
-                    <a class="links" href="/search/?inpt1=lusuki">lusuki</a>,
-                    <a class="links" href="/search/?inpt1=luzadi">luzadi</a>,
-                    <a class="links" href="/search/?inpt1=mashi">mashi</a>,
-                    <a class="links" href="/search/?inpt1=muana wa nkasa">muana wa nkasa</a>,
-                    <a class="links" href="/search/?inpt1=mubidi">mubidi</a>,
-                    <a class="links" href="/search/?inpt1=muedi">muedi</a>,
-                    <a class="links" href="/search/?inpt1=mufuba">mufuba</a>,
-                    <a class="links" href="/search/?inpt1=mukana">mukana</a>,
-                    <a class="links" href="/search/?inpt1=mukolu">mukolu</a>,
-                    <a class="links" href="/search/?inpt1=mumpempe">mumpempe</a>, 
-                    <a class="links" href="/search/?inpt1=muntu">muntu</a>,
-                    <a class="links" href="/search/?inpt1=munyinyi">munyinyi</a>,
-                    <a class="links" href="/search/?inpt1=muoyo">muoyo</a>, 
-                    <a class="links" href="/search/?inpt1=mushiku">mushiku</a>,
-                    <a class="links" href="/search/?inpt1=mutu">mutu</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>, <a class="links" href="/search/?inpt1=mutshima">mutshima</a>,
-                    <a class="links" href="/search/?inpt1=nshingu">nshingu</a>,
-                    <a class="links" href="/search/?inpt1=nyuma">nyuma</a>,
-                    <a class="links" href="/search/?inpt1=tshiadi">tshiadi</a>,
-                    <a class="links" href="/search/?inpt1=tshiala">tshiala</a>,
-                    <a class="links" href="/search/?inpt1=tshianza">tshianza</a>,
-                    <a class="links" href="/search/?inpt1=tshibalubalu">tshibalubalu</a>,
-                    <a class="links" href="/search/?inpt1=tshifu">tshifu</a>,
-                    <a class="links" href="/search/?inpt1=tshikankanya">tshikankanya</a>,
-                    <a class="links" href="/search/?inpt1=tshilafinyi">tshilafinyi</a>, 
-                    <a class="links" href="/search/?inpt1=tshinu">tshinu</a>,
-                    <a class="links" href="/search/?inpt1=tshisulusulu">tshisulusulu</a>,   
+                    :: <a class="links" href="/alphabetindex/A/ANYIMA/">anyima</a>, 
+                    <a class="links" href="/alphabetindex/B/BIKOYIKOYI/">bikoyikoyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGENYI/">lungenyi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
     </tr>
     <tr>
@@ -16153,7 +18002,7 @@ Moyo wenu! :
         English: "Where",
         French: "Où",
         Tshiluba: "Penyi",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=adverbe">adverbe</a> | <a class="links" href="/search/?inpt1=adverb">adverb</a> | <a class="links" href="/search/?inpt1=muambikila">muambikila</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
         Phonetics: "Pen·yi<p>/PEN-yee/</p>",
         PhoneticsT: "Où / Where",
         English2: " ",
@@ -16234,7 +18083,7 @@ Moyo wenu! :
         English: "to give",
         French: "Donner",
         Tshiluba: "Kupesha",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·pesh·a·ja<p>/koo-pesh-ah/</p>",
         PhoneticsT: "Donner / Give",
         English2: "pesha",
@@ -16301,7 +18150,7 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3" class="analogy">
     <table class="h-lines" id="h-lines"></table><br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingaja">kupingaja</a>, 
+                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
                     <a class="links" href="/search/?inpt1=kuangata">kuangata</a>,
     <br><br></td>
     </tr>
@@ -16334,7 +18183,7 @@ Moyo wenu! :
         English: "to return + [something]",
         French: "Rendre",
         Tshiluba: "Kupingaja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ping·a·ja<p>/koo-peen-gah-jhah/</p>",
         PhoneticsT: "Rendre / Return",
         English2: "pingaja",
@@ -16395,7 +18244,7 @@ Moyo wenu! :
     return [something] <i class="PartOfSpch">v</i>, <br>
     give [sth] back to <i class="PartOfSpch">v</i><br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/search/?inpt1=kupingana">return [somewehere]</a><i class="PartOfSpch">v</i>
+    <a class="links" href="/alphabetindex/P/-PINGANA/">return [somewehere]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kupingaja <i class="PartOfSpch">md</i><p>
@@ -16406,8 +18255,8 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kupesha">kupesha</a>, 
+                    :: <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/P/-PESHA/">kupesha</a>, 
                     <a class="links" href="/search/?inpt1=kuangata">kuangata</a>,
     <br><br></td>
     </tr>
@@ -16440,7 +18289,7 @@ Moyo wenu! :
         English: "to return + [somewhere]",
         French: "Revenir",
         Tshiluba: "Kupingana",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ping·a·na<p>/koo-peen-gah-nah/</p>",
         PhoneticsT: "Revenir / Return",
         English2: "pingana",
@@ -16501,7 +18350,7 @@ Moyo wenu! :
     return [somewhere] <i class="PartOfSpch">v</i><br>
     come/go back [somewhere] <br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/search/?inpt1=kupingaja">return [something]</a><i class="PartOfSpch">v</i>
+    <a class="links" href="/alphabetindex/P/-PINGAJA/">return [something]</a><i class="PartOfSpch">v</i>
     </td>
     <td class="tabledef" valign=top >
     kupingana <i class="PartOfSpch">md</i><p>
@@ -16512,13 +18361,13 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingaja">kupingaja</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>, 
-                    <a class="links" href="/search/?inpt1=kuya">kuya</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kuenda">kuenda</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>, 
+                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -16550,7 +18399,7 @@ Moyo wenu! :
         English: "to leave to",
         French: "Laisser à",
         Tshiluba: "Kushila",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·shi·la<p>/koo-shee-lah/</p>",
         PhoneticsT: "Donner / Give",
         English2: "shila",
@@ -16613,7 +18462,7 @@ Moyo wenu! :
     leave [something] for someone <i class="PartOfSpch">v</i><br>
     bequeath <i class="PartOfSpch">v</i><br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/search/?inpt1=kushiya">leave [positionally]</a>
+    <a class="links" href="/alphabetindex/S/-SHIYA/">leave [positionally]</a>
     </td>
     <td class="tabledef" valign=top >
     kushila <i class="PartOfSpch">md</i><p>
@@ -16624,9 +18473,9 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingaja">kupingaja</a>, 
+                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
                     <a class="links" href="/search/?inpt1=kuangata">kuangata</a>,
-                    <a class="links" href="/search/?inpt1=kupesha">kupesha</a>
+                    <a class="links" href="/alphabetindex/P/-PESHA/">kupesha</a>
     <br><br></td>
     </tr>
     <tr>
@@ -16658,7 +18507,7 @@ Moyo wenu! :
         English: "to differ",
         French: "différer",
         Tshiluba: "Kushilangana",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·shi·la·nga·na<p>/koo-shee-lahn-gah-nah/</p>",
         PhoneticsT: "différer / differ",
         English2: "shilangana",
@@ -16719,7 +18568,7 @@ Moyo wenu! :
     to differ <i class="PartOfSpch">v</i><br>
     to be different than [something] <i class="PartOfSpch">v</i>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/search/?inpt1=kushiya">leave [positionally]</a>
+    <a class="links" href="/alphabetindex/S/-SHIYA/">leave [positionally]</a>
     </td>
     <td class="tabledef" valign=top >
     kushilangana <i class="PartOfSpch">md</i><p>
@@ -16730,7 +18579,7 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kupingaja">kushila</a>
+                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kushila</a>
     <br><br></td>
     </tr>
     <td colspan="3" class="explanation">
@@ -16776,7 +18625,7 @@ Moyo wenu! :
         English: "to leave",
         French: "Quitter",
         Tshiluba: "Kushiya",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
         PhoneticsT: "Quitter | Leave",
         English2: "leave",
@@ -16835,7 +18684,7 @@ Moyo wenu! :
     <td class="tabledef" valign=top >
     leave [positionally] <i class="PartOfSpch">tr.v</i> <br>
     <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/search/?inpt1=kushila">leave to []</a>
+    <a class="links" href="/alphabetindex/S/-SHILA/">leave to []</a>
     </td>
     <td class="tabledef" valign=top >
     kushiya <i class="PartOfSpch">md</i>
@@ -16846,13 +18695,13 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>,
-                    <a class="links" href="/search/?inpt1=kuya">kuya</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>,
-                    <a class="links" href="/search/?inpt1=kushila">kushila</a>
+                    :: <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
+                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>,
+                    <a class="links" href="/alphabetindex/S/-SHILA/">kushila</a>
     <br><br></td>
     </tr>
     <tr>
@@ -16885,7 +18734,7 @@ Moyo wenu! :
         English: "to look",
         French: "Regarder",
         Tshiluba: "Kutangila",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ta·ngi·la<p>/Koo-tahn-gee-la/</p>",
         PhoneticsT: "Regarder | Look",
         English2: "tangila",
@@ -17057,13 +18906,13 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=dinganga">dinanga</a>, 
-                    <a class="links" href="/search/?inpt1=dindila">dindila</a>, 
-                    <a class="links" href="/search/?inpt1=ditabuja">ditabuja</a>,
-                    <a class="links" href="/search/?inpt1=ditekemena">ditekemena</a>,
-                    <a class="links" href="/search/?inpt1=kueyemena">kueyemena</a>,
-                    <a class="links" href="/search/?inpt1=kuindila">kuindila</a>,
-                    <a class="links" href="/search/?inpt1=kuitabuja">kuitabuja</a>   
+                    :: <a class="links" href="/alphabetindex/D/DINANGA/">dinanga</a>, 
+                    <a class="links" href="/alphabetindex/D/DINDILA/">dindila</a>, 
+                    <a class="links" href="/alphabetindex/D/DITABUJA/">ditabuja</a>,
+                    <a class="links" href="/alphabetindex/D/DITEKEMENA/">ditekemena</a>,
+                    <a class="links" href="/alphabetindex/E/-EYEMENA/">kueyemena</a>,
+                    <a class="links" href="/alphabetindex/I/-INDILA/">kuindila</a>,
+                    <a class="links" href="/alphabetindex/I/-ITABUJA/">kuitabuja</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -17120,7 +18969,7 @@ Moyo wenu! :
         English: "to listen",
         French: "écouter",
         Tshiluba: "Kuteleja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
         PhoneticsT: "écouter | listen",
         English2: "Listen to",
@@ -17214,7 +19063,7 @@ Moyo wenu! :
         English: "to try",
         French: "Essayer",
         Tshiluba: "Kuteta",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·te·ta<p>/koo-teh-tah/</p>",
         PhoneticsT: "Essayer | Try",
         English2: "Attempt",
@@ -17284,7 +19133,7 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuenza">kuenza</a> 
+                    :: <a class="links" href="/alphabetindex/E/-ENZA/">kuenza</a> 
     <br><br></td>
     </tr>
     <tr>
@@ -17629,11 +19478,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=mufidi">mufidi</a>, 
-                    <a class="links" href="/search/?inpt1=muambikila">muambikila</a>, 
+                    :: <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>, 
                     <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
                     <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>, 
-                    <a class="links" href="/search/?inpt1=kadianjidi">kadianjidi</a>:: 
+                    <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a>:: 
     <br><br></td>
     </tr>
     <tr>
@@ -17759,11 +19608,11 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>,
-                    <a class="links" href="/search/?inpt1=ditutu">ditutu</a>,
-                    <a class="links" href="/search/?inpt1=diulu">diulu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>,
-                    <a class="links" href="/search/?inpt1=mutotu">mutotu</a>
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>,
+                    <a class="links" href="/alphabetindex/D/DITUTU/">ditutu</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>,
+                    <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>
     <br><br></td>
     </tr>
     <tr>
@@ -17871,12 +19720,12 @@ Moyo wenu! :
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=dituku">dituku</a>, 
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>, 
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
-                    <a class="links" href="/search/?inpt1=tshikondu">tshikondu</a>   
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>, 
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -17990,11 +19839,11 @@ Moyo wenu! :
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=1">umwe [1]</a>, 
-                    <a class="links" href="/search/?inpt1=10">dikumi [10]</a>,
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,  
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKUMI/">dikumi [10]</a>,
+                    <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>` 
     },
@@ -18179,11 +20028,11 @@ Bilejilu bia bikemu badi: "aka!", "ayi!", "kakakaka!", "eyi!", "yekelekele!"
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=diba">diba</a>, 
-                    <a class="links" href="/search/?inpt1=dituku">dituku</a>, 
-                    <a class="links" href="/search/?inpt1=lumingu">lumingu</a>,
-                    <a class="links" href="/search/?inpt1=muvu">muvu</a>, 
-                    <a class="links" href="/search/?inpt1=ngondu">ngondu</a>, 
+                    :: <a class="links" href="/alphabetindex/D/DIBA/">diba</a>, 
+                    <a class="links" href="/alphabetindex/D/DITUKU/">dituku</a>, 
+                    <a class="links" href="/alphabetindex/L/LUMINGU/">lumingu</a>,
+                    <a class="links" href="/alphabetindex/M/MUVU/">muvu</a>, 
+                    <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
                     <a class="links" href="/search/?inpt1=tshidima">tshidima</a>   
     <br><br></td>
     </tr>
@@ -18307,86 +20156,6 @@ Bilejilu bia bikemu badi: "aka!", "ayi!", "kakakaka!", "eyi!", "yekelekele!"
                     :<br>
                     &nbsp:&nbsp
     kuenza tshilema :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*Tshimbadi*/   
-    {
-        English: "Bimbadi",
-        French: "Tshimbadi",
-        Tshiluba: "Tshimbadi",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Tshim·ba·di<p>/Cheem-bah-dee/</p>",
-        PhoneticsT: "Tshimbadi / Bimbadi",
-        English2: "Bimbadi",
-        French2: " ",
-        Tshiluba2: " ",
-        PhoneticsT2: " ",
-        English3: " ",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th colspan="3" ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    
-    </td>
-    <td class="tabledef" valign=top >
-    Tshimbadi <i class="PartOfSpch">tshi9</i><br><i class="PartOfSpch">pl.</i> 
-    Bimbadi 
-    </td>
-    <td class="tabledef" valign=top >
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>:
-    <i>appelation de gens d'origine angolaise qui etaient venus s'installer au 19ième 
-    siècle au Congo Belge
-                    :<br><br>
-                    &nbsp:
-    name of people of Angolan origin who came to settle in the Belgian Congo in the 19th century
-                    :<br><br>
-                    &nbsp:&nbsp
-    Dina diende wa bena Angola uvua muya ku Congo wa Belge wa ku bidimu lukama bia dikumi ne tshitema :
     <br><br></td>
     </tr>
     `
@@ -18597,9 +20366,9 @@ Bilejilu bia bikemu badi: "aka!", "ayi!", "kakakaka!", "eyi!", "yekelekele!"
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>, 
-                    <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,  
-                    <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>
+                    :: <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/mi">dikumi [10]</a>,  
+                    <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>
     <br><br></td>
     </tr>` 
     },
@@ -18909,13 +20678,13 @@ pl. bishikula
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                 <a class="links" href="/search/?inpt1=tshijengu">tshijengu [0]</a>,
-                <a class="links" href="/search/?inpt1=umwe">umwe [1]</a>,
-                <a class="links" href="/search/?inpt1=dikumi">dikumi [10]</a>,
-                <a class="links" href="/search/?inpt1=lukama">lukama [100]</a>,
-                <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
-                <a class="links" href="/search/?inpt1=10000">lubombu [10000]</a>
+                <a class="links" href="/alphabetindex/U/UMWE/">umwe [1]</a>,
+                <a class="links" href="/alphabetindex/D/DIKU/mi">dikumi [10]</a>,
+                <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>,
+                <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
+                <a class="links" href="/alphabetindex/L/LUBOMBU/">lubombu [10000]</a>
 <br><br></td>
 </tr>` 
 },
@@ -19097,12 +20866,12 @@ pl. bishikula
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
                     <a class="links" href="/search/?inpt1=9">tshitema [9]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi ne tshitema [19]</a>,
-                    <a class="links" href="/search/?inpt1=19">dikumi abidi ne tshitema [29]</a>,
-                    <a class="links" href="/search/?inpt1=90">makumi tshitema [90]</a>, 
-                    <a class="links" href="/search/?inpt1=900">nkama tshitema [900]</a>
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi ne tshitema [19]</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI NE TSHITEMA/">dikumi abidi ne tshitema [29]</a>,
+                    <a class="links" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema [90]</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema [900]</a>
     <br><br></td>
     </tr>` 
     },
@@ -19213,12 +20982,237 @@ pl. bishikula
     <tr>
     ` 
     },
+    /*Tuasakidila*/   
+    {
+        English: "thank you",
+        French: "merci",
+        Tshiluba: "Tuasakidila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tua·sa·ki·di·la<p>/twah-sah-kee-dee-lah/</p>",
+        PhoneticsT: "thank you / merci",
+        English2: "thanks",
+        French2: "remerciement",
+        Tshiluba2: "tuasakidila",
+        PhoneticsT2: " ",
+        English3: "thank-you",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    merci <i class="PartOfSpch">interj</i><br>
+    remerciement <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    thank you <i class="PartOfSpch">interj</i><br>
+    thanks <i class="PartOfSpch">interj</i><br>
+    thanks <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    tuasakidila <i class="PartOfSpch">tshik</i><p>
+    <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une expression de gratitude ou d'appréciation.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An expression of gratitude or appreciation. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="analogy"><br>:
+    <i>Merci a vous!
+                    :<br>
+                    &nbsp:
+    Thank you all! 
+                    :<br>
+                    &nbsp:&nbsp
+    Bana betu tuasakidila! :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Tutu*/   
+    {
+        English: "elder brother",
+        French: "frère aîné",
+        Tshiluba: "tutu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tu·tu<p>/TOO-too/</p>",
+        PhoneticsT: "elder brother | frère aîné",
+        English2: "older brother",
+        French2: "grand frère",
+        Tshiluba2: "tutu",
+        PhoneticsT2: " ",
+        English3: "batutu",
+        French3: "big brother",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "big bro",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    frère aîné <i class="PartOfSpch">n</i><br>
+    grand frère <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    elder brother <i class="PartOfSpch">n</i><br>
+    older brother <i class="PartOfSpch">n</i><br>
+    big brother <i class="PartOfSpch">n</i><br>
+    big bro <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tutu <i class="PartOfSpch">tshi</i><br>
+    <i class="PartOfSpch">pl</i> batutu
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un frère aîné.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An elder male sibling.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Umvua*/   
     {
         English: "to hear",
         French: "Entendre",
         Tshiluba: "Kuumvua",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
         PhoneticsT: "Entendre | Hear",
         English2: "hear",
@@ -19388,12 +21382,12 @@ pl. bishikula
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=numbers">Bungi</a>,
-                    <a class="links" href="/search/?inpt1=10">umwe [10]</a>,
+                    :: <a class="links" href="/alphabetindex/B/BUNGI/">Bungi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKUMI/">umwe [10]</a>,
                     <a class="links" href="/search/?inpt1=11">dikumi ne umwe [11]</a>,
                     <a class="links" href="/search/?inpt1=21">makumi abidi ne umwe [21]</a>,
-                    <a class="links" href="/search/?inpt1=100">lukama [100]</a>, 
-                    <a class="links" href="/search/?inpt1=tshinunu">tshinunu [1000]</a>
+                    <a class="links" href="/alphabetindex/L/LUKAMA/">lukama [100]</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>`  
     },
@@ -19402,7 +21396,7 @@ pl. bishikula
         English: "to go",
         French: "Aller",
         Tshiluba: "Kuya",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·en·da<p>/Kwen-dah/</p>",
         PhoneticsT: "Aller | Go",
         English2: "Go",
@@ -19470,12 +21464,12 @@ pl. bishikula
     <table class="h-lines" id="h-lines"></table>
     <br>
     <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=kuenda">kuenda</a>, 
-                    <a class="links" href="/search/?inpt1=kupingana">kupingana</a>, 
-                    <a class="links" href="/search/?inpt1=kulua">kulua</a>, 
-                    <a class="links" href="/search/?inpt1=kufika">kufika</a>,
-                    <a class="links" href="/search/?inpt1=kushiya">kushiya</a>,
-                    <a class="links" href="/search/?inpt1=kunyema">kunyema</a>
+                    :: <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>, 
+                    <a class="links" href="/alphabetindex/P/-PINGANA/">kupingana</a>, 
+                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
+                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
+                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
+                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
     <br><br></td>
     </tr>
     <tr>
@@ -19503,12 +21497,134 @@ pl. bishikula
     </tr>
     `
     },
+    /*Yayi*/   
+{
+    English: "elder sister",
+    French: "sœur aînée",
+    Tshiluba: "yayi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Yay·i<p>/yahy/</p>",
+    PhoneticsT: "elder sister | soeur aînée",
+    English2: "older sister",
+    French2: "grand soeur",
+    Tshiluba2: "yayi",
+    PhoneticsT2: " ",
+    English3: "soeur aînée",
+    French3: "big sister",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "big sis",
+    French4: "yaya",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "yayanyi",
+    French5: "yayende",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "bayayi",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+soeur aînée <i class="PartOfSpch">n</i><br>
+grand soeur <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+elder sister <i class="PartOfSpch">n</i><br>
+older sister <i class="PartOfSpch">n</i><br>
+big sister <i class="PartOfSpch">n</i><br>
+big sis <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+yayi <i class="PartOfSpch">tshi</i><br>
+<i class="PartOfSpch">pl</i> bayayi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un soeur aînée.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A female elder sibling.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+<br><br></td>
+</tr>
+`
+},
     /*-Zebuka*/  
     {
         English: "to limp",
         French: "Boiter",
         Tshiluba: "Kuzebuka",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=verb">verbe</a> | <a class="links" href="/search/?inpt1=verb">verb</a> | <a class="links" href="/search/?inpt1=verb">muanda</a>',
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
         Phonetics: "Ku·ze·bu·ka<p>/Koo-zeh-boo-kah/</p>",
         PhoneticsT: "Boiter / Limp",
         English2: "Limp",
