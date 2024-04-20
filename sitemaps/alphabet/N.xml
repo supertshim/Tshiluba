@@ -5,56 +5,88 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NANSHA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NANSHA/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NDEKELU/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NDEKELU/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NGANYI/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NGANYI/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NGONDU/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NGONDU/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NKAMA%20IBIDI/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NKAMA%20IBIDI/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NKAMA%20INAYI/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NKAMA%20INAYI/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NKAMA%20ISAMBOMBO/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NKAMA%20ISAMBOMBO/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NKAMA%20ISATU/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NKAMA%20ISATU/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NKONGAMIAKU/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NKONGAMIAKU/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/-NUNKA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NSHINGU/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/-NYEMA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NSONGAKAJI/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/N/NYUMA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/N/NSONGALUME/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/N/-NUNKA/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/N/-NYEMA/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/N/NYUMA/</loc>
+  <lastmod>2024-04-20T06:14:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
