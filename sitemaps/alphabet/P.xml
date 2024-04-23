@@ -5,24 +5,33 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://tshiluba.co/alphabetindex/P/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/P/</loc>
+  <lastmod>2024-04-23T13:34:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/P/PENYI/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/P/PENYI/</loc>
+  <lastmod>2024-04-23T13:34:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/P/-PESHA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/P/-PESHA/</loc>
+  <lastmod>2024-04-23T13:34:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/P/-PINGAJA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/P/-PINGAJA/</loc>
+  <lastmod>2024-04-23T13:34:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/P/-PINGANA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/P/-PINGANA/</loc>
+  <lastmod>2024-04-23T13:34:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+
+
 </urlset>
