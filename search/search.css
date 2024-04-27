@@ -19,7 +19,7 @@
 .search-bar{
     height: 100%;
     background: rgba(255, 255, 255, 1);
-    display: none;
+    display: flex;
     max-width: 600px;
     border-radius: 30px;
     padding: 0px 2px;
