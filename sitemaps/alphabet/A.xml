@@ -5,36 +5,68 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/--A/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/--A/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/-AKULA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-ABANYA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/-AMBA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-AKULA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/-AMBAKAJA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-ALAKANA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/-ANGATA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-AMBA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/ANYIMA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-AMBAKAJA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://tshiluba.co/alphabetindex/A/-ANYISHA/</loc>
-<lastmod>2024-02-12T19:26:34+00:00</lastmod>
+  <loc>https://tshiluba.co/alphabetindex/A/-AMBULA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/A/-AMBULUISHA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/A/-ANGATA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/A/ANYIMA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://tshiluba.co/alphabetindex/A/-ANYISHA/</loc>
+  <lastmod>2024-04-30T00:51:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
