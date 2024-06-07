@@ -22,8 +22,6 @@ class Header extends HTMLElement {
         <img src="/images/Tco_logo3.png" alt="">
         <i class="fa-solid fa-bars" onclick="showMenu()"></i>
     </nav>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
-     crossorigin="anonymous"></script>
         `
     }
 }
