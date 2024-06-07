@@ -18766,7 +18766,7 @@ An insect belonging to the order Odonata, suborder Anisoptera. Dragonflies are c
     French: "vautour",
     Tshiluba: "mukanku",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mba·ji<p>/Mbah-jee/</p>",
+    Phonetics: "Mu·kan·ku<p>/Moo-kah-nkoo/</p>",
     PhoneticsT: "vautour | vulture",
     English2: "vultures",
     French2: "gypaète",

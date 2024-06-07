@@ -14122,7 +14122,7 @@ An utterance or expression designed to elicit information, knowledge, or underst
     Tshiluba2: "-lumbuluisha",
     PhoneticsT2: " ",
     English3: " ",
-    French3: " ",
+    French3: "lumbuluisha",
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: " ",
@@ -21929,7 +21929,7 @@ The part of the body used for eating, speaking, and breathing. It's the opening 
     French: "vautour",
     Tshiluba: "mukanku",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mba·ji<p>/Mbah-jee/</p>",
+    Phonetics: "Mu·kan·ku<p>/Moo-kah-nkoo/</p>",
     PhoneticsT: "vautour | vulture",
     English2: "vultures",
     French2: "gypaète",
@@ -28335,7 +28335,7 @@ Yeye, wakanunkila mupuya wa bilamba bende. :
     PhoneticsT5: " ",
     English6: "un bête",
     French6: " ",
-    Tshiluba6: " ",
+    Tshiluba6: "animal",
     PhoneticsT6: " ",
     English7: " ",
     French7: "animaux",
@@ -36132,7 +36132,7 @@ Kuenda nebe mubidi webe udi muinama pa luseka umwe.
 
 var getitem = window.location.search;
 var homeindexword = getitem.slice(7,getitem.length);
-
+console.log(homeindexword);
 function maininpt(){
 
     let wordinput = document.querySelector("#inpt1");
