@@ -42,7 +42,7 @@ nav{
     text-align: right;
     align-items: center;
     z-index: 3;
-    border-bottom: 1px solid rgb(206, 206, 206);
+    border-bottom: 0px solid rgb(206, 206, 206);
     position: fixed;
     top: 0px;
     right: 0px;
@@ -375,7 +375,7 @@ nav .fa-solid{
 .mwd .mwdefinition {
     font-family: 'Jost', sans-serif;
     font-size: 30px;
-    font-weight: 700 !important;
+    font-weight: 700 ;
     margin-top: 20px;
     margin-bottom:20px;
     pointer-events: none;
