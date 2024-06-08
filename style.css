@@ -1301,10 +1301,10 @@ nav .fa-solid{
 .header .sidebar-container {
     background-color: rgb(255, 255, 255);
     z-index: 1;
-    width: 90vw;
+    width: 50vw;
     height: 100%;
     position: relative;
-    display: flex;
+    display: block;
     align-items: top;
     justify-content: center;
     margin-left: auto;
@@ -1324,7 +1324,7 @@ nav .fa-solid{
     
         .header .sidebar-container {
             width: 100%;
-            display: flex;
+            display: block;
             margin-left: auto;
             margin-right: auto;
         }
