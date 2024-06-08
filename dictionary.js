@@ -565,7 +565,7 @@ Ndi ngakula Tshiluba :
     French: "convoiter",
     Tshiluba: "Kualakana",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·a·la·ka·na<p>/kwah-lah-bah-nah/</p>",
+    Phonetics: "Ku·a·la·ka·na<p>/kwah-lah-kah-nah/</p>",
     PhoneticsT: "convoiter | covet",
     English2: "to covet",
     French2: "alakana",
