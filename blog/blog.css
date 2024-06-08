@@ -564,6 +564,7 @@ body{
         width: 100%;
         flex-direction: column;
         top:50px;
+        margin-bottom: 50px;
     }
 
     .blog-front-page .front-page-title{
