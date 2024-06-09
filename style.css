@@ -45,7 +45,6 @@ nav{
     border-bottom: 0px solid rgb(206, 206, 206);
     position: fixed;
     top: 0px;
-    right: 0px;
     width: 100%;
     background-color: white;
     overflow: visible;
@@ -460,6 +459,8 @@ nav .fa-solid{
         padding: 10px;
         border-bottom: 0px solid rgb(206, 206, 206);
         justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     nav img{
@@ -503,7 +504,7 @@ nav .fa-solid{
         align-items: right;
         width: 20px;
         position: absolute;
-        right: 0px;
+        right: 20px;
         top: 0px;
         padding: 40px;
     }
