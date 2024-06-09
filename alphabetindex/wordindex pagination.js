@@ -80,10 +80,12 @@ window.addEventListener('load', ()=>{
 
     prevButton.addEventListener('click', ()=>{
         setCurrentPage(currentPage - 1);
+        window.scrollTo(0,0);
     });
 
     nextButton.addEventListener("click", ()=>{
         setCurrentPage(currentPage + 1);
+        window.scrollTo(0,0);
     });
 
     document.querySelectorAll('a').forEach((button) =>{
