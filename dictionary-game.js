@@ -2845,11 +2845,11 @@ const nkongamiaku3 = [
     /*Budikadidi*/   
     {
         English: "independence",
-        French: "indépendence",
+        French: "indépendance",
         Tshiluba: "Budikadidi",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br>',
         Phonetics: "Bu·di·ka·ke·ke<p>/BOO-fee-kah/</p>",
-        PhoneticsT: "indépendence | independence",
+        PhoneticsT: "indépendance | independence",
         English2: "liberty",
         French2: "liberté",
         Tshiluba2: "budikadidi",
@@ -2858,7 +2858,7 @@ const nkongamiaku3 = [
         French3: "autonomy",
         Tshiluba3: " ",
         PhoneticsT3: " ",
-        English4: " ",
+        English4: "independance",
         French4: " ",
         Tshiluba4: " ",
         PhoneticsT4: " ",
@@ -9247,6 +9247,100 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*-Imana*/   
+    {
+        English: "to stand",
+        French: "se tenir debout",
+        Tshiluba: "Kuimana",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·i·ma·na<p>/kweem-mah-nah/</p>",
+        PhoneticsT: "se tenir debout | to stand",
+        English2: "stand",
+        French2: "être debout",
+        Tshiluba2: "-imana",
+        PhoneticsT2: " ",
+        English3: "to stand up",
+        French3: "se mettre debout",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "imana",
+        French4: "imane",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se tenir debout <i class="PartOfSpch">v</i><br>
+    se mettre debout <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to stand <i class="PartOfSpch">v</i><br>
+    to stand up <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuimana <i class="PartOfSpch">md</i><br>
+    -imana <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/I/-INDILA/">kuindila</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Physiquement supporter son propre poids sur ses pieds en position debout.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To physically support one's own weight on one's feet in an upright position.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Imba*/   
     {
         English: "to sing",
@@ -9425,6 +9519,99 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/B/BINUNU BINAYI/">binunu binayi [4000]</a>
     <br><br></td>
     </tr>` 
+    },
+    /*-Indila*/   
+    {
+        English: "to wait",
+        French: "attendre",
+        Tshiluba: "Kuindila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·in·di·la<p>/kween-djee-lah/</p>",
+        PhoneticsT: "attendre | to wait",
+        English2: "wait",
+        French2: "attends",
+        Tshiluba2: "-indila",
+        PhoneticsT2: " ",
+        English3: "waiting",
+        French3: "indila",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: "indile",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    attendre <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to wait <i class="PartOfSpch">v</i><br>
+    wait <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuindila <i class="PartOfSpch">md</i><br>
+    -indila <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/I/-IMANA/">kuimana</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Rester à un endroit ou retarder une action jusqu'à ce qu'un moment ou un événement particulier survienne.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To stay in one place or to delay action until a particular time or event occurs.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
     },
     /*Isambombo*/  
     {
