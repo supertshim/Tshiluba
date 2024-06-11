@@ -846,6 +846,13 @@ body{
         font-size: 12px;
     }
 
+    #HCB_comment_box .hcb-comment-body {
+        font-family: 'montserrat', sans-serif !important;
+        font-size: 14px !important;
+        margin: 8px 0 0 0;
+        padding: 0;
+    }
+
     .sidebar .pageLinks ul li {
         font-family: 'Montserrat';
         padding: 20px;
