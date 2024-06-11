@@ -1,5 +1,5 @@
 .header {
-    top:90px;
+    top:50px;
 }
 
 .text-box {
@@ -659,6 +659,10 @@ a.links:visited {
 
     .mwd {
         margin: 10px auto !important;
+    }
+
+    .header {
+        top:90px;
     }
 
 .header .cardcage{
