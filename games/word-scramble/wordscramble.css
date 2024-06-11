@@ -21,6 +21,7 @@
     padding: 0px;
 }
 
+
 .gamearea h1{
     font-family: 'Jost', sans-serif;
     font-size: 80px;
@@ -45,6 +46,10 @@
     overflow: hidden;
     zoom: 1;
     top: 10px;
+}
+
+.ws_gamebox .google-auto-placed {
+    display:none !important;
 }
 
 .ws_gamebox .word_box{
