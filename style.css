@@ -408,13 +408,13 @@ nav .fa-solid{
         color: #fff;
         position: relative;
         padding: 0px 0px;
-        top: 40px;
+        top: 0px;
         font-family: 'Jost', sans-serif;
         overflow: visible;
         display: none;
         text-align: center;
         display: block;
-        margin-bottom: 20px;
+        margin-bottom: -20px;
     }
 
     .header .text-box h1{
