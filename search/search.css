@@ -856,6 +856,10 @@ a.links:visited {
     font-size: 30px;
 }
 
+.share-box p{
+   font-size: 20px;
+}
+
 }
 
 @media(min-width: 700px){
