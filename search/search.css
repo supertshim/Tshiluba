@@ -786,6 +786,10 @@ a.links:visited {
     border-top: 2px solid rgb(56, 56, 56);
     margin-left: auto;
     margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 .header .card .tablewrapper .Xinfo .tabledef{
     font-family:'Tinos', sans-serif;
