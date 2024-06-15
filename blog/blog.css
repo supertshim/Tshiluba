@@ -631,4 +631,9 @@ body{
         width: 100%;
     }
 
+    #blog{
+        padding: 0px;
+        padding-top:20px;
+    }
+
 }
