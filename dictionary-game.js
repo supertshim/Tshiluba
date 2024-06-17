@@ -6367,6 +6367,299 @@ const nkongamiaku3 = [
     </tr>
     ` 
     },
+    /*Dingulungu*/   
+    {
+        English: "paper wasp",
+        French: "guêpe poliste",
+        Tshiluba: "dingulungu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Din·gu·lun·gu<p>/Djeen-goo-loon-goo/</p>",
+        PhoneticsT: "poliste | paper wasp",
+        English2: "paper wasps",
+        French2: "polistes",
+        Tshiluba2: "dingulungu",
+        PhoneticsT2: " ",
+        English3: "a paper wasp",
+        French3: "mangulungu",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "guepe poliste",
+        French4: "dingulungue",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "mangulungue",
+        French5: "guepes polistes",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "poliste",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    poliste <i class="PartOfSpch">n</i><br>
+    guêpe poliste <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    paper wasp <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    dingulungu <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mangulungu <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINTETEMBUE/">dintetembue</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBULUBULU/">tshibulubulu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une guêpe poliste est un type de guêpe appartenant au genre Polistes de la famille des Vespidés, connue pour construire des nids ouverts en forme de parapluie faits de matériau ressemblant à du papier, qu'elles créent en mâchant des fibres de bois mélangées à leur salive; ces guêpes sont des insectes sociaux qui vivent en petites colonies et sont généralement moins agressives que les autres espèces de guêpes.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A paper wasp is a type of wasp belonging to the genus Polistes within the family Vespidae, known for constructing open, umbrella-shaped nests made of paper-like material, which they create by chewing wood fibers mixed with saliva; these wasps are social insects that live in small colonies and are generally less aggressive compared to other wasp species.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Dintetembue*/   
+    {
+        English: "wasp",
+        French: "guêpe",
+        Tshiluba: "dintetembue",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Din·te·tem·bue<p>/Djeen-teh-tem-bwah/</p>",
+        PhoneticsT: "guêpe | wasp",
+        English2: "wasps",
+        French2: "guêpes",
+        Tshiluba2: "dintetembue",
+        PhoneticsT2: " ",
+        English3: "a wasp",
+        French3: "une guêpe",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "ditetembue",
+        French4: "ditetembwe",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "ditetembu",
+        French5: "ditetembua",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "mantetembue",
+        French6: "dintetembwe",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "mantetembwa",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    guêpe <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    wasp <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    dintetembue <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> mantetembue <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINGULUNGU/">dingulungu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBULUBULU/">tshibulubulu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une guêpe est un type d'insecte ailé appartenant à l'ordre des Hyménoptères et au sous-ordre des Apocrites, caractérisé par un corps mince et segmenté, une taille étroite, de longues pattes et souvent une coloration vive noire et jaune; certaines espèces sont solitaires, tandis que d'autres sont sociales et construisent des nids, et beaucoup sont connues pour leur capacité à piquer.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A wasp is a type of winged insect belonging to the order Hymenoptera and the suborder Apocrita, characterized by a slender, segmented body, narrow waist, long legs, and often vibrant black and yellow coloration; some species are solitary, while others are social and build nests, and many are known for their ability to sting.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Dinu*/   
     {
         English: "tooth",
@@ -10708,536 +11001,6 @@ const nkongamiaku3 = [
     </tr>
     `
     },
-    /*Kadianjidi*/   
-    {
-        English: "Preposition",
-        French: "Préposition",
-        Tshiluba: "Kadianjidi",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Ka·di·an·ji·di<p>/kah-dyahn-jee-dee/</p>",
-        PhoneticsT: "Préposition / Preposition",
-        English2: " ",
-        French2: " ",
-        Tshiluba2: " ",
-        PhoneticsT2: " ",
-        English3: " ",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    préposition <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    preposition <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    kadianjidi <i class="PartOfSpch">tshi8</i><p>
-    <i class="PartOfSpch">pl.</i> tudianjidi 
-    </td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
-                    <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
-                    <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
-                    <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
-                    <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>   
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-<p class="explanation-fr">
-    En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
-                    <br><br>
-    <b><i>Explanation</i></b><br>
-<p class="explanation-en">
-    In grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word
-                    <br><br>
-    <b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-    -----
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy">
-    <i>
-    Nous avons sauté <i><b>DANS</b></i> le lac
-                    <br><br>
-                    &nbsp
-    We jumped <i><b>IN</b></i> the lake
-                    <br><br>
-                    &nbsp&nbsp
-    Tuvua tudiela <i><b>MU</b></i> dijiba
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    <i><b>Les Prépositions | Prepositions | Tudianjidi </b>
-    <br><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>1.</b>
-    avec
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    with
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    
-    ne
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>2.</b>
-    par
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    by
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    kudi
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>3.</b>
-    vers
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    towards
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    ku
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>4.</b>
-    sous
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    underneath
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    muinshi
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>5.</b>
-    entre
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    between
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    mu nkatshi
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>6.</b>
-    pour
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    for
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <a class="links" href="/search/?inpt1=bua">bua</a>
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>7.</b>
-    en + [participe present]
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    while + [present participle]
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    pa
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>8.</b>
-    dans
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    in
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    mu
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>9.</b>
-    au-dessus
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    above
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    pamutu
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>10.</b>
-    derrière
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    behind
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    panyima
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>11.</b>
-    devant
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    in front of (before)
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    kumpala
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>12.</b>
-    à côté de
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    beside
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    ku luseke
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>13.</b>
-    près de
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    near to<br>
-    close to
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    pabuipi
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>14.</b>
-    à; au; a l'
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    at; to
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    ku
-                    
-    <br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    <b>15.</b>
-    sur
-     
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    on
-    
-    <br></td>
-    <td class="tabledef"; style="width: 100px; text-align:left;">
-    pa
-                    
-    <br></td>
-    </tr>
-    `
-    
-    },
-    /*Kadionkono*/   
-    {
-        English: "rhinoceros",
-        French: "rhinocéros",
-        Tshiluba: "kadionkono",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Ka·di·on·ko·no<p>/Kah-dyon-koh-noh/</p>",
-        PhoneticsT: "rhinocéros | rhinoceros",
-        English2: "rhino",
-        French2: "rhinoceroses",
-        Tshiluba2: "kadionkono",
-        PhoneticsT2: " ",
-        English3: "rhinos",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    rhinocéros <i class="PartOfSpch">n</i><br>
-    rhino <i class="PartOfSpch">n</i><br><br>
-    </td>
-    <td class="tabledef" valign=top>
-    rhinoceros <i class="PartOfSpch">n</i><br>
-    rhino <i class="PartOfSpch">n</i><br><br>
-
-    </td>
-    <td class="tabledef" valign=top>
-    kadionkono <i class="PartOfSpch">tshi7</i><br>
-    <i class="PartOfSpch">pl</i> tudionkono <br><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    Un rhinocéros est un grand mammifère herbivore reconnu pour sa peau épaisse et une ou deux cornes sur son museau.
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-    A rhinoceros is a large, herbivorous mammal recognized for its thick skin and one or two horns on its snout. 
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    --------</p>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
-                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
-                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
-                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
-                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
-                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
-                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
-                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
-                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
-                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
-                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
-                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
-                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
-                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
-                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
-                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
-                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
-                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
-                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
-                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
-                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
-                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
-                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
-                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
-                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
-    <br><br></td>
-    </tr>
-    `
-    },
     /*Kabidi*/   
     {
         English: "Again",
@@ -11472,6 +11235,813 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Kabwa*/   
+    {
+        English: "puppy",
+        French: "chiot",
+        Tshiluba: "kabwa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·bwa<p>/Kah-bwah/</p>",
+        PhoneticsT: "chiot | puppy",
+        English2: "baby dog",
+        French2: "jeune chien",
+        Tshiluba2: "kabwa",
+        PhoneticsT2: " ",
+        English3: "tubwa",
+        French3: "kabua",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "kambua",
+        French4: "kambwa",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "pup",
+        French5: "little dog",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "small dog",
+        French6: "petit chien",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "petite chienne",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chiot <i class="PartOfSpch">n</i><br>
+    petit chien <i class="PartOfSpch">n</i><br>
+    jeune chien <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    puppy <i class="PartOfSpch">n</i><br>
+    small dog <i class="PartOfSpch">n</i><br>
+    little dog <i class="PartOfSpch">n</i><br>
+    baby dog <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kabwa <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tubwa<br><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MBWA/">mbwa</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+        /*Kadianjidi*/   
+        {
+            English: "Preposition",
+            French: "Préposition",
+            Tshiluba: "Kadianjidi",
+            PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
+            Phonetics: "Ka·di·an·ji·di<p>/kah-dyahn-jee-dee/</p>",
+            PhoneticsT: "Préposition / Preposition",
+            English2: " ",
+            French2: " ",
+            Tshiluba2: " ",
+            PhoneticsT2: " ",
+            English3: " ",
+            French3: " ",
+            Tshiluba3: " ",
+            PhoneticsT3: " ",
+            English4: " ",
+            French4: " ",
+            Tshiluba4: " ",
+            PhoneticsT4: " ",
+            English5: " ",
+            French5: " ",
+            Tshiluba5: " ",
+            PhoneticsT5: " ",
+            English6: " ",
+            French6: " ",
+            Tshiluba6: " ",
+            PhoneticsT6: " ",
+            English7: " ",
+            French7: " ",
+            Tshiluba7: " ",
+            PhoneticsT7: " ",
+            English8: " ",
+            French8: " ",
+            Tshiluba8: " ",
+            PhoneticsT8: " ",
+            English9: " ",
+            French9: " ",
+            Tshiluba9: " ",
+            PhoneticsT9: " ",
+            English10: " ",
+            French10: " ",
+            Tshiluba10: " ",
+            PhoneticsT10: " ",
+            English11: " ",
+            French11: " ",
+            Tshiluba11: " ",
+            PhoneticsT11: " ",
+            InfoTable: `
+        <tr>
+                <th><u>Francais</th>
+                <th><u>English</th>
+                <th ><u>Tshiluba</th>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef" valign=top >
+        préposition <i class="PartOfSpch">n</i>
+        </td>
+        <td class="tabledef" valign=top >
+        preposition <i class="PartOfSpch">n</i>
+        </td>
+        <td class="tabledef" valign=top >
+        kadianjidi <i class="PartOfSpch">tshi8</i><p>
+        <i class="PartOfSpch">pl.</i> tudianjidi 
+        </td>
+        </tr>
+        <tr>
+        <td class="tabledef_a" colspan="3">
+        <table class="h-lines" id="h-lines"></table>
+        <br>
+        <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                        :: <a class="links" href="/search/?inpt1=tshibikidilu">tshibikidilu</a>, 
+                        <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>, 
+                        <a class="links" href="/search/?inpt1=muanda">muanda</a>, 
+                        <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>,
+                        <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>   
+        <br><br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+        En grammaire, un mot utilisé avant un nom, une phrase nominale ou un pronom, le reliant à un autre mot
+                        <br><br>
+        <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+        In grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word
+                        <br><br>
+        <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+        -----
+        <br><br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="analogy">
+        <i>
+        Nous avons sauté <i><b>DANS</b></i> le lac
+                        <br><br>
+                        &nbsp
+        We jumped <i><b>IN</b></i> the lake
+                        <br><br>
+                        &nbsp&nbsp
+        Tuvua tudiela <i><b>MU</b></i> dijiba
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="analogy"><br>
+        <i><b>Les Prépositions | Prepositions | Tudianjidi </b>
+        <br><br>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>1.</b>
+        avec
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        with
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        
+        ne
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>2.</b>
+        par
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        by
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        kudi
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>3.</b>
+        vers
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        towards
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        ku
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>4.</b>
+        sous
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        underneath
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        muinshi
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>5.</b>
+        entre
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        between
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        mu nkatshi
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>6.</b>
+        pour
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        for
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <a class="links" href="/search/?inpt1=bua">bua</a>
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>7.</b>
+        en + [participe present]
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        while + [present participle]
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        pa
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>8.</b>
+        dans
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        in
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        mu
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>9.</b>
+        au-dessus
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        above
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        pamutu
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>10.</b>
+        derrière
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        behind
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        panyima
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>11.</b>
+        devant
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        in front of (before)
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        kumpala
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>12.</b>
+        à côté de
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        beside
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        ku luseke
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>13.</b>
+        près de
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        near to<br>
+        close to
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        pabuipi
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>14.</b>
+        à; au; a l'
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        at; to
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        ku
+                        
+        <br></td>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        <b>15.</b>
+        sur
+         
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        on
+        
+        <br></td>
+        <td class="tabledef"; style="width: 100px; text-align:left;">
+        pa
+                        
+        <br></td>
+        </tr>
+        `
+        
+        },
+        /*Kadionkono*/   
+        {
+            English: "rhinoceros",
+            French: "rhinocéros",
+            Tshiluba: "kadionkono",
+            PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+            Phonetics: "Ka·di·on·ko·no<p>/Kah-dyon-koh-noh/</p>",
+            PhoneticsT: "rhinocéros | rhinoceros",
+            English2: "rhino",
+            French2: "rhinoceroses",
+            Tshiluba2: "kadionkono",
+            PhoneticsT2: " ",
+            English3: "rhinos",
+            French3: " ",
+            Tshiluba3: " ",
+            PhoneticsT3: " ",
+            English4: " ",
+            French4: " ",
+            Tshiluba4: " ",
+            PhoneticsT4: " ",
+            English5: " ",
+            French5: " ",
+            Tshiluba5: " ",
+            PhoneticsT5: " ",
+            English6: " ",
+            French6: " ",
+            Tshiluba6: " ",
+            PhoneticsT6: " ",
+            English7: " ",
+            French7: " ",
+            Tshiluba7: " ",
+            PhoneticsT7: " ",
+            English8: " ",
+            French8: " ",
+            Tshiluba8: " ",
+            PhoneticsT8: " ",
+            English9: " ",
+            French9: " ",
+            Tshiluba9: " ",
+            PhoneticsT9: " ",
+            English10: " ",
+            French10: " ",
+            Tshiluba10: " ",
+            PhoneticsT10: " ",
+            English11: " ",
+            French11: " ",
+            Tshiluba11: " ",
+            PhoneticsT11: " ",
+            InfoTable: `
+        <tr>
+                <th><u>Francais</th>
+                <th><u>English</th>
+                <th ><u>Tshiluba</th>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef" valign=top >
+        rhinocéros <i class="PartOfSpch">n</i><br>
+        rhino <i class="PartOfSpch">n</i><br><br>
+        </td>
+        <td class="tabledef" valign=top>
+        rhinoceros <i class="PartOfSpch">n</i><br>
+        rhino <i class="PartOfSpch">n</i><br><br>
+    
+        </td>
+        <td class="tabledef" valign=top>
+        kadionkono <i class="PartOfSpch">tshi7</i><br>
+        <i class="PartOfSpch">pl</i> tudionkono <br><br>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Un rhinocéros est un grand mammifère herbivore reconnu pour sa peau épaisse et une ou deux cornes sur son museau.
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        A rhinoceros is a large, herbivorous mammal recognized for its thick skin and one or two horns on its snout. 
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        --------</p>
+        <br><br></td>
+        </tr>
+        <tr>
+        <td class="tabledef_a" colspan="3">
+        <table class="h-lines" id="h-lines"></table>
+        <br>
+        <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                        :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                        <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                        <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                        <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                        <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                        <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                        <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                        <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                        <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                        <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                        <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                        <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                        <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                        <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                        <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                        <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                        <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                        <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                        <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                        <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                        <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                        <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                        <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                        <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                        <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                        <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                        <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                        <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                        <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                        <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                        <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                        <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                        <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                        <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                        <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                        <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+        <br><br></td>
+        </tr>
+        `
+        },
+    /*Kajiji*/   
+    {
+        English: "gnat",
+        French: "moucheron",
+        Tshiluba: "kajiji",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·ji·ji<p>/kah-zhee-zhee/</p>",
+        PhoneticsT: "moucheron | gnat",
+        English2: "gnats",
+        French2: "moucherons",
+        Tshiluba2: "kajiji",
+        PhoneticsT2: " ",
+        English3: "tujiji",
+        French3: "small fly",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: "des moucherons",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    moucheron <i class="PartOfSpch">n</i><br>
+    petit mouche <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    gnat <i class="PartOfSpch">n</i><br>
+    small fly <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kajiji <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tujiji <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUJIJI/">lujiji</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une mouche domestique est une petite mouche commune gris-noir (Musca domestica) connue pour sa présence répandue dans les habitats humains, se nourrissant de matière organique en décomposition et étant un vecteur potentiel de maladies.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A housefly is a common, small, gray-black fly (Musca domestica) known for its widespread presence in human habitats, feeding on decaying organic matter and being a potential vector for disease.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Kaku*/   
     {
         English: "grandparent",
@@ -11590,6 +12160,293 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Kalulu*/   
+    {
+        English: "rabbit",
+        French: "lapin",
+        Tshiluba: "kalulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·lu·lu<p>/Kah-loo-loo/</p>",
+        PhoneticsT: "lapin | bunny rabbit",
+        English2: "bunny",
+        French2: "lapinou",
+        Tshiluba2: "kalulu",
+        PhoneticsT2: " ",
+        English3: "tululu",
+        French3: "bunnies",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "bunny rabbits",
+        French4: "bunny rabbit",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "bunyaro rabbit",
+        French5: "central african rabbit",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "Poelagus marjorita",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lapin <i class="PartOfSpch">n</i><br>
+    lapinou (enfantin) <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    rabbit <i class="PartOfSpch">n</i><br>
+    bunny rabbit <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kalulu <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tululu<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un lapin est un petit mammifère herbivore avec de longues oreilles, une courte queue duveteuse et de fortes pattes arrière, communément trouvé dans une variété d'habitats et connu pour son comportement de creusement et sa reproduction rapide. Le lapin du Bunyoro ou lapin d'Afrique centrale (Poelagus marjorita) est une espèce de mammifère de la famille des Léporidés. Il est monotypique au sein du genre Poelagus. On le trouve en Afrique centrale et son habitat typique est la savane humide, souvent avec des affleurements rocheux.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A rabbit is a small, herbivorous mammal with long ears, a short fluffy tail, and strong hind legs, commonly found in a variety of habitats and known for its burrowing behavior and rapid reproduction. The Bunyoro rabbit or Central African rabbit (Poelagus marjorita) is a species of mammal in the family Leporidae. It is monotypic within the genus Poelagus. It is found in central Africa and its typical habitat is damp savannah, often with rocky outcrops.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kampanda*/   
+    {
+        English: "some",
+        French: "quelque",
+        Tshiluba: "kampanda",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "Kam·pan·da<p>/Kahm-pahn-dah/</p>",
+        PhoneticsT: "quelque | some",
+        English2: "quelques",
+        French2: "un certain",
+        Tshiluba2: "kampanda",
+        PhoneticsT2: " ",
+        English3: "unspecified",
+        French3: "des",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "certains",
+        French4: "tshikampanda",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quelque <i class="PartOfSpch">pron</i><br>
+    quelques <i class="PartOfSpch">pron</i><br>
+    un certain <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    some <i class="PartOfSpch">pron</i><br>
+    a certain <i class="PartOfSpch">pron</i><br>
+    an unspecified <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kampanda <i class="PartOfSpch">mup</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quelqu'un <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    someone <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muntu kampanda <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quelque part <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    somewhere <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muaba kampanda <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quelque chose <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    something <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshintu kampanda <br><br>
+    tshikampanda <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kampanda" fonctionne comme un pronom indéfini, indiquant une personne, un lieu ou une chose non spécifiés ou inconnus. Il suggère que la personne, le lieu ou la chose non spécifiés ne sont pas importants, en mettant l'accent sur l'idée générale de toute personne, tout lieu ou toute chose, plutôt que sur une chose spécifique.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kampanda" functions as an indefinite pronoun, indicating an unspecified or unknown individual, place, or thing. It suggests that the unspecified person, place, or thing is not important, emphasizing the general idea of any single person, place, or thing, rather than a specific thing.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Kampuku*/   
     {
         English: "mouse",
@@ -11673,6 +12530,153 @@ const nkongamiaku3 = [
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     A mouse is a small, adaptable rodent known for its long tail, sharp incisors, and ability to thrive in various environments. They have significant interactions with humans, both beneficial and detrimental. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kampusu*/   
+    {
+        English: "kitten",
+        French: "chaton",
+        Tshiluba: "kampusu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·mpu·su<p>/Kah-mpoo-soo/</p>",
+        PhoneticsT: "chaton | kitten",
+        English2: "kittens",
+        French2: "chatons",
+        Tshiluba2: "kampusu",
+        PhoneticsT2: " ",
+        English3: "baby cat",
+        French3: "the kitten",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "le chaton",
+        French4: "small cat",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "little cat",
+        French5: "petit chat",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "young cat",
+        French6: "jeune chat",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "young cats",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chaton <i class="PartOfSpch">n</i><br>
+    petit chat <i class="PartOfSpch">n</i><br>
+    jeune chat <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kitten <i class="PartOfSpch">n</i><br>
+    little cat <i class="PartOfSpch">n</i><br>
+    baby cat <i class="PartOfSpch">n</i><br>
+    small cat <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kampusu <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> tumpusu<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MPUSU/">mpusu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
@@ -12936,6 +13940,113 @@ const nkongamiaku3 = [
     <tr>
     ` 
     },
+    /*Losa*/   
+    {
+        English: "rice",
+        French: "riz",
+        Tshiluba: "losa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lo·sa<p>/Loh-sah/</p>",
+        PhoneticsT: "riz | rice",
+        English2: "some rice",
+        French2: "du riz",
+        Tshiluba2: "losa",
+        PhoneticsT2: " ",
+        English3: "white rice",
+        French3: "brown rice",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    riz <i class="PartOfSpch">n</i><br>
+    du riz <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    rice <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    losa <i class="PartOfSpch">tshi</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le riz est une céréale qui constitue un aliment de base pour une grande partie de la population mondiale, en particulier en Asie. C'est la graine des espèces de graminées Oryza sativa (riz asiatique) ou Oryza glaberrima (riz africain). Le riz est généralement cultivé dans des champs inondés appelés rizières, et il est cultivé dans divers environnements, allant des champs irrigués aux terres pluviales. Il est connu pour sa polyvalence dans les usages culinaires, fournissant une source importante de glucides et d'énergie dans de nombreux régimes alimentaires.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Rice is a cereal grain that is a staple food for a large part of the world's human population, especially in Asia. It is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). Rice is typically grown in flooded fields called paddies, and it is cultivated in a variety of environments, from irrigated fields to rainfed uplands. It is known for its versatility in culinary uses, providing a significant source of carbohydrates and energy in many diets.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Lua*/   
     {
         English: "to come",
@@ -13131,6 +14242,155 @@ const nkongamiaku3 = [
     <br><br></td>
     </tr>` 
     },
+    /*Lubulubulu*/   
+    {
+        English: "bee",
+        French: "abeille",
+        Tshiluba: "lubulubulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lu·bu·lu·bu·lu<p>/Loo-boo-loo-boo-loo/</p>",
+        PhoneticsT: "abeille | bee",
+        English2: "honeybee",
+        French2: "honey bee",
+        Tshiluba2: "lubulubulu",
+        PhoneticsT2: " ",
+        English3: "mbulubulu",
+        French3: "abeilles",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    abeille <i class="PartOfSpch">n</i><br>
+    abeilles <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bee <i class="PartOfSpch">n</i><br>
+    honeybee <i class="PartOfSpch">n</i><br>
+
+
+    </td>
+    <td class="tabledef" valign=top>
+    lubulubulu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> mbulubulu <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBULUBULU/">tshibulubulu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINGULUNGU/">dingulungu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINTETEMBUE/">dintetembue</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une abeille est un insecte volant appartenant à la superfamille Apoidea de l'ordre des Hyménoptères, connue pour son rôle dans la pollinisation, sa capacité à produire du miel et de la cire d'abeille, et pour vivre dans des colonies hautement organisées dans le cas des espèces sociales.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A bee is a flying insect belonging to the superfamily Apoidea within the order Hymenoptera, known for its role in pollination, its ability to produce honey and beeswax, and for living in highly organized colonies in the case of social species.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Ludimi*/   
     {
         English: "tongue",
@@ -13269,6 +14529,153 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Lujiji*/   
+    {
+        English: "housefly",
+        French: "mouche",
+        Tshiluba: "lujiji",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lu·ji·ji<p>/Loo-zhee-zhee/</p>",
+        PhoneticsT: "mouche | a fly",
+        English2: "fly",
+        French2: "une mouche",
+        Tshiluba2: "lujiji",
+        PhoneticsT2: " ",
+        English3: "lujinji",
+        French3: "njinji",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "njiji",
+        French4: "des mouches",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "mouches",
+        French5: "flies",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "swarms of flies",
+        French6: "house fly",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "house-fly",
+        French7: "horn fly",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "mouche domestique",
+        French8: "fly (insect)",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: "hornfly",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mouche <i class="PartOfSpch">n</i><br>
+    mouche domestique <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    housefly <i class="PartOfSpch">n</i><br>
+    house fly <i class="PartOfSpch">n</i><br>
+    horn fly <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lujiji <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> njiji <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAJIJI/">kajiji</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une mouche domestique est une petite mouche commune gris-noir (Musca domestica) connue pour sa présence répandue dans les habitats humains, se nourrissant de matière organique en décomposition et étant un vecteur potentiel de maladies.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A housefly is a common, small, gray-black fly (Musca domestica) known for its widespread presence in human habitats, feeding on decaying organic matter and being a potential vector for disease.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
     </tr>
     `
@@ -13678,6 +15085,262 @@ const nkongamiaku3 = [
     Vendredi :: Friday :: Ditanu <br>
     Samedi :: Saturday :: Disambombo <br>
     Dimanche :: Sunday :: Dialumingu
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Lungaji*/   
+    {
+        English: "palm nut",
+        French: "noix de palme",
+        Tshiluba: "lungaji",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lun·ga·ji<p>/Loon-gah-zhee/</p>",
+        PhoneticsT: "noix de palme | palm nut",
+        English2: "palm nuts",
+        French2: "fruit de palme",
+        Tshiluba2: "lungaji",
+        PhoneticsT2: " ",
+        English3: "ngaji",
+        French3: "palm fruit",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "fruits de palmier",
+        French4: "oil palm fruit",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    noix de palme <i class="PartOfSpch">n</i><br>
+    fruit de palmier <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    palm nut <i class="PartOfSpch">n</i><br>
+    palm fruit <i class="PartOfSpch">n</i><br>
+    palm kernel <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lungaji <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ngaji <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le fruit de palmier désigne le fruit produit par diverses espèces de palmiers, en particulier celles du genre Elaeis. Le fruit est généralement ovale ou rond, avec une couche extérieure charnue et une graine dure (noyau) à l'intérieur. Le fruit du palmier à huile (Elaeis guineensis) est particulièrement important car il est récolté pour l'huile de palme, qui est extraite du mésocarpe charnu, et l'huile de palmiste, qui est dérivée de la graine. Les fruits de palmier sont une denrée de base dans de nombreuses régions tropicales et sont utilisés dans diverses applications culinaires et industrielles.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Palm fruit refers to the fruit produced by various species of palm trees, particularly those in the genus Elaeis. The fruit is typically oval or round, with a fleshy outer layer and a hard seed (kernel) inside. The fruit of the oil palm (Elaeis guineensis) is particularly significant because it is harvested for palm oil, which is extracted from the fleshy mesocarp, and palm kernel oil, which is derived from the seed. Palm fruits are a staple in many tropical regions and are used in various culinary and industrial applications.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/D/DIKONDA/">dikonda</a>,
+                    <a class="links" href="/alphabetindex/D/DITUNGULU/">ditungulu</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGAJI/">lungaji</a>,
+                    <a class="links" href="/alphabetindex/M/MALAKUJA/">malakuja</a>, 
+                    <a class="links" href="/alphabetindex/M/MPOMA/">mpoma</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBOTA/">tshibota</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Lupasu*/   
+    {
+        English: "grasshopper",
+        French: "sauterelle",
+        Tshiluba: "lupasu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lu·pa·su<p>/Loo-pah-soo/</p>",
+        PhoneticsT: "sauterelle | grasshopper",
+        English2: "grass hopper",
+        French2: "sauterelles",
+        Tshiluba2: "lupasu",
+        PhoneticsT2: " ",
+        English3: "mpasu",
+        French3: "grasshoppers",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "locust",
+        French4: "locuste",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "locusts",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sauterelle <i class="PartOfSpch">n</i><br>
+    locuste <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    grasshopper <i class="PartOfSpch">n</i><br>
+    locust <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lupasu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> mpasu <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUENZE/">muenze</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUNTUNTU/">muntuntu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une sauterelle est un insecte herbivore appartenant au sous-ordre des Caelifera, caractérisé par de longues pattes arrière adaptées pour sauter, des antennes courtes, et un corps qui se fond souvent avec l'herbe et le feuillage pour se camoufler.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A grasshopper is a herbivorous insect belonging to the suborder Caelifera, characterized by long hind legs adapted for jumping, short antennae, and a body that often blends with grass and foliage for camouflage.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
     </tr>
     `
@@ -17471,6 +19134,241 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Mpusu*/   
+    {
+        English: "cat",
+        French: "chat",
+        Tshiluba: "mpusu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mpu·su<p>/Mpoo-soo/</p>",
+        PhoneticsT: "chat | cat",
+        English2: "cats",
+        French2: "chats",
+        Tshiluba2: "mpusu",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: "the cat",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "le chat",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chat <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    cat <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mpusu <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> mpusu<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAMPUSU/">kampusu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Muaba*/  
+    {
+        English: "place",
+        French: "place",
+        Tshiluba: "muaba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·a·ba<p>/Mwah-bah/</p>",
+        PhoneticsT: "lieu | place",
+        English2: "places",
+        French2: "lieux",
+        Tshiluba2: "muaba",
+        PhoneticsT2: " ",
+        English3: "endroit",
+        French3: "endroits",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "area",
+        French4: "areas",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "spot",
+        French5: "lieu",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "miaba",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    place <i class="PartOfSpch">n</i><br>
+    lieu <i class="PartOfSpch">n</i><br>
+    endroit <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    place <i class="PartOfSpch">n</i><br>
+    area <i class="PartOfSpch">n</i><br>
+    spot <i class="PartOfSpch">n</i><br>
+    location <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    muaba <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> miaba<br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un lieu est un emplacement ou une zone spécifique, souvent défini par ses caractéristiques physiques ou géographiques et parfois par son importance ou sa fonction.
+                    <br><br>
+
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A place is a specific location or area, often defined by its physical or geographical characteristics and sometimes by its significance or function.<br><br>
+
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ---------<br><br>
+    </td>
+    </tr>
+    ` 
+    },
     /*Muaku*/   
     {
         English: "Word",
@@ -18868,6 +20766,123 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Mudimu*/   
+    {
+        English: "work",
+        French: "travail",
+        Tshiluba: "mudimu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·di·mu<p>/Moo-djee-moo/</p>",
+        PhoneticsT: "travail | work",
+        English2: "job",
+        French2: "boulot",
+        Tshiluba2: "mudimu",
+        PhoneticsT2: " ",
+        English3: "midimu",
+        French3: "domestique",
+        Tshiluba3: "bonne",
+        PhoneticsT3: " ",
+        English4: "muena mudimu",
+        French4: "servant",
+        Tshiluba4: "employé",
+        PhoneticsT4: " ",
+        English5: "serviteur",
+        French5: "servante",
+        Tshiluba5: "employée",
+        PhoneticsT5: " ",
+        English6: "worker",
+        French6: "employee",
+        Tshiluba6: "worker",
+        PhoneticsT6: " ",
+        English7: "employees",
+        French7: "workers",
+        Tshiluba7: "houseboy",
+        PhoneticsT7: " ",
+        English8: "housemaid",
+        French8: "housemaids",
+        Tshiluba8: "travailleur",
+        PhoneticsT8: " ",
+        English9: "travailleurs",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    travail <i class="PartOfSpch">n</i><br>
+    boulot <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    work <i class="PartOfSpch">n</i><br>
+    job <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    mudimu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> midimu
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    servant(e) <i class="PartOfSpch">n</i><br>
+    serviteur <i class="PartOfSpch">n</i><br>
+    travailleur <i class="PartOfSpch">n</i><br>
+    bonne <i class="PartOfSpch">n</i><br>
+    employé <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    servant <i class="PartOfSpch">n</i><br>
+    worker <i class="PartOfSpch">n</i><br>
+    housemaid <i class="PartOfSpch">n</i><br>
+    houseboy <i class="PartOfSpch">n</i><br>
+    employee <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    muena mudimu <br><br>
+    <i class="PartOfSpch">pl</i> bena midimu
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Cela se réfère à une activité impliquant un effort mental ou physique effectué dans le but d'atteindre un objectif ou un résultat, souvent dans le cadre de son emploi ou de sa profession. Cela peut également englober le concept de travail ou les tâches et devoirs que l'on accomplit dans le cadre de ses responsabilités professionnelles ou personnelles.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    It refers to the activity involving mental or physical effort done in order to achieve a purpose or result, often in the context of one's employment or occupation. It can also encompass the concept of labor or the tasks and duties one performs as part of their professional or personal responsibilities.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Muedi*/   
     {
         English: "beard",
@@ -19263,6 +21278,157 @@ const nkongamiaku3 = [
     Miracleworker
                     <br>
     Muenji wa bishima
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Muenze*/   
+    {
+        English: "cricket (1)",
+        French: "grillon (1)",
+        Tshiluba: "muenze",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·en·za<p>/Mwen-zah/</p>",
+        PhoneticsT: "criquet | cricket",
+        English2: "cricket",
+        French2: "grillon",
+        Tshiluba2: "muenze",
+        PhoneticsT2: " ",
+        English3: "muenza",
+        French3: "mienze",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "criquet",
+        French4: "crickets",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "grillons",
+        French5: "edible cricket",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "grillon comestible",
+        French6: "Brachytrupes Membranaceus",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "tobacco cricket",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    grillon <i class="PartOfSpch">n</i><br>
+    grillon comestible <i class="PartOfSpch">n</i><br>
+    criquet <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    cricket <i class="PartOfSpch">n</i><br>
+    edible cricket <i class="PartOfSpch">n</i><br>
+    tobacco cricket <i class="PartOfSpch">n</i><br><br>
+
+    "Brachytrupes Membranaceus"<br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muenze <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mienze <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUPASU/">lupasu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUNTUNTU/">muntuntu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un grillon est un insecte nocturne appartenant à la famille des Gryllidae, caractérisé par de longues antennes, de puissantes pattes arrière pour sauter, et la capacité de produire des sons stridulants en frottant ses ailes ensemble. Au Kasaï, les mienze sont largement considérées comme une excellente source de nutriments pour l'alimentation. Elles sont également appelées « muntuntu ».
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A cricket is a nocturnal insect belonging to the family Gryllidae, characterized by long antennae, powerful hind legs for jumping, and the ability to produce chirping sounds by rubbing its wings together. In Kasaï, mienze are widely considered an excellent nutrient source for food. It is also called "muntuntu."
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
     </tr>
     `
@@ -21692,316 +23858,316 @@ a lamb
     ` 
     },
     /*Muluba*/   
-{
-    English: "a luba person",
-    French: "Une personne luba.",
-    Tshiluba: "muluba",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·lu·ba<p>/Moo-loo-bah/</p>",
-    PhoneticsT: "une personne luba | a luba person",
-    English2: "baluba",
-    French2: "luba",
-    Tshiluba2: "muluba",
-    PhoneticsT2: " ",
-    English3: " ",
-    French3: "les baluba",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "de mulu",
-    French4: " ",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-une person luba <i class="PartOfSpch">n</i><br>
-des personnes luba <i class="PartOfSpch">pl</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-a luba person <i class="PartOfSpch">n</i><br>
-luba people <i class="PartOfSpch">pl</i><br><br>
+    {
+        English: "a luba person",
+        French: "Une personne luba.",
+        Tshiluba: "muluba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·lu·ba<p>/Moo-loo-bah/</p>",
+        PhoneticsT: "une personne luba | a luba person",
+        English2: "baluba",
+        French2: "luba",
+        Tshiluba2: "muluba",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: "les baluba",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "de mulu",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    une person luba <i class="PartOfSpch">n</i><br>
+    des personnes luba <i class="PartOfSpch">pl</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    a luba person <i class="PartOfSpch">n</i><br>
+    luba people <i class="PartOfSpch">pl</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-muluba <i class="PartOfSpch">tshi1</i><br>
-<i class="PartOfSpch">pl</i> baluba<br><br><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Un membre du groupe ethnique ou du peuple Luba. Le peuple Luba est un groupe ethnique originaire de la République démocratique du Congo, habitant principalement les régions du Katanga, du Kasai et du Maniema. Ils sont connus pour leur riche patrimoine culturel, comprenant l'art traditionnel, la musique et les systèmes de gouvernance.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-A member of the Luba ethnic group or people. The Luba people are an ethnic group native to the Democratic Republic of the Congo, primarily inhabiting the regions of Katanga, Kasai, and Maniema. They are known for their rich cultural heritage, including traditional art, music, and governance systems. 
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
----------</p>
-<br><br></td>
-</tr>
-`
-},
+    </td>
+    <td class="tabledef" valign=top>
+    muluba <i class="PartOfSpch">tshi1</i><br>
+    <i class="PartOfSpch">pl</i> baluba<br><br><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un membre du groupe ethnique ou du peuple Luba. Le peuple Luba est un groupe ethnique originaire de la République démocratique du Congo, habitant principalement les régions du Katanga, du Kasai et du Maniema. Ils sont connus pour leur riche patrimoine culturel, comprenant l'art traditionnel, la musique et les systèmes de gouvernance.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A member of the Luba ethnic group or people. The Luba people are an ethnic group native to the Democratic Republic of the Congo, primarily inhabiting the regions of Katanga, Kasai, and Maniema. They are known for their rich cultural heritage, including traditional art, music, and governance systems. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ---------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Mulumbuluidi*/  
-{
-    English: "lawyer",
-    French: "avocat(e)",
-    Tshiluba: "Mulumbuluidi",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·lum·bu·lu·i·di<p>/Moo-loom-boo-lwee-djee/</p>",
-    PhoneticsT: "avocat(e) | lawyer",
-    English2: "advocate",
-    French2: "barrister",
-    Tshiluba2: "mulumbuluidi",
-    PhoneticsT2: " ",
-    English3: "defense lawyer",
-    French3: "defence lawyer",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "defender",
-    French4: "défenseur",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "défenseuse",
-    French5: "balumbuluidi",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-avocat(e) <i class="PartOfSpch">n</i><br>
-défenseur <i class="PartOfSpch">n</i><br>
-</td>
-<td class="tabledef" valign=top >
-lawyer <i class="PartOfSpch">n</i><br>
-advocate <i class="PartOfSpch">n</i><br>
-defender <i class="PartOfSpch">n</i><br>
-barrister (UK) <i class="PartOfSpch">n</i><br>
-</td>
-<td class="tabledef" valign=top >
-mulumbuluidi <i class="PartOfSpch">tshi1</i><br>
-<i class="PartOfSpch">pl</i> balumbuluidi
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Un professionnel qui pratique le droit, fournissant des conseils juridiques et représentant des particuliers, des entreprises, des organisations ou des gouvernements.
-                <br><br>
-                &nbsp
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-A professional who practices law, providing legal advice and representation to individuals, businesses, organizations, or governments. 
-                <br><br>
-                &nbsp&nbsp
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
------</p>
-<br><br></td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/D/DITUNGA/">ditunga</a>, 
-                <a class="links" href="/alphabetindex/D/DIYI/">diyi</a>, 
-                <a class="links" href="/alphabetindex/D/DIYI DIKULU/">diyi dikulu</a>,
-                <a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a>, 
-                <a class="links" href="/alphabetindex/M/MUKALENGE/">mukalenga</a>,
-                <a class="links" href="/alphabetindex/M/MUKENJI/">mukenji</a>,
-                <a class="links" href="/alphabetindex/M/MULUMBULUIDI/">mulumbuluidi</a>,
-                <a class="links" href="/alphabetindex/M/MULUMBULUISHI/">mulumbuluishi</a>,
-                <a class="links" href="/alphabetindex/M/MUNGALATA/">mungalata</a>,
-                <a class="links" href="/alphabetindex/M/MUSOKO/">musoko</a>,
-                <a class="links" href="/alphabetindex/T/TSHIBANJI/">tshibanji</a>,
-                <a class="links" href="/alphabetindex/T/TSHIMENGA/">tshimenga</a>, 
-                <a class="links" href="/alphabetindex/T/TSHISAMBA/">tshisamba</a> 
-<br><br></td>
-</tr>
-` 
-},
-/*Mulumbuluishi*/  
-{
-    English: "judge",
-    French: "juge",
-    Tshiluba: "Mulumbuluishi",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·lum·bu·lu·i·shi<p>/Moo-loom-boo-lwee-shee/</p>",
-    PhoneticsT: "juge | judge",
-    English2: "judges",
-    French2: " ",
-    Tshiluba2: "mulumbuluishi",
-    PhoneticsT2: " ",
-    English3: "the judge",
-    French3: "le juge",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "a judge",
-    French4: "un juge",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "balumuluishi",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-juge <i class="PartOfSpch">n</i><br>
+    {
+        English: "lawyer",
+        French: "avocat(e)",
+        Tshiluba: "Mulumbuluidi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·lum·bu·lu·i·di<p>/Moo-loom-boo-lwee-djee/</p>",
+        PhoneticsT: "avocat(e) | lawyer",
+        English2: "advocate",
+        French2: "barrister",
+        Tshiluba2: "mulumbuluidi",
+        PhoneticsT2: " ",
+        English3: "defense lawyer",
+        French3: "defence lawyer",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "defender",
+        French4: "défenseur",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "défenseuse",
+        French5: "balumbuluidi",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avocat(e) <i class="PartOfSpch">n</i><br>
+    défenseur <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    lawyer <i class="PartOfSpch">n</i><br>
+    advocate <i class="PartOfSpch">n</i><br>
+    defender <i class="PartOfSpch">n</i><br>
+    barrister (UK) <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    mulumbuluidi <i class="PartOfSpch">tshi1</i><br>
+    <i class="PartOfSpch">pl</i> balumbuluidi
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un professionnel qui pratique le droit, fournissant des conseils juridiques et représentant des particuliers, des entreprises, des organisations ou des gouvernements.
+                    <br><br>
+                    &nbsp
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A professional who practices law, providing legal advice and representation to individuals, businesses, organizations, or governments. 
+                    <br><br>
+                    &nbsp&nbsp
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/D/DITUNGA/">ditunga</a>, 
+                    <a class="links" href="/alphabetindex/D/DIYI/">diyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIYI DIKULU/">diyi dikulu</a>,
+                    <a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKALENGE/">mukalenga</a>,
+                    <a class="links" href="/alphabetindex/M/MUKENJI/">mukenji</a>,
+                    <a class="links" href="/alphabetindex/M/MULUMBULUIDI/">mulumbuluidi</a>,
+                    <a class="links" href="/alphabetindex/M/MULUMBULUISHI/">mulumbuluishi</a>,
+                    <a class="links" href="/alphabetindex/M/MUNGALATA/">mungalata</a>,
+                    <a class="links" href="/alphabetindex/M/MUSOKO/">musoko</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBANJI/">tshibanji</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIMENGA/">tshimenga</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISAMBA/">tshisamba</a> 
+    <br><br></td>
+    </tr>
+    ` 
+    },
+    /*Mulumbuluishi*/  
+    {
+        English: "judge",
+        French: "juge",
+        Tshiluba: "Mulumbuluishi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·lum·bu·lu·i·shi<p>/Moo-loom-boo-lwee-shee/</p>",
+        PhoneticsT: "juge | judge",
+        English2: "judges",
+        French2: " ",
+        Tshiluba2: "mulumbuluishi",
+        PhoneticsT2: " ",
+        English3: "the judge",
+        French3: "le juge",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "a judge",
+        French4: "un juge",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "balumuluishi",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    juge <i class="PartOfSpch">n</i><br>
 
-</td>
-<td class="tabledef" valign=top >
-judge <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    judge <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top >
-mulumbuluishi <i class="PartOfSpch">tshi1</i><br>
-<i class="PartOfSpch">pl</i> balumbuluishi
+    </td>
+    <td class="tabledef" valign=top >
+    mulumbuluishi <i class="PartOfSpch">tshi1</i><br>
+    <i class="PartOfSpch">pl</i> balumbuluishi
 
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Un officier judiciaire qui préside les audiences de tribunal, entend les preuves présentées par les parties, applique la loi aux faits de l'affaire et rend des jugements ou des décisions.
-                <br><br>
-                &nbsp
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-A judicial officer who presides over court proceedings, hears evidence presented by parties, applies the law to the facts of the case, and renders judgments or decisions.  
-                <br><br>
-                &nbsp&nbsp
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
------</p>
-<br><br></td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/D/DITUNGA/">ditunga</a>, 
-                <a class="links" href="/alphabetindex/D/DIYI/">diyi</a>, 
-                <a class="links" href="/alphabetindex/D/DIYI DIKULU/">diyi dikulu</a>,
-                <a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a>, 
-                <a class="links" href="/alphabetindex/M/MUKALENGE/">mukalenga</a>,
-                <a class="links" href="/alphabetindex/M/MUKENJI/">mukenji</a>,
-                <a class="links" href="/alphabetindex/M/MULUMBULUIDI/">mulumbuluidi</a>,
-                <a class="links" href="/alphabetindex/M/MULUMBULUISHI/">mulumbuluishi</a>,
-                <a class="links" href="/alphabetindex/N/NDUMBULULA/">ndumbulula</a>,
-                <a class="links" href="/alphabetindex/M/MUNGALATA/">mungalata</a>,
-                <a class="links" href="/alphabetindex/M/MUSOKO/">musoko</a>,
-                <a class="links" href="/alphabetindex/T/TSHIBANJI/">tshibanji</a>,
-                <a class="links" href="/alphabetindex/T/TSHIMENGA/">tshimenga</a>, 
-                <a class="links" href="/alphabetindex/T/TSHISAMBA/">tshisamba</a> 
-<br><br></td>
-</tr>
-` 
-},
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un officier judiciaire qui préside les audiences de tribunal, entend les preuves présentées par les parties, applique la loi aux faits de l'affaire et rend des jugements ou des décisions.
+                    <br><br>
+                    &nbsp
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A judicial officer who presides over court proceedings, hears evidence presented by parties, applies the law to the facts of the case, and renders judgments or decisions.  
+                    <br><br>
+                    &nbsp&nbsp
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br><b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/D/DITUNGA/">ditunga</a>, 
+                    <a class="links" href="/alphabetindex/D/DIYI/">diyi</a>, 
+                    <a class="links" href="/alphabetindex/D/DIYI DIKULU/">diyi dikulu</a>,
+                    <a class="links" href="/alphabetindex/M/MFUMU/">mfumu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKALENGE/">mukalenga</a>,
+                    <a class="links" href="/alphabetindex/M/MUKENJI/">mukenji</a>,
+                    <a class="links" href="/alphabetindex/M/MULUMBULUIDI/">mulumbuluidi</a>,
+                    <a class="links" href="/alphabetindex/M/MULUMBULUISHI/">mulumbuluishi</a>,
+                    <a class="links" href="/alphabetindex/N/NDUMBULULA/">ndumbulula</a>,
+                    <a class="links" href="/alphabetindex/M/MUNGALATA/">mungalata</a>,
+                    <a class="links" href="/alphabetindex/M/MUSOKO/">musoko</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBANJI/">tshibanji</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIMENGA/">tshimenga</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISAMBA/">tshisamba</a> 
+    <br><br></td>
+    </tr>
+    ` 
+    },
     /*Mulume*/   
     {
         English: "man",
@@ -22390,135 +24556,135 @@ A judicial officer who presides over court proceedings, hears evidence presented
     `
     },
     /*Munda*/   
-{
-    English: "interior",
-    French: "intérieur",
-    Tshiluba: "munda",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
-    Phonetics: "Mun·da<p>/Moon-dah/</p>",
-    PhoneticsT: "intérieur | interior",
-    English2: "l'intérieur",
-    French2: " ",
-    Tshiluba2: "munda",
-    PhoneticsT2: " ",
-    English3: "the inside",
-    French3: "inside",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "à l'intérieur de",
-    French4: "à l'intérieur",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "on the inside",
-    French5: "dedans",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-intérieur <i class="PartOfSpch">n</i><br>
-l'intérieur <i class="PartOfSpch">adj</i><br>
-dedans <i class="PartOfSpch">prep</i><br><br>
+    {
+        English: "interior",
+        French: "intérieur",
+        Tshiluba: "munda",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+        Phonetics: "Mun·da<p>/Moon-dah/</p>",
+        PhoneticsT: "intérieur | interior",
+        English2: "l'intérieur",
+        French2: " ",
+        Tshiluba2: "munda",
+        PhoneticsT2: " ",
+        English3: "the inside",
+        French3: "inside",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "à l'intérieur de",
+        French4: "à l'intérieur",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "on the inside",
+        French5: "dedans",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    intérieur <i class="PartOfSpch">n</i><br>
+    l'intérieur <i class="PartOfSpch">adj</i><br>
+    dedans <i class="PartOfSpch">prep</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-interior <i class="PartOfSpch">n</i><br>
-on the inside <i class="PartOfSpch">adj</i><br>
-inside <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    interior <i class="PartOfSpch">n</i><br>
+    on the inside <i class="PartOfSpch">adj</i><br>
+    inside <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-munda <i class="PartOfSpch">tshi</i><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-La partie intérieure ou interne de quelque chose, généralement un espace physique, un objet ou une structure.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-The inner or internal part of something, typically a physical space, object, or structure.  
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-------------</p>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>munda mua nzubu</i></b><br>
-l'intérieur de la maison <br>
-the inside of the house <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    munda <i class="PartOfSpch">tshi</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La partie intérieure ou interne de quelque chose, généralement un espace physique, un objet ou une structure.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The inner or internal part of something, typically a physical space, object, or structure.  
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ------------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>munda mua nzubu</i></b><br>
+    l'intérieur de la maison <br>
+    the inside of the house <br><br>
 
-<b><i>munda wa munya</i></b><br>
-en plein jour <br>
-in broad daylight <br><br>
+    <b><i>munda wa munya</i></b><br>
+    en plein jour <br>
+    in broad daylight <br><br>
 
-<b><i>munda munya</i></b><br>
-midi <br>
-midday <br><br>
+    <b><i>munda munya</i></b><br>
+    midi <br>
+    midday <br><br>
 
-<b><i>munda wa nkulu</i></b><br>
-en pleine nuit <br>
-in the middle of the night <br><br>
+    <b><i>munda wa nkulu</i></b><br>
+    en pleine nuit <br>
+    in the middle of the night <br><br>
 
-<b><i>bia munda</i></b><br>
-organes internes <br>
-internal organs <br><br>
+    <b><i>bia munda</i></b><br>
+    organes internes <br>
+    internal organs <br><br>
 
-<b><i>kufika munda</i></b><br>
-se fâcher <br>
-to get angry <br><br>
+    <b><i>kufika munda</i></b><br>
+    se fâcher <br>
+    to get angry <br><br>
 
-<b><i>kubuela munda</i></b><br>
-entrer à l'intérieur <br>
-to enter inside <br><br>
+    <b><i>kubuela munda</i></b><br>
+    entrer à l'intérieur <br>
+    to enter inside <br><br>
 
-<b><i>bana benu ba munda</i></b><br>
-gens du meme clan <br>
-people from the same clan <br><br>
-                
-</p>
-</td>
-</tr>
-`
-},
+    <b><i>bana benu ba munda</i></b><br>
+    gens du meme clan <br>
+    people from the same clan <br><br>
+                    
+    </p>
+    </td>
+    </tr>
+    `
+    },
     /*Mungalata*/  
     {
         English: "Democracy",
@@ -22744,6 +24910,174 @@ people from the same clan <br><br>
     </td>
     </tr>`
     },
+    /*Muntuntu*/   
+    {
+        English: "cricket (2)",
+        French: "grillon (2)",
+        Tshiluba: "muntuntu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mun·tun·tu<p>/Moon-toon-too/</p>",
+        PhoneticsT: "criquet | cricket",
+        English2: "cricket",
+        French2: "grillon",
+        Tshiluba2: "muenze",
+        PhoneticsT2: " ",
+        English3: "muenza",
+        French3: "mienze",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "criquet",
+        French4: "crickets",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "grillons",
+        French5: "edible cricket",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "grillon comestible",
+        French6: "Brachytrupes Membranaceus",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "tobacco cricket",
+        French7: "kantuntu",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "tuntuntu",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    grillon <i class="PartOfSpch">n</i><br>
+    grillon comestible <i class="PartOfSpch">n</i><br>
+    criquet <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    cricket <i class="PartOfSpch">n</i><br>
+    edible cricket <i class="PartOfSpch">n</i><br>
+    tobacco cricket <i class="PartOfSpch">n</i><br><br>
+
+    "Brachytrupes Membranaceus"<br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muntuntu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mintuntu <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUENZE/">muenze</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUPASU/">lupasu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    petit grillon <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    small cricket <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kantuntu <br>
+    <i class="PartOfSpch">pl</i> tuntuntu <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un grillon est un insecte nocturne appartenant à la famille des Gryllidae, caractérisé par de longues antennes, de puissantes pattes arrière pour sauter, et la capacité de produire des sons stridulants en frottant ses ailes ensemble. Au Kasaï, les mienze sont largement considérées comme une excellente source de nutriments pour l'alimentation. Elles sont également appelées « muntuntu ».
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A cricket is a nocturnal insect belonging to the family Gryllidae, characterized by long antennae, powerful hind legs for jumping, and the ability to produce chirping sounds by rubbing its wings together. In Kasaï, mienze are widely considered an excellent nutrient source for food. It is also called "muntuntu."
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Munu*/   
     {
         English: "finger",
@@ -22885,100 +25219,100 @@ people from the same clan <br><br>
     `
     },
     /*Munya*/   
-{
-    English: "sunlight",
-    French: "lumière du soleil",
-    Tshiluba: "munya",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·nya<p>/Moo-nyah/</p>",
-    PhoneticsT: "lumière du soleil | sunlight",
-    English2: "sun light",
-    French2: "lumière naturelle",
-    Tshiluba2: "munya",
-    PhoneticsT2: " ",
-    English3: "ensoleillement",
-    French3: "sunshine",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "sun shine",
-    French4: "sunlight",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "lumière du soleil",
-    French5: "lumière du jour",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: "lumiere du jour",
-    French6: "lumiere du soleil",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: "daylight",
-    French7: "day light",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: "light",
-    French8: "lumière",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: "lumiere",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-lumière du soleil <i class="PartOfSpch">n</i><br>
-lumière du jour<i class="PartOfSpch">n</i><br>
-ensoleillement <i class="PartOfSpch">n</i><br>
-la lumière <i class="PartOfSpch">n</i><br><br>
+    {
+        English: "sunlight",
+        French: "lumière du soleil",
+        Tshiluba: "munya",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·nya<p>/Moo-nyah/</p>",
+        PhoneticsT: "lumière du soleil | sunlight",
+        English2: "sun light",
+        French2: "lumière naturelle",
+        Tshiluba2: "munya",
+        PhoneticsT2: " ",
+        English3: "ensoleillement",
+        French3: "sunshine",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "sun shine",
+        French4: "sunlight",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "lumière du soleil",
+        French5: "lumière du jour",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "lumiere du jour",
+        French6: "lumiere du soleil",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "daylight",
+        French7: "day light",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "light",
+        French8: "lumière",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: "lumiere",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lumière du soleil <i class="PartOfSpch">n</i><br>
+    lumière du jour<i class="PartOfSpch">n</i><br>
+    ensoleillement <i class="PartOfSpch">n</i><br>
+    la lumière <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-sunlight <i class="PartOfSpch">n</i><br>
-sunshine <i class="PartOfSpch">n</i><br>
-daylight <i class="PartOfSpch">n</i><br>
-light <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    sunlight <i class="PartOfSpch">n</i><br>
+    sunshine <i class="PartOfSpch">n</i><br>
+    daylight <i class="PartOfSpch">n</i><br>
+    light <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-munya <i class="PartOfSpch">tshi</i><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-La lumière naturelle émise par le Soleil qui illumine la surface de la Terre.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-The natural light emitted by the Sun that illuminates the Earth's surface.   
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-------------</p>
-<br><br></td>
-</tr>
-`
-},
+    </td>
+    <td class="tabledef" valign=top>
+    munya <i class="PartOfSpch">tshi</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La lumière naturelle émise par le Soleil qui illumine la surface de la Terre.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The natural light emitted by the Sun that illuminates the Earth's surface.   
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ------------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Munyinyi*/   
     {
         English: "meat",
@@ -23564,97 +25898,97 @@ The natural light emitted by the Sun that illuminates the Earth's surface.
     `
     },
     /*Musalayi*/   
-{
-    English: "soldier",
-    French: "soldat",
-    Tshiluba: "musalayi",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·sa·la·yi<p>/Moo-sah-laii/</p>",
-    PhoneticsT: "soldat | soldier",
-    English2: "troops",
-    French2: "troupes",
-    Tshiluba2: "basalayi",
-    PhoneticsT2: " ",
-    English3: "soldats",
-    French3: "soldiers",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-soldat <i class="PartOfSpch">n</i><br>
-troupes <i class="PartOfSpch">npl</i><br><br>
+    {
+        English: "soldier",
+        French: "soldat",
+        Tshiluba: "musalayi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·sa·la·yi<p>/Moo-sah-laii/</p>",
+        PhoneticsT: "soldat | soldier",
+        English2: "troops",
+        French2: "troupes",
+        Tshiluba2: "basalayi",
+        PhoneticsT2: " ",
+        English3: "soldats",
+        French3: "soldiers",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    soldat <i class="PartOfSpch">n</i><br>
+    troupes <i class="PartOfSpch">npl</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-soldier <i class="PartOfSpch">n</i><br>
-troops <i class="PartOfSpch">npl</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    soldier <i class="PartOfSpch">n</i><br>
+    troops <i class="PartOfSpch">npl</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-musalayi <i class="PartOfSpch">tshi1</i><br>
-<i class="PartOfSpch">pl</i> basalayi<br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Une personne qui sert dans une armée ou une force militaire, généralement formée pour participer au combat, défendre son pays ou ses intérêts, et maintenir la discipline militaire.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-A person who serves in an army or military force, typically trained to engage in combat, defend their country or interests, and uphold military discipline.   
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-------------</p>
-<br><br></td>
-</tr>
-`
-},
+    </td>
+    <td class="tabledef" valign=top>
+    musalayi <i class="PartOfSpch">tshi1</i><br>
+    <i class="PartOfSpch">pl</i> basalayi<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une personne qui sert dans une armée ou une force militaire, généralement formée pour participer au combat, défendre son pays ou ses intérêts, et maintenir la discipline militaire.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A person who serves in an army or military force, typically trained to engage in combat, defend their country or interests, and uphold military discipline.   
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ------------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Musangu*/   
     {
         English: "occurrence",
@@ -23800,93 +26134,93 @@ A person who serves in an army or military force, typically trained to engage in
     `
     },
     /*Musha*/   
-{
-    English: "a fart",
-    French: "un pet",
-    Tshiluba: "musha",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Mu·sha<p>/Moo-shah/</p>",
-    PhoneticsT: "pet | fart",
-    English2: "fart",
-    French2: "pet",
-    Tshiluba2: "musha",
-    PhoneticsT2: " ",
-    English3: "farts",
-    French3: " ",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-un pet <i class="PartOfSpch">n</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-a fart <i class="PartOfSpch">n</i><br><br>
+    {
+        English: "a fart",
+        French: "un pet",
+        Tshiluba: "musha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·sha<p>/Moo-shah/</p>",
+        PhoneticsT: "pet | fart",
+        English2: "fart",
+        French2: "pet",
+        Tshiluba2: "musha",
+        PhoneticsT2: " ",
+        English3: "farts",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    un pet <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    a fart <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-musha <i class="PartOfSpch">tshi</i><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Une expulsion de gaz du système digestif à travers l'anus, souvent accompagnée d'un son et d'une odeur caractéristiques.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-An expulsion of gas from the digestive system through the anus, often accompanied by a characteristic sound and odor.
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
---------</p>
-<br><br></td>
-</tr>
-`
-},
+    </td>
+    <td class="tabledef" valign=top>
+    musha <i class="PartOfSpch">tshi</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une expulsion de gaz du système digestif à travers l'anus, souvent accompagnée d'un son et d'une odeur caractéristiques.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An expulsion of gas from the digestive system through the anus, often accompanied by a characteristic sound and odor.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Mushiku*/   
     {
         English: "lip",
@@ -27007,6 +29341,98 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     <tr>` 
     },
+    /*Nkuasa*/  
+    {
+        English: "chair",
+        French: "chaise",
+        Tshiluba: "nkuasa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nkua·sa<p>/nkwah-sah/</p>",
+        PhoneticsT: "chaise | chair",
+        English2: "seat",
+        French2: "siège",
+        Tshiluba2: "nkuasa",
+        PhoneticsT2: " ",
+        English3: "nkwasa",
+        French3: "chairs",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "sièges",
+        French4: "seats",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "throne",
+        French5: "trône",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "thrones",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chaise <i class="PartOfSpch">n</i><br>
+    siège <i class="PartOfSpch">n</i><br>
+    trône <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    chair <i class="PartOfSpch">n</i><br>
+    seat <i class="PartOfSpch">n</i><br>
+    throne <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    nkuasa <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> nkuasa
+    </td>
+    </tr>
+    <tr style="text-align:left";>
+    <td colspan="3" class="analogy">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une chaise est un meuble avec une surface surélevée soutenue par des pieds, généralement dotée d'un dossier et parfois d'accoudoirs, conçue pour qu'une personne s'y assoie.
+    <br><br>
+                &nbsp
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A chair is a piece of furniture with a raised surface supported by legs, typically having a backrest and sometimes armrests, designed for one person to sit on.
+    <br><br>
+                &nbsp&nbsp
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*Nkumbinkumbi*/   
     {
         English: "hawk",
@@ -27968,6 +30394,97 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Nsukadi*/   
+    {
+        English: "sugar",
+        French: "sucre",
+        Tshiluba: "nsukadi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nsu·ka·di<p>/Nsoo-kah-djee/</p>",
+        PhoneticsT: "sucre | sugar",
+        English2: "some sugar",
+        French2: "du sucre",
+        Tshiluba2: "nsukadi",
+        PhoneticsT2: " ",
+        English3: "sukadi",
+        French3: "sugars",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "sukali",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sucre <i class="PartOfSpch">n</i><br>
+    du sucre <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    sugar <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nsukadi <i class="PartOfSpch">tshi6</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le sucre est une substance sucrée et cristalline dérivée principalement de la canne à sucre et de la betterave à sucre, composée principalement de saccharose. Il est largement utilisé comme édulcorant dans les aliments et les boissons, et également comme agent de conservation et de fermentation. Sous ses diverses formes, telles que le sucre granulé, le sucre en poudre et le sucre brun, il est un ingrédient fondamental en cuisine et en pâtisserie.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Sugar is a sweet, crystalline substance derived primarily from sugar cane and sugar beet, consisting mainly of sucrose. It is used widely as a sweetener in foods and beverages and also as a preservative and fermenting agent. In its various forms, such as granulated, powdered, and brown sugar, it is a fundamental ingredient in cooking and baking.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Ntambwe*/   
     {
         English: "lion",
@@ -28540,6 +31057,150 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Nyoka*/   
+    {
+        English: "snake",
+        French: "serpent",
+        Tshiluba: "nyoka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nyo·ka<p>/Nyoh-kah/</p>",
+        PhoneticsT: "serpent | snake",
+        English2: "snakes",
+        French2: "serpents",
+        Tshiluba2: "nyoka",
+        PhoneticsT2: " ",
+        English3: "viper",
+        French3: "vipère",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "a snake",
+        French4: "the snake",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "nioka",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    serpent <i class="PartOfSpch">n</i><br>
+    vipère <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    snake <i class="PartOfSpch">n</i><br>
+    serpent <i class="PartOfSpch">n</i><br>
+    viper <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nyoka <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> nyoka<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un serpent est un reptile sans membres, allongé et caractérisé par une peau écailleuse, l'absence de membres et typiquement un corps flexible adapté au reptation et, chez certaines espèces, des crochets venimeux pour la chasse ou la défense.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A snake is a limbless, elongated reptile characterized by scaled skin, a lack of limbs, and typically possessing a flexible body adapted for crawling and, in some species, venomous fangs for hunting or defense.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Nyuma*/   
     {
         English: "spirit",
@@ -28694,6 +31355,147 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Nyunyi*/   
+    {
+        English: "bird",
+        French: "oiseau",
+        Tshiluba: "nyunyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nyu·nyi<p>/Nyoo-nyee/</p>",
+        PhoneticsT: "oiseau | bird",
+        English2: "birds",
+        French2: "oiseaux",
+        Tshiluba2: "nyunyi",
+        PhoneticsT2: " ",
+        English3: "nyunyu",
+        French3: "a bird",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "un oiseau",
+        French4: "the bird",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "les oiseau",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    oiseau <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bird <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nyunyi <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> nyunyi<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un oiseau est un vertébré à sang chaud qui pond des œufs et qui se caractérise par des plumes, un bec et généralement la capacité de voler, appartenant à la classe des oiseaux (Aves).
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A bird is a warm-blooded, egg-laying vertebrate characterized by feathers, a beak, and typically the ability to fly, belonging to the class Aves.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Nzambi*/  
     {
         English: "God",
@@ -28785,6 +31587,148 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <br><br></td>
     </tr>
     ` 
+    },
+    /*Nzevu*/   
+    {
+        English: "elephant",
+        French: "éléphant",
+        Tshiluba: "nzevu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nze·vu<p>/Nzeh-voo/</p>",
+        PhoneticsT: "éléphant | elephant",
+        English2: "elephants",
+        French2: "éléphante",
+        Tshiluba2: "nzevu",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    éléphant <i class="PartOfSpch">nm</i><br>
+    éléphante <i class="PartOfSpch">nf</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    elephant <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nzevu <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> nzevu<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un éléphant est un grand mammifère herbivore caractérisé par sa longue trompe, ses grandes oreilles, ses défenses et sa peau épaisse et grise, et il est connu pour son intelligence élevée et sa structure sociale forte.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An elephant is a large, herbivorous mammal characterized by its long trunk, large ears, tusks, and thick, gray skin, and is known for its high intelligence and strong social structure.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
     },
     /*Nzolu*/   
     {
@@ -29036,6 +31980,128 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     ----</p>
     <br><br></td>
     </tr>
+    `
+    },
+    /*-Owa*/   
+    {
+        English: "to wash oneself",
+        French: "se laver",
+        Tshiluba: "kuowa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·o·wa<p>/Koo-pah-too-kah/</p>",
+        PhoneticsT: "se laver | to wash",
+        English2: "to wash",
+        French2: "se laver les mains",
+        Tshiluba2: "-owa",
+        PhoneticsT2: " ",
+        English3: "to wash hands",
+        French3: "to bathe",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "se baigner",
+        French4: "kuowa mayi",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se laver <i class="PartOfSpch">v</i> <br>
+    laver <i class="PartOfSpch">v</i> <br>
+    se baigner <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    to wash oneself <i class="PartOfSpch">v</i> <br>
+    to wash <i class="PartOfSpch">v</i> <br>
+    to bathe <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuowa <i class="PartOfSpch">md</i><br>
+    -owa <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se laver les pieds
+
+    </td>
+    <td class="tabledef" valign=top >
+    to wash ones feet
+    </td>
+    <td class="tabledef" valign=top >
+    kuowa mayi ku makasa
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se laver les mains
+
+    </td>
+    <td class="tabledef" valign=top >
+    to wash ones hands
+    </td>
+    <td class="tabledef" valign=top >
+    kuowa mayi ku bianza
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        "Se laver" signifie nettoyer quelque chose en utilisant de l'eau, et souvent du savon ou du détergent, pour enlever la saleté, les impuretés ou d'autres substances indésirables.
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+    "To wash" means to clean something by using water, and often soap or detergent, to remove dirt, impurities, or other unwanted substances.
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        <br><br></td>
+        </tr>
     `
     },
     /*-Panda*/   
@@ -32134,145 +35200,145 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     `
     },
     /*Tshibayibayi*/   
-{
-    English: "butterfly",
-    French: "papillon",
-    Tshiluba: "tshibayibayi",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Tshi·ba·yi·ba·yi<p>/Chee-bah-ee-bah-ee/</p>",
-    PhoneticsT: "papillon | butterfly",
-    English2: "butterflies",
-    French2: "papillons",
-    Tshiluba2: "tshibayibayi",
-    PhoneticsT2: " ",
-    English3: "bibayibayi",
-    French3: " ",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-papillon <i class="PartOfSpch">n</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-butterfly <i class="PartOfSpch">n</i><br><br>
+    {
+        English: "butterfly",
+        French: "papillon",
+        Tshiluba: "tshibayibayi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·ba·yi·ba·yi<p>/Chee-bah-ee-bah-ee/</p>",
+        PhoneticsT: "papillon | butterfly",
+        English2: "butterflies",
+        French2: "papillons",
+        Tshiluba2: "tshibayibayi",
+        PhoneticsT2: " ",
+        English3: "bibayibayi",
+        French3: "tshibeyibeyi",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "bibeyibeyi",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    papillon <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    butterfly <i class="PartOfSpch">n</i><br><br>
 
-</td>
-<td class="tabledef" valign=top>
-tshibayibayi <i class="PartOfSpch">tshi9</i><br>
-<i class="PartOfSpch">pl</i> bibayibayi<br><br><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Les papillons sont connus pour leurs ailes aux couleurs vives et leurs motifs distinctifs. Ils ont un cycle de vie en quatre étapes composé d'œuf, de larve (chenille), de pupe (chrysalide) et d'adulte. Les papillons adultes ont deux paires d'ailes recouvertes de petites écailles, et ils possèdent une trompe enroulée utilisée pour se nourrir de nectar.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-Butterflies are known for their brightly colored wings and distinctive patterns. They have a four-stage life cycle consisting of egg, larva (caterpillar), pupa (chrysalis), and adult. Adult butterflies have two pairs of wings covered with tiny scales, and they possess a coiled proboscis used for feeding on nectar.
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
---------</p>
-<br><br></td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
-                <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
-                <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
-                <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
-                <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
-                <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
-                <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
-                <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
-                <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
-                <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
-                <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
-                <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
-                <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
-                <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
-                <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
-                <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
-                <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
-                <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
-                <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
-                <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
-                <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
-                <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
-                <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
-                <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
-                <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
-                <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
-                <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
-                <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
-                <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
-                <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
-                <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
-                <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
-                <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
-                <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
-                <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
-                <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
-                <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
-                <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
-                <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
-                <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
-                <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
-                <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
-                <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
-                <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
-<br><br></td>
-</tr>
-`
-},
+    </td>
+    <td class="tabledef" valign=top>
+    tshibayibayi <i class="PartOfSpch">tshi9</i><br>
+    <i class="PartOfSpch">pl</i> bibayibayi<br><br><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Les papillons sont connus pour leurs ailes aux couleurs vives et leurs motifs distinctifs. Ils ont un cycle de vie en quatre étapes composé d'œuf, de larve (chenille), de pupe (chrysalide) et d'adulte. Les papillons adultes ont deux paires d'ailes recouvertes de petites écailles, et ils possèdent une trompe enroulée utilisée pour se nourrir de nectar.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Butterflies are known for their brightly colored wings and distinctive patterns. They have a four-stage life cycle consisting of egg, larva (caterpillar), pupa (chrysalis), and adult. Adult butterflies have two pairs of wings covered with tiny scales, and they possess a coiled proboscis used for feeding on nectar.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Tshibikidilu*/   
     {
         English: "Substantive",
@@ -32751,6 +35817,154 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     </tr>
     `
     },
+    /*Tshibulubulu*/   
+    {
+        English: "bumblebee",
+        French: "bourdon",
+        Tshiluba: "tshibulubulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·bu·lu·bu·lu<p>/Chee-boo-loo-boo-loo/</p>",
+        PhoneticsT: "bourdon | bumblebee",
+        English2: "bumble bee",
+        French2: "bourdons",
+        Tshiluba2: "tshibulubulu",
+        PhoneticsT2: " ",
+        English3: "bibulubulu",
+        French3: "bumblebees",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "a bumblebee",
+        French4: "un bourdon",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "Bombus",
+        French5: "bombus bee",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "bumble",
+        French6: "humblebee",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bourdon <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bumblebee <i class="PartOfSpch">n</i><br>
+    Bombus bee <i class="PartOfSpch">n</i><br>
+
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshibulubulu <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bibulubulu <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINGULUNGU/">dingulungu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINTETEMBUE/">dintetembue</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un bourdon est une grande abeille velue et sociale appartenant au genre Bombus de la famille des Apidae, connue pour son bourdonnement distinctif, sa capacité à polliniser diverses cultures et plantes sauvages, et son habitude de former de petites colonies, généralement dans le sol ou dans des cavités.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A bumblebee is a large, fuzzy, social bee belonging to the genus Bombus within the family Apidae, known for its distinctive buzzing sound, ability to pollinate various crops and wild plants, and habit of forming small colonies, typically in the ground or in cavities.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Tshidimu*/   
     {
         English: "Year",
@@ -33200,7 +36414,7 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     </tr>
     `
     },
-        /*Tshikankanya*/   
+    /*Tshikankanya*/   
     {
         English: "heel",
         French: "talon du pied",
@@ -33343,7 +36557,7 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     </tr>
     `
     },
-        /*Tshikemu*/   
+    /*Tshikemu*/   
     {
         English: "Interjection",
         French: "Interjection",
@@ -34457,6 +37671,157 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
         </td>
         </tr>`
     },
+    /*Tshintunta*/   
+    {
+        English: "red termite larva (edible)",
+        French: "larve de termite rouge (comestible)",
+        Tshiluba: "tshintunta",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshin·tun·ta<p>/Cheen-toon-tah/</p>",
+        PhoneticsT: "larve de termite rouge | red termite larva",
+        English2: "red termite babies",
+        French2: "red termite larvae",
+        Tshiluba2: "tshintunta",
+        PhoneticsT2: " ",
+        English3: "bintunta",
+        French3: "red termite larva",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "larve de termite rouge",
+        French4: "jeune termite rouge",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "red termite younglings",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    larve de termite rouge (comestible) <i class="PartOfSpch">n</i><br>
+    jeune termite rouge <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    red termite larva <i class="PartOfSpch">n</i><br>
+    red termite babies <i class="PartOfSpch">n</i><br>
+    edible red termite younglings <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshintunta <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bintunta <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MANKENENA/">mankenena</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NSUA/">nsua</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une larve de termite est le stade de développement précoce d'un termite, suivant le stade de l'œuf, caractérisé par son apparence petite, pâle et au corps mou, mûrissant finalement en différentes castes telles que les ouvriers, les soldats ou les termites reproducteurs au sein d'une colonie de termites.<br>
+
+    Les larves de termites sont considérées comme un mets délicat et constituent une source importante de protéines et d'autres nutriments. Elles sont souvent récoltées, surtout pendant la saison des pluies lorsqu'elles sont plus abondantes, et peuvent être préparées de diverses manières, comme en les faisant frire, rôtir ou bouillir. Les larves de termites sont très appréciées dans les régimes alimentaires locaux et sont intégrées aux pratiques culinaires traditionnelles.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A termite larva is the early developmental stage of a termite, following the egg stage, characterized by its small, pale, and soft-bodied appearance, eventually maturing into different castes such as workers, soldiers, or reproductive termites within a termite colony. <br>
+    Termite larvae are considered a delicacy and are an important source of protein and other nutrients. They are often harvested, especially during the rainy season when they are more abundant, and can be prepared in various ways, such as frying, roasting, or boiling. Termite larvae are highly valued in local diets and are integrated into traditional culinary practices.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Tshinu*/   
     {
         English: "knee",
@@ -34913,6 +38278,152 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     <tr>
     ` 
     },
+    /*Tshipungulu*/   
+    {
+        English: "owl",
+        French: "chouette",
+        Tshiluba: "tshipungulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·pun·gu·lu<p>/Chee-poon-goo-loo/</p>",
+        PhoneticsT: "chouette | owl",
+        English2: "owls",
+        French2: "chouettes",
+        Tshiluba2: "tshipungulu",
+        PhoneticsT2: " ",
+        English3: "chat-huant",
+        French3: "chat huant",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "chouette hulotte",
+        French4: "tawny owl",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "small owl",
+        French5: "little owl",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chouette <i class="PartOfSpch">n</i><br>
+    chat-huant <i class="PartOfSpch">n</i><br>
+    chouette hulotte <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    owl <i class="PartOfSpch">n</i><br>
+    tawny owl <i class="PartOfSpch">n</i><br>
+    small owl <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshipungulu <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bipungulu<br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un chouette est un oiseau de proie nocturne caractérisé par ses grands yeux, son disque facial, son vol silencieux et sa capacité à tourner significativement la tête, appartenant à l'ordre des Strigiformes.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An owl is a nocturnal bird of prey characterized by its large eyes, facial disk, silent flight, and ability to rotate its head significantly, belonging to the order Strigiformes.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Tshisaka*/   
     {
         English: "basket",
@@ -35003,7 +38514,153 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     </tr>
     `
     },
-        /*Tshishikula*/  
+    /*Tshishenena*/   
+    {
+        English: "horned owl",
+        French: "hibou",
+        Tshiluba: "tshishenena",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·she·ne·na<p>/Chee-sheh-neh-nah/</p>",
+        PhoneticsT: "hibou | horned owl",
+        English2: "horned owls",
+        French2: "hiboux",
+        Tshiluba2: "tshishenena",
+        PhoneticsT2: " ",
+        English3: "bishenena",
+        French3: "tshishenene",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "bishenene",
+        French4: "big owl",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "large owl",
+        French5: "hibou cornu",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    hibou <i class="PartOfSpch">n</i><br>
+    hibou cornu <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    horned owl <i class="PartOfSpch">n</i><br>
+    large owl <i class="PartOfSpch">n</i><br>
+    big owl <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshishenena <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bishenena <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un hibou cornu est un type de hibou caractérisé par des touffes de plumes ressemblant à des cornes sur sa tête, faisant principalement référence au Grand-duc d'Amérique, un grand et puissant oiseau de proie trouvé dans les Amériques.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A horned owl is a type of owl characterized by tufts of feathers that resemble horns on its head, most notably referring to the Great Horned Owl, a large, powerful bird of prey found in the Americas.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Tshishikula*/  
     {
         English: "One Hundred Thousand",
         French: "Cent-Mille",
@@ -35532,6 +39189,130 @@ Butterflies are known for their brightly colored wings and distinctive patterns.
     </tr>
     <tr>
     ` 
+    },
+    /*Tshiviela*/   
+    {
+        English: "co-parent-in-law",
+        French: "beau-parent respectif",
+        Tshiluba: "tshiviela",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·vi·e·la<p>/Chee-vyeh-lah/</p>",
+        PhoneticsT: " ",
+        English2: "One's child's parent-in-law",
+        French2: "le beau-parent de son enfant",
+        Tshiluba2: " ",
+        PhoneticsT2: " ",
+        English3: "the parents of one's son-in-law",
+        French3: "parent-in-law of your son",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "parent-in-law of your child",
+        French4: "parent in law of your child",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "consuegro",
+        French5: "consuegra",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "consuoceri",
+        French6: "co-parents-in-law",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "beaux-parents respectifs",
+        French7: "co parent-in-law",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: "co-parent in-law",
+        French8: "co-parent inlaw",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: "beau parent respectif",
+        French9: "beaux parents respectifs",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: "consuegro",
+        French10: "consuoceri",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    beau-parent respectif <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    co-parent-in-law <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    Tshiviela <i class="PartOfSpch">tshi</i><br>
+    <i class="PartOfSpch">pl</i> batshiviela<br><br>
+
+    tangila:<br>
+    <a class="links" href="/alphabetindex/M/MAMUENU/">mamuenu</a><br>
+    <a class="links" href="/alphabetindex/T/TATU-MUENU/">tatu-muenu</a><br>
+    <a class="links" href="/alphabetindex/B/BUKONDA/">bukonda</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le beau-parent de l'enfant de quelqu'un. Ce terme fait référence à la relation entre les parents d'un couple marié, en reconnaissant la connexion entre les deux ensembles de parents. Il se réfère aux beaux-parents des deux parties dans un mariage, c'est-à-dire aux parents de la mariée et du marié. Il met en évidence la relation mutuelle entre les deux ensembles de parents. Il n'existe pas un mot unique en francais qui corresponde exactement à « tshiviela », mais en italien, « tshiviela » a une traduction directe en « consuoceri ».
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The parent-in-law of one's child. This term refers to the relationship between the parents of a married couple, acknowledging the connection between the two sets of parents. It refers to the parents-in-law of both parties in a marriage, meaning the parents of both the bride and the groom. It emphasizes the mutual relationship between the two sets of parents. There isn't a single word in English that exactly matches "tshiviela," but in Italian "tshiviela" has a direct translation as "consuoceri."
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+    <br><br></td>
+    </tr>
+    `
     },
     /*Tuasakidila*/   
     {
