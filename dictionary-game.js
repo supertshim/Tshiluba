@@ -12042,6 +12042,153 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+        /*Kakambishi*/   
+        {
+            English: "kitten",
+            French: "chaton",
+            Tshiluba: "kakambishi",
+            PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+            Phonetics: "Ka·ka·mbi·shi<p>/Kah-kah-mbee-shee/</p>",
+            PhoneticsT: "chaton | kitten",
+            English2: "kittens",
+            French2: "chatons",
+            Tshiluba2: "kakambishi",
+            PhoneticsT2: " ",
+            English3: "baby cat",
+            French3: "the kitten",
+            Tshiluba3: " ",
+            PhoneticsT3: " ",
+            English4: "le chaton",
+            French4: "small cat",
+            Tshiluba4: " ",
+            PhoneticsT4: " ",
+            English5: "little cat",
+            French5: "petit chat",
+            Tshiluba5: " ",
+            PhoneticsT5: " ",
+            English6: "young cat",
+            French6: "jeune chat",
+            Tshiluba6: " ",
+            PhoneticsT6: " ",
+            English7: "young cats",
+            French7: " ",
+            Tshiluba7: " ",
+            PhoneticsT7: " ",
+            English8: " ",
+            French8: " ",
+            Tshiluba8: " ",
+            PhoneticsT8: " ",
+            English9: " ",
+            French9: " ",
+            Tshiluba9: " ",
+            PhoneticsT9: " ",
+            English10: " ",
+            French10: " ",
+            Tshiluba10: " ",
+            PhoneticsT10: " ",
+            English11: " ",
+            French11: " ",
+            Tshiluba11: " ",
+            PhoneticsT11: " ",
+            InfoTable: `
+        <tr>
+                <th><u>Francais</th>
+                <th><u>English</th>
+                <th ><u>Tshiluba</th>
+        </tr>
+        <tr>
+        <td colspan="3" class="dividerspace"></td>
+        </tr>
+        <tr>
+        <td class="tabledef" valign=top >
+        chaton <i class="PartOfSpch">n</i><br>
+        petit chat <i class="PartOfSpch">n</i><br>
+        jeune chat <i class="PartOfSpch">n</i><br>
+        </td>
+        <td class="tabledef" valign=top>
+        kitten <i class="PartOfSpch">n</i><br>
+        little cat <i class="PartOfSpch">n</i><br>
+        baby cat <i class="PartOfSpch">n</i><br>
+        small cat <i class="PartOfSpch">n</i><br>
+        </td>
+        <td class="tabledef" valign=top>
+        kakambishi <i class="PartOfSpch">tshi6</i><br>
+        <i class="PartOfSpch">pl</i> tukambishi<br><br>
+    
+        tangila:<br>
+        <a style="text-decoration:none;" href="/alphabetindex/K/KAMBISHI/">kambishi</a><br>
+        </td>
+        </tr>
+        <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        --------</p>
+        <br><br></td>
+        </tr>
+        <tr>
+        <td class="tabledef_a" colspan="3">
+        <table class="h-lines" id="h-lines"></table>
+        <br>
+        <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                        :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                        <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                        <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                        <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                        <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                        <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                        <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                        <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                        <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                        <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                        <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                        <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                        <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                        <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                        <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                        <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                        <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                        <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                        <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                        <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                        <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                        <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                        <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                        <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                        <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                        <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                        <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                        <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                        <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                        <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                        <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                        <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                        <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                        <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                        <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                        <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                        <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                        <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+        <br><br></td>
+        </tr>
+        `
+        },
     /*Kaku*/   
     {
         English: "grandparent",
@@ -12242,6 +12389,155 @@ const nkongamiaku3 = [
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     A rabbit is a small, herbivorous mammal with long ears, a short fluffy tail, and strong hind legs, commonly found in a variety of habitats and known for its burrowing behavior and rapid reproduction. The Bunyoro rabbit or Central African rabbit (Poelagus marjorita) is a species of mammal in the family Leporidae. It is monotypic within the genus Poelagus. It is found in central Africa and its typical habitat is damp savannah, often with rocky outcrops.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kambishi*/   
+    {
+        English: "cat",
+        French: "chat",
+        Tshiluba: "kambishi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·mbi·shi<p>/Kah-mbee-shee/</p>",
+        PhoneticsT: "chat | cat",
+        English2: "cats",
+        French2: "chats",
+        Tshiluba2: "kambishi",
+        PhoneticsT2: " ",
+        English3: "a cat",
+        French3: "housecat",
+        Tshiluba3: "tumbishi",
+        PhoneticsT3: " ",
+        English4: "house cat",
+        French4: "chat domestique",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "mpusu",
+        French5: "kampusu",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chat <i class="PartOfSpch">n</i><br>
+    chat domestique <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    cat <i class="PartOfSpch">n</i><br>
+    housecat <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kambishi <i class="PartOfSpch">tshi6</i><br>
+    <i class="PartOfSpch">pl</i> tumbishi<br><br>
+
+    kabidi:<br>
+    mpusu<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAKAMBISHI/">kakambishi</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
@@ -12530,153 +12826,6 @@ const nkongamiaku3 = [
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     A mouse is a small, adaptable rodent known for its long tail, sharp incisors, and ability to thrive in various environments. They have significant interactions with humans, both beneficial and detrimental. 
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    --------</p>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
-                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
-                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
-                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
-                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
-                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
-                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
-                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
-                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
-                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
-                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
-                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
-                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
-                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
-                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
-                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
-                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
-                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
-                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
-                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
-                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
-                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
-                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
-                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
-                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*Kampusu*/   
-    {
-        English: "kitten",
-        French: "chaton",
-        Tshiluba: "kampusu",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Ka·mpu·su<p>/Kah-mpoo-soo/</p>",
-        PhoneticsT: "chaton | kitten",
-        English2: "kittens",
-        French2: "chatons",
-        Tshiluba2: "kampusu",
-        PhoneticsT2: " ",
-        English3: "baby cat",
-        French3: "the kitten",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "le chaton",
-        French4: "small cat",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "little cat",
-        French5: "petit chat",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: "young cat",
-        French6: "jeune chat",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: "young cats",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    chaton <i class="PartOfSpch">n</i><br>
-    petit chat <i class="PartOfSpch">n</i><br>
-    jeune chat <i class="PartOfSpch">n</i><br>
-    </td>
-    <td class="tabledef" valign=top>
-    kitten <i class="PartOfSpch">n</i><br>
-    little cat <i class="PartOfSpch">n</i><br>
-    baby cat <i class="PartOfSpch">n</i><br>
-    small cat <i class="PartOfSpch">n</i><br>
-    </td>
-    <td class="tabledef" valign=top>
-    kampusu <i class="PartOfSpch">tshi6</i><br>
-    <i class="PartOfSpch">pl</i> tumpusu<br><br>
-
-    tangila:<br>
-    <a style="text-decoration:none;" href="/alphabetindex/M/MPUSU/">mpusu</a><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-    A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
@@ -19074,149 +19223,6 @@ const nkongamiaku3 = [
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     A "rat" is a medium-sized rodent known for its long tail, sharp teeth, and adaptability to various environments. 
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    --------</p>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
-                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
-                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
-                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
-                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
-                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
-                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
-                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
-                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
-                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
-                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
-                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
-                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
-                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
-                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
-                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
-                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
-                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
-                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
-                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
-                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
-                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
-                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
-                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
-                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
-                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
-                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
-                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
-                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
-                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
-                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
-                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*Mpusu*/   
-    {
-        English: "cat",
-        French: "chat",
-        Tshiluba: "mpusu",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Mpu·su<p>/Mpoo-soo/</p>",
-        PhoneticsT: "chat | cat",
-        English2: "cats",
-        French2: "chats",
-        Tshiluba2: "mpusu",
-        PhoneticsT2: " ",
-        English3: " ",
-        French3: "the cat",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "le chat",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    chat <i class="PartOfSpch">n</i><br>
-    </td>
-    <td class="tabledef" valign=top>
-    cat <i class="PartOfSpch">n</i><br>
-
-    </td>
-    <td class="tabledef" valign=top>
-    mpusu <i class="PartOfSpch">tshi6</i><br>
-    <i class="PartOfSpch">pl</i> mpusu<br><br>
-
-    tangila:<br>
-    <a style="text-decoration:none;" href="/alphabetindex/K/KAMPUSU/">kampusu</a><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    Un chat est un petit mammifère carnivore domestiqué connu pour son comportement indépendant, son agilité et sa compagnie affectueuse envers les humains.
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-    A cat is a small domesticated carnivorous mammal known for its independent behavior, agility, and affectionate companionship with humans.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
