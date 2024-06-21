@@ -88,6 +88,126 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*-Akidila*/   
+    {
+        English: "to welcome [someone]",
+        French: "accueillir [qqn]",
+        Tshiluba: "kuakidila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·a·ki·di·la<p>/Kwah-kee-dee-lah/</p>",
+        PhoneticsT: "accueillir | to welcome",
+        English2: "to welcome",
+        French2: "accueillir",
+        Tshiluba2: "-akidila",
+        PhoneticsT2: " ",
+        English3: "welcome",
+        French3: "welcome someone",
+        Tshiluba3: "receive someone",
+        PhoneticsT3: " ",
+        English4: "kuakidile",
+        French4: "-akidile",
+        Tshiluba4: "akidile",
+        PhoneticsT4: " ",
+        English5: "akidila",
+        French5: "bienvenue",
+        Tshiluba5: "recueillir",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: "",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    accueillir <i class="PartOfSpch">v</i><br>
+    recueillir <i class="PartOfSpch">v</i><br>
+    souhaiter le bienvenue <i class="PartOfSpch">v</i><br>
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    to welcome [someone] <i class="PartOfSpch">v</i><br>
+    to receive [someone] <i class="PartOfSpch">v</i><br>
+
+    <td class="tabledef" valign=top >
+    kuakidila <i class="PartOfSpch">mn</i><br>
+    -akidila <br><br>
+
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    accueillez le dans la joie
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    joyfully welcome him 
+
+    <td class="tabledef" valign=top >
+    <i>Numuakidila</i> <a style="text-decoration:none;" href="/alphabetindex/N/NE/">ne</a> <a style="text-decoration:none;" href="/alphabetindex/D/DISANKA/">disanka</a> <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Accueillir » est un verbe qui signifie saluer quelqu'un de manière chaleureuse, amicale et hospitalière, ou montrer du plaisir et de l'acceptation à son arrivée ou à sa présence.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "To welcome" is a verb that means to greet someone in a warm, friendly, and hospitable manner, or to show pleasure and acceptance at their arrival or presence. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Akula*/  
     {
         English: "to speak",
@@ -3152,6 +3272,259 @@ const nkongamiaku3 = [
                     :<br>
                     &nbsp:&nbsp
     Tuetu tuenda mu bufike :
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Bufuku*/   
+    {
+        English: "night",
+        French: "nuit",
+        Tshiluba: "bufuku",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br>',
+        Phonetics: "Bu·fu·ku<p>/Boo-foo-koo/</p>",
+        PhoneticsT: "nuit | night",
+        English2: "nights",
+        French2: "nuits",
+        Tshiluba2: "bufuku",
+        PhoneticsT2: " ",
+        English3: "the night",
+        French3: "la nuit",
+        Tshiluba3: "mafuku",
+        PhoneticsT3: " ",
+        English4: "goodnight",
+        French4: "bonne nuit",
+        Tshiluba4: "bufuku bilenga",
+        PhoneticsT4: " ",
+        English5: "butuku",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nuit <i class="PartOfSpch">n</i><br>
+    la nuit <i class="PartOfSpch">nf</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    night <i class="PartOfSpch">n</i><br>
+    the night <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bufuku <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> mafuku <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    obscurité <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    darkness <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/B/BUFIKE/">bufike</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quarante nuits <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    forty nights <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mafuku <a style="text-decoration:none;" href="/alphabetindex/M/MAKUMI ANAYI/">makumi anayi</a> <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bonne nuit <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    goodnight <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bufuku <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">bulenga</a> <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nuit blanche <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    sleepless night <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bufuku bua <a style="text-decoration:none;" href="/alphabetindex/T/TSHITABALA/">tshitabala</a> <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La période de temps entre le coucher et le lever du soleil lorsque le ciel est sombre et que le soleil est sous l'horizon. Elle est caractérisée par l'absence de lumière du jour et généralement marquée par des températures plus basses et une visibilité réduite. Dans un sens culturel et métaphorique plus large, la nuit peut aussi se référer à l'obscurité ou à un moment de repos et de sommeil.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The period of time between sunset and sunrise when the sky is dark, and the sun is below the horizon. It is characterized by the absence of daylight and typically marked by lower temperatures and reduced visibility. In a broader cultural and metaphorical sense, night can also refer to darkness or a time of rest and sleep.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Buitshi*/   
+    {
+        English: "honey",
+        French: "miel",
+        Tshiluba: "buitshi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Bu·i·tshi<p>/Bwee-chee/</p>",
+        PhoneticsT: "miel | honey",
+        English2: "honeys",
+        French2: "du miel",
+        Tshiluba2: "buitshi",
+        PhoneticsT2: " ",
+        English3: "buiki",
+        French3: "le miel",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    miel <i class="PartOfSpch">n</i><br>
+    du miel <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    honey <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    buitshi <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> buitshi <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le miel est une substance douce et visqueuse produite par les abeilles et certains insectes apparentés à partir du nectar des fleurs. Ce produit naturel est principalement composé de sucres tels que le fructose et le glucose, et il contient également de l'eau, des vitamines, des minéraux et des antioxydants.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Honey is a sweet, viscous substance produced by bees and some related insects from the nectar of flowers. This natural product is composed primarily of sugars such as fructose and glucose, and it also contains water, vitamins, minerals, and antioxidants.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
     <br><br></td>
     </tr>
     `
@@ -13719,6 +14092,98 @@ const nkongamiaku3 = [
     <br><br></td>
     </tr>
     `
+    },
+    /*-Lamba*/  
+    {
+        English: "to cook",
+        French: "préparer",
+        Tshiluba: "kulamba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·lam·ba<p>/Koo-lahm-bah/</p>",
+        PhoneticsT: "cuisiner | to cook",
+        English2: "cook",
+        French2: "cuisiner",
+        Tshiluba2: "-lamba",
+        PhoneticsT2: " ",
+        English3: "preparer",
+        French3: "lamba",
+        Tshiluba3: "préparer à manger",
+        PhoneticsT3: " ",
+        English4: "cuisiner",
+        French4: "preparer a manger",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    préparer à manger <i class="PartOfSpch">v</i><br>
+    préparer <i class="PartOfSpch">v</i><br>
+    cuisiner <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to cook food <i class="PartOfSpch">v</i><br>
+    to cook <i class="PartOfSpch">v</i><br>
+    to grill <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulamba <i class="PartOfSpch">md</i><br>
+    -lamba <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Cuisiner » est un verbe qui signifie préparer des aliments en appliquant de la chaleur, transformant ainsi des ingrédients crus en plats prêts à être consommés. La cuisine peut impliquer diverses méthodes et techniques, et nécessite souvent l'utilisation d'outils et d'appareils.
+    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To cook is a verb that means to prepare food by applying heat, transforming raw ingredients into dishes that are ready to eat. Cooking can involve various methods and techniques, and it often requires the use of tools and appliances. 
+    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    ` 
     },
     /*-Leja*/  
     {
@@ -32790,6 +33255,130 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*-Puangane*/   
+    {
+        English: "to be perfect",
+        French: "être parfait",
+        Tshiluba: "kupuangane",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·pu·an·ga·ne<p>/Koop-wahn-gah-nah/</p>",
+        PhoneticsT: "être parfait | to be perfect",
+        English2: "to be flawless",
+        French2: "etre parfait",
+        Tshiluba2: "-puangane",
+        PhoneticsT2: " ",
+        English3: "etre parfaite",
+        French3: "être parfaite",
+        Tshiluba3: "puangane",
+        PhoneticsT3: " ",
+        English4: "puangana",
+        French4: "-puangana",
+        Tshiluba4: "kupuangana",
+        PhoneticsT4: " ",
+        English5: "dipuangane",
+        French5: "dipuangana",
+        Tshiluba5: "mupuangane",
+        PhoneticsT5: " ",
+        English6: "mupuangana",
+        French6: "tshipuangane",
+        Tshiluba6: "tshipuangana",
+        PhoneticsT6: " ",
+        English7: "être impeccable",
+        French7: "to be impeccable",
+        Tshiluba7: "be impeccable",
+        PhoneticsT7: " ",
+        English8: "be perfect",
+        French8: "be flawless",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    être parfait(e) <i class="PartOfSpch">v</i><br>
+    être sans défaut <i class="PartOfSpch">v</i><br>
+    être impeccable <i class="PartOfSpch">v</i><br>
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    to be perfect <i class="PartOfSpch">v</i><br>
+    to be flawless <i class="PartOfSpch">v</i><br>
+    to be impeccable <i class="PartOfSpch">v</i><br>
+
+    <td class="tabledef" valign=top >
+    kupuangane <i class="PartOfSpch">mn</i><br>
+    -puangane <br><br>
+
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISHIKI/">tshishiki</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    l'amour parfaite
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    perfect love
+
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINANGA/">dinanga</a> <i>dipuangane</i> <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Être parfait » signifie atteindre un état de perfection absolue, où il n'y a aucun défaut, aucune erreur ou imperfection. Cela désigne une excellence complète et totale dans tous les aspects.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "To be perfect" means to achieve a state of absolute flawlessness, where there are no defects, errors, or imperfections. It denotes complete and total excellence in every aspect.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Shakena*/   
     {
         English: "namesake",
@@ -33357,7 +33946,7 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
         </tr>
     `
     },
-        /*-Shipa*/   
+    /*-Shipa*/   
     {
         English: "to kill",
         French: "tuer",
@@ -38662,6 +39251,132 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
                     <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
                     <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Tshishiki*/   
+    {
+        English: "perfect",
+        French: "parfait",
+        Tshiluba: "tshishiki",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+        Phonetics: "Tshi·shi·ki<p>/Chee-shee-kee/</p>",
+        PhoneticsT: "parfait | perfect",
+        English2: "authentic",
+        French2: "authentique",
+        Tshiluba2: "tshishiki",
+        PhoneticsT2: " ",
+        English3: "parfaitement",
+        French3: "perfectly",
+        Tshiluba3: "authentiquement",
+        PhoneticsT3: " ",
+        English4: "flawless",
+        French4: "sans défaut",
+        Tshiluba4: "impeccable",
+        PhoneticsT4: " ",
+        English5: "parfaite",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    parfait(e) <i class="PartOfSpch">adj</i><br>
+    sans défaut <i class="PartOfSpch">adj</i><br>
+    impeccable <i class="PartOfSpch">adj</i><br>
+    authentique <i class="PartOfSpch">adj</i><br>
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    perfect <i class="PartOfSpch">adj</i><br>
+    flawless <i class="PartOfSpch">adj</i><br>
+    impeccable <i class="PartOfSpch">adj</i><br>
+    authentic <i class="PartOfSpch">adj</i><br>
+
+    <td class="tabledef" valign=top >
+    tshishiki <i class="PartOfSpch">mf</i><br>
+    --a tshishiki <br><br>
+
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PUANGANE/">kupuangane</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    unité parfaite
+
+    </td>
+
+    <td class="tabledef" valign=top>
+    perfect unity
+
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/B/BOBUMUE/">bobumue</a> bua <i>tshishiki</i> <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Parfait » est un adjectif utilisé pour décrire quelque chose ou quelqu'un qui est totalement exempt de défauts, de tares ou d'imperfections. Il désigne un état de complétude et d'excellence dans lequel rien ne peut être amélioré.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Perfect" is an adjective used to describe something or someone that is entirely free from flaws, defects, or imperfections. It denotes a state of completeness and excellence in which nothing can be improved.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
     <br><br></td>
     </tr>
     `

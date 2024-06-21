@@ -351,7 +351,7 @@ Kalonji's hand :
 </tr>
 `
 },
-/*-abanya*/   
+/*-Abanya*/   
 {
     English: "to share",
     French: "partager",
@@ -436,6 +436,273 @@ To give, divide, or distribute a part of something among multiple people so that
 <p class="explanation-tsh">
 Kupesha muntu tshitupa tshia tshintu, bua bintu bionso badi ne tshitupa tshimue. </p>
 </td>
+</tr>
+`
+},
+/*--Akane*/   
+{
+    English: "righteous",
+    French: "droit",
+    Tshiluba: "--akane",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "--a·ka·ne<p>/ahh-kah-nah/</p>",
+    PhoneticsT: "droit | righteous",
+    English2: "juste",
+    French2: "justifié",
+    Tshiluba2: "--akane",
+    PhoneticsT2: " ",
+    English3: "akane",
+    French3: "akana",
+    Tshiluba3: "muakane",
+    PhoneticsT3: " ",
+    English4: "tshiakane",
+    French4: "diakane",
+    Tshiluba4: "tshiakana",
+    PhoneticsT4: " ",
+    English5: "diakana",
+    French5: "muakana",
+    Tshiluba5: "tshakana",
+    PhoneticsT5: " ",
+    English6: "tshakane",
+    French6: "biakane",
+    Tshiluba6: "biakana",
+    PhoneticsT6: " ",
+    English7: "les justes",
+    French7: "buakane",
+    Tshiluba7: "right",
+    PhoneticsT7: " ",
+    English8: "exact",
+    French8: "just",
+    Tshiluba8: "Vertueux",
+    PhoneticsT8: " ",
+    English9: "idéal",
+    French9: "ideal",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+droit <i class="PartOfSpch">adj</i><br>
+juste <i class="PartOfSpch">adj</i><br>
+exact <i class="PartOfSpch">adj</i><br>
+vertueux <i class="PartOfSpch">adj</i><br>
+idéal <i class="PartOfSpch">adj</i><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+righteous <i class="PartOfSpch">adj</i><br>
+right <i class="PartOfSpch">adj</i><br>
+just <i class="PartOfSpch">adj</i><br>
+exact <i class="PartOfSpch">adj</i><br>
+ideal <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--akane <i class="PartOfSpch">mf</i><br>
+muakane <br>
+diakane <br>
+tshiakane <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/--IMPE/">--impe</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">--lenga</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGELE/">--lengele</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+le bon moment
+
+</td>
+
+<td class="tabledef" valign=top>
+the right time
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a> tshiakane <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+ce qui est juste
+
+</td>
+
+<td class="tabledef" valign=top>
+what is right
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHIKONDU/">tshidi</a> tshiakane <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Droit » est un adjectif utilisé pour décrire quelqu'un ou quelque chose qui est moralement juste ou justifiable. Il implique souvent une adhésion à des principes éthiques, un comportement vertueux et un engagement à faire ce qui est juste.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Righteous is an adjective used to describe someone or something that is morally right or justifiable. It often implies adherence to ethical principles, virtuous behavior, and a commitment to doing what is right.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+`
+},
+/*-Akidila*/   
+{
+    English: "to welcome [someone]",
+    French: "accueillir [qqn]",
+    Tshiluba: "kuakidila",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "Ku·a·ki·di·la<p>/Kwah-kee-dee-lah/</p>",
+    PhoneticsT: "accueillir | to welcome",
+    English2: "to welcome",
+    French2: "accueillir",
+    Tshiluba2: "-akidila",
+    PhoneticsT2: " ",
+    English3: "welcome",
+    French3: "welcome someone",
+    Tshiluba3: "receive someone",
+    PhoneticsT3: " ",
+    English4: "kuakidile",
+    French4: "-akidile",
+    Tshiluba4: "akidile",
+    PhoneticsT4: " ",
+    English5: "akidila",
+    French5: "bienvenue",
+    Tshiluba5: "recueillir",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: "",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+accueillir <i class="PartOfSpch">v</i><br>
+recueillir <i class="PartOfSpch">v</i><br>
+souhaiter le bienvenue <i class="PartOfSpch">v</i><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+to welcome [someone] <i class="PartOfSpch">v</i><br>
+to receive [someone] <i class="PartOfSpch">v</i><br>
+
+<td class="tabledef" valign=top >
+kuakidila <i class="PartOfSpch">mn</i><br>
+-akidila <br><br>
+
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+accueillez le dans la joie
+
+</td>
+
+<td class="tabledef" valign=top>
+joyfully welcome him 
+
+<td class="tabledef" valign=top >
+<i>Numuakidila</i> <a style="text-decoration:none;" href="/alphabetindex/N/NE/">ne</a> <a style="text-decoration:none;" href="/alphabetindex/D/DISANKA/">disanka</a> <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Accueillir » est un verbe qui signifie saluer quelqu'un de manière chaleureuse, amicale et hospitalière, ou montrer du plaisir et de l'acceptation à son arrivée ou à sa présence.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"To welcome" is a verb that means to greet someone in a warm, friendly, and hospitable manner, or to show pleasure and acceptance at their arrival or presence. 
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
 </tr>
 `
 },
@@ -1033,12 +1300,12 @@ ambulayi <a style="text-decoration:none;" href="/alphabetindex/T/TSHINTU/">bintu
     Tshiluba2: "-ambuluisha",
     PhoneticsT2: " ",
     English3: "ambuluisha",
-    French3: " ",
-    Tshiluba3: " ",
+    French3: "help",
+    Tshiluba3: "support",
     PhoneticsT3: " ",
     English4: "to support",
     French4: "soutenir",
-    Tshiluba4: " ",
+    Tshiluba4: "assist",
     PhoneticsT4: " ",
     English5: " ",
     French5: " ",
@@ -3605,6 +3872,260 @@ We walk in the darkness
                 :<br>
                 &nbsp:&nbsp
 Tuetu tuenda mu bufike :
+<br><br></td>
+</tr>
+`
+},
+/*Bufuku*/   
+{
+    English: "night",
+    French: "nuit",
+    Tshiluba: "bufuku",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br>',
+    Phonetics: "Bu·fu·ku<p>/Boo-foo-koo/</p>",
+    PhoneticsT: "nuit | night",
+    English2: "nights",
+    French2: "nuits",
+    Tshiluba2: "bufuku",
+    PhoneticsT2: " ",
+    English3: "the night",
+    French3: "la nuit",
+    Tshiluba3: "mafuku",
+    PhoneticsT3: " ",
+    English4: "goodnight",
+    French4: "bonne nuit",
+    Tshiluba4: "bufuku bilenga",
+    PhoneticsT4: " ",
+    English5: "butuku",
+    French5: "all-nighter",
+    Tshiluba5: "allnighter",
+    PhoneticsT5: " ",
+    English6: "all nighter",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+nuit <i class="PartOfSpch">n</i><br>
+la nuit <i class="PartOfSpch">nf</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+night <i class="PartOfSpch">n</i><br>
+the night <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+bufuku <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> mafuku <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+obscurité <br><br>
+
+</td>
+<td class="tabledef" valign=top>
+darkness <br>
+
+</td>
+<td class="tabledef" valign=top>
+<a style="text-decoration:none;" href="/alphabetindex/B/BUFIKE/">bufike</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+quarante nuits <br>
+
+</td>
+<td class="tabledef" valign=top>
+forty nights <br>
+
+</td>
+<td class="tabledef" valign=top>
+mafuku <a style="text-decoration:none;" href="/alphabetindex/M/MAKUMI ANAYI/">makumi anayi</a> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne nuit <br>
+
+</td>
+<td class="tabledef" valign=top>
+goodnight <br>
+
+</td>
+<td class="tabledef" valign=top>
+bufuku <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">bulenga</a> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+nuit blanche <br>
+
+</td>
+<td class="tabledef" valign=top>
+sleepless night <br>
+all-nighter <br>
+
+</td>
+<td class="tabledef" valign=top>
+bufuku bua <a style="text-decoration:none;" href="/alphabetindex/T/TSHITABALA/">tshitabala</a> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+La période de temps entre le coucher et le lever du soleil lorsque le ciel est sombre et que le soleil est sous l'horizon. Elle est caractérisée par l'absence de lumière du jour et généralement marquée par des températures plus basses et une visibilité réduite. Dans un sens culturel et métaphorique plus large, la nuit peut aussi se référer à l'obscurité ou à un moment de repos et de sommeil.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+The period of time between sunset and sunrise when the sky is dark, and the sun is below the horizon. It is characterized by the absence of daylight and typically marked by lower temperatures and reduced visibility. In a broader cultural and metaphorical sense, night can also refer to darkness or a time of rest and sleep.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+<br><br></td>
+</tr>
+`
+},
+/*Buitshi*/   
+{
+    English: "honey",
+    French: "miel",
+    Tshiluba: "buitshi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Bu·i·tshi<p>/Bwee-chee/</p>",
+    PhoneticsT: "miel | honey",
+    English2: "honeys",
+    French2: "du miel",
+    Tshiluba2: "buitshi",
+    PhoneticsT2: " ",
+    English3: "buiki",
+    French3: "le miel",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+miel <i class="PartOfSpch">n</i><br>
+du miel <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+honey <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+buitshi <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> buitshi <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le miel est une substance douce et visqueuse produite par les abeilles et certains insectes apparentés à partir du nectar des fleurs. Ce produit naturel est principalement composé de sucres tels que le fructose et le glucose, et il contient également de l'eau, des vitamines, des minéraux et des antioxydants.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Honey is a sweet, viscous substance produced by bees and some related insects from the nectar of flowers. This natural product is composed primarily of sugars such as fructose and glucose, and it also contains water, vitamins, minerals, and antioxidants.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 `
@@ -7248,14 +7769,14 @@ dikumi ne umwe, 11 <i class="PartOfSpch">tshi4</i><br>
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "a birth",
-    French4: " ",
+    French4: "happy birthday",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
+    English5: "anniversaire",
+    French5: "diledibwa",
+    Tshiluba5: "joyeux anniversaire",
     PhoneticsT5: " ",
-    English6: " ",
+    English6: "bonne anniversaire",
     French6: " ",
     Tshiluba6: " ",
     PhoneticsT6: " ",
@@ -7303,6 +7824,23 @@ diledibua <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne anniversaire<br>
+joyeux anniversaire<br><br>
+</td>
+
+<td class="tabledef" valign=top>
+happy birthday
+
+<td class="tabledef" valign=top >
+<i>diledibua</i> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
+
+</td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
@@ -7320,33 +7858,27 @@ La "naissance" fait référence au processus ou à l'acte de naître, de venir �
 <br><br></td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+jour de naissance
+</td>
+
+<td class="tabledef-1" valign=top>
+date of birth
+
+<td class="tabledef-1" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a> dia <i>diledibua</i><br><br>
+
+</td>
+</tr>
+<tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
                 :: <a class="links" href="/alphabetindex/L/-LELA/">kulela</a>    
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy" ><br>:
-Bonne Anniversaire!
-                :<br>
-                &nbsp:
-Happy Birthday!
-                :<br>
-                &nbsp:&nbsp
-Diledibua Dimpe! :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy" ><br>:
-Jour de naissance
-                :<br>
-                &nbsp:
-Date of birth
-                :<br>
-                &nbsp:&nbsp
-Dituku dia diledibua :
 <br><br></td>
 </tr>
 `
@@ -9326,10 +9858,33 @@ day <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 dituku <i class="PartOfSpch">tshi4</i><br>
-<i class="PartOfSpch">pl</i> matuku
+<i class="PartOfSpch">pl</i> matuku <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/B/BUFUKU/">bufuku</a>
 
 </td>
 </tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonjour <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+good day <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+dituku <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MOYO/">moyo</a><br>
+
+</td>
+</tr>
+
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
@@ -11847,6 +12402,189 @@ To produce musical sounds with the voice, typically using words and melodies.
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
+<br><br></td>
+</tr>
+`
+},
+/*--Impe*/   
+{
+    English: "well",
+    French: "bien",
+    Tshiluba: "--impe",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+    Phonetics: "--im·pe<p>/eem-pah/</p>",
+    PhoneticsT: "bien | well",
+    English2: "c'est bien",
+    French2: "well done",
+    Tshiluba2: "--impe",
+    PhoneticsT2: " ",
+    English3: "--impa",
+    French3: "impe",
+    Tshiluba3: "impa",
+    PhoneticsT3: " ",
+    English4: "bimpe",
+    French4: "bimpa",
+    Tshiluba4: "tshimpe",
+    PhoneticsT4: " ",
+    English5: "tshimpa",
+    French5: "dimpe",
+    Tshiluba5: "dimpa",
+    PhoneticsT5: " ",
+    English6: "muimpe",
+    French6: "muimpa",
+    Tshiluba6: "agréable",
+    PhoneticsT6: " ",
+    English7: "nice",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bien <i class="PartOfSpch">adv</i><br>
+bon <i class="PartOfSpch">adj</i><br>
+bonne <i class="PartOfSpch">adj</i><br>
+agréable <i class="PartOfSpch">adj</i><br>
+</td>
+
+<td class="tabledef" valign=top>
+well <i class="PartOfSpch">adv</i><br>
+good <i class="PartOfSpch">adj</i><br>
+enjoyable <i class="PartOfSpch">adj</i><br>
+nice <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--impe(a) <i class="PartOfSpch">mf</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">--lenga</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGELA/">--lengela</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne anniversaire
+</td>
+
+<td class="tabledef" valign=top>
+happy birthday
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DILEDIBUA/">diledibua</a> <i>dimpe</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bon homme
+</td>
+
+<td class="tabledef" valign=top>
+good man
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/M/MUNTU/">muntu</a> <i>muimpe</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne femme
+</td>
+
+<td class="tabledef" valign=top>
+good woman
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/M/MUKAJI/">mukaji</a> <i>muimpe</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+je vais bien
+</td>
+
+<td class="tabledef" valign=top>
+I am well
+
+<td class="tabledef" valign=top >
+ndi <i>bimpe</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le terme 'bon' est polyvalent et transmet des qualités positives, l'efficacité, la droiture morale, le bien-être et l'approbation selon le contexte dans lequel il est appliqué. En Tshiluba, les suffixes adjectivaux --impe et --lenga sont utilisés pour décrire quelque chose de 'bon'.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Good" is a versatile term that conveys positive qualities, effectiveness, moral righteousness, well-being, and approval depending on the context in which it is applied. In Tshiluba, both adjective suffixes --impe and --lenga are used to describe something "good."
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>, 
+                <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>,
+                <a class="links" href="/alphabetindex/K/--KUNZE/">--kunze</a>,
+                <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
+                <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
 <br><br></td>
 </tr>
 `
@@ -14535,14 +15273,19 @@ kampanda <i class="PartOfSpch">mup</i><br>
 <tr>
 <td class="tabledef" valign=top >
 quelqu'un <br>
-
+personne indéfinie <br>
+quidam <br>
 </td>
 <td class="tabledef" valign=top>
 someone <br>
+somebody <br>
+anyone <br>
+anybody <br>
+
 
 </td>
 <td class="tabledef" valign=top>
-muntu kampanda <br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUNTU/">muntu</a> kampanda <br>
 
 </td>
 </tr>
@@ -14559,7 +15302,7 @@ somewhere <br>
 
 </td>
 <td class="tabledef" valign=top>
-muaba kampanda <br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUABA/">muaba</a> kampanda <br>
 
 </td>
 </tr>
@@ -14576,7 +15319,7 @@ something <br>
 
 </td>
 <td class="tabledef" valign=top>
-tshintu kampanda <br><br>
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHINTU/">tshintu</a> kampanda <br>
 tshikampanda <br>
 
 </td>
@@ -15633,24 +16376,24 @@ Bena Yuda bavua bakuata muntu eu :
 </tr>
 `
 },
-/*-Leja*/  
+/*-Lamba*/  
 {
     English: "to cook",
-    French: "cuisiner",
-    Tshiluba: "Kuleja",
+    French: "préparer",
+    Tshiluba: "kulamba",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·le·ja<p>/Koo-leh-jah/</p>",
-    PhoneticsT: "montrer / To show",
-    English2: "show",
-    French2: " ",
-    Tshiluba2: "-leja",
+    Phonetics: "Ku·lam·ba<p>/Koo-lahm-bah/</p>",
+    PhoneticsT: "cuisiner | to cook",
+    English2: "cook",
+    French2: "cuisiner",
+    Tshiluba2: "-lamba",
     PhoneticsT2: " ",
-    English3: "-leja",
-    French3: "leja",
-    Tshiluba3: " ",
+    English3: "preparer",
+    French3: "lamba",
+    Tshiluba3: "préparer à manger",
     PhoneticsT3: " ",
-    English4: "faire montrer",
-    French4: " ",
+    English4: "cuisiner",
+    French4: "preparer a manger",
     Tshiluba4: " ",
     PhoneticsT4: " ",
     English5: " ",
@@ -15692,27 +16435,30 @@ Bena Yuda bavua bakuata muntu eu :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-montrer <i class="PartOfSpch">v</i><br>
-faire montrer <i class="PartOfSpch">v</i>
+préparer à manger <i class="PartOfSpch">v</i><br>
+préparer <i class="PartOfSpch">v</i><br>
+cuisiner <i class="PartOfSpch">v</i>
 </td>
 <td class="tabledef" valign=top >
-to show <i class="PartOfSpch">v</i><br>
+to cook food <i class="PartOfSpch">v</i><br>
+to cook <i class="PartOfSpch">v</i><br>
+to grill <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
-kuleja <i class="PartOfSpch">md</i><br>
--leja <i class="PartOfSpch">md</i>
+kulamba <i class="PartOfSpch">md</i><br>
+-lamba <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
-Montrer ou présenter quelque chose visuellement, auditivement ou de manière expérientielle à d'autres, leur permettant de le percevoir, de le comprendre ou de le constater. Cela implique de présenter ou révéler quelque chose à la perception ou à la conscience de quelqu'un d'autre.
+« Cuisiner » est un verbe qui signifie préparer des aliments en appliquant de la chaleur, transformant ainsi des ingrédients crus en plats prêts à être consommés. La cuisine peut impliquer diverses méthodes et techniques, et nécessite souvent l'utilisation d'outils et d'appareils.
 </p>
 <br><br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
-To display or present something to others visually, audibly, or experientially, allowing them to perceive, understand, or witness it. It involves presenting or revealing something to someone else's perception or awareness.
+To cook is a verb that means to prepare food by applying heat, transforming raw ingredients into dishes that are ready to eat. Cooking can involve various methods and techniques, and it often requires the use of tools and appliances. 
 </p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
@@ -15720,48 +16466,7 @@ To display or present something to others visually, audibly, or experientially, 
 -----</p>
 <br><br></td>
 </tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/D/DINANGA/">tshilejilu</a>  
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy">
-<b>Mpindekenu</b><br>
-Conjugaison | Conjugation<br><br>
-<b>ndi ndeja</b>
-<br>Je montre | I'm showing <br><br>
-
-<b>udi uleja</b>
-<br>tu montres | you're showing<br><br>
-
-<b>udi uleja</b><br>
-il/elle montre | he/she's showing<br><br>
-
-<b>tudi tuleja</b><br>
-nous montrons | we're showing<br><br>
-
-<b>nudi nuleja</b><br>
-vous montrez | you're showing<br><br>
-
-<b>badi baleja</b><br>
-ils montrent | they're showing<br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-Tu as commencé à montrer à ton serviteur ta grandeur
-            <br><br>
-You have begun to show to your servant your greatness 
-            <br><br>
-Udi mutuadija kuleja muena mudimu webe bunene buebe
-
-<br><br></td>
-</tr>
-<tr>` 
+` 
 },
 /*-Leja*/  
 {
@@ -15996,6 +16701,304 @@ Adam begat a son
                 :<br>
                 &nbsp:&nbsp
 Adama wakalela muana wa balume :
+<br><br></td>
+</tr>
+`
+},
+/*--Lenga*/   
+{
+    English: "good",
+    French: "bon",
+    Tshiluba: "--lenga",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "--len·ga<p>/len-gah/</p>",
+    PhoneticsT: "bon | good",
+    English2: "le bon",
+    French2: "the good",
+    Tshiluba2: "--lenga",
+    PhoneticsT2: " ",
+    English3: "dilenga",
+    French3: "mulenga",
+    Tshiluba3: "lenga",
+    PhoneticsT3: " ",
+    English4: "bulenga",
+    French4: "--lenge",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "lenge",
+    French5: "tshilenga",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bon <i class="PartOfSpch">adj</i><br>
+bonne <i class="PartOfSpch">adj</i>
+</td>
+
+<td class="tabledef" valign=top>
+good <i class="PartOfSpch">adj</i>
+
+<td class="tabledef" valign=top >
+--lenga <i class="PartOfSpch">mf</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/--IMPE/">--impe</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGELA/">--lengela</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne journée
+</td>
+
+<td class="tabledef" valign=top>
+good day
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a> <i>dilenga</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonsoir
+</td>
+
+<td class="tabledef" valign=top>
+good evening
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DILOLU/">dilolu</a> <i>dilenga</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne nuit
+</td>
+
+<td class="tabledef" valign=top>
+goodnight
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/B/BUFUKU/">bufuku</a> <i>bulenga</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne anniversaire
+</td>
+
+<td class="tabledef" valign=top>
+happy birthday
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DILEDIBUA/">diledibua</a> <i>dilenga</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne année
+</td>
+
+<td class="tabledef" valign=top>
+happy new year
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHIDIMU/">tshidimu</a> <i>tshilenga</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le terme 'bon' est polyvalent et transmet des qualités positives, l'efficacité, la droiture morale, le bien-être et l'approbation selon le contexte dans lequel il est appliqué. En Tshiluba, les suffixes adjectivaux --impe et --lenga sont utilisés pour décrire quelque chose de 'bon'.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Good" is a versatile term that conveys positive qualities, effectiveness, moral righteousness, well-being, and approval depending on the context in which it is applied. In Tshiluba, both adjective suffixes --impe and --lenga are used to describe something "good."
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>, 
+                <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>,
+                <a class="links" href="/alphabetindex/K/--KUNZE/">--kunze</a>,
+                <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
+                <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
+<br><br></td>
+</tr>
+`
+},
+/*--Lengele*/   
+{
+    English: "beautiful",
+    French: "beau",
+    Tshiluba: "--lengele",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "--len·ge·le<p>/len-geh-lah/</p>",
+    PhoneticsT: "belle | beautiful",
+    English2: " ",
+    French2: "belle",
+    Tshiluba2: "--lengele",
+    PhoneticsT2: " ",
+    English3: "lengele",
+    French3: "lengela",
+    Tshiluba3: "mulengele",
+    PhoneticsT3: " ",
+    English4: "tshilengele",
+    French4: "dilengele",
+    Tshiluba4: "tshilengela",
+    PhoneticsT4: " ",
+    English5: "dilengela",
+    French5: "mulengela",
+    Tshiluba5: "pretty",
+    PhoneticsT5: " ",
+    English6: "mignon",
+    French6: "mignonne",
+    Tshiluba6: "cute",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+beau <i class="PartOfSpch">adj</i><br>
+belle <i class="PartOfSpch">adj</i><br>
+mignon <i class="PartOfSpch">adj</i><br>
+mignonne <i class="PartOfSpch">adj</i><br>
+</td>
+
+<td class="tabledef" valign=top>
+beautiful <i class="PartOfSpch">adj</i><br>
+handsome <i class="PartOfSpch">adj</i><br>
+cute <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--lengele <i class="PartOfSpch">mf</i><br>
+mulengele <br>
+dilengele <br>
+tshilengele <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/--IMPE/">--impe</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">--lenga</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Beau » est un adjectif utilisé pour décrire quelque chose qui plaît aux sens ou à l'esprit esthétiquement. Il fait souvent référence à des qualités telles que l'harmonie, la proportion et l'attrait qui évoquent un sentiment de plaisir et d'admiration.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Beautiful" is an adjective used to describe something that pleases the senses or the mind aesthetically. It often refers to qualities such as harmony, proportion, and attractiveness that evoke a sense of delight and admiration.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 `
@@ -28043,15 +29046,15 @@ Ditunga dia Kongu wa Mungalata :
     PhoneticsT6: " ",
     English7: "quelque's uns",
     French7: "a person",
-    Tshiluba7: " ",
+    Tshiluba7: "anybody",
     PhoneticsT7: " ",
     English8: "une personne",
     French8: "un peuple",
-    Tshiluba8: " ",
+    Tshiluba8: "anyone",
     PhoneticsT8: " ",
     English9: "peoples",
-    French9: " ",
-    Tshiluba9: " ",
+    French9: "quidam",
+    Tshiluba9: "somebody",
     PhoneticsT9: " ",
     English10: " ",
     French10: " ",
@@ -28093,12 +29096,16 @@ muntu <i class="PartOfSpch">n</i><br>
 <tr>
 <td class="tabledef" valign=top >
 quelq'un <i class="PartOfSpch">pron</i> <br>
+quidam <i class="PartOfSpch">pron</i> <br>
 </td>
 <td class="tabledef" valign=top > 
 someone <i class="PartOfSpch">pron</i> <br>
+somebody <i class="PartOfSpch">pron</i> <br>
+anyone <i class="PartOfSpch">pron</i> <br>
+anybody <i class="PartOfSpch">pron</i> <br>
 </td>
 <td class="tabledef" valign=top >
-muntu kampanda<br><br>
+muntu <a style="text-decoration:none;" href="/alphabetindex/K/KAMPANDA/">kampanda</a><br>
 </td>
 </tr>
 
@@ -31619,6 +32626,161 @@ La lune et les étoiles pour gouverner la nuit
 The moon and stars to rule the night
                 <br>
 Ngondu ne mitotu bua kukokeshabi butuku
+<br><br></td>
+</tr>
+`
+},
+/*Ngulube*/   
+{
+    English: "pig",
+    French: "cochon",
+    Tshiluba: "ngulube",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Ngu·lu·be<p>/Ngoo-loo-bah/</p>",
+    PhoneticsT: "cochon | pig",
+    English2: "pigs",
+    French2: "cochonne",
+    Tshiluba2: "ngulube",
+    PhoneticsT2: " ",
+    English3: "pork",
+    French3: "porc",
+    Tshiluba3: "nguluba",
+    PhoneticsT3: " ",
+    English4: "hog",
+    French4: "swine",
+    Tshiluba4: "hogs",
+    PhoneticsT4: " ",
+    English5: "boar",
+    French5: "wild boar",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+cochon <i class="PartOfSpch">n</i><br>
+cochonne <i class="PartOfSpch">n</i><br>
+porc <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+pig <i class="PartOfSpch">n</i><br>
+pork <i class="PartOfSpch">n</i><br>
+hog <i class="PartOfSpch">n</i><br>
+boar <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+ngulube <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> ngulube<br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/K/KANGULUBE/">kangulube</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un léopard (Panthera pardus) est un grand félin carnivore appartenant au genre Panthera. Originaire d'Afrique subsaharienne et de certaines régions d'Asie, le léopard est connu pour son pelage tacheté, qui offre un camouflage efficace dans ses habitats forestiers et de savane.<br><br>
+
+Le terme "panthère" ne désigne pas une espèce distincte mais est souvent utilisé pour décrire les individus mélanistiques (noirs) de l'espèce appartenant au genre Panthera. Plus précisément, un léopard noir ou un jaguar noir (présent en Amérique) est souvent appelé "panthère".
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A leopard (Panthera pardus) is a large, carnivorous feline belonging to the genus Panthera. It is native to sub-Saharan Africa and parts of Asia. Leopards are known for their spotted coat, which provides effective camouflage in their forest and savannah habitats.<br><br>
+The term "panther" does not refer to a separate species but is often used to describe melanistic (black) individuals of the species within the genus Panthera. Specifically, a black leopard or a black jaguar (found in the Americas) is often referred to as a "panther."
+
+
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+<br><br></td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
 <br><br></td>
 </tr>
 `
@@ -36172,6 +37334,130 @@ Pinganayi ku ndi, ne meme nempingane ku nudi :
 </tr>
 `
 },
+/*-Puangane*/   
+{
+    English: "to be perfect",
+    French: "être parfait",
+    Tshiluba: "kupuangane",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "Ku·pu·an·ga·ne<p>/Koop-wahn-gah-nah/</p>",
+    PhoneticsT: "être parfait | to be perfect",
+    English2: "to be flawless",
+    French2: "etre parfait",
+    Tshiluba2: "-puangane",
+    PhoneticsT2: " ",
+    English3: "etre parfaite",
+    French3: "être parfaite",
+    Tshiluba3: "puangane",
+    PhoneticsT3: " ",
+    English4: "puangana",
+    French4: "-puangana",
+    Tshiluba4: "kupuangana",
+    PhoneticsT4: " ",
+    English5: "dipuangane",
+    French5: "dipuangana",
+    Tshiluba5: "mupuangane",
+    PhoneticsT5: " ",
+    English6: "mupuangana",
+    French6: "tshipuangane",
+    Tshiluba6: "tshipuangana",
+    PhoneticsT6: " ",
+    English7: "être impeccable",
+    French7: "to be impeccable",
+    Tshiluba7: "be impeccable",
+    PhoneticsT7: " ",
+    English8: "be perfect",
+    French8: "be flawless",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+être parfait(e) <i class="PartOfSpch">v</i><br>
+être sans défaut <i class="PartOfSpch">v</i><br>
+être impeccable <i class="PartOfSpch">v</i><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+to be perfect <i class="PartOfSpch">v</i><br>
+to be flawless <i class="PartOfSpch">v</i><br>
+to be impeccable <i class="PartOfSpch">v</i><br>
+
+<td class="tabledef" valign=top >
+kupuangane <i class="PartOfSpch">mn</i><br>
+-puangane <br><br>
+
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHISHIKI/">tshishiki</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+l'amour parfaite
+
+</td>
+
+<td class="tabledef" valign=top>
+perfect love
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DINANGA/">dinanga</a> <i>dipuangane</i> <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Être parfait » signifie atteindre un état de perfection absolue, où il n'y a aucun défaut, aucune erreur ou imperfection. Cela désigne une excellence complète et totale dans tous les aspects.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"To be perfect" means to achieve a state of absolute flawlessness, where there are no defects, errors, or imperfections. It denotes complete and total excellence in every aspect.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+`
+},
 /*Shakena*/   
 {
     English: "namesake",
@@ -39559,10 +40845,10 @@ A bumblebee is a large, fuzzy, social bee belonging to the genus Bombus within t
     Tshiluba3: " ",
     PhoneticsT3: " ",
     English4: "Ans",
-    French4: " Bidimu",
+    French4: "Bidimu",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
+    English5: "bonne ",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -39613,6 +40899,28 @@ bidimu
 </td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonne année
+</td>
+
+<td class="tabledef" valign=top>
+happy new year
+
+<td class="tabledef" valign=top >
+<i>tshidimu</i> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">tshilenga</a><br><br>
+
+</td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
@@ -39643,17 +40951,21 @@ Conventional duration close to the period of revolution of the Earth around the 
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy" ><br>:
-L'annee 1999
-                :<br>
-                &nbsp:
-The year 1999
-                :<br>
-                &nbsp:&nbsp
-Tshidimu tshia 1999 :
-<br><br></td>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
+<td class="tabledef-1" valign=top >
+L'année mille neuf-cents quatre-vingt-dix-neuf (1999)
+</td>
+
+<td class="tabledef-1" valign=top>
+the year nineteen hundred and ninety nine (1999)
+
+<td class="tabledef-1" valign=top >
+<i>tshidimu</i> <a style="text-decoration:none;" href="/alphabetindex/T/TSHINUNU/">tshinunu</a> <a style="text-decoration:none;" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema</a> <a style="text-decoration:none;" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema</a> ne <a style="text-decoration:none;" href="/alphabetindex/T/TSHITEMA/">tshitema</a> (1999) <br><br>
+
+</td>
+</tr>
 `
 },
 /*Tshifu*/   
@@ -42416,6 +43728,132 @@ A horned owl is a type of owl characterized by tufts of feathers that resemble h
                 <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
                 <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+<br><br></td>
+</tr>
+`
+},
+/*Tshishiki*/   
+{
+    English: "perfect",
+    French: "parfait",
+    Tshiluba: "tshishiki",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "Tshi·shi·ki<p>/Chee-shee-kee/</p>",
+    PhoneticsT: "parfait | perfect",
+    English2: "authentic",
+    French2: "authentique",
+    Tshiluba2: "tshishiki",
+    PhoneticsT2: " ",
+    English3: "parfaitement",
+    French3: "perfectly",
+    Tshiluba3: "authentiquement",
+    PhoneticsT3: " ",
+    English4: "flawless",
+    French4: "sans défaut",
+    Tshiluba4: "impeccable",
+    PhoneticsT4: " ",
+    English5: "parfaite",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+parfait(e) <i class="PartOfSpch">adj</i><br>
+sans défaut <i class="PartOfSpch">adj</i><br>
+impeccable <i class="PartOfSpch">adj</i><br>
+authentique <i class="PartOfSpch">adj</i><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+perfect <i class="PartOfSpch">adj</i><br>
+flawless <i class="PartOfSpch">adj</i><br>
+impeccable <i class="PartOfSpch">adj</i><br>
+authentic <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+tshishiki <i class="PartOfSpch">mf</i><br>
+--a tshishiki <br><br>
+
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/P/-PUANGANE/">kupuangane</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+unité parfaite
+
+</td>
+
+<td class="tabledef" valign=top>
+perfect unity
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/B/BOBUMUE/">bobumue</a> bua <i>tshishiki</i> <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Parfait » est un adjectif utilisé pour décrire quelque chose ou quelqu'un qui est totalement exempt de défauts, de tares ou d'imperfections. Il désigne un état de complétude et d'excellence dans lequel rien ne peut être amélioré.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Perfect" is an adjective used to describe something or someone that is entirely free from flaws, defects, or imperfections. It denotes a state of completeness and excellence in which nothing can be improved.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 `
