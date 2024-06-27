@@ -17419,11 +17419,11 @@ Bena Yuda bavua bakuata muntu eu :
     PhoneticsT4: " ",
     English5: "devenir désuet",
     French5: "devenir démodé",
-    Tshiluba5: " ",
+    Tshiluba5: "to get old",
     PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
+    English6: "get old",
+    French6: "grow old",
+    Tshiluba6: "grow older",
     PhoneticsT6: " ",
     English7: " ",
     French7: " ",
@@ -38720,7 +38720,7 @@ A building designed or used for living in, typically providing shelter for indiv
     PhoneticsT3: " ",
     English4: "se baigner",
     French4: "kuowa mayi",
-    Tshiluba4: " ",
+    Tshiluba4: "owa",
     PhoneticsT4: " ",
     English5: " ",
     French5: " ",
@@ -38779,6 +38779,12 @@ kuowa <i class="PartOfSpch">md</i><br>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
 <td class="tabledef" valign=top >
 se laver les pieds
 
@@ -38787,7 +38793,7 @@ se laver les pieds
 to wash ones feet
 </td>
 <td class="tabledef" valign=top >
-kuowa mayi ku makasa
+kuowa <a style="text-decoration:none;" href="/alphabetindex/M/MAYI/">mayi</a> ku <a style="text-decoration:none;" href="/alphabetindex/D/DIKASA/">makasa</a>
 </td>
 </tr>
 <tr>
@@ -38802,7 +38808,7 @@ se laver les mains
 to wash ones hands
 </td>
 <td class="tabledef" valign=top >
-kuowa mayi ku bianza
+kuowa <a style="text-decoration:none;" href="/alphabetindex/M/MAYI/">mayi</a> ku <a style="text-decoration:none;" href="/alphabetindex/T/TSHIANZA/">bianza</a>
 </td>
 </tr>
 <tr>
@@ -47191,7 +47197,7 @@ The parent-in-law of one's child. This term refers to the relationship between t
     PhoneticsT5: " ",
     English6: "to commence",
     French6: "commence",
-    Tshiluba6: " ",
+    Tshiluba6: "tuadija",
     PhoneticsT6: " ",
     English7: " ",
     French7: " ",
@@ -48271,7 +48277,7 @@ function maininpt(){
     console.log(firstLetter);
     AlphaLocation = `../alphabetindex/${firstLetter}/${decodeWord}/`;
     console.log(AlphaLocation);
-    window.location.href = (AlphaLocation);
+    /*window.location.href = (AlphaLocation);*/
 }    
 
 
