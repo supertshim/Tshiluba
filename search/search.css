@@ -214,6 +214,16 @@ a.links:visited {
     font-weight: 700;
     font-size: 22px;
 }
+
+.header .card .tablewrapper .Xinfo .tabledef-1{
+    font-family:'Tinos', sans-serif;
+    padding-left: 10px;
+    position: relative;
+    text-align: left;
+    font-weight: 400;
+    font-size: 22px;
+}
+
 .header .card .tablewrapper .Xinfo .tabledef_a{
     font-family:'Tinos', sans-serif;
     padding: 2px;
@@ -631,7 +641,7 @@ a.links:visited {
 @media(max-width: 700px){
 
     .sidebar-container{
-        top:30px;
+        top:70px;
         display: block !important;
         justify-content: center;
         align-items: center;
@@ -804,6 +814,18 @@ a.links:visited {
     /*background-color: green;*/
 }
 
+.header .card .tablewrapper .Xinfo .tabledef-1{
+    font-family:'Tinos', sans-serif;
+    position: relative;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 4.2vw;
+    text-align: left;
+    word-wrap: break-word;
+    width: 30vw;
+    /*background-color: green;*/
+}
+
 
 .header .card .tablewrapper .Xinfo tr th{
     font-family:'Jost', sans-serif;
@@ -882,7 +904,7 @@ a.links:visited {
 
 
     .header .sidebar-container {
-        width: 80%;
+        width: 90%;
         display: block;
         margin-left: auto;
         margin-right: auto;
