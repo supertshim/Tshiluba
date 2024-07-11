@@ -2797,6 +2797,171 @@ const nkongamiaku3 = [
     <br><br></td>
     </tr>` 
     },
+    /*Bobo*/   
+    {
+        English: "them",
+        French: "eux",
+        Tshiluba: "bobo",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "bo·bo<p>/boh-boh/</p>",
+        PhoneticsT: "eux | them",
+        English2: " ",
+        French2: "bobu",
+        Tshiluba2: "bobo",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "they too",
+        French4: "them too",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: "chez eux",
+        Tshiluba5: "bobo biabo",
+        PhoneticsT5: " ",
+        English6: "biabo",
+        French6: "kuabo",
+        Tshiluba6: "nabo",
+        PhoneticsT6: " ",
+        English7: "ils",
+        French7: "elles",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    eux <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    them <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bobo <i class="PartOfSpch">mup</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/A/--ABO/">--abo</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez eux <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at their house <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuabo <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    ce sont eux <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's them <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mbobo <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avec eux <br>
+    </td>
+    <td class="tabledef" valign=top>
+    with them <br>
+    </td>
+    <td class="tabledef" valign=top>
+    nabo <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    eux aussi <br>
+    </td>
+    <td class="tabledef" valign=top>
+    them too <br>
+    </td>
+    <td class="tabledef" valign=top>
+    bobo biabo <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Bobo » est un pronom en langue anglaise qui se réfère à un groupe de personnes, d'animaux ou de choses qui ont déjà été mentionnés ou sont compris dans le contexte. C'est la forme plurielle de la troisième personne à l'accusatif, utilisée comme objet d'un verbe ou d'une préposition.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Bobo" is a pronoun in the English language that refers to a group of people, animals, or things that have already been mentioned or are understood from context. It is the third-person plural form in the objective case, used as the object of a verb or preposition.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Bowa*/   
     {
         English: "fear",
@@ -5786,6 +5951,117 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Dikalu*/   
+    {
+        English: "bicycle",
+        French: "vélo",
+        Tshiluba: "dikalu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Di·ka·lu<p>/DJEE-kah-loo/</p>",
+        PhoneticsT: "bicycle | vélo",
+        English2: "bike",
+        French2: "bicyclette",
+        Tshiluba2: "dikalu",
+        PhoneticsT2: " ",
+        English3: "makalu",
+        French3: "le velo",
+        Tshiluba3: "velo",
+        PhoneticsT3: " ",
+        English4: "a bike",
+        French4: "the bike",
+        Tshiluba4: "a bicycle",
+        PhoneticsT4: " ",
+        English5: "bicycliste",
+        French5: "muena dikalu",
+        Tshiluba5: "cycliste",
+        PhoneticsT5: " ",
+        English6: "cyclist",
+        French6: "bike rider",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bicyclette <i class="PartOfSpch">n</i><br>
+    vélo <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bicycle <i class="PartOfSpch">n</i><br>
+    bike <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    dikalu <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> makalu<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cycliste <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    cyclist <i class="PartOfSpch">n</i><br>
+    bike rider
+    </td>
+    <td class="tabledef" valign=top>
+    muena dikalu <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une dikalu (bicyclette), souvent appelée vélo, est un véhicule à propulsion humaine ou motorisée avec deux roues attachées à un cadre, l'une derrière l'autre. Les bicyclettes sont utilisées pour le transport, la récréation, l'exercice et le sport.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A dikalu (bicycle), often referred to as a bike, is a human-powered or motor-powered vehicle with two wheels attached to a frame, one behind the other. Bicycles are used for transportation, recreation, exercise, and sport. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Dikasa*/   
     {
         English: "foot",
@@ -8394,20 +8670,20 @@ const nkongamiaku3 = [
     </tr>
     `
     },
-    /*Ditabuja*/  
+    /*Ditaba*/  
     {
-        English: "Faith",
-        French: "Foi",
-        Tshiluba: "Ditabuja",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Di·ta·bu·jah<p>/Djee-tah-boo-jah/</p>",
-        PhoneticsT: "Foi / Faith",
+        English: "Belief",
+        French: "croyance",
+        Tshiluba: "Ditaba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Di·ta·ba<p>/Djee-tah-bah/</p>",
+        PhoneticsT: "Croyance | Belief",
         English2: "Belief",
         French2: "croyance",
-        Tshiluba2: " ",
+        Tshiluba2: "ditaba",
         PhoneticsT2: " ",
         English3: "conviction",
-        French3: "confidence",
+        French3: " ",
         Tshiluba3: " ",
         PhoneticsT3: " ",
         English4: " ",
@@ -8453,32 +8729,141 @@ const nkongamiaku3 = [
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    foi <i class="PartOfSpch">n</i><br>
     croyance <i class="PartOfSpch">n</i><br>
+    foi <i class="PartOfSpch">n</i><br>
     conviction <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    belief <i class="PartOfSpch">n</i><br>
+    faith <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    ditaba <i class="PartOfSpch">tshi</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITABUJA/">ditabuja</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A strong belief or trust in something without necessarily having proof or evidence.
+    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    ` 
+    },
+    /*Ditabuja*/  
+    {
+        English: "Faith",
+        French: "la foi",
+        Tshiluba: "Ditabuja",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Di·ta·bu·ja<p>/Djee-tah-boo-jah/</p>",
+        PhoneticsT: "Foi / Faith",
+        English2: "Belief",
+        French2: "croyance",
+        Tshiluba2: "ditabuja",
+        PhoneticsT2: " ",
+        English3: "conviction",
+        French3: "foi",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    la foi <i class="PartOfSpch">n</i><br>
     </td>
     <td class="tabledef" valign=top >
     faith <i class="PartOfSpch">n</i><br>
     belief <i class="PartOfSpch">n</i><br>
-    confidence <i class="PartOfSpch">n</i><br>
     </td>
     <td class="tabledef" valign=top >
-    ditabuja <i class="PartOfSpch">tshi</i>
+    ditabuja <i class="PartOfSpch">tshi</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITABA/">ditaba</a><br>
     </td>
     </tr>
-    <tr style="text-align:left";>
+    <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
-<p class="explanation-fr">
+    <p class="explanation-fr">
     Une forte croyance ou confiance en quelque chose sans nécessairement avoir de preuve ou d'évidence.
+    </p>
     <br><br>
     <b><i>Explanation</i></b><br>
-<p class="explanation-en">
+    <p class="explanation-en">
     A strong belief or trust in something without necessarily having proof or evidence.
+    </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-    -----
+    <p class="explanation-tsh">
+    -----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+    :: <a class="links" href="/alphabetindex/D/DINANGA/">dinanga</a>, 
+    <a class="links" href="/alphabetindex/D/DINDILA/">dindila</a>, 
+    <a class="links" href="/alphabetindex/D/DITEKEMENA/">ditekemena</a>,
+    <a class="links" href="/alphabetindex/E/-EYEMENA/">kueyemena</a>,
+    <a class="links" href="/alphabetindex/I/-INDILA/">kuindila</a>,
+    <a class="links" href="/alphabetindex/I/-ITABUJA/">kuitabuja</a>,
+    <a class="links" href="/alphabetindex/T/-TEKEMENA/">kutekemena</a>   
     <br><br></td>
     </tr>
     <tr>
@@ -13520,6 +13905,154 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Kakutukutu*/   
+    {
+        English: "tawny owl",
+        French: "hulotte",
+        Tshiluba: "kakutukutu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ka·ku·tu·ku·tu<p>/Kah-koo-too-koo-too/</p>",
+        PhoneticsT: "hulotte | tawny owl",
+        English2: "tawny owls",
+        French2: "hulottes",
+        Tshiluba2: "kakutukutu",
+        PhoneticsT2: " ",
+        English3: "tukutukutu",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "chouette hulotte",
+        French4: "tawny owl",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "small owl",
+        French5: "little owl",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: "strix aluco",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    hulotte <i class="PartOfSpch">n</i><br>
+    chat-huant <i class="PartOfSpch">n</i><br>
+    chouette hulotte <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tawny owl <i class="PartOfSpch">n</i><br>
+    small owl <i class="PartOfSpch">n</i><br>
+    strix aluco <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kakutukutu <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tukutukutu<br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a> <i class="PartOfSpch">tshi8</i><br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La chouette hulotte (Strix aluco) est une espèce de chouette de taille moyenne, originaire d'Europe et de certaines parties de l'Asie. Dans le folklore et la mythologie, la chouette hulotte est souvent associée à la sagesse, au mystère et au surnaturel en raison de ses habitudes nocturnes et de ses appels hantants.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The tawny owl (Strix aluco) is a medium-sized species of owl native to Europe and parts of Asia. In folklore and mythology, the tawny owl is often associated with wisdom, mystery, and the supernatural due to its nocturnal habits and haunting calls.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Kalulu*/   
     {
         English: "rabbit",
@@ -15393,6 +15926,105 @@ const nkongamiaku3 = [
     <br><br></td>
     </tr>
     ` 
+    },
+    /*-Ledibua*/   
+    {
+        English: "to be born",
+        French: "naître",
+        Tshiluba: "kuledibua",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·le·di·bu·a<p>/Koo-leh-djee-bwah/</p>",
+        PhoneticsT: "·ja | to be born",
+        English2: "naître",
+        French2: "naitre",
+        Tshiluba2: "-ledibua",
+        PhoneticsT2: " ",
+        English3: "be born",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    naître <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    to be born <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuledibua <i class="PartOfSpch">md</i><br>
+    -ledibua <br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DILEDIBUA/">diledibua</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Kuledibua se réfère au processus de venir à l'existence en tant qu'être vivant depuis le corps de la mère. Cela marque le début de la vie d'un individu en tant qu'entité distincte. Ce terme est couramment utilisé pour décrire le moment où un bébé sort de l'utérus de la mère et commence à respirer de manière autonome.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+    The verb kuledibua refers to the process of coming into existence as a living being from the mother's body. It marks the beginning of an individual's life as a separate entity. This term is commonly used to describe the moment a baby exits the mother's womb and starts to breathe independently.
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
     },
     /*-Leja*/  
     {
@@ -17755,141 +18387,141 @@ const nkongamiaku3 = [
     `
     },
     /*Maja*/   
-{
-    English: "dances",
-    French: "des danses",
-    Tshiluba: "Maja",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Ma·ja<p>/Mah-jah/</p>",
-    PhoneticsT: "des danses | dances",
-    English2: "dance moves",
-    French2: "danse",
-    Tshiluba2: "maja",
-    PhoneticsT2: " ",
-    English3: "a dance",
-    French3: "une danse",
-    Tshiluba3: "dija",
-    PhoneticsT3: " ",
-    English4: "dija dia maja",
-    French4: "pas de danse",
-    Tshiluba4: "dance move",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-des dances <i class="PartOfSpch">n</i><br>
-des pas de dances <i class="PartOfSpch">n</i><br>
-</td>
-<td class="tabledef" valign=top >
-dances <i class="PartOfSpch">n</i> <br>
-dance moves <i class="PartOfSpch">n</i> <br><br>
+    {
+        English: "dances",
+        French: "des danses",
+        Tshiluba: "Maja",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ma·ja<p>/Mah-jah/</p>",
+        PhoneticsT: "des danses | dances",
+        English2: "dance moves",
+        French2: "danse",
+        Tshiluba2: "maja",
+        PhoneticsT2: " ",
+        English3: "a dance",
+        French3: "une danse",
+        Tshiluba3: "dija",
+        PhoneticsT3: " ",
+        English4: "dija dia maja",
+        French4: "pas de danse",
+        Tshiluba4: "dance move",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    des dances <i class="PartOfSpch">n</i><br>
+    des pas de dances <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    dances <i class="PartOfSpch">n</i> <br>
+    dance moves <i class="PartOfSpch">n</i> <br><br>
 
-</td>
-<td class="tabledef" valign=top >
-maja <i class="PartOfSpch">tshi4</i><br>
-<i class="PartOfSpch">s</i> dija<br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    maja <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">s</i> dija<br><br>
 
-tangila:<br>
-<a style="text-decoration:none;" href="/alphabetindex/J/-JA/">kuja maja</a> <br><br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/J/-JA/">kuja maja</a> <br><br>
 
-</td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-une dance <i class="PartOfSpch">n</i><br>
-un pas de dances <i class="PartOfSpch">n</i><br>
-</td>
-<td class="tabledef" valign=top >
-a dance <i class="PartOfSpch">n</i> <br>
-a dance move <i class="PartOfSpch">n</i> <br><br>
-
-</td>
-<td class="tabledef" valign=top >
-dija <i class="PartOfSpch">tshi4</i><br>
-<i class="PartOfSpch">pl</i> maja<br><br>
-
-</td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-une danse de danses <br>
-</td>
-<td class="tabledef" valign=top >
-a danse of danses <br>
-
-</td>
-<td class="tabledef" valign=top >
-dija dia maja
-</td>
-</tr>
-<tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    Maja est un nom qui se réfère à une séquence de mouvements rythmiques exécutés sur de la musique, ce nom est principalement utilisé au pluriel. Il peut également désigner un événement social où les gens se réunissent pour danser
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-        
-     Maja is a noun that refers to a sequence of rhythmic movements performed to music, this noun is mostly used in the plural. It can also refer to a social event where people gather to dance.
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    -----</p>
     </td>
     </tr>
-`
-},
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    une dance <i class="PartOfSpch">n</i><br>
+    un pas de dances <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    a dance <i class="PartOfSpch">n</i> <br>
+    a dance move <i class="PartOfSpch">n</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    dija <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> maja<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    une danse de danses <br>
+    </td>
+    <td class="tabledef" valign=top >
+    a danse of danses <br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    dija dia maja
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Maja est un nom qui se réfère à une séquence de mouvements rythmiques exécutés sur de la musique, ce nom est principalement utilisé au pluriel. Il peut également désigner un événement social où les gens se réunissent pour danser
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            
+        Maja is a noun that refers to a sequence of rhythmic movements performed to music, this noun is mostly used in the plural. It can also refer to a social event where people gather to dance.
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
+    },
     /*Makumi Abidi*/  
     {
         English: "Twenty",
@@ -20588,6 +21220,259 @@ dija dia maja
     </tr>
     `
     }, 
+    /*Meme*/   
+    {
+        English: "me",
+        French: "moi",
+        Tshiluba: "meme",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "Me·me<p>/Meh-mah/</p>",
+        PhoneticsT: "moi | me",
+        English2: "mema",
+        French2: " ",
+        Tshiluba2: "meme",
+        PhoneticsT2: " ",
+        English3: "chez-moi",
+        French3: "c'est moi",
+        Tshiluba3: "it's me",
+        PhoneticsT3: " ",
+        English4: "you and me",
+        French4: "toi et moi",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    moi <i class="PartOfSpch">pron</i><br>
+    m' <i class="PartOfSpch">pron</i><br>
+    me <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    me <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    meme <i class="PartOfSpch">mup</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mon père à moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    my father <br>
+
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TATU/">tatu</a> <a style="text-decoration:none;" href="/alphabetindex/A/--ANYI/">wanyi</a> <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at my house <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuanyi <br><br>
+
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    moi, je suis le chef <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    me, I am the king <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    meme, <a style="text-decoration:none;" href="/alphabetindex/I/-IKALA/">ndi</a> <a style="text-decoration:none;" href="/alphabetindex/M/MUKALENGE/">mukalenge</a><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    c'est moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's me <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mmeme <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">avec</a> moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">with</a> me <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nanyi <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    viens avec moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    come with me <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/L/-LUA/">lua</a> nanyi <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    toi et moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    you and I <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu webe <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vous et moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    you all and I <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu nenu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lui et moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    he/she and I <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu nende <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Meme » est un pronom en langue luba qui se réfère à la personne qui parle ou qui écrit. Il est utilisé comme objet d'un verbe ou d'une préposition.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Meme" is a pronoun in the Luba language that refers to the person who is speaking or writing. It is used as the object of a verb or preposition.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Mfumu*/  
     {
         English: "Lord",
@@ -29555,6 +30440,107 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     ` 
     },
+    /*Mutshi*/   
+    {
+        English: "tree",
+        French: "arbre",
+        Tshiluba: "mutshi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·tshi<p>/Moo-chee/</p>",
+        PhoneticsT: "arbre | tree",
+        English2: "trees",
+        French2: "arbres",
+        Tshiluba2: "mutshi",
+        PhoneticsT2: " ",
+        English3: "mitshi",
+        French3: "some trees",
+        Tshiluba3: "a tree",
+        PhoneticsT3: " ",
+        English4: "des arbres",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    arbre <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tree <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mutshi <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mitshi<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISUKU/">tshisuku</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISOSA/">tshisosa</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un mutshi est une plante vivace caractérisée par une seule tige ligneuse (tronc) qui soutient des branches et des feuilles.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A mutshi is a perennial plant characterized by a single woody stem (trunk) that supports branches and leaves. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Mutshima*/   
     {
         English: "liver",
@@ -31789,6 +32775,102 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <br><br></td>
     </tr>` 
     },
+    /*Nkambua*/   
+    {
+        English: "ancestor",
+        French: "ancêtre",
+        Tshiluba: "nkambua",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Nk·am·bu·a<p>/nkah-mbwah/</p>",
+        PhoneticsT: "ancêtre | ancestor",
+        English2: "ancestors",
+        French2: "ancêtres",
+        Tshiluba2: "nkambua",
+        PhoneticsT2: " ",
+        English3: "nkambwa",
+        French3: "bankambwa",
+        Tshiluba3: "aïeul",
+        PhoneticsT3: " ",
+        English4: "aïeux",
+        French4: "forefather",
+        Tshiluba4: "forefathers",
+        PhoneticsT4: " ",
+        English5: "précurseur",
+        French5: "précurseurs",
+        Tshiluba5: "precursor",
+        PhoneticsT5: " ",
+        English6: "precursors",
+        French6: "ancetre",
+        Tshiluba6: "ancetres",
+        PhoneticsT6: " ",
+        English7: "aieul",
+        French7: "aieux",
+        Tshiluba7: "aieuls",
+        PhoneticsT7: " ",
+        English8: "aïeuls",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    ancêtre <i class="PartOfSpch">n</i><br>
+    aïeul <i class="PartOfSpch">n</i><br>
+    précurseur <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    ancestor <i class="PartOfSpch">n</i><br>
+    forefather <i class="PartOfSpch">n</i><br>
+    precursor <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nkambua <i class="PartOfSpch">tshi</i><br>
+    <i class="PartOfSpch">pl</i> bankambua<br><br>
+
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un "nkambua" est une personne dont on descend, généralement quelqu'un de plus éloigné qu'un grand-parent. Les ancêtres peuvent être biologiques, traçant la lignée génétique, ou culturels, se référant à des individus dont on hérite des pratiques culturelles, des traditions ou des connaissances.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    An "nkambua" is a person from whom one is descended, typically someone more remote than a grandparent. Ancestors can be biological, tracing the genetic lineage, or cultural, referring to individuals from whom cultural practices, traditions, or knowledge are inherited.  
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Nkashama*/   
     {
         English: "leopard",
@@ -33572,6 +34654,332 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <p class="explanation-tsh">
     --------</p>
     </td>
+    </tr>
+    `
+    },
+    /*Ntuangenu*/   
+    {
+        English: "joint",
+        French: "articulation",
+        Tshiluba: "ntuangenu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ntu·an·ge·nu<p>/Ntwah-ngeh-noo/</p>",
+        PhoneticsT: "jointure | joint",
+        English2: "articulation",
+        French2: "joints",
+        Tshiluba2: "ntuangenu",
+        PhoneticsT2: " ",
+        English3: "ntwangenu",
+        French3: "articulations",
+        Tshiluba3: "jointures",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    articulation <i class="PartOfSpch">n</i><br>
+    jointure <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    joint <i class="PartOfSpch">n</i><br>
+    articulation <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    ntuangenu <i class="PartOfSpch">tshi6</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une ntuangenu désigne une jonction ou une connexion entre deux parties ou plus, permettant le mouvement ou la flexibilité. En biologie et en anatomie, une articulation est l'endroit où les os sont reliés ensemble, permettant le mouvement. Des exemples incluent les articulations du genou, du coude et de l'épaule.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A ntuangenu refers to a joint or connection between two or more parts, allowing movement or flexibility. In biology and anatomy, an articulation is where bones are joined together, enabling movement. Examples include the knee, elbow, and shoulder joints.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>, 
+                    <a class="links" href="/alphabetindex/A/ANYIMA/">anyima</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBELE/">dibele</a>, 
+                    <a class="links" href="/alphabetindex/D/DIBOKU/">diboku</a>, 
+                    <a class="links" href="/alphabetindex/D/DIFU/">difu</a>,
+                    <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
+                    <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
+                    <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
+                    <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
+                    <a class="links" href="/alphabetindex/D/DITAKU/">ditaku</a>,
+                    <a class="links" href="/alphabetindex/D/DITAMA/">ditama</a>,
+                    <a class="links" href="/alphabetindex/D/DITSHI/">ditshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>,
+                    <a class="links" href="/alphabetindex/K/KAMPOMBU/">kampombu</a>,
+                    <a class="links" href="/alphabetindex/L/LUDIMI/">ludimi</a>,
+                    <a class="links" href="/alphabetindex/L/LUKOFI/">lukofi</a>,
+                    <a class="links" href="/alphabetindex/L/LUNGENYI/">lungenyi</a>,
+                    <a class="links" href="/alphabetindex/L/LUSUKI/">lusuki</a>,
+                    <a class="links" href="/alphabetindex/L/LUZADI/">luzadi</a>,
+                    <a class="links" href="/alphabetindex/M/MASHI/">mashi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA WA NKASA/">muana wa nkasa</a>,
+                    <a class="links" href="/alphabetindex/M/MUBIDI/">mubidi</a>,
+                    <a class="links" href="/alphabetindex/M/MUEDI/">muedi</a>,
+                    <a class="links" href="/alphabetindex/M/MUFUBA/">mufuba</a>,
+                    <a class="links" href="/alphabetindex/M/MUKANA/">mukana</a>,
+                    <a class="links" href="/alphabetindex/M/MUKOLU/">mukolu</a>,
+                    <a class="links" href="/alphabetindex/M/MUMPEMPE/">mumpempe</a>, 
+                    <a class="links" href="/alphabetindex/M/MUNTU/">muntu</a>,
+                    <a class="links" href="/alphabetindex/M/MUNYINYI/">munyinyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUOYO/">muoyo</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIKU/">mushiku</a>,
+                    <a class="links" href="/alphabetindex/M/MUTU/">mutu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUTSHIMA/">mutshima</a>,
+                    <a class="links" href="/alphabetindex/N/NSHINGU/">nshingu</a>,
+                    <a class="links" href="/alphabetindex/N/NYUMA/">nyuma</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIADI/">tshiadi</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIALA/">tshiala</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIANZA/">tshianza</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIBALUBALU/">tshibalubalu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIFU/">tshifu</a>,
+                    <a class="links" href="/alphabetindex/T/TSHIKANKANYA/">tshikankanya</a>,
+                    <a class="links" href="/alphabetindex/T/TSHILAFINYI/">tshilafinyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Nuenu*/   
+    {
+        English: "you (plural)",
+        French: "vous",
+        Tshiluba: "nuenu",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "nu·e·nu<p>/nweh-noo/</p>",
+        PhoneticsT: "vous | you",
+        English2: "you all",
+        French2: "y'all",
+        Tshiluba2: "nuenu",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: "vous aussi",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "y'all too",
+        French4: "you too",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: "chez vous",
+        Tshiluba5: "nuenu bienu",
+        PhoneticsT5: " ",
+        English6: "bienu",
+        French6: "yall",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: "nenu",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vous <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    you (plural) <i class="PartOfSpch">pron</i><br>
+    you all <i class="PartOfSpch">pron</i><br>
+    y'all <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    nuenu <i class="PartOfSpch">mup</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/E/--ENU/">--enu</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez vous <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at you all's house <br>
+    at yours <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nuenu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    c'est vous <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's you <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nnuenu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avec vous <br>
+    </td>
+    <td class="tabledef" valign=top>
+    with you <br>
+    </td>
+    <td class="tabledef" valign=top>
+    nenu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vous aussi <br>
+    </td>
+    <td class="tabledef" valign=top>
+    you too <br>
+    </td>
+    <td class="tabledef" valign=top>
+    nuenu bienu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vous n'etes pas <br>
+    </td>
+    <td class="tabledef" valign=top>
+    you are not <br>
+    </td>
+    <td class="tabledef" valign=top>
+    kanuena to <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Nuenu » est un pronom en langue luba qui sert de forme d'adresse à la deuxième personne du pluriel. Il est utilisé pour s'adresser à plusieurs personnes de manière formelle ou informelle.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Nuenu" is a pronoun in the Luba language that serves as the second-person plural form of address. It is used to address multiple people formally or informally.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
     </tr>
     `
     },
@@ -35714,6 +37122,123 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     ----</p>
     <br><br></td>
     </tr>
+    `
+    },
+    /*-Puwa*/   
+    {
+        English: "to be quiet",
+        French: "se taire",
+        Tshiluba: "Kupuwa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a><br><a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>', 
+        Phonetics: "Ku·pu·wa<p>/Koo-poo-wah/</p>",
+        PhoneticsT: "se taire | to be quiet",
+        English2: "be quiet",
+        French2: "se taire",
+        Tshiluba2: "-puwa",
+        PhoneticsT2: " ",
+        English3: "tais toi",
+        French3: "shut-up",
+        Tshiluba3: "shutup",
+        PhoneticsT3: " ",
+        English4: "tais-toi",
+        French4: "shush",
+        Tshiluba4: "to shush",
+        PhoneticsT4: " ",
+        English5: "chut",
+        French5: "keep quiet",
+        Tshiluba5: "puwa",
+        PhoneticsT5: " ",
+        English6: "hush",
+        French6: "keep silent",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se taire <i class="PartOfSpch">v</i><br>
+    chut <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to be quiet <i class="PartOfSpch">v</i> <br>
+    to keep quiet <i class="PartOfSpch">v</i> <br>
+    shutup <i class="PartOfSpch">v</i> <br>
+    shush <i class="PartOfSpch">v</i><br>
+    hush <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kupuwa <i class="PartOfSpch">md</i><br>
+    -puwa <i class="PartOfSpch">md</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    tais-toi <br>
+    </td>
+    <td class="tabledef" valign=top >
+    be quiet <br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    puwa <br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Être silencieux signifie s'abstenir de faire du bruit ou de parler, en maintenant le silence ou l'immobilité. Cela peut se référer à la tranquillité physique (réduire les sons comme les mouvements ou les bruits) et à la tranquillité verbale (ne pas parler). L'expression est souvent utilisée comme une demande ou un ordre dans des situations où le silence est souhaité ou nécessaire, comme dans les bibliothèques, pendant les spectacles ou lorsque quelqu'un a besoin de se concentrer.
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        To be quiet means to refrain from making noise or speaking, maintaining silence or stillness. It can refer to both physical quietness (reducing sounds like movements or noises) and verbal quietness (not talking). The phrase is often used as a request or command in situations where silence is desired or necessary, such as in libraries, during performances, or when someone needs to concentrate.
+
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
     `
     },
     /*Shakena*/   
@@ -38350,6 +39875,135 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <p class="explanation-tsh">
     --------</p>
     </td>
+    </tr>
+    `
+    },
+    /*Tshibanji*/   
+    {
+        English: "intermediary",
+        French: "entremetteur",
+        Tshiluba: "tshibanji",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·ban·ji<p>/chee-bah-njee/</p>",
+        PhoneticsT: "entremetteur | mediator",
+        English2: "mediators",
+        French2: "entremetteurs",
+        Tshiluba2: "tshibanji",
+        PhoneticsT2: " ",
+        English3: "bibanji",
+        French3: "intermédiaire",
+        Tshiluba3: "intermediaire",
+        PhoneticsT3: " ",
+        English4: "intermediary",
+        French4: "go-between",
+        Tshiluba4: "marriage broker",
+        PhoneticsT4: " ",
+        English5: "médiateur",
+        French5: "mediateur",
+        Tshiluba5: "porte-parole",
+        PhoneticsT5: " ",
+        English6: "spokesman",
+        French6: "spokesmen",
+        Tshiluba6: "porte parole",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    entremetteur <i class="PartOfSpch">n</i><br>
+    médiateur <i class="PartOfSpch">n</i><br>
+    intermédiaire <i class="PartOfSpch">n</i><br>
+    porte-parole <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    intermediary <i class="PartOfSpch">n</i><br>
+    mediator <i class="PartOfSpch">n</i><br>
+    spokesman <i class="PartOfSpch">n</i><br>
+    representative <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshibanji <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bibanji
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un Tshibanji est une personne qui facilite les relations ou les connexions entre les autres, souvent dans un contexte romantique, mais cela peut aussi s'appliquer à d'autres types d'introductions ou de négociations. Un Tshibanji aide aux discussions et négociations entre les familles, ce qui peut inclure les dots, les plans de mariage et d'autres questions connexes.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A Tshibanji is a person who facilitates relationships or connections between others, often in a romantic context, but it can also apply to other types of introductions or negotiations. A Tshibanji assists with discussions and negotiations between families, which can include dowries, wedding plans, and other related matters.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/M/MUKAJI/">mukaji</a>,
+                    <a class="links" href="/alphabetindex/D/DIBAKA/">dibaka</a>, 
+                    <a class="links" href="/alphabetindex/D/DIKU/">diku</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKU/">kaku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUIKULU/">muikulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MAMU/">mamu</a>,
+                    <a class="links" href="/alphabetindex/M/MANSEBA/">manseba</a>, 
+                    <a class="links" href="/alphabetindex/M/MUADI/">muadi</a>, <a class="links" href="/alphabetindex/M/MUAKUNYI/">muakunyi</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA/">muana</a>,
+                    <a class="links" href="/alphabetindex/M/MUANA-BUTA/">muana-buta</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULU/">mukulu</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKULUMPA/">mukulumpa</a>
+                    <a class="links" href="/alphabetindex/M/MULEDI/">muledi</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUME/">mulume</a>, 
+                    <a class="links" href="/alphabetindex/M/MULUNDA/">mulunda</a>,  
+                    <a class="links" href="/alphabetindex/N/NSONGAKAJI/">nsongakaji</a>,
+                    <a class="links" href="/alphabetindex/N/NSONGALUME/">nsongalume</a>, 
+                    <a class="links" href="/alphabetindex/T/TATU/">tatu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIOTA/">tshiota</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
+                    <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
+                    <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+    <br><br></td>
     </tr>
     `
     },
@@ -42221,6 +43875,108 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <br><br></td>
     </tr>` 
     },
+    /*Tshisosa*/   
+    {
+        English: "grass",
+        French: "herbe",
+        Tshiluba: "tshisosa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·so·sa<p>/Chee-soh-sah/</p>",
+        PhoneticsT: "herbe | grass",
+        English2: "the grass",
+        French2: "l'herbe",
+        Tshiluba2: "tshisosa",
+        PhoneticsT2: " ",
+        English3: "bisosa",
+        French3: "some grass",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "des herbes",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    herbe <i class="PartOfSpch">n</i><br>
+    des herbes <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    grass <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshisosa <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bisosa<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHISUKU/">tshisuku</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUTSHI/">mutshi</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    L'herbe est un type de plante appartenant à la famille des Poaceae (également connue sous le nom de Gramineae). Les tiges de l'herbe, appelées chaumes, sont généralement creuses et cylindriques, segmentées par des nœuds.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Tshisosa is a type of plant belonging to the family Poaceae (also known as Gramineae). Grass stems, known as culms, are typically hollow and cylindrical, segmented by nodes.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Tshisulusulu*/   
     {
         English: "lung",
@@ -43080,6 +44836,188 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Tuetu*/   
+    {
+        English: "us",
+        French: "nous",
+        Tshiluba: "tuetu",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "tu·e·tu<p>/tweh-too/</p>",
+        PhoneticsT: "nous | us",
+        English2: "twetu",
+        French2: " ",
+        Tshiluba2: "tuetu",
+        PhoneticsT2: " ",
+        English3: "kuetu",
+        French3: "nous aussi",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "we too",
+        French4: "us too",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: "chez nous",
+        Tshiluba5: "tuetu bietu",
+        PhoneticsT5: " ",
+        English6: "bietu",
+        French6: "we",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nous <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    us <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu <i class="PartOfSpch">mup</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/E/--ETU/">--etu</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez nous <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at ours <br>
+    back home <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuetu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    c'est nous <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's us <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    ntuetu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avec nous <br>
+    </td>
+    <td class="tabledef" valign=top>
+    with us <br>
+    </td>
+    <td class="tabledef" valign=top>
+    netu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nous aussi <br>
+    </td>
+    <td class="tabledef" valign=top>
+    us too <br>
+    we too <br>
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu bietu <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    nous ne sommes pas <br>
+    </td>
+    <td class="tabledef" valign=top>
+    we are not <br>
+    </td>
+    <td class="tabledef" valign=top>
+    katuena to <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Tuetu » est un pronom en langue anglaise qui se réfère au locuteur ou à l'écrivain et à une ou plusieurs autres personnes collectivement. C'est la forme à l'accusatif du pronom « --etu », ce qui signifie qu'il est utilisé comme objet d'un verbe ou d'une préposition.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Tuetu" is a pronoun in the English language that refers to the speaker or writer and one or more other people collectively. It is the objective case form of the pronoun "--etu," meaning it is used as the object of a verb or preposition.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Tuma*/   
     {
         English: "to send",
@@ -43485,6 +45423,228 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <br><br></td>
     </tr>`  
     },
+    /*Wewe*/   
+    {
+        English: "you",
+        French: "toi",
+        Tshiluba: "wewe",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "we·we<p>/weh-wah/</p>",
+        PhoneticsT: "toi | you",
+        English2: "wewa",
+        French2: " ",
+        Tshiluba2: "wewe",
+        PhoneticsT2: " ",
+        English3: "chez-toi",
+        French3: "c'est toi",
+        Tshiluba3: "it's you",
+        PhoneticsT3: " ",
+        English4: "you and I",
+        French4: "toi et moi",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    toi <i class="PartOfSpch">pron</i><br>
+    t' <i class="PartOfSpch">pron</i><br>
+    te <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    you <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    wewe <i class="PartOfSpch">mup</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cet ami à toi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    this friend of yours <br>
+
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MULUNDA/">mulunda</a> <a style="text-decoration:none;" href="/alphabetindex/E/--ebe/">webe</a> eu<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez toi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at your house <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuebe <br><br>
+
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    c'est toi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's you <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    ngwebe <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">avec</a> toi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">with</a> you <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nebe <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    toi et moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    you and I <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu webe <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    tais-toi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    be quiet <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PUWA/">puwa</a> <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    je suis à toi<br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    I'm yours <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/I/-IKALA/">ndi</a> webe<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Wewe » est un pronom en langue anglaise qui se réfère à la personne ou aux personnes à qui le locuteur ou l'écrivain s'adresse
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Wewe" is a pronoun in the Luba language that refers to the person or people being addressed by the speaker or writer. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*-Ya*/   
     {
         English: "to go",
@@ -43709,6 +45869,185 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
                     <a class="links" href="/alphabetindex/T/TSHIVIELA/">tshiviela</a>,
                     <a class="links" href="/alphabetindex/T/TUTU/">tutu</a>, 
                     <a class="links" href="/alphabetindex/Y/YAYA/">yaya</a>
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Yeye*/   
+    {
+        English: "him/her",
+        French: "lui/elle",
+        Tshiluba: "yeye",
+        PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
+        Phonetics: "ye·ye<p>/yeh-yah/</p>",
+        PhoneticsT: "lui/elle | him/her",
+        English2: "yeya",
+        French2: "lui",
+        Tshiluba2: "yeye",
+        PhoneticsT2: " ",
+        English3: "elle",
+        French3: "him",
+        Tshiluba3: "her",
+        PhoneticsT3: " ",
+        English4: "I'm him",
+        French4: "he",
+        Tshiluba4: "she",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lui <i class="PartOfSpch">pron</i><br>
+    elle <i class="PartOfSpch">pron</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    him <i class="PartOfSpch">pron</i><br>
+    her <i class="PartOfSpch">pron</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    yeye <i class="PartOfSpch">mup</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/E/--ENDE/">--ende</a> <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez lui <br>
+    chez elle <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at his house <br>
+    at her house <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuende <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    c'est lui <br>
+    c'est elle <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    it's him <br>
+    it's her <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nyeye <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">avec</a> lui <br>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">avec</a> elle <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">with</a> him <br>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NE/">with</a> her <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nende <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lui et moi <br>
+    elle et moi <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    he and I <br>
+    she and I <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tuetu wende <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Yeye » est un pronom en langue luba utilisé pour se référer à une personne ou un animal, masculin ou féminin, précédemment mentionné ou facilement identifiable.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Yeye" is a pronoun in the Luba language used to refer to a male or female person or animal previously mentioned or easily identified. 
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
     <br><br></td>
     </tr>
     `
