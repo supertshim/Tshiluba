@@ -1783,6 +1783,254 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Be*/   
+    {
+        English: "very",
+        French: "très",
+        Tshiluba: "be",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "be<p>/beh/</p>",
+        PhoneticsT: "très | very",
+        English2: "tres",
+        French2: "beh",
+        Tshiluba2: "be",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    très <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    very <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    be <i class="PartOfSpch">muam</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    très bien <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    very good <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bimpe be <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    un très long serpent <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    a very long snake <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NYOKA/">nyoka</a> <a style="text-decoration:none;" href="/alphabetindex/N/--NENE/">munene</a> be <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Be » est un adverbe en langue luba utilisé pour souligner le degré ou l'étendue d'un adjectif, d'un verbe ou d'un autre adverbe. Il vient après l'adjectif et intensifie le sens du mot qu'il modifie.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Be" is an adverb in the Luba language used to emphasize the degree or extent of an adjective, verb, or another adverb. It comes after the adjective and intensifies the meaning of the word it modifies.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Benesha*/   
+    {
+        English: "to bless",
+        French: "bénir",
+        Tshiluba: "Kubenesha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·ben·e·sha<p>/Koo-ben-eh-sha/</p>",
+        PhoneticsT: "bénir | to bless",
+        English2: "bless",
+        French2: "benir",
+        Tshiluba2: "-benesha",
+        PhoneticsT2: " ",
+        English3: "God bless you",
+        French3: "god bless",
+        Tshiluba3: "bless you",
+        PhoneticsT3: " ",
+        English4: "Que Dieu vous bénisse",
+        French4: "Que Dieu vous benisse",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bénir <i class="PartOfSpch">v</i> <br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to bless <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kubenesha <i class="PartOfSpch">md</i><br>
+    -benesha <i class="PartOfSpch">md</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    Que Dieu vous bénisse <i class="PartOfSpch">v</i> <br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    God bless you <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/N/NZAMBI/">Nzambi</a> akubenesha
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        « To bless » est un verbe qui signifie conférer ou invoquer la faveur divine sur quelqu'un ou quelque chose, invoquant souvent la protection, la faveur ou la sanctification de Dieu. Cela peut aussi signifier rendre quelque chose sacré ou exprimer de la gratitude ou des vœux de bonheur.
+                        </p>
+        <br><br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        Kubenesha" is a verb that means to confer or invoke divine favor upon someone or something, often invoking God's protection, favor, or sanctification. It can also mean to make something holy or to express gratitude or good wishes.
+                        </p> 
+        <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
+    },
     /*-Benga*/   
     {
         English: "to refuse",
@@ -1927,6 +2175,167 @@ const nkongamiaku3 = [
     <p class="explanation-en">
     1. To say no to something, a request, or something that is offered.<br><br>
     2. The negative infinitive form of a verb representing "not."
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*--Bi*/   
+    {
+        English: "bad",
+        French: "mauvais",
+        Tshiluba: "--bi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+        Phonetics: "--bi<p>/bee/</p>",
+        PhoneticsT: "mauvais / bad",
+        English2: "ugly",
+        French2: "mibi",
+        Tshiluba2: "--bi",
+        PhoneticsT2: " ",
+        English3: "-bi",
+        French3: "bi",
+        Tshiluba3: "laid",
+        PhoneticsT3: " ",
+        English4: "mubi",
+        French4: "muntu mubi",
+        Tshiluba4: "bibi",
+        PhoneticsT4: " ",
+        English5: "not good",
+        French5: "pas bien",
+        Tshiluba5: "pas correct",
+        PhoneticsT5: " ",
+        English6: "not right",
+        French6: "wrong",
+        Tshiluba6: "babi",
+        PhoneticsT6: " ",
+        English7: "the ugly",
+        French7: "désagréable",
+        Tshiluba7: "disagreeable",
+        PhoneticsT7: " ",
+        English8: "desagreable",
+        French8: "unpleasant",
+        Tshiluba8: "nasty",
+        PhoneticsT8: " ",
+        English9: "pas bon",
+        French9: "ne pas bon",
+        Tshiluba9: "moche",
+        PhoneticsT9: " ",
+        English10: "hideous",
+        French10: "tshibi",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mauvais <i class="PartOfSpch">adj</i><br>
+    moche <i class="PartOfSpch">adj</i><br>
+    laid <i class="PartOfSpch">adj</i><br>
+    désagréable <i class="PartOfSpch">adj</i><br>
+    pas correct <i class="PartOfSpch">adj</i><br>
+    pas bien <i class="PartOfSpch">adj</i><br><br>
+    </td>
+
+    <td class="tabledef" valign=top>
+    bad <i class="PartOfSpch">adj</i><br>
+    ugly <i class="PartOfSpch">adj</i><br>
+    disagreeable <i class="PartOfSpch">adj</i><br>
+    wrong <i class="PartOfSpch">adj</i><br>
+    unpleasant <i class="PartOfSpch">adj</i><br>
+    not good <i class="PartOfSpch">adj</i><br>
+    hideous <i class="PartOfSpch">adj</i><br><br>
+
+    <td class="tabledef" valign=top >
+    --bi <i class="PartOfSpch">mf</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mauvais homme <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bad man <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    muntu mubi <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mauvais gens <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bad people <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bantu babi <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    le mauvais chemin <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    the wrong path <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    njila mibi <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    le lit est mauvais <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    the bed is unpleasant <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bulalu budi bubi <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « --bi » est un adjectif en langue luba qui décrit quelque chose de mauvaise qualité, laid, nuisible, désagréable ou moralement incorrect.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "--bi" is an adjective in the Luba language that describes something of poor quality, ugly, harmful, unpleasant, or morally wrong.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
@@ -3941,6 +4350,120 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Bulalu*/   
+    {
+        English: "bed",
+        French: "lit",
+        Tshiluba: "bulalu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Bu·la·lu<p>/boo-lah-loo/</p>",
+        PhoneticsT: "lit | bed",
+        English2: "beds",
+        French2: "lits",
+        Tshiluba2: "bulalu",
+        PhoneticsT2: " ",
+        English3: "malalu",
+        French3: "the bed",
+        Tshiluba3: "le lit",
+        PhoneticsT3: " ",
+        English4: "under the bed",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lit <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bed <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    bulalu <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> malalu<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KALALU/">kalalu</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    en dessous du lit <br>
+    </td>
+    <td class="tabledef" valign=top>
+    under the bed <br>
+    </td>
+    <td class="tabledef" valign=top>
+    munshi mua bulalu <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Bulalu » est un nom en langue Luba qui désigne un meuble utilisé pour dormir ou se reposer. Il se compose généralement d'un cadre, d'un matelas, et inclut souvent une tête de lit et parfois un pied de lit.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Bulalu" is a noun in the Luba language that refers to a piece of furniture used for sleeping or resting. It typically consists of a frame, a mattress, and often includes a headboard and sometimes a footboard.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Bulelela*/   
     {
         English: "truth",
@@ -5390,6 +5913,179 @@ const nkongamiaku3 = [
 <p class="explanation-tsh">
     ----
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Didia*/   
+    {
+        English: "meal",
+        French: "repas",
+        Tshiluba: "didia",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Di·di·a<p>/DJEE-djah/</p>",
+        PhoneticsT: "repas | meal",
+        English2: "meals",
+        French2: "le repas",
+        Tshiluba2: "didia",
+        PhoneticsT2: " ",
+        English3: "lunch",
+        French3: "dinner",
+        Tshiluba3: "breakfast",
+        PhoneticsT3: " ",
+        English4: "petit repas",
+        French4: "souper",
+        Tshiluba4: "diner",
+        PhoneticsT4: " ",
+        English5: "dîner",
+        French5: "déjeuner",
+        Tshiluba5: "dejeuner",
+        PhoneticsT5: " ",
+        English6: "banquet",
+        French6: "a meal",
+        Tshiluba6: "a snack",
+        PhoneticsT6: " ",
+        English7: "snack",
+        French7: "petit-déjeuner",
+        Tshiluba7: "petit-dejeuner",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    repas <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    meal <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    didia <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">pl</i> madia<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/-DIA/">kudia</a><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td class="tabledef-1" valign=top >
+    petit-déjeuner <br>
+
+    </td>
+    <td class="tabledef-1" valign=top>
+    breakfast <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    didia dia mu <a style="text-decoration:none;" href="/alphabetindex/D/DINDA/">dinda</a><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    déjeuner <br>
+    le fait de manger <br>
+
+    </td>
+    <td class="tabledef-1" valign=top>
+    lunch <br>
+    the act of eating <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    didia dia <a style="text-decoration:none;" href="/alphabetindex/M/MUNDA-MUNYA/">munda-munya</a><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    dîner <br>
+    souper <br>
+
+    </td>
+    <td class="tabledef-1" valign=top>
+    dinner <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    didia dia <a style="text-decoration:none;" href="/alphabetindex/D/DILOLO/">dilolo</a><br>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    banquet <br>
+
+    </td>
+    <td class="tabledef-1" valign=top>
+    banquet <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    didia <a style="text-decoration:none;" href="/alphabetindex/N/--NENE/">dinene</a><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un « didia » est un nom qui désigne la nourriture consommée à un moment précis de la journée. Il se compose généralement de plusieurs plats et fait partie d'une routine ou d'un événement programmé.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A "didia" is a noun that refers to the food that is eaten at a specific time of day. It usually consists of multiple dishes and is part of a routine or scheduled event.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br></td>
     </tr>
     `
     },
@@ -7184,6 +7880,120 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Dilolo*/   
+    {
+        English: "evening",
+        French: "soir",
+        Tshiluba: "dilolo",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Di·lo·lo<p>/djee-loh-loh/</p>",
+        PhoneticsT: "soir | evening",
+        English2: "the evening",
+        French2: "le soir",
+        Tshiluba2: "dilolo",
+        PhoneticsT2: " ",
+        English3: "in the evening",
+        French3: "mu dilolo",
+        Tshiluba3: "au soir",
+        PhoneticsT3: " ",
+        English4: "dilolu",
+        French4: "dilolo dilenga",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    soir <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    evening <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    dilolo <i class="PartOfSpch">tshi4</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DINDA/">dinda</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUNDA-MUNYA/">munda-munya</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    au soir <br>
+    </td>
+    <td class="tabledef-1" valign=top>
+    in the evening <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mu dilolo <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Dilolo » est un nom en langue anglaise qui désigne la dernière partie de la journée, généralement de la fin de l'après-midi jusqu'au début de la nuit.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Dilolo" is a noun in the English language that refers to the later part of the day, typically from the end of the afternoon until the beginning of night.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*-Dima*/   
     {
         English: "to plow",
@@ -7402,6 +8212,122 @@ const nkongamiaku3 = [
 <p class="explanation-tsh">
     ----
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Dinda*/   
+    {
+        English: "morning",
+        French: "matin",
+        Tshiluba: "dinda",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Din·da<p>/djeen-dah/</p>",
+        PhoneticsT: "matin | morning",
+        English2: "the morning",
+        French2: "le matin",
+        Tshiluba2: "dinda",
+        PhoneticsT2: " ",
+        English3: "in the morning",
+        French3: "mu dinda",
+        Tshiluba3: "au matin",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    matin <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    morning <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    dinda <i class="PartOfSpch">tshi4</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DILOLO/">dilolo</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUNDA-MUNYA/">munda-munya</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MALABA/">malaba</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MAKELELA/">makelela</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    au matin <br>
+    </td>
+    <td class="tabledef-1" valign=top>
+    in the morning <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mu dinda <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    «Dinda » est un nom en langue anglaise qui désigne la première partie de la journée, généralement du lever du soleil jusqu'à midi. C'est la période de temps entre minuit et midi.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Dinda" is a noun in the English language that refers to the early part of the day, typically from sunrise to noon. It is the period of time between midnight and midday.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -10930,6 +11856,154 @@ const nkongamiaku3 = [
     </td>
     </tr>`
     },
+    /*-Ibaka*/   
+    {
+        English: "to build",
+        French: "bâtir",
+        Tshiluba: "Kuibaka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·i·ba·ka<p>/Kwee-bah-kah/</p>",
+        PhoneticsT: "bâtir | to build",
+        English2: "build",
+        French2: "batir",
+        Tshiluba2: "-ibaka",
+        PhoneticsT2: " ",
+        English3: "ibaka",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bâtir <i class="PartOfSpch">v</i><br>
+    construir <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to build <i class="PartOfSpch">v</i><br> 
+    to construct <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kuibaka <i class="PartOfSpch">md</i><br>
+    -ibaka <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/A/-ASA/">kuasa</a>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td class="tabledef-1" valign=top >
+    construisons chez nous <br><br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    let's build our own<br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kuibakayi kuetu<br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    bâtir une maison <br><br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    build a house<br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kuibaka nzubu <br><br>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    construir une maison <br><br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    construct a house<br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/A/-ASA/">kuasa</a> nzubu<br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kuibaka" signifie créer, construire ou assembler quelque chose en mettant ensemble des pièces ou des matériaux de manière systématique. Cela implique le processus de formation ou de développement de quelque chose à partir de zéro, que ce soit une structure physique, un système, une relation ou un concept abstrait.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kuibaka" means to create, construct, or assemble something by putting together parts or materials in a systematic way. It involves the process of forming or developing something from the ground up, whether it's a physical structure, a system, a relationship, or an abstract concept.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Ibidi*/  
     {
         English: "Two",
@@ -11632,6 +12706,141 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*-Injila*/   
+    {
+        English: "to shut",
+        French: "fermer",
+        Tshiluba: "Kuinjila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·in·ji·la<p>/kween-zjee-lah/</p>",
+        PhoneticsT: "fermer | to shut",
+        English2: "to close",
+        French2: "clore",
+        Tshiluba2: "-injila",
+        PhoneticsT2: " ",
+        English3: "shut",
+        French3: "injila",
+        Tshiluba3: "close",
+        PhoneticsT3: " ",
+        English4: "kuinjila tshibi",
+        French4: "injile",
+        Tshiluba4: "fermer la porte",
+        PhoneticsT4: " ",
+        English5: "close the door",
+        French5: "shut the door",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    fermer <i class="PartOfSpch">v</i><br>
+    clore <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to shut <i class="PartOfSpch">v</i><br>
+    to close <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuinjila <i class="PartOfSpch">md</i><br>
+    -injila <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/U/-UNZULULA/">kuunzulula</a><br><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    fermer la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to shut the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuinjila <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    ouvrir la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to open the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/U/-UNZULULA/">kuunzulula</a> <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kuinjila" signifie déplacer quelque chose dans une position de manière à couvrir une ouverture, ou faire en sorte que quelque chose cesse de fonctionner ou s'arrête.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kuinjila" means to move something into a position so that it covers an opening, or to cause something to stop operating or to cease.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Isambombo*/  
     {
         English: "Six",
@@ -12183,6 +13392,327 @@ const nkongamiaku3 = [
         -----</p>
         </td>
         </tr>
+    `
+    },
+    /*-Jika*/   
+    {
+        English: "to be finished",
+        French: "être fini",
+        Tshiluba: "Kujika",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·ji·ka<p>/Koo-zjee-kah/</p>",
+        PhoneticsT: "être fini | to be finished",
+        English2: "be finished",
+        French2: "être terminer",
+        Tshiluba2: "-jika",
+        PhoneticsT2: " ",
+        English3: "to be ended",
+        French3: "be ended",
+        Tshiluba3: "être terminé",
+        PhoneticsT3: " ",
+        English4: "jika",
+        French4: "mettre fin",
+        Tshiluba4: "finished",
+        PhoneticsT4: " ",
+        English5: "terminé",
+        French5: "to be complete",
+        Tshiluba5: "completed",
+        PhoneticsT5: " ",
+        English6: "être complet",
+        French6: "se terminer",
+        Tshiluba6: "prendre fin",
+        PhoneticsT6: " ",
+        English7: "to be done",
+        French7: "done",
+        Tshiluba7: "c'est fini",
+        PhoneticsT7: " ",
+        English8: "it's over",
+        French8: "its over",
+        Tshiluba8: "over",
+        PhoneticsT8: " ",
+        English9: "cest fini",
+        French9: "kuajiki",
+        Tshiluba9: "pajika",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    être fini <i class="PartOfSpch">v</i><br>
+    être terminé <i class="PartOfSpch">v</i> <br>
+    se terminer <i class="PartOfSpch">v</i> <br>
+    prendre fin <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to be finished <i class="PartOfSpch">v</i><br> 
+    to be completed <i class="PartOfSpch">v</i><br>
+    to be done <i class="PartOfSpch">v</i><br>
+    to be over <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kujika <i class="PartOfSpch">md</i><br>
+    -jika <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/J/-JIKIJA/">kujikija</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/-KUMBANA/">kukumbana</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    finir <br><br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    to finish <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/J/-JIKIJA/">kujikija</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    c'est fini<br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    it's finished <br>
+    it's over
+    </td>
+    <td class="tabledef" valign=top>
+    biajiki. <br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    Les sept années ont pris fin.<br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    The seven years came to an end <br>
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIDIMU/">Bidimu</a> <a style="text-decoration:none;" href="/alphabetindex/M/MUANDA-MUTEKETE/">muanda-mutekete</a> biakajika. <br>
+    </td>
+    </tr>
+
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    après <br><br>
+    quand sera fini
+    </td>
+    <td class="tabledef-1" valign=top >
+    after <br><br>
+    when completed
+    </td>
+    <td class="tabledef" valign=top>
+    pajika <br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    et quand leur repas fut fini<br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    and when their meal was finished
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KADI/">kadi</a> <a style="text-decoration:none;" href="/alphabetindex/D/DIDIA/">didia</a> diabo dijika <br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Finir ou compléter quelque chose, souvent avec un sentiment de mener quelque chose à une fin conclusive.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To finish or complete something, often with a sense of bringing something to a conclusive end.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Jikija*/   
+    {
+        English: "to finish",
+        French: "achever",
+        Tshiluba: "Kujikija",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·ji·ki·ja<p>/Koo-zjee-kee-zjah/</p>",
+        PhoneticsT: "achever | to finish",
+        English2: "finish",
+        French2: "terminer",
+        Tshiluba2: "-jikija",
+        PhoneticsT2: " ",
+        English3: "to end",
+        French3: "end",
+        Tshiluba3: "finir",
+        PhoneticsT3: " ",
+        English4: "jikija",
+        French4: "mettre fin",
+        Tshiluba4: "put an end to",
+        PhoneticsT4: " ",
+        English5: "to put an end to",
+        French5: "to complete",
+        Tshiluba5: "complete",
+        PhoneticsT5: " ",
+        English6: "completer",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    achever <i class="PartOfSpch">v</i><br>
+    terminer <i class="PartOfSpch">v</i> <br>
+    finir <i class="PartOfSpch">v</i> <br>
+    mettre fin <i class="PartOfSpch">v</i> <br>
+    completer <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to finish <i class="PartOfSpch">v</i><br> 
+    to end <i class="PartOfSpch">v</i><br>
+    to put an end to <i class="PartOfSpch">v</i> <br>
+    to complete <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kujikija <i class="PartOfSpch">md</i><br>
+    -jikija <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/J/-JIKA/">kujika</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/-KUMBANA/">kukumbana</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    etre fini <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to be finished <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    <a style="text-decoration:none;" href="/alphabetindex/J/-JIKA/">kujika</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    terminer une besogne <br>
+    </td>
+    <td class="tabledef" valign=top >
+    to finish a hard work <br>
+    </td>
+    <td class="tabledef" valign=top>
+    kujikija <a style="text-decoration:none;" href="/alphabetindex/M/MUDIMU/">mudimu</a><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Finir ou compléter quelque chose, souvent avec un sentiment de mener quelque chose à une fin conclusive.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To finish or complete something, often with a sense of bringing something to a conclusive end.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
     `
     },
     /*Kabalu*/   
@@ -14049,6 +15579,109 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
                     <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kalalu*/   
+    {
+        English: "bunk",
+        French: "couchette",
+        Tshiluba: "kalalu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·la·lu<p>/kah-lah-loo/</p>",
+        PhoneticsT: "couchette | bunk",
+        English2: "bunks",
+        French2: "couchettes",
+        Tshiluba2: "kalalu",
+        PhoneticsT2: " ",
+        English3: "tulalu",
+        French3: "bunk bed",
+        Tshiluba3: "lit superposé",
+        PhoneticsT3: " ",
+        English4: "camp bed",
+        French4: "lit de camp",
+        Tshiluba4: "top bunk",
+        PhoneticsT4: " ",
+        English5: "berth",
+        French5: "petit lit",
+        Tshiluba5: "small bed",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    couchette <i class="PartOfSpch">n</i><br>
+    petit lit <i class="PartOfSpch">n</i><br>
+    lit superposé <i class="PartOfSpch">n</i><br>
+    lit de camp <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bunk <i class="PartOfSpch">n</i><br>
+    bunk bed <i class="PartOfSpch">n</i><br>
+    berth <i class="PartOfSpch">n</i><br>
+    small bed <i class="PartOfSpch">n</i><br>
+    camp bed <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kalalu <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tulalu<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/B/BULALU/">bulalu</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Kalalu » est un nom en langue luba qui est le diminutif de « Bulalu », un meuble utilisé pour dormir ou se reposer. Il se compose généralement d'un cadre, d'un matelas, et inclut souvent une tête de lit et parfois un pied de lit.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kalalu" is a noun in the Luba language that is the diminutive of "Bulalu", a piece of furniture used for sleeping or resting. It typically consists of a frame, a mattress, and often includes a headboard and sometimes a footboard.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
     <br><br></td>
     </tr>
     `
@@ -16258,6 +17891,109 @@ const nkongamiaku3 = [
                     &nbsp:&nbsp
     Adama wakalela muana wa balume :
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lelu*/   
+    {
+        English: "today",
+        French: "aujourd'hui",
+        Tshiluba: "lelu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Le·lu<p>/leh-loo/</p>",
+        PhoneticsT: "aujourd'hui | today",
+        English2: "today's",
+        French2: "todays",
+        Tshiluba2: "lelu",
+        PhoneticsT2: " ",
+        English3: "aujourdhui",
+        French3: "ce jour",
+        Tshiluba3: "on this day",
+        PhoneticsT3: " ",
+        English4: "dia lelu",
+        French4: "lelo",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "dituku dia lelu",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    aujourd'hui <i class="PartOfSpch">adv</i><br>
+    aujourd'hui <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    today <i class="PartOfSpch">adv</i><br>
+    today <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lelu <i class="PartOfSpch">tsh</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MALABA/">malaba</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MAKELELA/">makelela</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Lelu » est un nom et un adverbe en langue luba qui désigne le jour en cours, le jour qui se déroule actuellement.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Lelu" is a noun and an adverb in the Luba language that refers to the current day, the day that is happening right now.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -18522,6 +20258,109 @@ const nkongamiaku3 = [
         </tr>
     `
     },
+    /*Makelela*/   
+    {
+        English: "yesterday",
+        French: "hier",
+        Tshiluba: "makelela",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ma·ke·le·la<p>/mah-keh-leh-lah/</p>",
+        PhoneticsT: "hier | yesterday",
+        English2: "yesterday's",
+        French2: "yester day",
+        Tshiluba2: "makelela",
+        PhoneticsT2: " ",
+        English3: "apres hier",
+        French3: "après hier",
+        Tshiluba3: "after yesterday",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    hier <i class="PartOfSpch">adv</i><br>
+    hier <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    yesterday <i class="PartOfSpch">adv</i><br>
+    yesterday <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    makelela <i class="PartOfSpch">tsh, muam</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LELU/">lelu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MALABA/">malaba</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Makelela » est à la fois un nom et un adverbe en langue luba, désignant le jour avant aujourd'hui.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Makelela" is both a noun and an adverb in the Luba language, referring to the day before today.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Makumi Abidi*/  
     {
         English: "Twenty",
@@ -19233,6 +21072,111 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/B/BINUNU TSHITEMA/">binunu tshitema [9000]</a>
     <br><br></td>
     </tr>` 
+    },
+    /*Malaba*/   
+    {
+        English: "tomorrow",
+        French: "demain",
+        Tshiluba: "malaba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Ma·la·ba<p>/mah-lah-bah/</p>",
+        PhoneticsT: "demain | tomorrow",
+        English2: "tomorrow's",
+        French2: "to morrow",
+        Tshiluba2: "malaba",
+        PhoneticsT2: " ",
+        English3: "apres aujourd'hui",
+        French3: "après aujourd'hui",
+        Tshiluba3: "after today",
+        PhoneticsT3: " ",
+        English4: "morrow",
+        French4: "on the morrow",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    demain <i class="PartOfSpch">adv</i><br>
+    demain <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tomorrow <i class="PartOfSpch">adv</i><br>
+    tomorrow <i class="PartOfSpch">n</i><br>
+    morrow <i class="PartOfSpch">adv</i><br>
+    on the morrow <i class="PartOfSpch">adv</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    malaba <i class="PartOfSpch">tsh</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LELU/">lelu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MAKELELA/">makelela</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    « Malaba » est à la fois un nom et un adverbe en langue luba, désignant le jour suivant aujourd'hui.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Malaba" is both a noun and an adverb in the Luba language, referring to the day following today.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
     },
     /*Mamu*/   
     {
@@ -30232,6 +32176,105 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Mutanta*/   
+    {
+        English: "crack",
+        French: "fente",
+        Tshiluba: "Mutanta",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·tan·ta<p>/moo-tahn-tah/</p>",
+        PhoneticsT: "fente | crack",
+        English2: "a crack",
+        French2: "une fente",
+        Tshiluba2: "mutanta",
+        PhoneticsT2: " ",
+        English3: "a fissure",
+        French3: "une fissure",
+        Tshiluba3: "mitanta",
+        PhoneticsT3: " ",
+        English4: "cracks",
+        French4: "fentes",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    fente <i class="PartOfSpch">n</i><br>
+    fissure <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    crack <i class="PartOfSpch">n</i><br>
+    fissure <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    mutanta <i class="PartOfSpch">tshi2</i><p>
+    <i class="PartOfSpch">pl</i> mitanta
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une ouverture étroite ou une fissure, généralement à la surface.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A narrow opening or fissure, typically in a surface.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Mutoke*/   
     {
         English: "caucasian",
@@ -40147,6 +42190,138 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     `
     },
+    /*Tshibi*/   
+    {
+        English: "door",
+        French: "porte",
+        Tshiluba: "Tshibi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Tshi·bi<p>/chee-bee/</p>",
+        PhoneticsT: "porte | door",
+        English2: "doors",
+        French2: "portes",
+        Tshiluba2: "tshibi",
+        PhoneticsT2: " ",
+        English3: "bibi",
+        French3: "tshiibi",
+        Tshiluba3: "biibi",
+        PhoneticsT3: " ",
+        English4: "the door",
+        French4: "la porte",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    porte <i class="PartOfSpch">n</i> <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    door <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshibi <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bibi<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+
+    <tr>
+    <td class="tabledef-1" valign=top >
+    fermer la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to shut the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuinjila <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    ouvrir la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to open the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/U/-UNZULULA/">kuunzulula</a> <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation";>
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une tshibi est une structure mobile utilisée pour ouvrir et fermer une entrée ou une sortie dans un bâtiment, un véhicule ou un meuble. Elle se compose généralement d'un panneau qui pivote sur des charnières, coulisse ou tourne, permettant ou restreignant l'accès et assurant la sécurité, l'intimité et la protection contre les éléments.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A "tshibi" is a movable structure used to open and close an entrance or exit in a building, vehicle, or piece of furniture. It typically consists of a panel that swings on hinges, slides, or rotates, allowing or restricting access and providing security, privacy, and protection from the elements.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----
+    </td>
+    </tr>
+    `
+    },
     /*Tshibikidilu*/   
     {
         English: "Substantive",
@@ -45422,6 +47597,141 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
                     <a class="links" href="/alphabetindex/T/TSHINUNU/">tshinunu [1000]</a>
     <br><br></td>
     </tr>`  
+    },
+    /*-Unzulula*/   
+    {
+        English: "to open",
+        French: "ouvrir",
+        Tshiluba: "Kuunzulula",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "Ku·un·zu·lu·la<p>/koon-zoo-loo-lah/</p>",
+        PhoneticsT: "ouvrir | to open",
+        English2: "to unclose",
+        French2: "défermer",
+        Tshiluba2: "-unzulula",
+        PhoneticsT2: " ",
+        English3: "defermer",
+        French3: "unzulula",
+        Tshiluba3: "kunzulula",
+        PhoneticsT3: " ",
+        English4: "kuunzulula tshibi",
+        French4: "unzulule",
+        Tshiluba4: "ouvrir la porte",
+        PhoneticsT4: " ",
+        English5: "open the door",
+        French5: "unclose the door",
+        Tshiluba5: "défermer la porte",
+        PhoneticsT5: " ",
+        English6: "defermer la porte",
+        French6: "open",
+        Tshiluba6: "unclose",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    ouvrir <i class="PartOfSpch">v</i><br>
+    défermer <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to open <i class="PartOfSpch">v</i><br>
+    to unclose <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuunzulula <i class="PartOfSpch">md</i><br>
+    -unzulula <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/I/-INJILA/">kuinjila</a><br><br>
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    fermer la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to shut the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/I/-INJILA/">kuinjila</a> <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    ouvrir la porte
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    to open the door <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuunzulula <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshibi</a><br>
+
+    </td>
+    </tr>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kuunzulula" signifie déplacer ou provoquer le déplacement de quelque chose d'une position fermée ou scellée à une position qui permet l'accès, le passage ou la visibilité. Cela implique de créer une ouverture ou un espace là où il n'y en avait pas auparavant, facilitant l'entrée, la sortie ou l'exposition.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kuunzulula" means to move or cause something to move from a closed or sealed position to one that allows access, passage, or visibility. It involves creating an aperture or gap where none existed before, facilitating entry, exit, or exposure.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
     },
     /*Wewe*/   
     {
