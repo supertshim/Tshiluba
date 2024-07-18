@@ -1123,6 +1123,11 @@ body{
         margin: 0;
         width: 100%;
     } 
+    .article .article-table tr td strong, .article .article-table tr th strong, .article p strong {
+        font-family: 'Rasa';
+        font-weight: 700;
+        font-size: 18px;
+    }
 }
 }
 
