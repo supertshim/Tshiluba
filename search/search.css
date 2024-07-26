@@ -887,6 +887,13 @@ a.links:visited {
    font-size: 20px;
 }
 
+.latest p {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 800;
+    color: #001163;
+}
+
 }
 
 @media(min-width: 700px){
@@ -979,6 +986,13 @@ a.links:visited {
         padding: 8px;
         margin: 0;
         width: 100%;
+    }
+
+    .latest p {
+        font-family: 'Montserrat';
+        font-size: 32px;
+        font-weight: 800;
+        color: #001163;
     }
 
     
