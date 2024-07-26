@@ -39001,13 +39001,13 @@ vuaku ne ewu udi musua
 /*Ngombe*/   
 {
     English: "cow, ox, bull",
-    French: "bœuf",
+    French: "bœuf, vache, taureau",
     Tshiluba: "ngombe",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
     Phonetics: "N·gom·be<p>/gome-bah/</p>",
     PhoneticsT: "bœuf | ox",
     English2: "oxen",
-    French2: "bœufs",
+    French2: "bœuf",
     Tshiluba2: "ngombe",
     PhoneticsT2: " ",
     English3: "ngomba",
