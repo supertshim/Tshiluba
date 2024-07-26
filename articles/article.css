@@ -1019,6 +1019,13 @@ body{
 .blog-links, .blog-links a{
     font-size: 14px !important;
 }
+
+.latest p {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 800;
+    color: #001163;
+}
 }
 
 @media(min-width: 700px){
@@ -1050,7 +1057,7 @@ body{
     }
 
     .article p{
-        font-size: 18px;
+        font-size: 24px;
     }
 
     .sidebar {
@@ -1126,7 +1133,13 @@ body{
     .article .article-table tr td strong, .article .article-table tr th strong, .article p strong {
         font-family: 'Rasa';
         font-weight: 700;
-        font-size: 18px;
+        font-size: 24px;
+    }
+    .latest p {
+        font-family: 'Montserrat';
+        font-size: 32px;
+        font-weight: 800;
+        color: #001163;
     }
 }
 }
