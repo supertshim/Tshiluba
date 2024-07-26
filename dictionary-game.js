@@ -19631,6 +19631,96 @@ const nkongamiaku3 = [
     <br><br></td>
     </tr>` 
     },
+    /*Lukasu*/   
+    {
+        English: "hoe",
+        French: "houe",
+        Tshiluba: "lukasu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·ka·su<p>/loo-kah-soo/</p>",
+        PhoneticsT: "houe | hoe",
+        English2: "hoes",
+        French2: "houes",
+        Tshiluba2: "lukasu",
+        PhoneticsT2: " ",
+        English3: "the hoe",
+        French3: "a hoe",
+        Tshiluba3: "some hoes",
+        PhoneticsT3: " ",
+        English4: "outil agricole",
+        French4: "garden tool",
+        Tshiluba4: "Dego hoe",
+        PhoneticsT4: " ",
+        English5: "nkasu",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    houe <i class="PartOfSpch">n</i><br>
+    outil agricole <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    hoe <i class="PartOfSpch">n</i><br>
+    dego hoe <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    lukasu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nkasu <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un « lukasu » est un outil avec une lame fine et plate fixée en angle sur un long manche, utilisé pour désherber, cultiver et casser la terre.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A "lukasu" is a tool with a thin, flat blade set at an angle on a long handle, used for weeding, cultivating, and breaking up soil.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lukonku*/   
     {
         English: "a question",
@@ -27884,6 +27974,100 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Muinu*/   
+    {
+        English: "beak",
+        French: "bec",
+        Tshiluba: "muinu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "mu·in·u<p>/mwee-noo/</p>",
+        PhoneticsT: "bec | beak",
+        English2: "beaks",
+        French2: "becs",
+        Tshiluba2: "muinu",
+        PhoneticsT2: " ",
+        English3: "minu",
+        French3: "bird bill",
+        Tshiluba3: "bird's bill",
+        PhoneticsT3: " ",
+        English4: "bill",
+        French4: "bills",
+        Tshiluba4: "bouche des oiseaux",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bec <i class="PartOfSpch">n</i><br>
+    bouche des oiseaux <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    beak <i class="PartOfSpch">n</i><br>
+    bill <i class="PartOfSpch">n</i><br>
+    bird's bill <i class="PartOfSpch">n</i><br>
+    bird's beak <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muinu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> minu<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le "muinu" est une structure dure et pointue qui forme la bouche d'un oiseau, utilisée pour manger, se toiletter, manipuler des objets, tuer des proies, se battre, chercher de la nourriture, faire la cour et nourrir les jeunes.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A "muinu" is the hard, pointed structure that forms the mouth of a bird, used for eating, grooming, manipulating objects, killing prey, fighting, probing for food, courtship, and feeding young.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----------</p>
+    </td>
     </tr>
     `
     },

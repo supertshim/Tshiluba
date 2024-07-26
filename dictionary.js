@@ -12232,7 +12232,7 @@ Kadi mpindieu nkushale bisatu ebi: ditabuja, ditekemena, dinanga; kadi tshidi ts
     French: "oreille",
     Tshiluba: "ditshi",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Di·tshi<p>/DJEE-cheeh/</p>",
+    Phonetics: "di·tshi<p>/djee-chee/</p>",
     PhoneticsT: "oreille / ear",
     English2: "ears",
     French2: "oreilles",
@@ -12242,7 +12242,7 @@ Kadi mpindieu nkushale bisatu ebi: ditabuja, ditekemena, dinanga; kadi tshidi ts
     French3: "l'oreille",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "matshi",
     French4: "les oreilles",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -12303,16 +12303,16 @@ ditshi <i class="PartOfSpch">tshi3</i><br>
 <p class="explanation-fr">
 L'organe de l'ouïe et de l'équilibre, composé de l'oreille externe, moyenne et interne.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 The organ responsible for hearing and balance, consisting of the external ear, middle ear, and inner ear.
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -12382,9 +12382,9 @@ The organ responsible for hearing and balance, consisting of the external ear, m
     PhoneticsT2: " ",
     English3: "jours",
     French3: "matuku",
-    Tshiluba3: " ",
+    Tshiluba3: "a day",
     PhoneticsT3: " ",
-    English4: " ",
+    English4: "the day",
     French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
@@ -22441,6 +22441,96 @@ lukama, 100 <i class="PartOfSpch">tshi5</i><br>
 <br><br></td>
 </tr>` 
 },
+/*Lukasu*/   
+{
+    English: "hoe",
+    French: "houe",
+    Tshiluba: "lukasu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "lu·ka·su<p>/loo-kah-soo/</p>",
+    PhoneticsT: "houe | hoe",
+    English2: "hoes",
+    French2: "houes",
+    Tshiluba2: "lukasu",
+    PhoneticsT2: " ",
+    English3: "the hoe",
+    French3: "a hoe",
+    Tshiluba3: "some hoes",
+    PhoneticsT3: " ",
+    English4: "outil agricole",
+    French4: "garden tool",
+    Tshiluba4: "Dego hoe",
+    PhoneticsT4: " ",
+    English5: "nkasu",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+houe <i class="PartOfSpch">n</i><br>
+outil agricole <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+hoe <i class="PartOfSpch">n</i><br>
+dego hoe <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+lukasu <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nkasu <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un « lukasu » est un outil avec une lame fine et plate fixée en angle sur un long manche, utilisé pour désherber, cultiver et casser la terre.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A "lukasu" is a tool with a thin, flat blade set at an angle on a long handle, used for weeding, cultivating, and breaking up soil.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Lukonku*/   
 {
     English: "a question",
@@ -31946,6 +32036,100 @@ An insect belonging to the order Odonata, suborder Anisoptera. Dragonflies are c
                 <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
 <br><br></td>
+</tr>
+`
+},
+/*Muinu*/   
+{
+    English: "beak",
+    French: "bec",
+    Tshiluba: "muinu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "mu·in·u<p>/mwee-noo/</p>",
+    PhoneticsT: "bec | beak",
+    English2: "beaks",
+    French2: "becs",
+    Tshiluba2: "muinu",
+    PhoneticsT2: " ",
+    English3: "minu",
+    French3: "bird bill",
+    Tshiluba3: "bird's bill",
+    PhoneticsT3: " ",
+    English4: "bill",
+    French4: "bills",
+    Tshiluba4: "bouche des oiseaux",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bec <i class="PartOfSpch">n</i><br>
+bouche des oiseaux <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+beak <i class="PartOfSpch">n</i><br>
+bill <i class="PartOfSpch">n</i><br>
+bird's bill <i class="PartOfSpch">n</i><br>
+bird's beak <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+muinu <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> minu<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Le "muinu" est une structure dure et pointue qui forme la bouche d'un oiseau, utilisée pour manger, se toiletter, manipuler des objets, tuer des proies, se battre, chercher de la nourriture, faire la cour et nourrir les jeunes.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A "muinu" is the hard, pointed structure that forms the mouth of a bird, used for eating, grooming, manipulating objects, killing prey, fighting, probing for food, courtship, and feeding young.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----------</p>
+</td>
 </tr>
 `
 },
@@ -46053,7 +46237,7 @@ Tangila ku mikuna ya Tshikapa :
     French: "père",
     Tshiluba: "tatu",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Ta·tu<p>/TAH-too/</p>",
+    Phonetics: "ta·tu<p>/tah-too/</p>",
     PhoneticsT: "father | père",
     English2: "dad",
     French2: "papa",
@@ -46061,11 +46245,11 @@ Tangila ku mikuna ya Tshikapa :
     PhoneticsT2: " ",
     English3: "dada",
     French3: "daddy",
-    Tshiluba3: " ",
+    Tshiluba3: "fathers",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
+    English4: "dads",
+    French4: "les papa",
+    Tshiluba4: "pere",
     PhoneticsT4: " ",
     English5: " ",
     French5: " ",
@@ -46434,15 +46618,15 @@ Mpindieu ndi ntekemena mu Mukalenge Yezu
     French: "écouter",
     Tshiluba: "Kuteleja",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
+    Phonetics: "ku·te·le·ja<p>/koo-teh-leh-jah/</p>",
     PhoneticsT: "écouter | listen",
     English2: "Listen to",
     French2: "listen",
     Tshiluba2: "-teleja",
     PhoneticsT2: " ",
     English3: "teleja",
-    French3: " ",
-    Tshiluba3: " ",
+    French3: "ecouter",
+    Tshiluba3: "to listen to",
     PhoneticsT3: " ",
     English4: " ",
     French4: " ",
@@ -46494,21 +46678,30 @@ listen <i class="PartOfSpch">v</i> <br>
 
 </td>
 <td class="tabledef" valign=top >
-kuteleja <i class="PartOfSpch">md</i>
+kuteleja <i class="PartOfSpch">md</i><br>
+-teleja <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/U/-UMVUA/">kuumvua</a>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. j'écoute | I listen | <b>ndi nteleja </b><br><br>
-2. tu écoutes | you listen | <b>udi uteleja</b><br><br>
-3. il/elle/on écoute | he/she listens | <b>udi uteleja</b><br><br>
-4. nous écoutons | we listen | <b>tudi tuteleja</b><br><br>
-5. vous écoutez | you listen | <b>nudi nuteleja</b><br><br>
-6. ils/elles écoutent | they listen | <b>badi bateleja</b><br><br>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Prêter attention au son ou faire attention pour entendre quelqu'un ou quelque chose.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+To "kuteleja" means to give one's attention to sound or to pay attention in order to hear someone or something. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------- </p>
 </td>
 </tr>
-<tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
 <i>Mon fils, écoute mes paroles.
@@ -53504,7 +53697,7 @@ An elder male sibling.
     French: "Entendre",
     Tshiluba: "Kuumvua",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·um·vua<p>/Koom-vwah/</p>",
+    Phonetics: "ku·um·vua<p>/koom-vwah/</p>",
     PhoneticsT: "Entendre | Hear",
     English2: "hear",
     French2: "umvua",
@@ -53564,21 +53757,32 @@ hear <i class="PartOfSpch">v.in</i> <br>
 
 </td>
 <td class="tabledef" valign=top >
-kuumvua <i class="PartOfSpch">md</i>
+kuumvua <i class="PartOfSpch">md</i><br>
+-umvua <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/T/-TELEJA/">kuteleja</a>
 </td>
 </tr>
+
 <tr>
-<td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. j'entendre | I hear | <b>ndi mvua</b><br><br>
-2. tu entendres | you hear | <b>udi umvua</b><br><br>
-3. il/elle entendre | he/she hears | <b>udi umvua</b><br><br>
-4. nous entendons | we hear | <b>tudi tumvua</b><br><br>
-5. vous entendez | you hear | <b>nudi numvua</b><br><br>
-6. ils entendent | they hear | <b>badi bumvua</b><br><br>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+« Kuumvua » signifie percevoir des sons par l'oreille ; devenir conscient des sons. Cela se réfère au processus sensoriel de détection des ondes sonores, généralement sans impliquer une attention active ou une intention d'écouter.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+To "kuumvua" means to perceive sound by the ear; to become aware of sounds.
+It refers to the sensory process of detecting sound waves, usually without implying active focus or intent to listen.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------- </p>
 </td>
 </tr>
-<tr>
 <tr>
 <td colspan="3" class="analogy"><br>:
 <i>on entend dire que...
