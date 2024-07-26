@@ -13462,8 +13462,8 @@ Pavuaye wendakana ku muelelu :
     French6: "à elle",
     Tshiluba6: "a elle",
     PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
+    English7: "of his",
+    French7: "of hers",
     Tshiluba7: " ",
     PhoneticsT7: " ",
     English8: " ",
@@ -13509,6 +13509,8 @@ his <i class="PartOfSpch">adj</i><br>
 her <i class="PartOfSpch">adj</i><br>
 his <i class="PartOfSpch">pron</i><br>
 hers <i class="PartOfSpch">pron</i><br>
+of his <i class="PartOfSpch">adj</i><br>
+of hers <i class="PartOfSpch">adj</i><br>
 
 <td class="tabledef" valign=top >
 --ende <i class="PartOfSpch">mf</i><br>
@@ -38998,8 +39000,8 @@ vuaku ne ewu udi musua
 },
 /*Ngombe*/   
 {
-    English: "domesticated bovine",
-    French: "bovin domestiqué",
+    English: "cow, ox, bull",
+    French: "bœuf",
     Tshiluba: "ngombe",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
     Phonetics: "N·gom·be<p>/gome-bah/</p>",
@@ -39042,7 +39044,7 @@ vuaku ne ewu udi musua
     PhoneticsT10: " ",
     English11: "bovine",
     French11: "bovin",
-    Tshiluba11: " ",
+    Tshiluba11: "domesticated bovine",
     PhoneticsT11: " ",
     InfoTable: `
 <tr>
@@ -39055,10 +39057,16 @@ vuaku ne ewu udi musua
 </tr>
 <tr>
 <td class="tabledef" valign=top >
+bœuf <i class="PartOfSpch">n</i><br>
+vache <i class="PartOfSpch">n</i><br>
+taureau <i class="PartOfSpch">n</i><br>
 bovin domestiqué<i class="PartOfSpch">n</i><br>
 gros bétail <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
+ox <i class="PartOfSpch">n</i><br>
+cow <i class="PartOfSpch">n</i><br>
+bull <i class="PartOfSpch">n</i><br>
 domesticated bovine <i class="PartOfSpch">n</i><br>
 large cattle <i class="PartOfSpch">n</i><br>
 </td>
@@ -53753,7 +53761,7 @@ An elder male sibling.
 entendre <i class="PartOfSpch">v.in</i> <br>
 </td>
 <td class="tabledef" valign=top >
-hear <i class="PartOfSpch">v.in</i> <br>
+to hear <i class="PartOfSpch">v.in</i> <br>
 
 </td>
 <td class="tabledef" valign=top >

@@ -34812,8 +34812,8 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     },
     /*Ngombe*/   
     {
-        English: "domesticated bovine",
-        French: "bovin domestiqué",
+        English: "cow, ox, bull",
+        French: "bœuf",
         Tshiluba: "ngombe",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
         Phonetics: "N·gom·be<p>/gome-bah/</p>",
@@ -34856,7 +34856,7 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
         PhoneticsT10: " ",
         English11: "bovine",
         French11: "bovin",
-        Tshiluba11: " ",
+        Tshiluba11: "domesticated bovine",
         PhoneticsT11: " ",
         InfoTable: `
     <tr>
@@ -34869,10 +34869,16 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     <tr>
     <td class="tabledef" valign=top >
+    bœuf <i class="PartOfSpch">n</i><br>
+    vache <i class="PartOfSpch">n</i><br>
+    taureau <i class="PartOfSpch">n</i><br>
     bovin domestiqué<i class="PartOfSpch">n</i><br>
     gros bétail <i class="PartOfSpch">n</i><br><br>
     </td>
     <td class="tabledef" valign=top>
+    ox <i class="PartOfSpch">n</i><br>
+    cow <i class="PartOfSpch">n</i><br>
+    bull <i class="PartOfSpch">n</i><br>
     domesticated bovine <i class="PartOfSpch">n</i><br>
     large cattle <i class="PartOfSpch">n</i><br>
     </td>
