@@ -9,6 +9,9 @@ class Sidebar extends HTMLElement {
         <h1>Latest Posts</h1>
         </div>
         <div class="latest">
+        <a href="/articles/008-Luba-Grammar-Possessive-Pronouns-And-Adjectives/">
+        <img class="post-icon" src="/articles/008-Luba-Grammar-Possessive-Pronouns-And-Adjectives/nzambi-wanyi.png"><br>
+        <p>Luba Grammar: Possessive Pronouns and Adjectives</p>
         <a href="/articles/Greetings-And-Basic-Introductions-In-Tshiluba/">
         <img class="post-icon" src="/articles/Greetings-And-Basic-Introductions-In-Tshiluba/sign-moyo.png"><br>
         <p>Sangayi Wabo! Betuabu! Greetings and Basic Introductions in Tshiluba</p>
