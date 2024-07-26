@@ -4443,6 +4443,135 @@ The state or condition of being free from outside control, influence, or relianc
 </tr>
 `
 },
+/*Budimi*/   
+{
+    English: "field",
+    French: "champ",
+    Tshiluba: "budimi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br>',
+    Phonetics: "bu·di·mi<p>/boo-djee-mee/</p>",
+    PhoneticsT: "champ | field",
+    English2: "fields",
+    French2: "champs",
+    Tshiluba2: "budimi",
+    PhoneticsT2: " ",
+    English3: "madimi",
+    French3: "un champ",
+    Tshiluba3: "a field",
+    PhoneticsT3: " ",
+    English4: "plantation",
+    French4: "plantations",
+    Tshiluba4: "une culture",
+    PhoneticsT4: " ",
+    English5: "a farm",
+    French5: "farm",
+    Tshiluba5: "farms",
+    PhoneticsT5: " ",
+    English6: "garden",
+    French6: "jardin",
+    Tshiluba6: "gardens",
+    PhoneticsT6: " ",
+    English7: "ferme",
+    French7: "une ferme",
+    Tshiluba7: "cornfield",
+    PhoneticsT7: " ",
+    English8: "budimi bua matala",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+champ <i class="PartOfSpch">n</i><br>
+plantation <i class="PartOfSpch">n</i><br>
+culture <i class="PartOfSpch">n</i><br>
+ferme <i class="PartOfSpch">n</i><br>
+jardin <i class="PartOfSpch">n</i><br><br>
+</td>
+
+<td class="tabledef" valign=top>
+field <i class="PartOfSpch">n</i><br>
+plantation <i class="PartOfSpch">n</i><br>
+farm <i class="PartOfSpch">n</i><br>
+garden <i class="PartOfSpch">n</i><br><br>
+</td>
+
+<td class="tabledef" valign=top >
+budimi <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> madimi<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une zone de terrain utilisée pour la culture des plantes ou l'élevage des animaux.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+An area of land used for growing crops or raising animals.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top ><br>
+champ de maïs <br><br>
+</td>
+
+<td class="tabledef-1" valign=top><br>
+cornfield <br><br>
+</td>
+
+<td class="tabledef" valign=top ><br>
+budimi bua matala <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top ><br>
+jardin d'Éden <br><br>
+</td>
+
+<td class="tabledef-1" valign=top><br>
+the Garden of Eden <br><br>
+</td>
+
+<td class="tabledef" valign=top ><br>
+budimi bua Edene <br><br>
+</td>
+</tr>
+`
+},
 /*-Buela*/   
 {
     English: "to enter",
@@ -6376,6 +6505,97 @@ The Sun, the Moon, and the Stars
                 :<br>
                 &nbsp:&nbsp
 Diba ne Ngondu ne Mitoto :
+<br><br></td>
+</tr>
+`
+},
+/*Dibata*/   
+{
+    English: "duck",
+    French: "canard",
+    Tshiluba: "dibata",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·ba·ta<p>/djee-bah-tah/</p>",
+    PhoneticsT: "canard | duck",
+    English2: "ducks",
+    French2: "canards",
+    Tshiluba2: "dibata",
+    PhoneticsT2: " ",
+    English3: "mpatu",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+canard <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+duck <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+dibata <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mabata<br><br>
+
+kabidi:<br>
+mpatu<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un "dibata" est un oiseau aquatique avec un bec large et plat, des pattes courtes, des pieds palmés et une démarche en se dandinant. Les mabata se trouvent souvent dans les eaux douces et salées.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A "dibata" is waterbird with a broad, flat bill, short legs, webbed feet, and a waddling gait. Mabata are often found in both freshwater and seawater.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
 <br><br></td>
 </tr>
 `
@@ -11785,6 +12005,113 @@ Ditalala encompasses the absence of conflict, the presence of social harmony, an
 </td>
 </tr>
 `
+},
+/*Ditamba*/  
+{
+    English: "branch",
+    French: "branche",
+    Tshiluba: "Ditamba",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·tam·ba<p>/djee-tahm-bah/</p>",
+    PhoneticsT: "branche | branch",
+    English2: "branches",
+    French2: "tree branch",
+    Tshiluba2: "ditamba",
+    PhoneticsT2: " ",
+    English3: "matamba",
+    French3: "branche d'arbre",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+branche <i class="PartOfSpch">n</i><br>
+branche d'arbre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+branch <i class="PartOfSpch">n</i><br>
+tree branch <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+ditamba <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> matamba <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/K/KATAMBA/">katamba</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un "ditamba" est un nom qui signifie une partie d'un arbre ou d'une plante qui pousse à partir du tronc ou d'une tige principale.
+</p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A "ditamba" is a noun that means a part of a tree or plant that grows out from the trunk or a main stem.
+</p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top><br>
+branche d'arbre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top ><br>
+tree branch <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top ><br>
+ditamba dia <a style="text-decoration:none;" href="/alphabetindex/M/MUTSHI/">mutshi</a> <br><br>
+</td>
+</tr>
+` 
 },
 /*Ditekemena*/  
 {
@@ -19623,6 +19950,100 @@ tangila:<br>
 <br><br></td>
 </tr>
 `
+},
+/*Katamba*/  
+{
+    English: "twig",
+    French: "brindille",
+    Tshiluba: "katamba",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "ka·tam·ba<p>/kah-tahm-bah/</p>",
+    PhoneticsT: "brindille | twig",
+    English2: "twigs",
+    French2: "brindilles",
+    Tshiluba2: "katamba",
+    PhoneticsT2: " ",
+    English3: "tutamba",
+    French3: "branchette",
+    Tshiluba3: "branchettes",
+    PhoneticsT3: " ",
+    English4: "small branch",
+    French4: "small branches",
+    Tshiluba4: "petite branche",
+    PhoneticsT4: " ",
+    English5: "petites branches",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+brindille <i class="PartOfSpch">n</i><br>
+branchette <i class="PartOfSpch">n</i><br>
+petite branche <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+twig <i class="PartOfSpch">n</i><br>
+small branch <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+katamba <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> tutamba <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DITAMBA/">ditamba</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un "katamba" est un nom qui signifie une petite branche fine ou pousse qui pousse à partir d'une branche plus grande ou de la tige principale d'un arbre ou d'une plante. C'est le diminutif de "ditamba."
+</p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A "katamba" is a noun that means a small, thin branch or shoot that grows from a larger branch or the main stem of a tree or plant. It is the diminutive form of "ditamba"
+</p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+</td>
+</tr>
+` 
 },
 /*-Kosa*/   
 {
@@ -43368,22 +43789,22 @@ kupanda <i class="PartOfSpch">md</i><br>
     French: "sortir",
     Tshiluba: "kupatuka",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·pa·tu·ka<p>/Koo-pah-too-kah/</p>",
+    Phonetics: "ku·pa·tu·ka<p>/koo-pah-too-kah/</p>",
     PhoneticsT: "sortir | to exit",
     English2: "exit",
     French2: "to go out of",
     Tshiluba2: "-patuka",
     PhoneticsT2: " ",
     English3: "sortir de",
-    French3: " ",
-    Tshiluba3: " ",
+    French3: "patuka",
+    Tshiluba3: "hatuka",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
+    English4: "kuhatuka",
+    French4: "-hatuka",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "come out",
+    French5: "come out of",
     Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
@@ -43422,14 +43843,25 @@ kupanda <i class="PartOfSpch">md</i><br>
 <tr>
 <td class="tabledef" valign=top >
 sortir <i class="PartOfSpch">v</i> <br>
+sortir de <i class="PartOfSpch">v</i> <br>
+quitter <i class="PartOfSpch">v</i> <br>
 </td>
 <td class="tabledef" valign=top >
 to exit <i class="PartOfSpch">v</i> <br>
-to leave <i class="PartOfSpch">v</i> <br><br>
+to leave <i class="PartOfSpch">v</i> <br>
+to come out <i class="PartOfSpch">v</i><br>
+to come out of<i class="PartOfSpch">v</i><br><br>
 </td>
 <td class="tabledef" valign=top >
 kupatuka <i class="PartOfSpch">md</i><br>
--patuka <i class="PartOfSpch">md</i>
+-patuka <i class="PartOfSpch">md</i><br><br>
+
+kuhatuka <i class="PartOfSpch">md</i><br>
+-hatuka <i class="PartOfSpch">md</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/S/-SHIYA/">kushiya</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/U/-UMBUKA/">kuumbuka</a><br>
 </td>
 </tr>
 <tr>
@@ -43438,18 +43870,32 @@ kupatuka <i class="PartOfSpch">md</i><br>
     <p class="explanation-fr">
     Pour quitter un espace confiné ou clos, tel qu'un bâtiment, une pièce ou un véhicule, à partir d'un emplacement spécifique, tel qu'une porte, un portail ou une autre ouverture désignée.
                     </p>
-    <br><br>
+    <br>
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
         
     To leave a confined or enclosed space, such as a building, room, or vehicle from a specific location, such as through a door, gate, or other designated opening. 
                     </p> 
-    <br><br>
+    <br>
     <b><i>Diumvuija</i></b><br>
     <p class="explanation-tsh">
     -----</p>
-    <br><br></td>
+    </td>
     </tr>
+    <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+sors du champ <br>
+</td>
+<td class="tabledef" valign=top>
+get out of the farm<br><br>
+</td>
+<td class="tabledef" valign=top >
+Patuka mu budimi
+</td>
+</tr>
 `
 },
 /*Penyi*/   
@@ -44951,22 +45397,22 @@ To cause the death of a living organism, usually intentionally. To end the life 
 /*-Shiya*/   
 {
     English: "to leave",
-    French: "laisser",
+    French: "quitter",
     Tshiluba: "Kushiya",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·shi·ya<p>/Koo-shee-yah/</p>",
-    PhoneticsT: "Laisser | Leave",
+    Phonetics: "ku·shi·ya<p>/koo-shee-yah/</p>",
+    PhoneticsT: "quitter | Leave",
     English2: "leave",
     French2: "shiya",
     Tshiluba2: "-shiya",
     PhoneticsT2: " ",
     English3: "laissez",
     French3: "abandonner",
-    Tshiluba3: " ",
+    Tshiluba3: "laisser",
     PhoneticsT3: " ",
     English4: "abandon",
-    French4: " ",
-    Tshiluba4: " ",
+    French4: "quitter",
+    Tshiluba4: "quittez",
     PhoneticsT4: " ",
     English5: " ",
     French5: " ",
@@ -45007,6 +45453,7 @@ To cause the death of a living organism, usually intentionally. To end the life 
 </tr>
 <tr>
 <td class="tabledef" valign=top>
+quitter <i class="PartOfSpch">v</i><br>
 laisser <i class="PartOfSpch">v</i><br>
 abandoner <i class="PartOfSpch">v</i><br><br>
 </td>
@@ -45015,12 +45462,16 @@ to leave [something] <i class="PartOfSpch">v</i><br>
 to leave [something] behind <i class="PartOfSpch">v</i><br>
 to abandon [something] <i class="PartOfSpch">v</i><br>
 <br>
-different from<br>
-<a class="links" href="/alphabetindex/S/-SHILA/">leave [something] to</a>
+see:<br>
+<a style="text-decoration:none;" href="/alphabetindex/S/-SHILA/">leave [something] to</a>
 </td>
 <td class="tabledef" valign=top >
 kushiya <i class="PartOfSpch">md</i><br>
--shiya <i class="PartOfSpch">md</i>
+-shiya <i class="PartOfSpch">md</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/P/-PATUKA/">kupatuka</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/U/-UMBUKA/">kuumbuka</a><br>
 </td>
 </tr>
 <tr>
@@ -45029,16 +45480,16 @@ kushiya <i class="PartOfSpch">md</i><br>
 <p class="explanation-fr">
 L'action de partir d'un lieu, d'une situation ou d'une personne.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 The action of departing from a place, situation, or person. 
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 -------</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3" class="analogy">
@@ -45055,27 +45506,19 @@ The action of departing from a place, situation, or person.
 <br><br></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je quitte | I'm leaving | <b>ndi nshiya </b><br><br>
-2. tu quittes | you're leaving | <b>udi ushiya </b><br><br>
-3. il/elle/on quitte | he/she's leaving | <b>udi ushiya</b><br><br>
-4. nous quittons | we're leaving | <b>tudi tushiya</b><br><br>
-5. vous quittez | you're leaving | <b>nudi nushiya</b><br><br>
-6. ils/elles quittent | they're leaving | <b>badi bashiya</b><br><br>
-</td>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-<i>Le garçon ne peut pas quitter son père
-                :<br>
-                &nbsp:
-The boy cannot leave his father
-                :<br>
-                &nbsp:&nbsp
-Muana kena mua kushiya tatuende to :
-<br><br></td>
+<td class="tabledef-1" valign=top><br>
+Le garçon ne peut pas quitter son père<br><br>
+</td>
+<td class="tabledef-1" valign=top ><br>
+The boy cannot leave his father<br>
+<br>
+</td>
+<td class="tabledef" valign=top ><br>
+Muana kena mua kushiya tatuende to <br><br>
+</td>
 </tr>
 `
 },
