@@ -5452,6 +5452,213 @@ Bujadiki ebu bulelela :
 </tr>
 `
 },
+/*Buloba*/   
+{
+    English: "earth",
+    French: "la terre",
+    Tshiluba: "buloba",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "bu·lo·ba<p>/boo-loh-bah/</p>",
+    PhoneticsT: "la terre | earth",
+    English2: "planet earth",
+    French2: "terre",
+    Tshiluba2: "buloba",
+    PhoneticsT2: " ",
+    English3: "sol",
+    French3: "soil",
+    Tshiluba3: "ground",
+    PhoneticsT3: " ",
+    English4: "the ground",
+    French4: "land",
+    Tshiluba4: "lands",
+    PhoneticsT4: " ",
+    English5: "the land",
+    French5: "grounds",
+    Tshiluba5: "le monde",
+    PhoneticsT5: " ",
+    English6: "monde",
+    French6: "world",
+    Tshiluba6: "the world",
+    PhoneticsT6: " ",
+    English7: "bulaba",
+    French7: "malaba",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+terre <i class="PartOfSpch">n</i><br>
+la Terre <i class="PartOfSpch">n</i><br>
+monde <i class="PartOfSpch">n</i><br>
+le monde <i class="PartOfSpch">n</i><br>
+sol <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+earth <i class="PartOfSpch">n</i><br>
+the Earth <i class="PartOfSpch">n</i><br>
+world <i class="PartOfSpch">n</i><br>
+the world <i class="PartOfSpch">n</i><br>
+soil <i class="PartOfSpch">n</i><br>
+ground <i class="PartOfSpch">n</i><br>
+land <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+buloba <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> maloba<br><br>
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DITUNGA/">ditunga</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Buloba signifie terre ou sol. Le terme terre peut simplement désigner un morceau de terrain, qu'il s'agisse de terrain naturel ou de zones développées telles que des villes et des villages.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Buloba means earth, or land. Land can simply refer to any piece of ground, whether it is natural terrain or developed areas such as cities and towns.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Bulunda*/   
+{
+    English: "friendship",
+    French: "amitié",
+    Tshiluba: "bulunda",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "bu·lun·da<p>/boo-loon-dah/</p>",
+    PhoneticsT: "amitié | friendship",
+    English2: "friendships",
+    French2: "amitiés",
+    Tshiluba2: "bulunda",
+    PhoneticsT2: " ",
+    English3: "malunda",
+    French3: "amitie",
+    Tshiluba3: "compansionship",
+    PhoneticsT3: " ",
+    English4: "camaraderie",
+    French4: "amity",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+amitié <i class="PartOfSpch">n</i><br>
+camaraderie <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+friendship <i class="PartOfSpch">n</i><br>
+companionship <i class="PartOfSpch">n</i><br>
+camaraderie <i class="PartOfSpch">n</i><br>
+amity <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+bulunda <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> malunda<br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MULUNDA/">mulunda</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Bulunda est la relation étroite et de confiance entre deux personnes ou plus, basée sur l'affection mutuelle, le soutien et la compréhension.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Bulunda is the close and trusting relationship between two or more people based on mutual affection, support, and understanding.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Bungi*/  
 {
     English: "Numbers",
@@ -12856,7 +13063,7 @@ a gray or white mass in the sky, made up of very small floating drops of water
     PhoneticsT2: " ",
     English3: "heaven",
     French3: "heavens",
-    Tshiluba3: " ",
+    Tshiluba3: "the heavens",
     PhoneticsT3: " ",
     English4: "les cieux",
     French4: " ",
@@ -12904,19 +13111,32 @@ a gray or white mass in the sky, made up of very small floating drops of water
 1. ciel <i class="PartOfSpch">n</i><br>
 les cieux <i class="PartOfSpch">n</i><br>
 paradis <i class="PartOfSpch">n</i><br><br>
-
-2. nez <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 1. sky <i class="PartOfSpch">n</i><br>
 the skies <i class="PartOfSpch">n</i><br>
-heaven <i class="PartOfSpch">n</i><br><br>
+heaven <i class="PartOfSpch">n</i><br>
+the heavens <i class="PartOfSpch">n</i><br><br>
 
-2. nose <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
-diulu <i class="PartOfSpch">tshi8</i><p>
-<i class="PartOfSpch">pl.</i> diulu
+diulu <i class="PartOfSpch">tshi</i><p>
+<i class="PartOfSpch">pl</i> diulu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+2. nez <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+2. nose <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+diulu <i class="PartOfSpch">tshi4</i><p>
+<i class="PartOfSpch">pl</i> maulu
 </td>
 </tr>
 <tr>
@@ -14285,6 +14505,136 @@ We walk in the darkness
                 &nbsp:&nbsp
 Tuetu tuenda mu bufike :
 <br><br></td>
+</tr>
+`
+},
+/*-Fua*/   
+{
+    English: "to die",
+    French: "mourir",
+    Tshiluba: "kufua",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·fu·a<p>/koo-fwah/</p>",
+    PhoneticsT: "mourir | die",
+    English2: "die",
+    French2: "perir",
+    Tshiluba2: "-fua",
+    PhoneticsT2: " ",
+    English3: "to perish",
+    French3: "décéder",
+    Tshiluba3: "périr",
+    PhoneticsT3: " ",
+    English4: "to decease",
+    French4: "decease",
+    Tshiluba4: "deceased",
+    PhoneticsT4: " ",
+    English5: "mufua",
+    French5: "mufue",
+    Tshiluba5: "fua",
+    PhoneticsT5: " ",
+    English6: "fue",
+    French6: "kufue",
+    Tshiluba6: "kufwa",
+    PhoneticsT6: " ",
+    English7: "to pass away",
+    French7: "pass away",
+    Tshiluba7: "to expire",
+    PhoneticsT7: " ",
+    English8: "expire",
+    French8: "expirer",
+    Tshiluba8: "kufuila",
+    PhoneticsT8: " ",
+    English9: "-fuila",
+    French9: "fuila",
+    Tshiluba9: "mourir pour",
+    PhoneticsT9: " ",
+    English10: "die for",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+mourir <i class="PartOfSpch">v</i><br>
+périr <i class="PartOfSpch">v</i><br>
+décéder <i class="PartOfSpch">v</i><br><br>
+expirer <i class="PartOfSpch">v</i><br><br>
+
+</td>
+<td class="tabledef" valign=top >
+to die <i class="PartOfSpch">v</i><br>
+to perish <i class="PartOfSpch">v</i><br>
+to decease <i class="PartOfSpch">v</i><br>
+to pass away <i class="PartOfSpch">v</i><br>
+to expire <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kufua <i class="PartOfSpch">md</i><br>
+-fua <i class="PartOfSpch">md</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+mourir pour <br><br>
+
+</td>
+<td class="tabledef" valign=top >
+to die for <br>
+</td>
+<td class="tabledef" valign=top >
+kufuila <i class="PartOfSpch">md</i><br>
+-fuila <i class="PartOfSpch">md</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+avoir pitié <br><br>
+
+</td>
+<td class="tabledef" valign=top >
+to have mercy <br>
+</td>
+<td class="tabledef" valign=top >
+kufuila luse <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Cesser de vivre ; subir le processus de la mort où les fonctions biologiques qui soutiennent un organisme vivant cessent définitivement.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Kufua means to cease living; to undergo the process of death where biological functions that sustain a living organism permanently stop.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -15828,6 +16178,235 @@ to open the door <br>
 <p class="explanation-tsh">
 ----</p>
 </td>
+</tr>
+`
+},
+/*--Ipi*/   
+{
+    English: "short",
+    French: "court",
+    Tshiluba: "--ipi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "--ip·i<p>/ee-pee/</p>",
+    PhoneticsT: "court | short",
+    English2: "brief",
+    French2: "bref",
+    Tshiluba2: "--ipi",
+    PhoneticsT2: " ",
+    English3: "muipi",
+    French3: "ipi",
+    Tshiluba3: "bapi",
+    PhoneticsT3: " ",
+    English4: "dipi",
+    French4: "mapi",
+    Tshiluba4: "tshipi",
+    PhoneticsT4: " ",
+    English5: "bipi",
+    French5: "kapi",
+    Tshiluba5: "tuipi",
+    PhoneticsT5: " ",
+    English6: "mipi",
+    French6: "luipi",
+    Tshiluba6: "nuipi",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+court <i class="PartOfSpch">adj</i><br>
+bref <i class="PartOfSpch">adj</i><br>
+</td>
+
+<td class="tabledef" valign=top>
+short <i class="PartOfSpch">adj</i><br>
+brief <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--ipi <i class="PartOfSpch">mf</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHITUPA/">tshitupa</a> <br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+un lit court
+</td>
+
+<td class="tabledef" valign=top>
+a short bed
+
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/B/BULALU/">bulalu</a> <i>buipi</i> <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1
+
+</td>
+<td class="tabledef" valign=top>
+class 1
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> muipi <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bapi <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2
+
+</td>
+<td class="tabledef" valign=top>
+class 2
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> muipi <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mipi <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3
+
+</td>
+<td class="tabledef" valign=top>
+class 3
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> buipi <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> mapi <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4
+
+</td>
+<td class="tabledef" valign=top>
+class 4
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dipi <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> bapi class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5
+
+</td>
+<td class="tabledef" valign=top>
+class 5
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> luipi <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nuipi <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7
+
+</td>
+<td class="tabledef" valign=top>
+class 7
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kapi <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tuipi <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8
+
+</td>
+<td class="tabledef" valign=top>
+class 8
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshipi <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bipi <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"--ipi" est le suffixe se terminant par quelque chose qui a une petite longueur ou hauteur par rapport à ce qui est typique ou attendu.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"--ipi" is the suffix ending referring to something that has a small length or height compared to what is typical or expected.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
 </tr>
 `
 },
@@ -20047,6 +20626,215 @@ A "katamba" is a noun that means a small, thin branch or shoot that grows from a
 </tr>
 ` 
 },
+/*--Kese*/   
+{
+    English: "small",
+    French: "petit(e)",
+    Tshiluba: "--kese",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
+    Phonetics: "ke·se<p>/keh-sah/</p>",
+    PhoneticsT: "petit(e) | small",
+    English2: "little",
+    French2: "petit",
+    Tshiluba2: "--kese",
+    PhoneticsT2: " ",
+    English3: "petite",
+    French3: "smalls",
+    Tshiluba3: "petits",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: "petit à petit",
+    PhoneticsT4: " ",
+    English5: "little by little",
+    French5: "-kese",
+    Tshiluba5: "kese",
+    PhoneticsT5: " ",
+    English6: "kakese",
+    French6: "mukese",
+    Tshiluba6: "bakese",
+    PhoneticsT6: " ",
+    English7: "mikese",
+    French7: "dikese",
+    Tshiluba7: "makese",
+    PhoneticsT7: " ",
+    English8: "bukese",
+    French8: "lukese",
+    Tshiluba8: "nkese",
+    PhoneticsT8: " ",
+    English9: "tshikese",
+    French9: "bikese",
+    Tshiluba9: "tukese",
+    PhoneticsT9: " ",
+    English10: "minuscule",
+    French10: "tiny",
+    Tshiluba10: "minute",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+petit <i class="PartOfSpch">adj</i><br>
+petite <i class="PartOfSpch">adj</i><br>
+minuscule <i class="PartOfSpch">adj</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+small <i class="PartOfSpch">adj</i><br>
+little <i class="PartOfSpch">adj</i><br>
+petit <i class="PartOfSpch">adj</i><br>
+tiny <i class="PartOfSpch">adj</i><br>
+minute <i class="PartOfSpch">adj</i><br>
+</td>
+<td class="tabledef" valign=top >
+--kese <i class="PartOfSpch">muf</i><br><br>
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/--IPI/">--ipi</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1
+
+</td>
+<td class="tabledef" valign=top>
+class 1
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mukese <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakese <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2
+
+</td>
+<td class="tabledef" valign=top>
+class 2
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mukese <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mikese <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3
+
+</td>
+<td class="tabledef" valign=top>
+class 3
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> bukese <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> makese <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4
+
+</td>
+<td class="tabledef" valign=top>
+class 4
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dikese <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> bakese <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5
+
+</td>
+<td class="tabledef" valign=top>
+class 5
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lukese <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nkese <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7
+
+</td>
+<td class="tabledef" valign=top>
+class 7
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kakese <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tukese <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8
+
+</td>
+<td class="tabledef" valign=top>
+class 8
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshikese <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bikese <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"--kese" est un suffixe se terminant par quelque chose qui est de taille, d'étendue ou de quantité limitée. C'est le contraire de grand ou gros.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"--kese" is a suffex ending refering to something that is of limited size, extent, or quantity. It is the opposite of large or big.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*-Kosa*/   
 {
     English: "to cut",
@@ -23207,6 +23995,114 @@ A "lupingu" is a three-dimensional representation of a specific person, animal, 
 </tr>
 `
 },
+/*Luse*/   
+{
+    English: "compassion, pity",
+    French: "compassion, pitié",
+    Tshiluba: "luse",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "lu·se<p>/loo-sah/</p>",
+    PhoneticsT: "compassion, pitié | compassion, pity",
+    English2: "compassion",
+    French2: "pitié",
+    Tshiluba2: "luse",
+    PhoneticsT2: " ",
+    English3: "nse",
+    French3: "pity",
+    Tshiluba3: "mercy",
+    PhoneticsT3: " ",
+    English4: "miséricorde",
+    French4: "pitie",
+    Tshiluba4: "misericorde",
+    PhoneticsT4: " ",
+    English5: "to have mercy",
+    French5: "avoir pitié",
+    Tshiluba5: "kufuila luse",
+    PhoneticsT5: " ",
+    English6: "have mercy",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+compassion <i class="PartOfSpch">n</i><br>
+pitié <i class="PartOfSpch">n</i><br>
+miséricorde <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+compassion <i class="PartOfSpch">n</i><br>
+pity <i class="PartOfSpch">n</i><br>
+mercy <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+luse <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nse<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+avoir pitié <br>
+</td>
+<td class="tabledef" valign=top>
+to have mercy <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+kufuila luse <br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Luse" est un sentiment de tristesse et de compassion causé par la souffrance et les malheurs des autres.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Luse" is a feeling of sorrow and compassion caused by the suffering and misfortunes of others.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
+},
 /*Lusuki*/   
 {
     English: "a hair",
@@ -26351,6 +27247,129 @@ The brother of a person's mother.
 </tr>
 `
 },
+/*-Manya*/   
+{
+    English: "to know",
+    French: "connaître",
+    Tshiluba: "Kumanya",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·man·ya<p>/koo-mah-nyah/</p>",
+    PhoneticsT: "savoir | to know",
+    English2: "know",
+    French2: "i know",
+    Tshiluba2: "-manya",
+    PhoneticsT2: " ",
+    English3: "i don't know",
+    French3: "je ne sais pas",
+    Tshiluba3: "je sais",
+    PhoneticsT3: " ",
+    English4: "sais",
+    French4: "on sait",
+    Tshiluba4: "sait",
+    PhoneticsT4: " ",
+    English5: "you know",
+    French5: "we know",
+    Tshiluba5: "knows",
+    PhoneticsT5: " ",
+    English6: "tshiena mumanya to",
+    French6: "tshiena mumanya",
+    Tshiluba6: "ndi mumanya",
+    PhoneticsT6: " ",
+    English7: "mumanya",
+    French7: "savoir",
+    Tshiluba7: "connaitre",
+    PhoneticsT7: " ",
+    English8: "idk",
+    French8: "i don't know",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+connaître <i class="PartOfSpch">v</i> <br>
+savoir <i class="PartOfSpch">v</i> <br><br>
+
+</td>
+<td class="tabledef" valign=top >
+to know <i class="PartOfSpch">v</i> <br><br>
+
+</td>
+<td class="tabledef" valign=top>
+kumanya <i class="PartOfSpch">md</i><br>
+-manya
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+je sais
+
+</td>
+<td class="tabledef" valign=top >
+I know
+
+</td>
+<td class="tabledef" valign=top>
+ndi mumanya
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+je ne sais pas
+
+</td>
+<td class="tabledef" valign=top >
+I don't know
+
+</td>
+<td class="tabledef" valign=top>
+tshiena mumanya to
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Kumanya" signifie avoir des informations, une connaissance ou une familiarité avec quelque chose ou quelqu'un.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Kumanya" means to have information, awareness, or familiarity with something or someone.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Manyi*/   
 {
     English: "oil",
@@ -26435,6 +27454,112 @@ Viscous liquid derived from various plants, animals, or minerals, typically used
 <p class="explanation-tsh">
 ----</p>
 <br><br></td>
+</tr>
+`
+},
+/*Masandi*/   
+{
+    English: "fornication",
+    French: "fornication",
+    Tshiluba: "masandi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "ma·san·di<p>/mah-sahn-djee/</p>",
+    PhoneticsT: "fornication | fornication",
+    English2: "adultery",
+    French2: "adultère",
+    Tshiluba2: "masandi",
+    PhoneticsT2: " ",
+    English3: "disandi",
+    French3: "commit adultery",
+    Tshiluba3: "commettre un adultère",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+fornication <i class="PartOfSpch">n</i><br>
+adultère <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+fornication <i class="PartOfSpch">n</i><br>
+adultery <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+masandi <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">s</i> disandi <br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+commettre un adultère <br><br>
+forniquer <br>
+</td>
+<td class="tabledef" valign=top>
+to commit adultery <br><br>
+fornicate <br>
+</td>
+<td class="tabledef" valign=top>
+kuenda masandi 
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Masandi" est l'acte d'avoir des relations sexuelles entre des individus qui ne sont pas mariés l'un à l'autre.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Masandi" is the act of engaging in sexual intercourse between individuals who are not married to each other.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -34537,16 +35662,16 @@ Mulumiana is an informal noun used to refer to a man.
     French2: "balunda",
     Tshiluba2: "mulunda",
     PhoneticsT2: " ",
-    English3: " ",
-    French3: " ",
-    Tshiluba3: " ",
+    English3: "companion",
+    French3: "compagnon",
+    Tshiluba3: "comrade",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
+    English4: "camarade",
+    French4: "comrades",
+    Tshiluba4: "camarades",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
+    English5: "a friend",
+    French5: "companions",
     Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
@@ -34585,10 +35710,14 @@ Mulumiana is an informal noun used to refer to a man.
 <tr>
 <td class="tabledef" valign=top>
 ami <i class="PartOfSpch">n</i><br>
-amie <i class="PartOfSpch">n</i><br><br>
+amie <i class="PartOfSpch">n</i><br>
+camarade <i class="PartOfSpch">n</i><br>
+compagnon <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-friend <i class="PartOfSpch">n</i><br><br>
+friend <i class="PartOfSpch">n</i><br>
+comrade <i class="PartOfSpch">n</i><br>
+companion <i class="PartOfSpch">n</i><br><br>
 
 </td>
 <td class="tabledef" valign=top>
@@ -34602,16 +35731,16 @@ mulunda <i class="PartOfSpch">tshi1</i><br>
 <p class="explanation-fr">
 Une personne avec laquelle on entretient une relation étroite et de confiance, caractérisée par une affection mutuelle, un soutien et une compréhension réciproques.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 A person with which one has a close, trusting relationship characterized by mutual affection, support, and understanding.
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ------- </p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -38744,6 +39873,440 @@ A judicial officer with limited authority, typically presiding over lower-level 
 </tr>
 ` 
 },
+/*--Nene*/   
+{
+    English: "big",
+    French: "grand(e)",
+    Tshiluba: "--nene",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
+    Phonetics: "ne·ne<p>/neh-nah/</p>",
+    PhoneticsT: "grand(e) | big",
+    English2: "large",
+    French2: "grand",
+    Tshiluba2: "--nene",
+    PhoneticsT2: " ",
+    English3: "grande",
+    French3: "-nene",
+    Tshiluba3: "nene",
+    PhoneticsT3: " ",
+    English4: "huge",
+    French4: "enormous",
+    Tshiluba4: "Énorme",
+    PhoneticsT4: " ",
+    English5: "enorme",
+    French5: "colossal",
+    Tshiluba5: "giant",
+    PhoneticsT5: " ",
+    English6: "majuscule",
+    French6: "grosse",
+    Tshiluba6: "immense",
+    PhoneticsT6: " ",
+    English7: "dinene",
+    French7: "manene",
+    Tshiluba7: "giant",
+    PhoneticsT7: " ",
+    English8: "grosse",
+    French8: "gros",
+    Tshiluba8: "volumineux",
+    PhoneticsT8: " ",
+    English9: "voluminous",
+    French9: "gigantic",
+    Tshiluba9: "gigantesque",
+    PhoneticsT9: " ",
+    English10: "massive",
+    French10: "massif",
+    Tshiluba10: "géant(e)",
+    PhoneticsT10: " ",
+    English11: "géant",
+    French11: "géante",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+grand(e) <i class="PartOfSpch">adj</i><br>
+gros(se) <i class="PartOfSpch">adj</i><br>
+géant(e) <i class="PartOfSpch">adj</i><br>
+volumineux <i class="PartOfSpch">adj</i><br>
+immense <i class="PartOfSpch">adj</i><br>
+énorme <i class="PartOfSpch">adj</i><br>
+gigantesque <i class="PartOfSpch">adj</i><br>
+majuscule <i class="PartOfSpch">adj</i><br>
+massif <i class="PartOfSpch">adj</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+big <i class="PartOfSpch">adj</i><br>
+large <i class="PartOfSpch">adj</i><br>
+giant <i class="PartOfSpch">adj</i><br>
+voluminous <i class="PartOfSpch">adj</i><br>
+enormous <i class="PartOfSpch">adj</i><br>
+gigantic <i class="PartOfSpch">adj</i><br>
+immense <i class="PartOfSpch">adj</i><br>
+massive <i class="PartOfSpch">adj</i><br>
+
+</td>
+<td class="tabledef" valign=top >
+--nene <i class="PartOfSpch">muf</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1
+
+</td>
+<td class="tabledef" valign=top>
+class 1
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> munene <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> banene <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2
+
+</td>
+<td class="tabledef" valign=top>
+class 2
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> munene <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> minene <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3
+
+</td>
+<td class="tabledef" valign=top>
+class 3
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> bunene <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> manene <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4
+
+</td>
+<td class="tabledef" valign=top>
+class 4
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dinene <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> banene <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5
+
+</td>
+<td class="tabledef" valign=top>
+class 5
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lunene <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nene <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7
+
+</td>
+<td class="tabledef" valign=top>
+class 7
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kanene <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tunene <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8
+
+</td>
+<td class="tabledef" valign=top>
+class 8
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshinene <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> binene <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"--nene" est un suffixe se terminant par quelque chose qui a une grande taille physique, une grande étendue ou un grand volume.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"--nene" is a suffex ending referring to something that has a large physical size, extent, or volume.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*--Nene*/   
+{
+    English: "giant",
+    French: "géant(e)",
+    Tshiluba: "--nene",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a>',
+    Phonetics: "ne·ne<p>/neh-nah/</p>",
+    PhoneticsT: "grand(e) | big",
+    English2: "géant",
+    French2: "géante",
+    Tshiluba2: "--nene",
+    PhoneticsT2: " ",
+    English3: "munene",
+    French3: "banene",
+    Tshiluba3: "minene",
+    PhoneticsT3: " ",
+    English4: "manene",
+    French4: "tshinene",
+    Tshiluba4: "binene",
+    PhoneticsT4: " ",
+    English5: "lunene",
+    French5: "nene",
+    Tshiluba5: "kanene",
+    PhoneticsT5: " ",
+    English6: "tunene",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+grand(e) <i class="PartOfSpch">adj</i><br>
+gros(se) <i class="PartOfSpch">adj</i><br>
+volumineux <i class="PartOfSpch">adj</i><br>
+immense <i class="PartOfSpch">adj</i><br>
+énorme <i class="PartOfSpch">adj</i><br>
+gigantesque <i class="PartOfSpch">adj</i><br>
+majuscule <i class="PartOfSpch">adj</i><br>
+massif <i class="PartOfSpch">adj</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+big <i class="PartOfSpch">adj</i><br>
+large <i class="PartOfSpch">adj</i><br>
+voluminous <i class="PartOfSpch">adj</i><br>
+enormous <i class="PartOfSpch">adj</i><br>
+gigantic <i class="PartOfSpch">adj</i><br>
+immense <i class="PartOfSpch">adj</i><br>
+massive <i class="PartOfSpch">adj</i><br>
+
+</td>
+<td class="tabledef" valign=top >
+--nene <i class="PartOfSpch">muf</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1
+
+</td>
+<td class="tabledef" valign=top>
+class 1
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> munene <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> banene <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2
+
+</td>
+<td class="tabledef" valign=top>
+class 2
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> munene <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> minene <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3
+
+</td>
+<td class="tabledef" valign=top>
+class 3
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> bunene <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> manene <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4
+
+</td>
+<td class="tabledef" valign=top>
+class 4
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dinene <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> banene <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5
+
+</td>
+<td class="tabledef" valign=top>
+class 5
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lunene <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nene <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7
+
+</td>
+<td class="tabledef" valign=top>
+class 7
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kanene <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tunene <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8
+
+</td>
+<td class="tabledef" valign=top>
+class 8
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshinene <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> binene <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"--nene" est un suffixe se terminant par quelque chose qui a une grande taille physique, une grande étendue ou un grand volume.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"--nene" is a suffex ending referring to something that has a large physical size, extent, or volume.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Ngandu*/   
 {
     English: "crocodile",
@@ -42852,6 +44415,115 @@ A snake is a limbless, elongated reptile characterized by scaled skin, a lack of
 </tr>
 `
 },
+/*Nyota*/   
+{
+    English: "thirst",
+    French: "la soif",
+    Tshiluba: "nyota",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "nyo·ta<p>/nyoh-tah/</p>",
+    PhoneticsT: "la soif | thirst",
+    English2: "thirsty",
+    French2: "soif",
+    Tshiluba2: "nyota",
+    PhoneticsT2: " ",
+    English3: "to be thirsty",
+    French3: "be thirsty",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "avoir soif",
+    French4: " ",
+    Tshiluba4: "kuikala ne nyota",
+    PhoneticsT4: " ",
+    English5: "ikala ne nyota",
+    French5: "kuumvua nyota",
+    Tshiluba5: "kufua nyota",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+soif <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+thirst <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+nyota <i class="PartOfSpch">tshi6</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/N/NZALA/">nzala</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+avoir soif <br>
+</td>
+<td class="tabledef" valign=top>
+to be thirsty <br>
+
+</td>
+<td class="tabledef" valign=top>
+kuikala ne nyota <br><br>
+kuumvua nyota <br><br>
+kufua nyota <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Nyota est une sensation physique et un besoin d'eau causés par le signal du corps indiquant qu'il a besoin de s'hydrater.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Nyota is the physical sensation and need for water caused by the body's signal that it requires hydration.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+</td>
+</tr>
+`
+},
 /*Nyuma*/   
 {
     English: "spirit",
@@ -43145,6 +44817,115 @@ A bird is a warm-blooded, egg-laying vertebrate characterized by feathers, a bea
                 <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
 <br><br></td>
+</tr>
+`
+},
+/*Nzala*/   
+{
+    English: "hunger",
+    French: "la faim",
+    Tshiluba: "nzala",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "nza·la<p>/nzah-lah/</p>",
+    PhoneticsT: "la faim | hunger",
+    English2: "hunger",
+    French2: "faim",
+    Tshiluba2: "nzala",
+    PhoneticsT2: " ",
+    English3: "to be hungry",
+    French3: "be hungry",
+    Tshiluba3: "hungry",
+    PhoneticsT3: " ",
+    English4: "avoir faim",
+    French4: " ",
+    Tshiluba4: "kuikala ne nzala",
+    PhoneticsT4: " ",
+    English5: "ikala ne nzala",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+faim <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+hunger <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+nzala <i class="PartOfSpch">tshi6</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/N/NYOTA/">nyota</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+avoir faim <br>
+</td>
+<td class="tabledef" valign=top>
+to be hungry <br>
+
+</td>
+<td class="tabledef" valign=top>
+kuikala ne nzala <br><br>
+kuumvua nzala <br><br>
+kufua nzala <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Nzala est une sensation physique et un besoin de nourriture causés par le signal du corps indiquant qu'il a besoin de se nourrir.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Nzala is a physical sensation and need for food caused by the body's signal that it requires nourishment.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+</td>
 </tr>
 `
 },
@@ -46017,6 +47798,110 @@ ndi musua <a style="text-decoration:none;" href="/alphabetindex/D/-DIA/">kudia</
      The verb kusua indicates a strong desire or wish for something, reflecting both emotional and intentional states of wanting or lacking something desired.
                     </p> 
     <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+`
+},
+/*-Suma*/   
+{
+    English: "to bite",
+    French: "mordre",
+    Tshiluba: "kusuma",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·su·ma<p>/koo-soo-mah/</p>",
+    PhoneticsT: "mordre | to bite",
+    English2: "disuma",
+    French2: "tshisuma",
+    Tshiluba2: "-suma",
+    PhoneticsT2: " ",
+    English3: "suma",
+    French3: "usuma",
+    Tshiluba3: "nsuma",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+mordre <i class="PartOfSpch">v</i> <br>
+piquer <i class="PartOfSpch">v</i> <br><br>
+</td>
+<td class="tabledef" valign=top >
+to bite  <i class="PartOfSpch">v</i> <br>
+bite <i class="PartOfSpch">v</i>
+to sting <i class="PartOfSpch">v</i> <br>
+sting <i class="PartOfSpch">v</i> <br><br>
+
+</td>
+<td class="tabledef" valign=top >
+kusuma <i class="PartOfSpch">md</i><br>
+-suma <i class="PartOfSpch">md</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le verbe kusuma signifie utiliser les dents pour couper ou saisir quelque chose
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+        
+     The verb kusuma means to use the teeth to cut into or grip something.
+                    </p> 
+    <br>
     <b><i>Diumvuija</i></b><br>
     <p class="explanation-tsh">
     -----</p>
@@ -50907,6 +52792,99 @@ The mature ovary of a flowering plant, usually containing seeds.
 </tr>
 `
 },
+/*-Tshina*/   
+{
+    English: "to fear",
+    French: "craindre",
+    Tshiluba: "kutshina",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·tshi·na<p>/koo-chee-nah/</p>",
+    PhoneticsT: "craindre | to fear",
+    English2: "to be afraid of",
+    French2: "avoir peur",
+    Tshiluba2: "-tshina",
+    PhoneticsT2: " ",
+    English3: "tshina",
+    French3: "utshina",
+    Tshiluba3: "to be afraid",
+    PhoneticsT3: " ",
+    English4: "be afraid of",
+    French4: "avoir la crainte",
+    Tshiluba4: "to be scared of",
+    PhoneticsT4: " ",
+    English5: "scared of",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+craindre <i class="PartOfSpch">v</i><br>
+avoir peur <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to fear <i class="PartOfSpch">v</i><br>
+to be afraid of <i class="PartOfSpch">v</i><br>
+to be scared of <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+kutshina <i class="PartOfSpch">md</i><p><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/B/BOWA/">bowa</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Kutshina" veut dire de ressentir une émotion pénible suscitée par un danger imminent, le mal, la douleur ou une menace perçue.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Kutshina" means to feel a distressing emotion aroused by impending danger, evil, pain, or a perceived threat.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Tshintu*/   
 {
         English: "Thing",
@@ -52583,6 +54561,94 @@ Tshisumbu tshia bantu :
 </tr>
 `
 },
+/*Tshisuminyi*/   
+{
+    English: "a bite",
+    French: "morsure",
+    Tshiluba: "tshisuminyi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "tshi·sum·i·nyi<p>/chee-soom-ee-nyee/</p>",
+    PhoneticsT: "morsure | bite",
+    English2: "bites",
+    French2: "morsures",
+    Tshiluba2: "tshisuminyi",
+    PhoneticsT2: " ",
+    English3: "bisuminyi",
+    French3: "disuma",
+    Tshiluba3: "masuma",
+    PhoneticsT3: " ",
+    English4: "bite",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+morsure <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+bite <i class="PartOfSpch">n</i><br>                     
+</td>
+<td class="tabledef" valign=top >
+tshisuminyi <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bisuminyi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une tshisuminyi est une blessure ou une marque causée par les dents d'une personne ou d'un animal, ou par les pièces buccales d'un insecte.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A tshisuminyi is an injury or mark caused by the teeth of a person or animal, or by an insect's mouthparts.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Tshitalu*/   
 {
     English: "cadaver",
@@ -52774,7 +54840,7 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
     French: "Partie",
     Tshiluba: "Tshitupa",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Tshi·tu·pa<p>/chee-too-pah/</p>",
+    Phonetics: "tshi·tu·pa<p>/chee-too-pah/</p>",
     PhoneticsT: "Partie / Part",
     English2: "Section",
     French2: "Morceau",
@@ -52786,25 +54852,25 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
     PhoneticsT3: " ",
     English4: "Portion",
     French4: "Fraction",
-    Tshiluba4: " ",
+    Tshiluba4: "tshituha",
     PhoneticsT4: " ",
     English5: "Pieces",
     French5: "Parts",
-    Tshiluba5: " ",
+    Tshiluba5: "bituha",
     PhoneticsT5: " ",
     English6: "Piece",
-    French6: " ",
+    French6: "bit",
     Tshiluba6: " ",
     PhoneticsT6: " ",
     English7: "Sections",
     French7: "Bitupa",
-    Tshiluba7: " ",
+    Tshiluba7: "bout",
     PhoneticsT7: " ",
     English8: "fractions",
     French8: "chapters",
-    Tshiluba8: " ",
+    Tshiluba8: "muntu wa tshitupa",
     PhoneticsT8: " ",
-    English9: " ",
+    English9: "bits",
     French9: " ",
     Tshiluba9: " ",
     PhoneticsT9: " ",
@@ -52830,12 +54896,27 @@ tshitema, 9 <i class="PartOfSpch">tshi</i>
 1. morceau <i class="PartOfSpch">n</i>,<br>
 fraction <i class="PartOfSpch">n</i>,<br>
 portion <i class="PartOfSpch">n</i><br>
-2. chapitre
+bout <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
 1. part <i class="PartOfSpch">n</i>,<br>
 piece<i class="PartOfSpch">n</i>,<br>
 fraction <i class="PartOfSpch">n</i><br>
+bit <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+tshitupa <i class="PartOfSpch">tshi8</i><p>
+<i class="PartOfSpch">pl</i> bitupa
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+2. chapitre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
 2. chapter <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
@@ -52843,8 +54924,36 @@ tshitupa <i class="PartOfSpch">tshi8</i><p>
 <i class="PartOfSpch">pl</i> bitupa
 </td>
 </tr>
-<tr style="text-align:left";>
-<td colspan="3" class="analogy"><br>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+de petite taille <br>
+</td>
+<td class="tabledef-1" valign=top >
+of small stature<br>
+</td>
+<td class="tabledef" valign=top >
+--a tshitupa<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+un homme de petite taille <br>
+</td>
+<td class="tabledef-1" valign=top >
+a man of small stature <br>
+</td>
+<td class="tabledef" valign=top >
+muntu wa tshitupa <br>
+</td>
+</tr>
+<tr style="text-align:left;">
+<td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
 Une portion ou une quantité séparée ou limitée de quelque chose.
@@ -52859,7 +54968,7 @@ A separate or limited portion or quantity of something.
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 -----</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td colspan="3" class="analogy"><br>
@@ -54020,6 +56129,96 @@ kuunzulula <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBI/">tshi
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 "Kuunzulula" means to move or cause something to move from a closed or sealed position to one that allows access, passage, or visibility. It involves creating an aperture or gap where none existed before, facilitating entry, exit, or exposure.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*-Vuluka*/   
+{
+    English: "to remember",
+    French: "se souvenir",
+    Tshiluba: "kuvuluka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·vu·lu·ka<p>/koo-voo-loo-kah/</p>",
+    PhoneticsT: "se souvenir | remember",
+    English2: "remember",
+    French2: "se rappeler",
+    Tshiluba2: "-vuluka",
+    PhoneticsT2: " ",
+    English3: "to recall",
+    French3: "recall",
+    Tshiluba3: "vuluka",
+    PhoneticsT3: " ",
+    English4: "uvuluka",
+    French4: "tuvuluka",
+    Tshiluba4: "bavuluka",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+se souvenir <i class="PartOfSpch">v</i><br>
+se rappeler <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to remember <i class="PartOfSpch">v</i><br>
+to recall <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kuvuluka <i class="PartOfSpch">md</i><br>
+-vuluka <i class="PartOfSpch">md</i><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Kuvuluka veut dire se rappeler ou penser à nouveau; se remémorer des informations, des faits ou des expériences passées.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Kuvuluka means to bring to mind or think of again; to recall information, facts, or past experiences.
                 </p> 
 <br>
 <b><i>Diumvuija</i></b><br>

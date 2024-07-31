@@ -4687,6 +4687,212 @@ const nkongamiaku2 = [
     </tr>
     `
     },
+    /*Buloba*/   
+    {
+        English: "earth",
+        French: "la terre",
+        Tshiluba: "buloba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "bu·lo·ba<p>/boo-loh-bah/</p>",
+        PhoneticsT: "la terre | earth",
+        English2: "planet earth",
+        French2: "terre",
+        Tshiluba2: "buloba",
+        PhoneticsT2: " ",
+        English3: "sol",
+        French3: "soil",
+        Tshiluba3: "ground",
+        PhoneticsT3: " ",
+        English4: "the ground",
+        French4: "land",
+        Tshiluba4: "lands",
+        PhoneticsT4: " ",
+        English5: "the land",
+        French5: "grounds",
+        Tshiluba5: "le monde",
+        PhoneticsT5: " ",
+        English6: "monde",
+        French6: "world",
+        Tshiluba6: "the world",
+        PhoneticsT6: " ",
+        English7: "bulaba",
+        French7: "malaba",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    terre <i class="PartOfSpch">n</i><br>
+    la Terre <i class="PartOfSpch">n</i><br>
+    monde <i class="PartOfSpch">n</i><br>
+    le monde <i class="PartOfSpch">n</i><br>
+    sol <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    earth <i class="PartOfSpch">n</i><br>
+    the Earth <i class="PartOfSpch">n</i><br>
+    world <i class="PartOfSpch">n</i><br>
+    the world <i class="PartOfSpch">n</i><br>
+    soil <i class="PartOfSpch">n</i><br>
+    ground <i class="PartOfSpch">n</i><br>
+    land <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    buloba <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> maloba<br><br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DITUNGA/">ditunga</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Buloba signifie terre ou sol. Le terme terre peut simplement désigner un morceau de terrain, qu'il s'agisse de terrain naturel ou de zones développées telles que des villes et des villages.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Buloba means earth, or land. Land can simply refer to any piece of ground, whether it is natural terrain or developed areas such as cities and towns.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Bulunda*/   
+    {
+        English: "friendship",
+        French: "amitié",
+        Tshiluba: "bulunda",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "bu·lun·da<p>/boo-loon-dah/</p>",
+        PhoneticsT: "amitié | friendship",
+        English2: "friendships",
+        French2: "amitiés",
+        Tshiluba2: "bulunda",
+        PhoneticsT2: " ",
+        English3: "malunda",
+        French3: "amitie",
+        Tshiluba3: "compansionship",
+        PhoneticsT3: " ",
+        English4: "camaraderie",
+        French4: "amity",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    amitié <i class="PartOfSpch">n</i><br>
+    camaraderie <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    friendship <i class="PartOfSpch">n</i><br>
+    companionship <i class="PartOfSpch">n</i><br>
+    camaraderie <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bulunda <i class="PartOfSpch">tshi3</i><br>
+    <i class="PartOfSpch">pl</i> malunda<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MULUNDA/">mulunda</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Bulunda est la relation étroite et de confiance entre deux personnes ou plus, basée sur l'affection mutuelle, le soutien et la compréhension.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Bulunda is the close and trusting relationship between two or more people based on mutual affection, support, and understanding.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Bungi*/  
     {
         English: "Numbers",
@@ -11946,6 +12152,136 @@ Wewe udi ne ditabuja, meme ndi ne bienzedi.
                     &nbsp:&nbsp
     Kadi, pa ndi mfika kuntu aku :
     <br><br></td>
+    </tr>
+    `
+    },
+    /*-Fua*/   
+    {
+        English: "to die",
+        French: "mourir",
+        Tshiluba: "kufua",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·fu·a<p>/koo-fwah/</p>",
+        PhoneticsT: "mourir | die",
+        English2: "die",
+        French2: "perir",
+        Tshiluba2: "-fua",
+        PhoneticsT2: " ",
+        English3: "to perish",
+        French3: "décéder",
+        Tshiluba3: "périr",
+        PhoneticsT3: " ",
+        English4: "to decease",
+        French4: "decease",
+        Tshiluba4: "deceased",
+        PhoneticsT4: " ",
+        English5: "mufua",
+        French5: "mufue",
+        Tshiluba5: "fua",
+        PhoneticsT5: " ",
+        English6: "fue",
+        French6: "kufue",
+        Tshiluba6: "kufwa",
+        PhoneticsT6: " ",
+        English7: "to pass away",
+        French7: "pass away",
+        Tshiluba7: "to expire",
+        PhoneticsT7: " ",
+        English8: "expire",
+        French8: "expirer",
+        Tshiluba8: "kufuila",
+        PhoneticsT8: " ",
+        English9: "-fuila",
+        French9: "fuila",
+        Tshiluba9: "mourir pour",
+        PhoneticsT9: " ",
+        English10: "die for",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mourir <i class="PartOfSpch">v</i><br>
+    périr <i class="PartOfSpch">v</i><br>
+    décéder <i class="PartOfSpch">v</i><br><br>
+    expirer <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to die <i class="PartOfSpch">v</i><br>
+    to perish <i class="PartOfSpch">v</i><br>
+    to decease <i class="PartOfSpch">v</i><br>
+    to pass away <i class="PartOfSpch">v</i><br>
+    to expire <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kufua <i class="PartOfSpch">md</i><br>
+    -fua <i class="PartOfSpch">md</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mourir pour <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to die for <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kufuila <i class="PartOfSpch">md</i><br>
+    -fuila <i class="PartOfSpch">md</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avoir pitié <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to have mercy <br>
+    </td>
+    <td class="tabledef" valign=top >
+    kufuila luse <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Cesser de vivre ; subir le processus de la mort où les fonctions biologiques qui soutiennent un organisme vivant cessent définitivement.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kufua means to cease living; to undergo the process of death where biological functions that sustain a living organism permanently stop.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -20220,6 +20556,114 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Luse*/   
+    {
+        English: "compassion, pity",
+        French: "compassion, pitié",
+        Tshiluba: "luse",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·se<p>/loo-sah/</p>",
+        PhoneticsT: "compassion, pitié | compassion, pity",
+        English2: "compassion",
+        French2: "pitié",
+        Tshiluba2: "luse",
+        PhoneticsT2: " ",
+        English3: "nse",
+        French3: "pity",
+        Tshiluba3: "mercy",
+        PhoneticsT3: " ",
+        English4: "miséricorde",
+        French4: "pitie",
+        Tshiluba4: "misericorde",
+        PhoneticsT4: " ",
+        English5: "to have mercy",
+        French5: "avoir pitié",
+        Tshiluba5: "kufuila luse",
+        PhoneticsT5: " ",
+        English6: "have mercy",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    compassion <i class="PartOfSpch">n</i><br>
+    pitié <i class="PartOfSpch">n</i><br>
+    miséricorde <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    compassion <i class="PartOfSpch">n</i><br>
+    pity <i class="PartOfSpch">n</i><br>
+    mercy <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    luse <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nse<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avoir pitié <br>
+    </td>
+    <td class="tabledef" valign=top>
+    to have mercy <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kufuila luse <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Luse" est un sentiment de tristesse et de compassion causé par la souffrance et les malheurs des autres.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Luse" is a feeling of sorrow and compassion caused by the suffering and misfortunes of others.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lusuki*/   
     {
         English: "a hair",
@@ -22512,6 +22956,129 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*-Manya*/   
+    {
+        English: "to know",
+        French: "connaître",
+        Tshiluba: "Kumanya",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·man·ya<p>/koo-mah-nyah/</p>",
+        PhoneticsT: "savoir | to know",
+        English2: "know",
+        French2: "i know",
+        Tshiluba2: "-manya",
+        PhoneticsT2: " ",
+        English3: "i don't know",
+        French3: "je ne sais pas",
+        Tshiluba3: "je sais",
+        PhoneticsT3: " ",
+        English4: "sais",
+        French4: "on sait",
+        Tshiluba4: "sait",
+        PhoneticsT4: " ",
+        English5: "you know",
+        French5: "we know",
+        Tshiluba5: "knows",
+        PhoneticsT5: " ",
+        English6: "tshiena mumanya to",
+        French6: "tshiena mumanya",
+        Tshiluba6: "ndi mumanya",
+        PhoneticsT6: " ",
+        English7: "mumanya",
+        French7: "savoir",
+        Tshiluba7: "connaitre",
+        PhoneticsT7: " ",
+        English8: "idk",
+        French8: "i don't know",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    connaître <i class="PartOfSpch">v</i> <br>
+    savoir <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to know <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kumanya <i class="PartOfSpch">md</i><br>
+    -manya
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    je sais
+
+    </td>
+    <td class="tabledef" valign=top >
+    I know
+
+    </td>
+    <td class="tabledef" valign=top>
+    ndi mumanya
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    je ne sais pas
+
+    </td>
+    <td class="tabledef" valign=top >
+    I don't know
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshiena mumanya to
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kumanya" signifie avoir des informations, une connaissance ou une familiarité avec quelque chose ou quelqu'un.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kumanya" means to have information, awareness, or familiarity with something or someone.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Manyi*/   
     {
         English: "oil",
@@ -22596,6 +23163,112 @@ To physically support one's own weight on one's feet in an upright position.
     <p class="explanation-tsh">
     ----</p>
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Masandi*/   
+    {
+        English: "fornication",
+        French: "fornication",
+        Tshiluba: "masandi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ma·san·di<p>/mah-sahn-djee/</p>",
+        PhoneticsT: "fornication | fornication",
+        English2: "adultery",
+        French2: "adultère",
+        Tshiluba2: "masandi",
+        PhoneticsT2: " ",
+        English3: "disandi",
+        French3: "commit adultery",
+        Tshiluba3: "commettre un adultère",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    fornication <i class="PartOfSpch">n</i><br>
+    adultère <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    fornication <i class="PartOfSpch">n</i><br>
+    adultery <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    masandi <i class="PartOfSpch">tshi4</i><br>
+    <i class="PartOfSpch">s</i> disandi <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    commettre un adultère <br><br>
+    forniquer <br>
+    </td>
+    <td class="tabledef" valign=top>
+    to commit adultery <br><br>
+    fornicate <br>
+    </td>
+    <td class="tabledef" valign=top>
+    kuenda masandi 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Masandi" est l'acte d'avoir des relations sexuelles entre des individus qui ne sont pas mariés l'un à l'autre.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Masandi" is the act of engaging in sexual intercourse between individuals who are not married to each other.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -38335,6 +39008,115 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
+    /*Nyota*/   
+    {
+        English: "thirst",
+        French: "la soif",
+        Tshiluba: "nyota",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "nyo·ta<p>/nyoh-tah/</p>",
+        PhoneticsT: "la soif | thirst",
+        English2: "thirsty",
+        French2: "soif",
+        Tshiluba2: "nyota",
+        PhoneticsT2: " ",
+        English3: "to be thirsty",
+        French3: "be thirsty",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "avoir soif",
+        French4: " ",
+        Tshiluba4: "kuikala ne nyota",
+        PhoneticsT4: " ",
+        English5: "ikala ne nyota",
+        French5: "kuumvua nyota",
+        Tshiluba5: "kufua nyota",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    soif <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    thirst <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nyota <i class="PartOfSpch">tshi6</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NZALA/">nzala</a><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avoir soif <br>
+    </td>
+    <td class="tabledef" valign=top>
+    to be thirsty <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuikala ne nyota <br><br>
+    kuumvua nyota <br><br>
+    kufua nyota <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Nyota est une sensation physique et un besoin d'eau causés par le signal du corps indiquant qu'il a besoin de s'hydrater.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Nyota is the physical sensation and need for water caused by the body's signal that it requires hydration.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Nyuma*/   
     {
         English: "spirit",
@@ -38626,6 +39408,115 @@ An expulsion of gas from the digestive system through the anus, often accompanie
                     <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Nzala*/   
+    {
+        English: "hunger",
+        French: "la faim",
+        Tshiluba: "nzala",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "nza·la<p>/nzah-lah/</p>",
+        PhoneticsT: "la faim | hunger",
+        English2: "hunger",
+        French2: "faim",
+        Tshiluba2: "nzala",
+        PhoneticsT2: " ",
+        English3: "to be hungry",
+        French3: "be hungry",
+        Tshiluba3: "hungry",
+        PhoneticsT3: " ",
+        English4: "avoir faim",
+        French4: " ",
+        Tshiluba4: "kuikala ne nzala",
+        PhoneticsT4: " ",
+        English5: "ikala ne nzala",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    faim <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    hunger <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    nzala <i class="PartOfSpch">tshi6</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/N/NYOTA/">nyota</a><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    avoir faim <br>
+    </td>
+    <td class="tabledef" valign=top>
+    to be hungry <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kuikala ne nzala <br><br>
+    kuumvua nzala <br><br>
+    kufua nzala <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Nzala est une sensation physique et un besoin de nourriture causés par le signal du corps indiquant qu'il a besoin de se nourrir.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Nzala is a physical sensation and need for food caused by the body's signal that it requires nourishment.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
     </tr>
     `
     },
@@ -41257,6 +42148,110 @@ An expulsion of gas from the digestive system through the anus, often accompanie
         The verb kusua indicates a strong desire or wish for something, reflecting both emotional and intentional states of wanting or lacking something desired.
                         </p> 
         <br><br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Suma*/   
+    {
+        English: "to bite",
+        French: "mordre",
+        Tshiluba: "kusuma",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·su·ma<p>/koo-soo-mah/</p>",
+        PhoneticsT: "mordre | to bite",
+        English2: "disuma",
+        French2: "tshisuma",
+        Tshiluba2: "-suma",
+        PhoneticsT2: " ",
+        English3: "suma",
+        French3: "usuma",
+        Tshiluba3: "nsuma",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    mordre <i class="PartOfSpch">v</i> <br>
+    piquer <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to bite  <i class="PartOfSpch">v</i> <br>
+    bite <i class="PartOfSpch">v</i>
+    to sting <i class="PartOfSpch">v</i> <br>
+    sting <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusuma <i class="PartOfSpch">md</i><br>
+    -suma <i class="PartOfSpch">md</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Le verbe kusuma signifie utiliser les dents pour couper ou saisir quelque chose
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            
+        The verb kusuma means to use the teeth to cut into or grip something.
+                        </p> 
+        <br>
         <b><i>Diumvuija</i></b><br>
         <p class="explanation-tsh">
         -----</p>
@@ -45861,6 +46856,99 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
+    /*-Tshina*/   
+    {
+        English: "to fear",
+        French: "craindre",
+        Tshiluba: "kutshina",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·tshi·na<p>/koo-chee-nah/</p>",
+        PhoneticsT: "craindre | to fear",
+        English2: "to be afraid of",
+        French2: "avoir peur",
+        Tshiluba2: "-tshina",
+        PhoneticsT2: " ",
+        English3: "tshina",
+        French3: "utshina",
+        Tshiluba3: "to be afraid",
+        PhoneticsT3: " ",
+        English4: "be afraid of",
+        French4: "avoir la crainte",
+        Tshiluba4: "to be scared of",
+        PhoneticsT4: " ",
+        English5: "scared of",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    craindre <i class="PartOfSpch">v</i><br>
+    avoir peur <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to fear <i class="PartOfSpch">v</i><br>
+    to be afraid of <i class="PartOfSpch">v</i><br>
+    to be scared of <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    kutshina <i class="PartOfSpch">md</i><p><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/B/BOWA/">bowa</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kutshina" veut dire de ressentir une émotion pénible suscitée par un danger imminent, le mal, la douleur ou une menace perçue.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kutshina" means to feel a distressing emotion aroused by impending danger, evil, pain, or a perceived threat.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Tshintu*/   
     {
             English: "Thing",
@@ -47534,6 +48622,94 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
+    /*Tshisuminyi*/   
+    {
+        English: "a bite",
+        French: "morsure",
+        Tshiluba: "tshisuminyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshi·sum·i·nyi<p>/chee-soom-ee-nyee/</p>",
+        PhoneticsT: "morsure | bite",
+        English2: "bites",
+        French2: "morsures",
+        Tshiluba2: "tshisuminyi",
+        PhoneticsT2: " ",
+        English3: "bisuminyi",
+        French3: "disuma",
+        Tshiluba3: "masuma",
+        PhoneticsT3: " ",
+        English4: "bite",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    morsure <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    bite <i class="PartOfSpch">n</i><br>                     
+    </td>
+    <td class="tabledef" valign=top >
+    tshisuminyi <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bisuminyi
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une tshisuminyi est une blessure ou une marque causée par les dents d'une personne ou d'un animal, ou par les pièces buccales d'un insecte.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A tshisuminyi is an injury or mark caused by the teeth of a person or animal, or by an insect's mouthparts.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Tshitalu*/   
     {
         English: "cadaver",
@@ -48960,6 +50136,96 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     "Kuunzulula" means to move or cause something to move from a closed or sealed position to one that allows access, passage, or visibility. It involves creating an aperture or gap where none existed before, facilitating entry, exit, or exposure.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Vuluka*/   
+    {
+        English: "to remember",
+        French: "se souvenir",
+        Tshiluba: "kuvuluka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·vu·lu·ka<p>/koo-voo-loo-kah/</p>",
+        PhoneticsT: "se souvenir | remember",
+        English2: "remember",
+        French2: "se rappeler",
+        Tshiluba2: "-vuluka",
+        PhoneticsT2: " ",
+        English3: "to recall",
+        French3: "recall",
+        Tshiluba3: "vuluka",
+        PhoneticsT3: " ",
+        English4: "uvuluka",
+        French4: "tuvuluka",
+        Tshiluba4: "bavuluka",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se souvenir <i class="PartOfSpch">v</i><br>
+    se rappeler <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to remember <i class="PartOfSpch">v</i><br>
+    to recall <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuvuluka <i class="PartOfSpch">md</i><br>
+    -vuluka <i class="PartOfSpch">md</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kuvuluka veut dire se rappeler ou penser à nouveau; se remémorer des informations, des faits ou des expériences passées.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kuvuluka means to bring to mind or think of again; to recall information, facts, or past experiences.
                     </p> 
     <br>
     <b><i>Diumvuija</i></b><br>
