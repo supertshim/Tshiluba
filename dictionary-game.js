@@ -20731,8 +20731,8 @@ const nkongamiaku3 = [
     },
     /*Luse*/   
     {
-        English: "compassion, pity",
-        French: "compassion, pitié",
+        English: "mercy",
+        French: "pitié",
         Tshiluba: "luse",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
         Phonetics: "lu·se<p>/loo-sah/</p>",
@@ -20754,8 +20754,8 @@ const nkongamiaku3 = [
         Tshiluba5: "kufuila luse",
         PhoneticsT5: " ",
         English6: "have mercy",
-        French6: " ",
-        Tshiluba6: " ",
+        French6: "lord have mercy",
+        Tshiluba6: "aie pitié",
         PhoneticsT6: " ",
         English7: " ",
         French7: " ",
