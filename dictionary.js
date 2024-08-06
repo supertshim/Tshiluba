@@ -24817,8 +24817,8 @@ The agricultural practice of putting seeds or young plants into the soil.
 },
 /*Kuneku*/  
 {
-    English: "here",
-    French: "ici",
+    English: "around here",
+    French: "par ici",
     Tshiluba: "kuneku",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
     Phonetics: "ku·ne·ku<p>/koo-neh-koo/</p>",
@@ -24829,7 +24829,7 @@ The agricultural practice of putting seeds or young plants into the soil.
     PhoneticsT2: " ",
     English3: "kunu",
     French3: "par ici",
-    Tshiluba3: " ",
+    Tshiluba3: "here",
     PhoneticsT3: " ",
     English4: " ",
     French4: " ",
@@ -24878,6 +24878,7 @@ par ici <i class="PartOfSpch">adv</i><br>
 ici <i class="PartOfSpch">adv</i><br><br>
 </td>
 <td class="tabledef" valign=top >
+around here <i class="PartOfSpch">adv</i><br>
 here <i class="PartOfSpch">adv</i><br>
 at this place <i class="PartOfSpch">expr</i><br><br>
 </td>
