@@ -16466,8 +16466,8 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
-        /*Kadianjidi*/   
-        {
+    /*Kadianjidi*/   
+    {
             English: "Preposition",
             French: "Préposition",
             Tshiluba: "Kadianjidi",
@@ -16853,9 +16853,9 @@ To physically support one's own weight on one's feet in an upright position.
         </tr>
         `
         
-        },
-        /*Kadionkono*/   
-        {
+    },
+    /*Kadionkono*/   
+    {
             English: "rhinoceros",
             French: "rhinocéros",
             Tshiluba: "kadionkono",
@@ -16995,9 +16995,9 @@ To physically support one's own weight on one's feet in an upright position.
         <br><br></td>
         </tr>
         `
-        },
-        /*Kajiji*/   
-        {
+    },
+    /*Kajiji*/   
+    {
             English: "gnat",
             French: "moucheron",
             Tshiluba: "kajiji",
@@ -17141,8 +17141,8 @@ To physically support one's own weight on one's feet in an upright position.
         <br><br></td>
         </tr>
         `
-        },
-            /*Kakambishi*/   
+    },
+    /*Kakambishi*/   
     {
         English: "kitten",
         French: "chaton",
@@ -17286,6 +17286,127 @@ To physically support one's own weight on one's feet in an upright position.
                     <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Kakese*/   
+    {
+        English: "not much",
+        French: "un peu",
+        Tshiluba: "kakese",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "ka·ke·se<p>/kah-keh-sah/</p>",
+        PhoneticsT: "un peu | not much",
+        English2: "a little",
+        French2: "un petit peu",
+        Tshiluba2: "kakese",
+        PhoneticsT2: " ",
+        English3: "kakesa",
+        French3: "ku kakese ku kakese",
+        Tshiluba3: "kakese kakese",
+        PhoneticsT3: " ",
+        English4: "kakesa kakesa",
+        French4: "petit à petit",
+        Tshiluba4: "little by little",
+        PhoneticsT4: " ",
+        English5: "bit by bit",
+        French5: "a little bit",
+        Tshiluba5: "a bit",
+        PhoneticsT5: " ",
+        English6: "little bit",
+        French6: "peu",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    un peu <i class="PartOfSpch">adv</i> <br>
+    un petit peu <i class="PartOfSpch">adv</i> <br>
+    peu <i class="PartOfSpch">adv</i> <br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    not much <i class="PartOfSpch">adv</i> <br>
+    a little <i class="PartOfSpch">adv</i> <br>
+    a bit <i class="PartOfSpch">adv</i> <br>
+    a little bit <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kakese <i class="PartOfSpch">muam</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/--KESE/">--kese</a> <i class="PartOfSpch">muf</i><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    petit à petit <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    little by little <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kakese kakese<br><br>
+    ku kakese ku kakese<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Kakese" veut dire une petite quantité ou degré
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Kakese" means a small amount or degree.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -17800,6 +17921,100 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Kambele*/   
+    {
+        English: "peanut",
+        French: "cacahuète",
+        Tshiluba: "kambele",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "kam·be·le<p>/kahm-beh-lah/</p>",
+        PhoneticsT: "arachide | peanut",
+        English2: "peanuts",
+        French2: "arachides",
+        Tshiluba2: "kambele",
+        PhoneticsT2: " ",
+        English3: "tumbele",
+        French3: "kambela",
+        Tshiluba3: "tumbela",
+        PhoneticsT3: " ",
+        English4: "nuts",
+        French4: "nut",
+        Tshiluba4: "arachide",
+        PhoneticsT4: " ",
+        English5: "cacahouète",
+        French5: "cacahuete",
+        Tshiluba5: "cacahouete",
+        PhoneticsT5: " ",
+        English6: "cacahuètes",
+        French6: "cacahouètes",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cacahuète <i class="PartOfSpch">n</i><br>
+    cacahouète <i class="PartOfSpch">n</i><br>
+    arachide <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    peanut <i class="PartOfSpch">n</i><br>
+    nut <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kambele <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tumbele<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kambele est une graine de la plante de cacahuète, enfermée dans une coque fine et papyracée. Les tumbele sont généralement consommées grillées, bouillies ou dans divers plats culinaires.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kambele is a seed of the peanut plant, encased in a thin, papery shell. Tumbele are typically consumed roasted, boiled, or as part of various culinary dishes.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Kambishi*/   
     {
         English: "cat",
@@ -17892,6 +18107,291 @@ To physically support one's own weight on one's feet in an upright position.
     <p class="explanation-tsh">
     --------</p>
     <br><br></td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kamembele*/   
+    {
+        English: "mosquito",
+        French: "moustique",
+        Tshiluba: "kamembele",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·mem·be·le<p>/kah-mem-beh-lah/</p>",
+        PhoneticsT: "moustique | mosquito",
+        English2: "mosquitioes",
+        French2: "moustiques",
+        Tshiluba2: "kamembele",
+        PhoneticsT2: " ",
+        English3: "kamembela",
+        French3: "mosquitos",
+        Tshiluba3: "tumembele",
+        PhoneticsT3: " ",
+        English4: "tumembela",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    moustique <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mosquito <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kamembele <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tumembele<br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAMUE/">kamue</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kamembele est un petit insecte volant appartenant à la famille des Culicidés connu pour piquer et se nourrir du sang des mammifères, des oiseaux et d'autres animaux
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kamembele is a small flying insect belonging to the family Culicidae known for biting and feeding on the blood of mammals, birds, and other animals.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Kaminyiminyi*/   
+    {
+        English: "scorpion",
+        French: "scorpion",
+        Tshiluba: "kaminyiminyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·min·yi·min·yi<p>/kah-meen-yee-meen-yee/</p>",
+        PhoneticsT: "scorpion | scorpion",
+        English2: "scorpion",
+        French2: "scorpions",
+        Tshiluba2: "kaminyiminyi",
+        PhoneticsT2: " ",
+        English3: "kaminyi",
+        French3: "tuminyi",
+        Tshiluba3: "tuminyiminyi",
+        PhoneticsT3: " ",
+        English4: "a scorpion",
+        French4: "un scorpion",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    scorpion <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    scorpion <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kaminyiminyi <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tuminyiminyi<br><br>
+
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kaminyiminyi est un arachnide prédateur de l'ordre des Scorpions caractérisé par une queue segmentée se terminant par un dard venimeux, une paire de pinces et un corps robuste
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kaminyiminyi is a predatory arachnid of the order Scorpiones characterized by a segmented tail that ends in a venomous stinger, a pair of pincers, and a robust body.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
     </tr>
     <tr>
     <td class="tabledef_a" colspan="3">
@@ -18234,6 +18734,150 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Kamue*/   
+    {
+        English: "mosquito",
+        French: "moustique",
+        Tshiluba: "kamue",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·mu·e<p>/kah-mwah/</p>",
+        PhoneticsT: "moustique | mosquito",
+        English2: "mosquitioes",
+        French2: "moustiques",
+        Tshiluba2: "kamue",
+        PhoneticsT2: " ",
+        English3: "kamwe",
+        French3: "mosquitos",
+        Tshiluba3: "tumue",
+        PhoneticsT3: " ",
+        English4: "tumwe",
+        French4: "kamu",
+        Tshiluba4: "tumu",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    moustique <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mosquito <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kamue <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tumue<br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAMEMBELE/">kamembele</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kamue est un petit insecte volant appartenant à la famille des Culicidés connu pour piquer et se nourrir du sang des mammifères, des oiseaux et d'autres animaux
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kamue is a small flying insect belonging to the family Culicidae known for biting and feeding on the blood of mammals, birds, and other animals.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Kamuma*/   
     {
         English: "small fruit",
@@ -18321,6 +18965,110 @@ To physically support one's own weight on one's feet in an upright position.
                     <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
                     <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Kaneke*/   
+    {
+        English: "paralysis",
+        French: "paralysie",
+        Tshiluba: "kaneke",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·ne·ke<p>/kah-neh-kah/</p>",
+        PhoneticsT: "paralysie | paralysis",
+        English2: "paralyzed",
+        French2: "paralysé",
+        Tshiluba2: "kaneke",
+        PhoneticsT2: " ",
+        English3: "paralyse",
+        French3: "kaneka",
+        Tshiluba3: "tuneke",
+        PhoneticsT3: " ",
+        English4: "tuneka",
+        French4: "paralytic",
+        Tshiluba4: "paralytique",
+        PhoneticsT4: " ",
+        English5: "muena kaneke",
+        French5: "bena kaneke",
+        Tshiluba5: "muena tuneke",
+        PhoneticsT5: " ",
+        English6: "bena tuneke",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    paralysie <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    paralysis <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kaneke <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tuneke <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    paralytique <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    paralytic <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    muena kaneke <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kaneka signifie la perte de la capacité de bouger et parfois de ressentir dans une partie ou la plupart du corps, généralement à la suite d'une maladie, d'un poison ou d'une blessure: Une condition où les muscles de la zone affectée sont incapables de fonctionner.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kaneke is the loss of the ability to move and sometimes to feel in part or most of the body, typically as a result of illness, poison, or injury: A condition where the muscles in the affected area are unable to function.
+
+
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
     </tr>
     `
     },
@@ -18794,6 +19542,192 @@ To physically support one's own weight on one's feet in an upright position.
         </tr>
     `
     },
+    /*Kashidi*/   
+    {
+        English: "forever",
+        French: "à jamais",
+        Tshiluba: "kashidi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br>',
+        Phonetics: "ka·shi·di<p>/kah-shee-djee/</p>",
+        PhoneticsT: "à jamais | forever",
+        English2: "eternally",
+        French2: "éternellement",
+        Tshiluba2: "kashidi",
+        PhoneticsT2: " ",
+        English3: "perpétuellement",
+        French3: "perpetually",
+        Tshiluba3: "à perpétuité",
+        PhoneticsT3: " ",
+        English4: "in perpetuity",
+        French4: "a perpetuite",
+        Tshiluba4: "never ending",
+        PhoneticsT4: " ",
+        English5: "never-ending",
+        French5: "sans fin",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    à jamais <i class="PartOfSpch">n</i><br>
+    éternellement <i class="PartOfSpch">n</i><br>
+    perpétuellement <i class="PartOfSpch">n</i><br>
+    sans fin <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign="top">
+    forever <i class="PartOfSpch">n</i> <br>
+    eternally <i class="PartOfSpch">n</i><br>
+    perpetually <i class="PartOfSpch">n</i><br> 
+    never-ending <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign="top">
+    kashidi <i class="PartOfSpch">muam</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIENDELELE/">tshiendelele</a><br>
+    </td>
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kashidi veut dire pour tout le temps à venir; pour toujours:
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kashidi means for all future time; for always:
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*Kashingi*/   
+    {
+        English: "needle",
+        French: "aiguille",
+        Tshiluba: "kashingi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ka·shin·gi<p>/kah-sheen-gee/</p>",
+        PhoneticsT: "aiguille | needle",
+        English2: "needles",
+        French2: "aiguilles",
+        Tshiluba2: "kashingi",
+        PhoneticsT2: " ",
+        English3: "tushingi",
+        French3: "a needle",
+        Tshiluba3: "une aiguille",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    aiguille <i class="PartOfSpch">n</i>
+    </td>
+    <td class="tabledef" valign=top>
+    needle <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kashingi <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tushingi <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kashingi est un instrument fin et pointu utilisé pour coudre ou à des fins chirurgicales: Typiquement en métal, avec une extrémité pointue pour percer et un trou (le chas) pour enfiler un fil ou une suture.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kashingi is a slender, pointed implement used for sewing or surgical purposes: typically made of metal, with a pointed end for piercing and a hole (eye) for threading a length of thread or suture.
+
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Kasuyi*/   
     {
         English: "small axe",
@@ -18981,6 +19915,843 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     ` 
     },
+    /*Katshia*/  
+    {
+        English: "since | never",
+        French: "depuis | jamais",
+        Tshiluba: "katshia",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br>',
+        Phonetics: "ka·tsi·a<p>/kah-chyah/</p>",
+        PhoneticsT: "depuis | since",
+        English2: "ever since",
+        French2: "depuis que",
+        Tshiluba2: "katshia",
+        PhoneticsT2: " ",
+        English3: "katsha",
+        French3: "katshya",
+        Tshiluba3: "never",
+        PhoneticsT3: " ",
+        English4: "jamais",
+        French4: "never ever",
+        Tshiluba4: "katshia ne katshia",
+        PhoneticsT4: " ",
+        English5: "jamais de la vie",
+        French5: "never in life",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    depuis <i class="PartOfSpch">prep</i><br>
+    depuis que <i class="PartOfSpch">prep</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    since <i class="PartOfSpch">prep</i><br>
+    ever since <i class="PartOfSpch">prep</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    katshia <i class="PartOfSpch">kad</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    jamais <i class="PartOfSpch">adv</i><br>
+    ne... jamais <i class="PartOfSpch">adv</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    never <i class="PartOfSpch">adv</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    katshia <i class="PartOfSpch">muam</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    depuis qu'il est parti <br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    ever since he left <br>
+    </td>
+    <td class="tabledef" valign=top >
+    katshia waya <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    depuis le peuple ont commencé <br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    ever since the people began <br>
+    </td>
+    <td class="tabledef" valign=top >
+    katshia bantu batuadije <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    jamais de la vie<br>
+    </td>
+    <td class="tabledef-1" valign=top >
+    never in life<br>
+    </td>
+    <td class="tabledef" valign=top >
+    katshia ne katshia<br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Katshia est une préposition utilisée pour introduire une proposition temporelle, indiquant qu'une action ou un événement a commencé à un moment précis dans le passé. Lorsqu'elle est suivie d'un verbe conjugué au passé, elle se réfère à 'depuis'. Lorsqu'elle est suivie d'un verbe à la forme négative, elle se réfère à 'jamais'.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Katshia is a preposition used to introduce a time clause, indicating that an action or event began at a specific point in the past. When followed by a verb conjugated in the past tense, it refers to "ever since." When followed by a verb in the negative, it refers to "never."
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
+    /*-Katshila*/   
+    {
+        English: "to be astonished",
+        French: "être étonné",
+        Tshiluba: "kukatshila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ka·tshi·la<p>/koo-kah-chee-lah/</p>",
+        PhoneticsT: "être étonné | to be astonished",
+        English2: "to be surprised",
+        French2: "être etonne",
+        Tshiluba2: "-katshila",
+        PhoneticsT2: " ",
+        English3: "katshila",
+        French3: "to be appalled",
+        Tshiluba3: "appalled",
+        PhoneticsT3: " ",
+        English4: "astonished",
+        French4: "etre etonne",
+        Tshiluba4: "etre étonné",
+        PhoneticsT4: " ",
+        English5: "s'étonner de",
+        French5: "to be shocked",
+        Tshiluba5: "shocked",
+        PhoneticsT5: " ",
+        English6: "to be amazed",
+        French6: "be amazed",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    être étonné <i class="PartOfSpch">v</i><br>
+    être stupéfait <i class="PartOfSpch">v</i><br>
+    s'étonner de <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to be astonished <i class="PartOfSpch">v</i><br>
+    to be shocked <i class="PartOfSpch">v</i><br>
+    to be appalled <i class="PartOfSpch">v</i><br>
+    to be amazed <i class="PartOfSpch">v</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukatshila <i class="PartOfSpch">md</i><br>
+    -katshila<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KEMA/">kukema</a> 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukosola signifie etre grandement surpris ou émerveillé. Il décrit le fait de ressentir un fort sentiment d'émerveillement ou de surprise, généralement en réponse à quelque chose d'inattendu ou d'extraordinaire.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kukatshila means to be greatly surprised or amazed. It describes a reaction of significant surprise or wonder, but generally less intense than being astounded.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Keba*/   
+    {
+        English: "to search",
+        French: "chercher",
+        Tshiluba: "kukeba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ke·ba<p>/koo-keh-bah/</p>",
+        PhoneticsT: "chercher | to seek",
+        English2: "to seek out",
+        French2: "to search",
+        Tshiluba2: "-keba",
+        PhoneticsT2: " ",
+        English3: "keba",
+        French3: "to search for",
+        Tshiluba3: "search",
+        PhoneticsT3: " ",
+        English4: "seek",
+        French4: "seek out",
+        Tshiluba4: "to look for",
+        PhoneticsT4: " ",
+        English5: "look for",
+        French5: " ",
+        Tshiluba5: "to seek",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    chercher <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to search <i class="PartOfSpch">v</i><br>
+    to search for<i class="PartOfSpch">v</i><br>
+    to seek <i class="PartOfSpch">v</i><br>
+    to look for <i class="PartOfSpch">v</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukeba <i class="PartOfSpch">md</i><br>
+    -keba<br><br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukeba est un verbe qui signifie chercher attentivement et minutieusement pour trouver quelque chose.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kukeba is a verb that means to look carefully and thoroughly in an effort to find something.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*Kele*/   
+    {
+        English: "knife",
+        French: "couteau",
+        Tshiluba: "kele",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "ke·le<p>/keh-lah/</p>",
+        PhoneticsT: "couteau | knife",
+        English2: "knives",
+        French2: "couteaux",
+        Tshiluba2: "kele",
+        PhoneticsT2: " ",
+        English3: "bakele",
+        French3: "tuele",
+        Tshiluba3: "a knife",
+        PhoneticsT3: " ",
+        English4: "un couteau",
+        French4: "kela",
+        Tshiluba4: "a knife",
+        PhoneticsT4: " ",
+        English5: "a dagger",
+        French5: "dagger",
+        Tshiluba5: "poignard",
+        PhoneticsT5: " ",
+        English6: "dague",
+        French6: "dagues",
+        Tshiluba6: "poignards",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    couteau <i class="PartOfSpch">n</i><br>
+    poignard <i class="PartOfSpch">n</i><br>
+    dague <i class="PartOfSpch">n</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign=top>
+    knife <i class="PartOfSpch">n</i><br>
+    dagger <i class="PartOfSpch">n</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    kele <i class="PartOfSpch">tshi7</i><br>
+    <i class="PartOfSpch">pl</i> tuele<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un kele est un outil avec une lame tranchante et un manche, utilisé pour couper ou trancher.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A kele is a tool with a sharp blade and handle, used for cutting or slicing.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Kema*/   
+    {
+        English: "to be astounded",
+        French: "être stupéfait",
+        Tshiluba: "kukema",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ke·ma<p>/koo-keh-mah/</p>",
+        PhoneticsT: "être stupéfait | to be astounded",
+        English2: "to be shocked",
+        French2: "être etonne",
+        Tshiluba2: "-kema",
+        PhoneticsT2: " ",
+        English3: "kema",
+        French3: "to be amazed",
+        Tshiluba3: "amazed",
+        PhoneticsT3: " ",
+        English4: "shocked",
+        French4: "etre etonne",
+        Tshiluba4: "etre étonné",
+        PhoneticsT4: " ",
+        English5: "s'étonner de",
+        French5: "to be shocked",
+        Tshiluba5: "shocked",
+        PhoneticsT5: " ",
+        English6: "to be amazed",
+        French6: "be amazed",
+        Tshiluba6: "etre surpris",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    être stupéfait <i class="PartOfSpch">v</i><br>
+    être étonné <i class="PartOfSpch">v</i><br>
+    s'étonner de <i class="PartOfSpch">v</i><br>
+    être surpris <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to be astounded <i class="PartOfSpch">v</i><br>
+    to be shocked <i class="PartOfSpch">v</i><br>
+    to be amazed <i class="PartOfSpch">v</i><br>
+    to be surprised <i class="PartOfSpch">v</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukema <i class="PartOfSpch">md</i><br>
+    -kema<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/-KATSHILA/">kukatshila</a> 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukema signifie ressentir une surprise ou un choc accablant. Il décrit une réaction face à quelque chose de tellement surprenant ou inattendu qu'il provoque une forte réponse émotionnelle, souvent laissant quelqu'un momentanément abasourdi ou incapable de traiter pleinement la situation.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kukema means to experience overwhelming surprise or shock. Describes a reaction to something that is so surprising or unexpected that it causes a strong emotional response, often leaving one momentarily stunned or unable to fully process the situation.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Kengela*/   
+    {
+        English: "to need",
+        French: "falloir",
+        Tshiluba: "kukengela",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ken·ge·la<p>/koo-ken-geh-lah/</p>",
+        PhoneticsT: "avoir besoin | to need",
+        English2: "need",
+        French2: "etre dans le besoin",
+        Tshiluba2: "-kengela",
+        PhoneticsT2: " ",
+        English3: "kengela",
+        French3: "to be in need of",
+        Tshiluba3: "avoir besoin",
+        PhoneticsT3: " ",
+        English4: "to have need of",
+        French4: "to have need",
+        Tshiluba4: "avoir besoin de",
+        PhoneticsT4: " ",
+        English5: "to require",
+        French5: "require",
+        Tshiluba5: "requérir",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    falloir <i class="PartOfSpch">v</i><br>
+    avoir besoin de <i class="PartOfSpch">v</i><br>
+    requérir <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to need <i class="PartOfSpch">v</i><br>
+    to require <i class="PartOfSpch">v</i><br>
+    to have need of <i class="PartOfSpch">v</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukengela <i class="PartOfSpch">md</i><br>
+    -kengela<br><br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kugengela veut dire requérir (quelque chose) parce que c'est essentiel ou très important. Il indique que quelque chose est nécessaire ou requis pour un objectif ou une situation particulière.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        Kukengela means to require (something) because it is essential or very important. It Indicates that something is necessary or required for a particular purpose or situation.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Kenka*/   
+    {
+        English: "to shine",
+        French: "luire",
+        Tshiluba: "kukenka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ken·ka<p>/koo-ken-kah/</p>",
+        PhoneticsT: "luire | to shine",
+        English2: "shine",
+        French2: "briller",
+        Tshiluba2: "-kenka",
+        PhoneticsT2: " ",
+        English3: "kenka",
+        French3: "rayonner",
+        Tshiluba3: "to glow",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    luire <i class="PartOfSpch">v</i><br>
+    briller <i class="PartOfSpch">v</i><br>
+    rayonner <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to shine <i class="PartOfSpch">v</i><br>
+    to glow for<i class="PartOfSpch">v</i><br>
+    <br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukenka <i class="PartOfSpch">md</i><br>
+    -kenka<br><br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukenka veut dire dégager ou refléter de la lumière de manière brillante et visible.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        Kukenka means to give off or reflect light in a bright and visible manner.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Kina*/   
+    {
+        English: "to hate",
+        French: "haïr",
+        Tshiluba: "Kukina",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ki·na<p>/Koo-kee-nah/</p>",
+        PhoneticsT: "haïr | to hate",
+        English2: "to detest",
+        French2: "détester",
+        Tshiluba2: "-kina",
+        PhoneticsT2: " ",
+        English3: "kina",
+        French3: "detester",
+        Tshiluba3: "detest",
+        PhoneticsT3: " ",
+        English4: "to loathe",
+        French4: "exécrer",
+        Tshiluba4: "loathe",
+        PhoneticsT4: " ",
+        English5: "abhorrer",
+        French5: "to abhor",
+        Tshiluba5: "abhor",
+        PhoneticsT5: " ",
+        English6: "execrate",
+        French6: "to execrate",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    haïr <i class="PartOfSpch">v</i><br>
+    détester <i class="PartOfSpch">v</i><br>
+    exécrer <i class="PartOfSpch">v</i><br>
+    abhorrer <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to hate <i class="PartOfSpch">v</i><br>
+    to detest <i class="PartOfSpch">v</i><br>
+    to loathe <i class="PartOfSpch">v</i><br>
+    to execrate <i class="PartOfSpch">v</i><br>
+    to abhor <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukina <i class="PartOfSpch">md</i><br>
+    -kina<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DIKINA/">dikina</a> 
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukina signifie ressentir une forte aversion ou un désaveu intense envers quelqu'un ou quelque chose.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kukina means to feel a strong aversion or intense dislike towards someone or something.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
     /*-Kosa*/   
     {
         English: "to cut",
@@ -19121,6 +20892,282 @@ To physically support one's own weight on one's feet in an upright position.
     <br><br>
     </td>
     </tr>`
+    },
+    /*-Kosola*/   
+    {
+        English: "to cough",
+        French: "tousser",
+        Tshiluba: "kukosola",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ko·so·la<p>/koo-koh-soh-lah/</p>",
+        PhoneticsT: "tousser | to cough",
+        English2: "to cough",
+        French2: " ",
+        Tshiluba2: "-kosola",
+        PhoneticsT2: " ",
+        English3: "kosola",
+        French3: "coughing",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    tousser <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to cough <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign="top">
+    kukosola <i class="PartOfSpch">md</i><br>
+    -kosola<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUKOSOLO/">lukosolo</a> 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    il tousse <br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    he has a cough
+    </td>
+    <td class="tabledef" valign="top">
+    udi ne <a style="text-decoration:none;" href="/alphabetindex/L/LUKOSOLO/">lukosolo</a> 
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kukosola signifie expulser brusquement de l'air des poumons avec un bruit sec. Une action réflexe pour dégager la gorge ou les voies respiratoires de mucus, de particules étrangères ou d'irritants.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kukosola means to expel air from the lungs suddenly with a sharp sound. A reflex action to clear the throat or airways of mucus, foreign particles, or irritants.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
+    /*Ku*/  
+    {
+        English: "toward, at, to ",
+        French: "vers, à, en, au",
+        Tshiluba: "ku",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a>',
+        Phonetics: "ku<p>/koo/</p>",
+        PhoneticsT: "vers | toward",
+        English2: "toward",
+        French2: "towards",
+        Tshiluba2: "ku",
+        PhoneticsT2: " ",
+        English3: "at",
+        French3: "to",
+        Tshiluba3: "vers",
+        PhoneticsT3: " ",
+        English4: "à",
+        French4: "au",
+        Tshiluba4: "en",
+        PhoneticsT4: " ",
+        English5: "pres de",
+        French5: "near",
+        Tshiluba5: "près",
+        PhoneticsT5: " ",
+        English6: "près de",
+        French6: "by",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vers <i class="PartOfSpch">prep</i><br>
+    près <i class="PartOfSpch">prep</i><br>
+    près de <i class="PartOfSpch">prep</i><br>
+    à <i class="PartOfSpch">prep</i><br>
+    au <i class="PartOfSpch">prep</i><br>
+    en <i class="PartOfSpch">prep</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    toward <i class="PartOfSpch">adv</i><br>
+    towards <i class="PartOfSpch">adv</i><br>
+    near <i class="PartOfSpch">adv</i><br>
+    at <i class="PartOfSpch">adv</i><br>
+    to <i class="PartOfSpch">adv</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    ku <i class="PartOfSpch"kad</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    vers + the sky
+    </td>
+    <td class="tabledef-1" valign=top >
+    towards + the sky
+    </td>
+    <td class="tabledef" valign=top >
+    ku + diulu = kulu
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    premier
+    </td>
+    <td class="tabledef-1" valign=top >
+    first
+    </td>
+    <td class="tabledef" valign=top >
+    ku + mpala = kumpala
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    après
+    </td>
+    <td class="tabledef-1" valign=top >
+    after
+    </td>
+    <td class="tabledef" valign=top >
+    ku + nyima = kunyima
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    sous
+    </td>
+    <td class="tabledef-1" valign=top >
+    underneath
+    </td>
+    <td class="tabledef" valign=top >
+    ku + nshi = kunshi
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    aller à la riviere
+    </td>
+    <td class="tabledef-1" valign=top >
+    to go to the river
+    </td>
+    <td class="tabledef" valign=top >
+    kuya ku mayi
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Ku est une préposition indiquant un point ou un lieu spécifique. À, vers, près peuvent tous être utilisés pour décrire 'ku' en tshiluba.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Ku is a preposition indicating a specific point or place. At, towards, near can all be used to describe "ku" in Tshiluba.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
     },
     /*-Kuama*/   
     {
@@ -19421,6 +21468,310 @@ To physically support one's own weight on one's feet in an upright position.
     </td>
     </tr>
     `
+    },
+    /*Kulu*/  
+    {
+        English: "high",
+        French: "en haut",
+        Tshiluba: "kulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "ku·lu<p>/koo-loo/</p>",
+        PhoneticsT: "en haut | high",
+        English2: "up",
+        French2: "up high",
+        Tshiluba2: "kulu",
+        PhoneticsT2: " ",
+        English3: "high up",
+        French3: "en l'air",
+        Tshiluba3: "in the air",
+        PhoneticsT3: " ",
+        English4: "au ciel",
+        French4: "in heaven",
+        Tshiluba4: "in the sky",
+        PhoneticsT4: " ",
+        English5: "ku diulu",
+        French5: "wa ku diulu",
+        Tshiluba5: "waku diulu",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    en haut <i class="PartOfSpch">adv</i><br>
+    en l'air <i class="PartOfSpch">adv</i><br>
+    au ciel <i class="PartOfSpch">adv</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    high <i class="PartOfSpch">adv</i><br>
+    above <i class="PartOfSpch">adv</i><br>
+    up <i class="PartOfSpch">adv</i><br>
+    high up <i class="PartOfSpch">adv</i><br>
+    in the air <i class="PartOfSpch">expr</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulu <i class="PartOfSpch">muam</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    vers + the sky
+    </td>
+    <td class="tabledef-1" valign=top >
+    towards + the sky
+    </td>
+    <td class="tabledef" valign=top >
+    ku + diulu = kulu
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulu est une préposition signifiant positionné à ou atteignant une hauteur significative. C'est une forme abrégée de dire 'ku diulu'.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulu is a preposition meaning positioned at or reaching a significant height. It is a shortened way of saying "ku diulu."
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
+    /*-Kuna*/   
+    {
+        English: "to plant",
+        French: "planter",
+        Tshiluba: "Kukuna",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ku·na<p>/koo-koo-nah/</p>",
+        PhoneticsT: "planter | to plant",
+        English2: "planting",
+        French2: " ",
+        Tshiluba2: "-kuna",
+        PhoneticsT2: " ",
+        English3: "kuna",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    planter <i class="PartOfSpch">v</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to plant <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    kukuna <i class="PartOfSpch">md</i><br>
+    -kuna<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/-DIMA/">kudima</a> <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La pratique agricole consistant à mettre des graines ou de jeunes plantes dans le sol.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The agricultural practice of putting seeds or young plants into the soil.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Kuneku*/  
+    {
+        English: "here",
+        French: "ici",
+        Tshiluba: "kuneku",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "ku·ne·ku<p>/koo-neh-koo/</p>",
+        PhoneticsT: "ici | here",
+        English2: "right here",
+        French2: "kunu eku",
+        Tshiluba2: "kuneku",
+        PhoneticsT2: " ",
+        English3: "kunu",
+        French3: "par ici",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    par ici <i class="PartOfSpch">adv</i><br>
+    ici <i class="PartOfSpch">adv</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    here <i class="PartOfSpch">adv</i><br>
+    at this place <i class="PartOfSpch">expr</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuneku <i class="PartOfSpch">muam</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+
+    </td>
+    <td class="tabledef-1" valign=top >
+
+    </td>
+    <td class="tabledef" valign=top >
+    kunu + eku = kuneku
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kuneku se réfère à l'emplacement actuel du locuteur ou à un endroit spécifique qui a été indiqué.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kuneku refers to the current location of the speaker or a specific location that has been indicated.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
     },
     /*-Lamata*/   
     {
