@@ -21774,6 +21774,191 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     ` 
     },
+    /*-Laka*/  
+    {
+        English: "to lick",
+        French: "lécher",
+        Tshiluba: "kulaka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·la·ka<p>/koo-lah-kah/</p>",
+        PhoneticsT: "lécher | to lick",
+        English2: "lick",
+        French2: "lecher",
+        Tshiluba2: "-laka",
+        PhoneticsT2: " ",
+        English3: "laka",
+        French3: "ulaka",
+        Tshiluba3: "tulaka",
+        PhoneticsT3: " ",
+        English4: "balaka",
+        French4: "nulaka",
+        Tshiluba4: "licking",
+        PhoneticsT4: " ",
+        English5: "I lick",
+        French5: "lap with tongue",
+        Tshiluba5: "to lap with tongue",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lécher <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to lick <i class="PartOfSpch">v</i><br>
+    to lap with tongue <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulaka <i class="PartOfSpch">md</i><p>
+    -laka <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulaka est l'action de passer la langue sur quelque chose, généralement pour goûter, mouiller, ou nettoyer. Cette action est courante chez les humains et les animaux.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulaka is the act of passing the tongue over something, typically to taste, moisten, or clean it. This action is common in both humans and animals.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
+    /*-Lama*/  
+    {
+        English: "to guard",
+        French: "garder",
+        Tshiluba: "kulama",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·lam·a<p>/koo-lah-mah/</p>",
+        PhoneticsT: "garder | to guard",
+        English2: "to keep",
+        French2: "lama",
+        Tshiluba2: "-lama",
+        PhoneticsT2: " ",
+        English3: "surveiller",
+        French3: "veiller à",
+        Tshiluba3: "to take care of",
+        PhoneticsT3: " ",
+        English4: "to look after",
+        French4: "to watch over",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    garder <i class="PartOfSpch">v</i><br>
+    surveiller <i class="PartOfSpch">v</i><br>
+    veiller à <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to guard <i class="PartOfSpch">v</i><br>
+    to keep <i class="PartOfSpch">v</i><br>
+    to watch over <i class="PartOfSpch">v</i><br>
+    to look after <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulama <i class="PartOfSpch">md</i><br>
+    -lama <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulama veut dire protéger quelqu'un ou quelque chose contre le danger ou le mal: Surveiller pour empêcher l'évasion, la violence ou le vol.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulama means to protect someone or something against danger or harm: To keep watch over in order to prevent escape, violence, or theft.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*-Lamata*/   
     {
         English: "to stick to [something]",
@@ -22412,6 +22597,199 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*-Lenga*/  
+    {
+        English: "to touch",
+        French: "toucher",
+        Tshiluba: "kulenga",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·len·ga<p>/koo-lehn-gah/</p>",
+        PhoneticsT: "toucher | to touch",
+        English2: " ",
+        French2: "touchez",
+        Tshiluba2: "-lenga",
+        PhoneticsT2: " ",
+        English3: "touch",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    toucher <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to touch <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulenga <i class="PartOfSpch">md</i><br>
+    -lenga <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulenga veut dire entrer en contact avec quelque chose ou quelqu'un: Faire un contact physique avec quelqu'un ou quelque chose.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulenga means to come into or be in contact with something: To make physical contact with someone or something.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
+    /*-Loka*/  
+    {
+        English: "to rain",
+        French: "pleuvoir",
+        Tshiluba: "kuloka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·lo·ka<p>/koo-loh-kah/</p>",
+        PhoneticsT: "pleuvoir | to rain",
+        English2: "rain",
+        French2: "loka",
+        Tshiluba2: "-loka",
+        PhoneticsT2: " ",
+        English3: "ndoka",
+        French3: "uloka",
+        Tshiluba3: "tuloka",
+        PhoneticsT3: " ",
+        English4: "baloka",
+        French4: "nuloka",
+        Tshiluba4: "raining",
+        PhoneticsT4: " ",
+        English5: "it's raining",
+        French5: "il pleut",
+        Tshiluba5: "its raining",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    pleuvoir <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to rain <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulonda <i class="PartOfSpch">md</i><p>
+    -londa <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    il pleut <br>
+    </td>
+    <td class="tabledef" valign=top >
+    it's raining <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/M/MVULA/">mvula</a> udi uloka
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kuloka signifie que des gouttes d'eau tombent des nuages dans le ciel jusqu'au sol, ce qui est une forme de précipitation. Cela se produit lorsque la vapeur d'eau dans l'atmosphère se condense en gouttelettes devenant suffisamment lourdes pour tomber sous l'effet de la gravité. Le terme peut également être utilisé de manière métaphorique pour décrire quelque chose qui se produit en grande quantité, comme "il a plu des confettis."
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kuloka means for water droplets to fall from clouds in the sky to the ground, a form of precipitation. It occurs when water vapor in the atmosphere condenses into droplets that become heavy enough to fall under the force of gravity. The term can also be used metaphorically to describe something happening in large amounts, like "it rained confetti."
+
+
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*-Lomba*/  
     {
         English: "to ask",
@@ -22546,6 +22924,182 @@ To physically support one's own weight on one's feet in an upright position.
     <tr>
     ` 
     },
+    /*-Londa*/  
+    {
+        English: "to follow",
+        French: "suivre",
+        Tshiluba: "kulonda",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·lon·da<p>/koo-lohn-dah/</p>",
+        PhoneticsT: "suivre | to follow",
+        English2: "follow",
+        French2: "londa",
+        Tshiluba2: "-londa",
+        PhoneticsT2: " ",
+        English3: "ndonda",
+        French3: "ulonda",
+        Tshiluba3: "tulonda",
+        PhoneticsT3: " ",
+        English4: "balonda",
+        French4: "nulonda",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    suivre <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to follow <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulonda <i class="PartOfSpch">md</i><p>
+    -londa <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulonda signifie venir après ou aller derrière quelqu'un ou quelque chose, soit physiquement, soit dans une séquence. Cela peut également se référer à l'adhésion à des instructions, des règles ou des directives, ou encore à prêter attention et à se tenir informé des progrès de quelque chose, comme suivre une histoire ou les actions d'une personne sur les réseaux sociaux. De plus, cela peut impliquer d'imiter le comportement ou les actions de quelqu'un.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulonda means to come after or go along behind someone or something, either physically or in sequence. It can also refer to adhering to a set of instructions, rules, or guidelines, or to pay attention to and keep up with the progress of something, such as following a story or a person’s actions on social media. Additionally, it can imply imitating someone's behavior or actions.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
+    /*-Longa*/  
+    {
+        English: "to learn",
+        French: "apprendre",
+        Tshiluba: "kulonga",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·lon·ga<p>/koo-lohn-gah/</p>",
+        PhoneticsT: "apprendre | to learn",
+        English2: "learn",
+        French2: "longa",
+        Tshiluba2: "-longa",
+        PhoneticsT2: " ",
+        English3: "ndonga",
+        French3: "ulonga",
+        Tshiluba3: "tulonga",
+        PhoneticsT3: " ",
+        English4: "balonga",
+        French4: "nulonga",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    apprendre <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to learn <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulonga <i class="PartOfSpch">md</i><p>
+    -longa <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulonga signifie acquérir des connaissances, des compétences ou une compréhension par le biais d'études, d'expériences ou d'enseignements. Kulonga implique le processus d'absorption d'informations, de pratique et d'application de ce qui a été acquis, ce qui conduit à un changement de comportement ou de capacité. Cela peut se produire dans des contextes formels, comme à l'école, ou de manière informelle à travers les expériences quotidiennes.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulonga means to acquire knowledge, skills, or understanding through study, experience, or being taught. Kulonga involves the process of absorbing information, practicing, and applying what has been gained, leading to a change in behavior or capability. It can occur in formal settings, like schools, or informally through everyday experiences.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*Losa*/   
     {
         English: "rice",
@@ -22653,6 +23207,103 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*-Lowa*/  
+    {
+        English: "to bewitch",
+        French: "ensorceler",
+        Tshiluba: "kulowa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·low·a<p>/koo-loh-wah/</p>",
+        PhoneticsT: "ensorceler | to bewitch",
+        English2: "bewitch",
+        French2: "envoûter",
+        Tshiluba2: "-lowa",
+        PhoneticsT2: " ",
+        English3: "lowa",
+        French3: "jeter un sort",
+        Tshiluba3: "cast a spell",
+        PhoneticsT3: " ",
+        English4: "to curse",
+        French4: "envouter",
+        Tshiluba4: "to enchant",
+        PhoneticsT4: " ",
+        English5: "to charm",
+        French5: "maudire",
+        Tshiluba5: "to cast a spell",
+        PhoneticsT5: " ",
+        English6: "to spellbind",
+        French6: "spellbind",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    ensorceler <i class="PartOfSpch">v</i><br>
+    envoûter <i class="PartOfSpch">v</i><br>
+    jeter un sort <i class="PartOfSpch">v</i><br>
+    maudire <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to bewitch <i class="PartOfSpch">v</i><br>
+    to curse <i class="PartOfSpch">v</i><br>
+    to charm <i class="PartOfSpch">v</i><br>
+    to enchant <i class="PartOfSpch">v</i><br>
+    to spellbind <i class="PartOfSpch">v</i><br>
+    to cast a spell <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kulowa <i class="PartOfSpch">md</i><br>
+    -lowa <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kulowa signifie invoquer ou appeler des pouvoirs surnaturels pour causer du mal ou du malheur à quelqu'un ou quelque chose.
+    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kulowa means to invoke or call upon supernatural powers to bring harm or misfortune to someone or something.
+    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*-Lua*/   
     {
         English: "to come",
@@ -22754,6 +23405,198 @@ To physically support one's own weight on one's feet in an upright position.
                     &nbsp:&nbsp
     Kadi mpindieu ndi ndua kudi :
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lubabu*/   
+    {
+        English: "envy",
+        French: "envie",
+        Tshiluba: "lubabu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·ba·bu<p>/loo-bah-boo/</p>",
+        PhoneticsT: "envie | envy",
+        English2: "envious",
+        French2: "l'envie",
+        Tshiluba2: "lubabu",
+        PhoneticsT2: " ",
+        English3: "ne lubabu",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    envie <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    envy <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lubabu <i class="PartOfSpch">tshi5</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MUKAU/">mukau</a> 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Lubabu est un sentiment de mécontentement ou de ressentiment qui survient lorsque quelqu'un d'autre possède quelque chose que vous désirez mais que vous ne possédez pas. Elle implique un désir de posséder les traits, le statut, les compétences, les réussites ou les biens de l'autre personne. Lubabu peut se manifester par un souhait subtil d'avoir ce que l'autre a, ou se développer en des sentiments plus forts de mécontentement ou de malveillance.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lubabu is a feeling of discontent or resentment that arises when someone else has something that you desire but do not possess. It involves a longing for another person's traits, status, abilities, achievements, or possessions. Lubabu can manifest as a subtle wish to have what the other person has, or it can develop into stronger feelings of discontentment or ill will.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lubilu*/   
+    {
+        English: "rapidly",
+        French: "rapidement",
+        Tshiluba: "lubilu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "lu·bi·lu<p>/loo-bee-loo/</p>",
+        PhoneticsT: "rapidement | quickly",
+        English2: "quickly",
+        French2: "vite",
+        Tshiluba2: "lubilu",
+        PhoneticsT2: " ",
+        English3: "fast",
+        French3: "swiftly",
+        Tshiluba3: "speedily",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    rapidement <i class="PartOfSpch">adv</i> <br>
+    vite <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    rapidly <i class="PartOfSpch">adv</i> <br>
+    quickly <i class="PartOfSpch">adv</i> <br>
+    swiftly <i class="PartOfSpch">adv</i> <br>
+    speedily <i class="PartOfSpch">adv</i> <br>
+    fast <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lubilu <i class="PartOfSpch">muam</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUKASA/">lukasa</a> <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Lubilu" est une adverbe qui signifie se produire ou se déplacer à grande vitesse; cela décrit des actions, des événements ou des changements qui se déroulent rapidement ou en peu de temps.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Lubilu" is an adverb that means occurring or moving with great speed; happening quickly or in a short amount of time. It describes actions, events, or changes that take place at a fast pace. 
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -23139,6 +23982,95 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Lufu*/   
+    {
+        English: "death",
+        French: "la mort",
+        Tshiluba: "lufu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·fu<p>/loo-foo/</p>",
+        PhoneticsT: "la mort | death",
+        English2: "mort",
+        French2: "deaths",
+        Tshiluba2: "lufu",
+        PhoneticsT2: " ",
+        English3: "mfu",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    la mort <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    death <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lufu <i class="PartOfSpch">tshi5</i><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Lufu est l'arrêt de toutes les fonctions biologiques qui maintiennent un organisme vivant. Elle marque la fin de la vie, caractérisée par l'arrêt irréversible du cœur, de l'activité cérébrale et des processus vitaux du corps. Lufu fait partie du cycle naturel de la vie et survient chez tous les êtres vivants.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lufu is the cessation of all biological functions that sustain a living organism. It marks the end of life, characterized by the irreversible stopping of the heart, brain activity, and vital bodily processes. Lufu is a natural part of the life cycle and occurs in all living beings.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lujiji*/   
     {
         English: "housefly",
@@ -23375,6 +24307,250 @@ To physically support one's own weight on one's feet in an upright position.
     <br><br></td>
     </tr>` 
     },
+    /*Lukanu*/   
+    {
+        English: "chain",
+        French: "chaîne",
+        Tshiluba: "lukanu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·ka·nu<p>/loo-kah-noo/</p>",
+        PhoneticsT: "chaîne | chain",
+        English2: "chains",
+        French2: "chaînes",
+        Tshiluba2: "lukanu",
+        PhoneticsT2: " ",
+        English3: "nkanu",
+        French3: "bracelet",
+        Tshiluba3: "necklace",
+        PhoneticsT3: " ",
+        English4: "bangle",
+        French4: "bracelets",
+        Tshiluba4: "necklaces",
+        PhoneticsT4: " ",
+        English5: "collier",
+        French5: "colliers",
+        Tshiluba5: "bangles",
+        PhoneticsT5: " ",
+        English6: "wristband",
+        French6: "wristbands",
+        Tshiluba6: "anklet",
+        PhoneticsT6: " ",
+        English7: "bracelet de cheville",
+        French7: "chaîne de cheville",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chaîne <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    chain <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lukanu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nkanu <br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KAKANU/">kakanu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    collier <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    necklace <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lukanu lua ku <a style="text-decoration:none;" href="/alphabetindex/N/NSHINGU/">nshingu</a><br>
+    <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bracelet <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    bracelet <i class="PartOfSpch">n</i><br>
+    bangle <i class="PartOfSpch">n</i><br>
+    wristband <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lukanu lua ku <a style="text-decoration:none;" href="/alphabetindex/D/DIBOKU/">diboku</a><br>
+    <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bracelet de cheville <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    anklet <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lukanu lua ku <a style="text-decoration:none;" href="/alphabetindex/M/MUKOLU/">mukolu</a><br>
+    <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une lukanu est une série de maillons connectés, généralement en métal, qui peut être utilisée de différentes manières, notamment comme bijou, tel qu'un collier ou un bracelet.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A lukanu is a series of connected links, typically made of metal, that can be used in various ways, including as jewelry, such as a necklace or bracelet. 
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lukasa*/   
+    {
+        English: "quickly",
+        French: "prestement",
+        Tshiluba: "lukasa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "lu·ka·sa<p>/loo-kah-sah/</p>",
+        PhoneticsT: "prestement | quickly",
+        English2: "quickly",
+        French2: "vite",
+        Tshiluba2: "lukasa",
+        PhoneticsT2: " ",
+        English3: "fast",
+        French3: "swiftly",
+        Tshiluba3: "speedily",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    prestement <i class="PartOfSpch">adv</i> <br>
+    rapidement <i class="PartOfSpch">adv</i> <br>
+    vite <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    quickly <i class="PartOfSpch">adv</i> <br>
+    rapidly <i class="PartOfSpch">adv</i> <br>
+    swiftly <i class="PartOfSpch">adv</i> <br>
+    speedily <i class="PartOfSpch">adv</i> <br>
+    fast <i class="PartOfSpch">adv</i> <br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lukasa <i class="PartOfSpch">muam</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/LUBILU/">lubilu</a> <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    "Lukasa" est une adverbe qui signifie se produire ou se déplacer à grande vitesse; cela décrit des actions, des événements ou des changements qui se déroulent rapidement ou en peu de temps.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    "Lukasa" is an adverb that means occurring or moving with great speed; happening quickly or in a short amount of time. It describes actions, events, or changes that take place at a fast pace. 
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lukasu*/   
     {
         English: "hoe",
@@ -23550,6 +24726,122 @@ To physically support one's own weight on one's feet in an upright position.
     <p class="explanation-tsh">
     ----</p>
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lulengu*/   
+    {
+        English: "poison, venom",
+        French: "poison, venin",
+        Tshiluba: "lulengu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·len·gu<p>/loo-len-goo/</p>",
+        PhoneticsT: "poison, venom | poison, venom",
+        English2: "poison",
+        French2: "venin",
+        Tshiluba2: "lulengu",
+        PhoneticsT2: " ",
+        English3: "venom",
+        French3: "ndengu",
+        Tshiluba3: "poisons",
+        PhoneticsT3: " ",
+        English4: "venins",
+        French4: "poisonous",
+        Tshiluba4: "venomous",
+        PhoneticsT4: " ",
+        English5: "toxique",
+        French5: "toxic",
+        Tshiluba5: "vénéneux",
+        PhoneticsT5: " ",
+        English6: "vénéneuse",
+        French6: "--a lulengu",
+        Tshiluba6: "a lulengu",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    poison <i class="PartOfSpch">n</i><br>
+    venin <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    poison <i class="PartOfSpch">n</i><br>
+    venom <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    lulengu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ndengu
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    toxique <i class="PartOfSpch">adj</i><br>
+    vénéneux <i class="PartOfSpch">adj</i><br>
+    vénéneuse <i class="PartOfSpch">adj</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    poisonous <i class="PartOfSpch">adj</i><br>
+    venomous <i class="PartOfSpch">adj</i><br>
+    toxic <i class="PartOfSpch">adj</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    --a lulengu <br>
+    wa lulengu <br>
+    ya lulengu <br>
+    bua lulengu <br>
+    dia lulengu <br>
+    lua lulengu <br>
+    ka lulengu <br>
+    tshia lulengu <br>
+    bia lulengu <br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une substance qui, lorsqu'elle est introduite dans ou absorbée par un organisme vivant, provoque des dommages, des maladies ou la mort. Les poisons peuvent interférer avec les processus biologiques, endommager les tissus ou perturber les fonctions vitales en fonction de la dose et de la toxicité.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A substance that, when introduced into or absorbed by a living organism, causes harm, illness, or death. Poisons can interfere with biological processes, damage tissues, or disrupt vital functions depending on the dose and toxicity.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -23785,6 +25077,98 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Lumuenu*/   
+    {
+        English: "mirror",
+        French: "miroir",
+        Tshiluba: "lumuenu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·mu·e·nu<p>/loo-mweh-noo/</p>",
+        PhoneticsT: "miroir | mirror",
+        English2: "mirrors",
+        French2: "miroirs",
+        Tshiluba2: "lumuenu",
+        PhoneticsT2: " ",
+        English3: "mmuenu",
+        French3: "a mirror",
+        Tshiluba3: "la miroir",
+        PhoneticsT3: " ",
+        English4: "ludimuenu",
+        French4: "ndimuenu",
+        Tshiluba4: "lumwenu",
+        PhoneticsT4: " ",
+        English5: "mmwenu",
+        French5: "ludimwenu",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    miroir <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mirror <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lumuenu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> mmuenu<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+
+    Lumuenu désigne une surface réfléchissante, généralement faite de verre recouvert d'une fine couche de métal, qui forme des images en réfléchissant la lumière.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lumuenu refers to a reflective surface, typically made of glass coated with a metal amalgam, that forms images by reflecting light.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lungaji*/   
     {
         English: "palm nut",
@@ -23890,6 +25274,247 @@ To physically support one's own weight on one's feet in an upright position.
                     <a class="links" href="/alphabetindex/T/TSHIKAKA/">tshikaka</a>,
                     <a class="links" href="/alphabetindex/T/TSHIKUYI/">tshikuyi</a>,  
                     <a class="links" href="/alphabetindex/T/TSHIMUMA/">tshimuma</a>,
+    <br><br></td>
+    </tr>
+    `
+    },
+    /*Lungenyi*/   
+    {
+        English: "intelligence",
+        French: "intelligence",
+        Tshiluba: "lungenyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lun·gen·yi<p>/Loon-gen-yee/</p>",
+        PhoneticsT: "intelligence | intelligence",
+        English2: "knowledge",
+        French2: "understanding",
+        Tshiluba2: "lungenyi",
+        PhoneticsT2: " ",
+        English3: "connaissance",
+        French3: "compréhension",
+        Tshiluba3: "comprehension",
+        PhoneticsT3: " ",
+        English4: "lungeni",
+        French4: "ngenyi",
+        Tshiluba4: "ngeni",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    intelligence <i class="PartOfSpch">n</i><br>
+    connaissance <i class="PartOfSpch">n</i>
+    compréhension <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    intelligence <i class="PartOfSpch">n</i><br>
+    knowledge <i class="PartOfSpch">n</i><br>
+    understanding <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lungenyi <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ngenyi <br>
+    <br>
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/M/MEJI/">meji</a><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Lungenyi est un concept complexe et multifacette qui fait généralement référence à la capacité d'acquérir, de comprendre et d'appliquer des connaissances et des compétences. Elle englobe divers processus cognitifs tels que le raisonnement, la résolution de problèmes, l'apprentissage, la perception et la compréhension. L'intelligence peut être vue sous plusieurs perspectives.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lungenyi is a complex and multifaceted concept that generally refers to the ability to acquire, understand, and apply knowledge and skills. It encompasses various cognitive processes such as reasoning, problem-solving, learning, perception, and understanding. Intelligence can be viewed from multiple perspectives:
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lungonyonyo*/   
+    {
+        English: "chameleon",
+        French: "caméléon",
+        Tshiluba: "lungonyonyo",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lun·gon·yon·yo<p>/Loon-gown-yown-yo/</p>",
+        PhoneticsT: "caméléon | chameleon",
+        English2: "chameleons",
+        French2: "caméléons",
+        Tshiluba2: "lungonyonyo",
+        PhoneticsT2: " ",
+        English3: "cameleon",
+        French3: "cameleons",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    caméléon <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    chameleon <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lungonyonyo <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ngonyonyo <br>
+    <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un lungonyonyo est un type de lézard appartenant à la famille des Chamaeleonidae. Ils sont connus pour leur capacité remarquable à changer la couleur de leur peau. Ce changement de couleur est utilisé pour la communication, la régulation de la température et le camouflage.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A lungonyonyo is a type of lizard belonging to the family Chamaeleonidae. They are known for their remarkable ability to change the color of their skin. This color change is used for communication, temperature regulation, and camouflage.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    <tr>
+    <td class="tabledef_a" colspan="3">
+    <table class="h-lines" id="h-lines"></table>
+    <br>
+    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                    :: <a class="links" href="/alphabetindex/N/NYAMA/">nyama</a>, 
+                    <a class="links" href="/alphabetindex/N/NKASHAMA/">nkashama</a>, 
+                    <a class="links" href="/alphabetindex/N/NZEVU/">nzevu</a>,  
+                    <a class="links" href="/alphabetindex/N/NZOLU/">nzolu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTAMBWE/">ntambwe</a>, 
+                    <a class="links" href="/alphabetindex/J/LUJIJI/">lujiji</a>, 
+                    <a class="links" href="/alphabetindex/N/NYUNYI/">nyunyi</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKOKO/">mukoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MBALABALA/">mbalabala</a>, 
+                    <a class="links" href="/alphabetindex/M/MPASU/">mpasu</a>, 
+                    <a class="links" href="/alphabetindex/M/MBUJI/">mbuji</a>, 
+                    <a class="links" href="/alphabetindex/M/MUKANKU/">mukanku</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUNDA/">mpunda</a>, 
+                    <a class="links" href="/alphabetindex/L/LUBULUBULU/">lubulubulu</a>, 
+                    <a class="links" href="/alphabetindex/N/NTOMBOLO/">ntombolo</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUMBIKUMBI/">nkumbikumbi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIMINYI/">tshiminyi</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIKOLOLO/">tshikololo</a>, 
+                    <a class="links" href="/alphabetindex/K/KABEMBA/">kabemba</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOMBE/">ngombe</a>, 
+                    <a class="links" href="/alphabetindex/N/NGULUNGU/">ngulungu</a>, 
+                    <a class="links" href="/alphabetindex/K/KALULU/">kalulu</a>,  
+                    <a class="links" href="/alphabetindex/M/MBAJI/">mbaji</a>,  
+                    <a class="links" href="/alphabetindex/K/KABULUKU/">kabuluku</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIPUNGULU/">tshipungulu</a>,  
+                    <a class="links" href="/alphabetindex/T/TSHISHENENA/">tshishenena</a>, 
+                    <a class="links" href="/alphabetindex/K/KAKUTUKUTU/">kakutukutu</a>,
+                    <a class="links" href="/alphabetindex/K/KABALU/">kabalu</a>, 
+                    <a class="links" href="/alphabetindex/N/NSOKO/">nsoko</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSHIPA/">mushipa</a>, 
+                    <a class="links" href="/alphabetindex/N/NKAKA/">nkaka</a>, 
+                    <a class="links" href="/alphabetindex/L/LUDIMBA/">ludimba</a>, 
+                    <a class="links" href="/alphabetindex/M/MPUKU/">mpuku</a>, 
+                    <a class="links" href="/alphabetindex/M/MUSODI/">musodi</a>, 
+                    <a class="links" href="/alphabetindex/K/KANKENENE/">kankenene</a>, 
+                    <a class="links" href="/alphabetindex/M/MUINJIDINJIDI/">muinjidinjidi</a>, 
+                    <a class="links" href="/alphabetindex/N/NGOLE/">ngole</a>, 
+                    <a class="links" href="/alphabetindex/M/MBOWA/">mbowa</a>, 
+                    <a class="links" href="/alphabetindex/M/MUZEU/">muzeu</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUVU/">nkuvu</a>, 
+                    <a class="links" href="/alphabetindex/K/KADIONKONO/">kadionkono</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHIBAYIBAYI/">tshibayibayi</a>, 
+                    <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
+                    <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
     <br><br></td>
     </tr>
     `
@@ -24041,6 +25666,100 @@ To physically support one's own weight on one's feet in an upright position.
     </tr>
     `
     },
+    /*Lupenzu*/   
+    {
+        English: "cockroach",
+        French: "cancrelat",
+        Tshiluba: "lupenzu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·pen·zu<p>/loo-pen-zoo/</p>",
+        PhoneticsT: "cancrelat | cockroach",
+        English2: "roach",
+        French2: "cancrelats",
+        Tshiluba2: "lupenzu",
+        PhoneticsT2: " ",
+        English3: "mpenzu",
+        French3: "roaches",
+        Tshiluba3: "blatte",
+        PhoneticsT3: " ",
+        English4: "blattes",
+        French4: "cafard",
+        Tshiluba4: "cafards",
+        PhoneticsT4: " ",
+        English5: "cockroaches",
+        French5: "cock roach",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    cancrelat <i class="PartOfSpch">n</i><br>
+    blatte <i class="PartOfSpch">n</i><br>
+    cafard <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    cockroach <i class="PartOfSpch">n</i><br>
+    roach <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lupenzu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> mpenzu<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un lupenzu est un insecte appartenant à l'ordre des Blattodea, connu pour sa résistance et son adaptabilité à divers environnements. Les mpenzu ont un corps aplati en forme d'ovale, généralement de couleur brun clair à noir. Ils possèdent de longues antennes, une petite tête par rapport à leur corps, et six pattes qui leur permettent de se déplacer rapidement.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A lupenzu is an insect belonging to the order Blattodea, known for its resilience and adaptability to various environments. Mpenzu have a flattened, oval-shaped body, typically ranging in color from light brown to black. They possess long antennae, a small head relative to their body, and six legs that allow for rapid movement.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Lupingu*/   
     {
         English: "a statue",
@@ -24134,6 +25853,191 @@ To physically support one's own weight on one's feet in an upright position.
     <p class="explanation-tsh">
     --------</p>
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lupuishi*/   
+    {
+        English: "dust",
+        French: "poussière",
+        Tshiluba: "lupuishi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·pu·i·shi<p>/loo-pwee-shee/</p>",
+        PhoneticsT: "poussière | dust",
+        English2: "poussiere",
+        French2: "dust",
+        Tshiluba2: "lupuishi",
+        PhoneticsT2: " ",
+        English3: "mpuishi",
+        French3: "lupwishi",
+        Tshiluba3: "mpwishi",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    poussière <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    dust <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lupuishi <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> mpuishi<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+
+    Lupuishi est composée de fines particules sèches de matière, généralement constituées de diverses substances comme de la terre, des cellules de peau morte, du pollen, des fibres textiles et d'autres fragments minuscules provenant de l'environnement. Les particules de poussière sont suffisamment petites pour être en suspension dans l'air et peuvent se déposer sur les surfaces, provoquant une accumulation qui nécessite un nettoyage.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lupuishi is composed of fine, dry particles of matter, typically consisting of a variety of substances like soil, dead skin cells, pollen, textile fibers, and other tiny fragments from the environment. Dust particles are small enough to be suspended in the air and can settle on surfaces, causing a buildup that needs to be cleaned.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lusala*/   
+    {
+        English: "feather",
+        French: "plume",
+        Tshiluba: "lusala",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·sa·la<p>/loo-sah-lah/</p>",
+        PhoneticsT: "plume | feather",
+        English2: "feathers",
+        French2: "plumes",
+        Tshiluba2: "lusala",
+        PhoneticsT2: " ",
+        English3: "nsala",
+        French3: "a feather",
+        Tshiluba3: "bird feather",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    plume (d'oiseau) <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    feather <i class="PartOfSpch">n</i><br>
+    plume <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lusala <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nsala<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+
+    Lusala désigne la structure légère et douce qui recouvre le corps des oiseaux, leur fournissant isolation, capacité de vol, et jouant souvent un rôle dans les parades nuptiales ou le camouflage. Les nsala sont composées d'une tige centrale appelée rachis, avec des barbes qui en partent. Ces barbes ont des barbules plus petites qui s'imbriquent pour créer une surface lisse, essentielle pour le vol chez de nombreuses espèces d'oiseaux.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lusala refers to the lightweight, soft structure that covers the bodies of birds, providing them with insulation, the ability to fly, and often playing a role in mating displays or camouflage. Nsala are composed of a central shaft called the rachis, with barbs branching out from it. These barbs have smaller barbules that interlock to create a smooth surface, essential for flight in many bird species.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
     </tr>
     `
     },
@@ -24487,6 +26391,289 @@ To physically support one's own weight on one's feet in an upright position.
     <p class="explanation-tsh">
     ----</p>
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lutatu*/   
+    {
+        English: "worry",
+        French: "souci",
+        Tshiluba: "lutatu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·ta·tu<p>/Loo-tah-too/</p>",
+        PhoneticsT: "souci | worry",
+        English2: "worries",
+        French2: "soucis",
+        Tshiluba2: "lutatu",
+        PhoneticsT2: " ",
+        English3: "ntatu",
+        French3: "anxiety",
+        Tshiluba3: "inquiétude",
+        PhoneticsT3: " ",
+        English4: "inquietude",
+        French4: "anxiété",
+        Tshiluba4: "anxiousness",
+        PhoneticsT4: " ",
+        English5: "anxiete",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    souci <i class="PartOfSpch">n</i><br>
+    inquiétude <i class="PartOfSpch">n</i><br>
+    anxiété <i class="PartOfSpch">n</i><br>
+
+
+    </td>
+    <td class="tabledef" valign=top>
+    worry <i class="PartOfSpch">n</i><br>
+    anxiety <i class="PartOfSpch">n</i><br>
+    anxiousness <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lutatu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ntatu <br>
+    <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une lutatu est un état de détresse mentale ou de préoccupation concernant des problèmes potentiels ou des événements futurs. Cela implique de penser et de ressentir de l'anxiété face à des résultats négatifs possibles ou des incertitudes. Les ntatu peuvent être spécifiques à des situations particulières, comme des problèmes de santé, des soucis financiers ou des relations personnelles, ou elles peuvent être plus générales et diffus.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A lutatu is a state of mental distress or concern about potential problems or future events. It involves thinking about and being anxious about possible negative outcomes or uncertainties. Ntatu can be specific to particular situations, such as health issues, financial troubles, or personal relationships, or they can be more general and diffuse.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lutete*/   
+    {
+        English: "seed",
+        French: "graine",
+        Tshiluba: "lutete",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·te·te<p>/loo-teh-tah/</p>",
+        PhoneticsT: "graine | seed",
+        English2: "seeds",
+        French2: "graines",
+        Tshiluba2: "lutete",
+        PhoneticsT2: " ",
+        English3: "ntete",
+        French3: "luteta",
+        Tshiluba3: "nteta",
+        PhoneticsT3: " ",
+        English4: "a seed",
+        French4: "une graine",
+        Tshiluba4: "semence",
+        PhoneticsT4: " ",
+        English5: "une semence",
+        French5: "seeds",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    graine <i class="PartOfSpch">n</i><br>
+    semence <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    seed <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lutete <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> ntete<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DIMINU/">diminu</a> 
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+
+    Une "lutete" est un petit embryon de plante enfermé dans une enveloppe protectrice extérieure, résultant du processus de fertilisation chez les plantes à fleurs (angiospermes) et certaines plantes sans fleurs (gymnospermes). Les ntete contiennent le matériel génétique nécessaire pour croître en une nouvelle plante.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A "lutete" is a small embryonic plant enclosed in a protective outer covering, which is the product of the fertilization process in flowering plants (angiosperms) and some non-flowering plants (gymnosperms). Ntete contain the genetic material necessary to grow into a new plant. 
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lutulu*/   
+    {
+        English: "patience",
+        French: "patience",
+        Tshiluba: "lutulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Lu·tu·lu<p>/Loo-too-loo/</p>",
+        PhoneticsT: "patience | patience",
+        English2: "patient",
+        French2: " ",
+        Tshiluba2: "lutulu",
+        PhoneticsT2: " ",
+        English3: "cameleon",
+        French3: "cameleons",
+        Tshiluba3: "lutuulu",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    patience <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    patience <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lutulu <i class="PartOfSpch">tshi5</i><br>
+    <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Lutulu est la capacité à rester calme et composé en attendant ou en faisant face à des situations difficiles sans devenir frustré ou agité. Elle implique d'endurer les retards, les défis ou les revers avec une attitude positive et sans céder au stress ou à l'irritation.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lutulu is the ability to remain calm and composed while waiting or dealing with difficult situations without becoming frustrated or agitated. It involves enduring delays, challenges, or setbacks with a positive attitude and without giving in to stress or irritation.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
     </tr>
     `
     },
@@ -33119,9 +35306,9 @@ To physically support one's own weight on one's feet in an upright position.
     {
         English: "leg",
         French: "jambe",
-        Tshiluba: "mufuba",
+        Tshiluba: "mukolu",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Mu·ko·lu<p>/Moo-koh-loo/</p>",
+        Phonetics: "mu·ko·lu<p>/moo-koh-loo/</p>",
         PhoneticsT: "jambe / leg",
         English2: "legs",
         French2: "jambes",
@@ -33180,8 +35367,8 @@ To physically support one's own weight on one's feet in an upright position.
     leg <i class="PartOfSpch">n</i>
     </td>
     <td class="tabledef" valign=top>
-    mufuba <i class="PartOfSpch">tshi2</i><br>
-    <i class="PartOfSpch">pl</i> mifuba
+    mukolu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mikolu
     </td>
     </tr>
     <tr>
