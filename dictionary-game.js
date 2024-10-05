@@ -58372,7 +58372,7 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     {
         English: "motorcycle",
         French: "moto",
-        Tshiluba: "tshituka",
+        Tshiluba: "tshitukutuku",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
         Phonetics: "tshi·tu·ku·tu·ku<p>/chee-too-koo-too-koo/</p>",
         PhoneticsT: "moto | motorcycle",

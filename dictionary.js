@@ -64070,7 +64070,7 @@ tshitokatoka <i class="PartOfSpch">tshi8</i><br>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
-Un tshitukutuku c'est une personne atteinte d'albinisme, caractérisée par un manque de pigmentation dans la peau, les cheveux et les yeux.
+Un tshitokatoka c'est une personne atteinte d'albinisme, caractérisée par un manque de pigmentation dans la peau, les cheveux et les yeux.
                 </p>
 <br>
 <b><i>Explanation</i></b><br>
@@ -64179,7 +64179,7 @@ Tshituka is a baby born before 37 weeks of gestation, often requiring extra medi
 {
     English: "motorcycle",
     French: "moto",
-    Tshiluba: "tshituka",
+    Tshiluba: "tshitukutuku",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
     Phonetics: "tshi·tu·ku·tu·ku<p>/chee-too-koo-too-koo/</p>",
     PhoneticsT: "moto | motorcycle",
