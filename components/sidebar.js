@@ -12,31 +12,31 @@ class Sidebar extends HTMLElement {
         <a href="/articles/008-Luba-Grammar-Possessive-Pronouns-And-Adjectives/">
         <img class="post-icon" src="/articles/008-Luba-Grammar-Possessive-Pronouns-And-Adjectives/nzambi-wanyi.png"><br>
         <p>Luba Grammar: Possessive Pronouns and Adjectives</p>
-        <a href="/articles/Greetings-And-Basic-Introductions-In-Tshiluba/">
-        <img class="post-icon" src="/articles/Greetings-And-Basic-Introductions-In-Tshiluba/sign-moyo.png"><br>
+        <a href="/articles/007-Greetings-And-Basic-Introductions-In-Tshiluba/">
+        <img class="post-icon" src="/articles/007-Greetings-And-Basic-Introductions-In-Tshiluba/sign-moyo.png"><br>
         <p>Sangayi Wabo! Betuabu! Greetings and Basic Introductions in Tshiluba</p>
-        <a href="/articles/The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/">
-        <img class="post-icon" src="/articles/The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/jukayi.png"><br>
+        <a href="/articles/006-The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/">
+        <img class="post-icon" src="/articles/006-The-National-Anthem-Of-DRC-Debout-Congolais-In-Tshiluba/jukayi.png"><br>
         <p>The National Anthem 'Debout Congolais' in Tshiluba</p>
-        <a href="/articles/To-Be-Or-Not-To-Be/">
-        <img class="post-icon" src="/articles/To-Be-Or-Not-To-Be/to-be.png"><br>
+        <a href="/articles/005-To-Be-Or-Not-To-Be/">
+        <img class="post-icon" src="/articles/005-To-Be-Or-Not-To-Be/to-be.png"><br>
         <p>To Be or Not To Be: Conjugating 'To Be' in Tshiluba</p>
-        <a href="/articles/How-To-Count-In-Tshiluba/">
-        <img class="post-icon" src="/articles/How-To-Count-In-Tshiluba/count2.png"><br>
+        <a href="/articles/004-How-To-Count-In-Tshiluba/">
+        <img class="post-icon" src="/articles/004-How-To-Count-In-Tshiluba/count2.png"><br>
         <p>How to count in Tshiluba</p>
         </a><br>
-        <a href="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/">
-        <img class="post-icon" src="/articles/Exploring-The-Noun-Class-System-In-Tshiluba/Luba-Grammaire.png"><br>
+        <a href="/articles/003-Exploring-The-Noun-Class-System-In-Tshiluba/">
+        <img class="post-icon" src="/articles/003-Exploring-The-Noun-Class-System-In-Tshiluba/Luba-Grammaire.png"><br>
         <p>Exploring the Noun Class System in Tshiluba: A Detailed Examination</p>
         </a><br>
 
-        <a href="/articles/The-Mu-Ba-Tshiluba-Noun-Class/">
-        <img class="post-icon" src="/articles/The-Mu-Ba-Tshiluba-Noun-Class/Mu-ba.png"><br>
+        <a href="/articles/002-The-Mu-Ba-Tshiluba-Noun-Class/">
+        <img class="post-icon" src="/articles/002-The-Mu-Ba-Tshiluba-Noun-Class/Mu-ba.png"><br>
         <p>The Mu-Ba Tshiluba Noun Class</p>
         </a><br>
 
-        <a href="/articles/The-ka-tu-tshiluba-noun-class/">
-        <img class="post-icon" src="/articles/The-ka-tu-tshiluba-noun-class/katu.png"><br>
+        <a href="/articles/001-The-ka-tu-tshiluba-noun-class/">
+        <img class="post-icon" src="/articles/001-The-ka-tu-tshiluba-noun-class/katu.png"><br>
         <p>The Ka-Tu Tshiluba Noun Class</p>
         </a><br>
         </div>
