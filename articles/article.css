@@ -1,7 +1,8 @@
 .header .article-container {
     background-color: rgb(255, 255, 255);
     z-index: 1;
-    width: 1200px;
+    width: auto;
+    max-width: 1700px;
     height: 100%;
     position: relative;
     display: flex;
@@ -18,7 +19,7 @@ br {
 .article {
     background-color: transparent;
     z-index: 1;
-    width: 60%;
+    width: 55%;
     height: 100%;
     position: relative;
     padding: 10px;
@@ -79,11 +80,12 @@ text-align: center;
     font-size: 16px;
     font-weight: 500;
     overflow: visible;
+    text-align: justify;
 }
 
 
 .title-box {
-    display: flex;
+    display: block;
     min-width: 100%;
     height: max-content !important;
 }
@@ -96,6 +98,8 @@ text-align: center;
     justify-content: center;
     margin-top: auto;
     margin-bottom: auto;
+    margin-left: auto;
+    margin-right:auto;
     align-items: center;
     text-align: center;
     display: flex;
@@ -117,9 +121,9 @@ text-align: center;
     font-family: 'Old Standard TT';
     overflow: hidden;
     padding: 10px;
-    text-align: left;
+    text-align: center;
     justify-content: center;
-    margin: auto 0px;
+    margin: auto auto;
     width: 80%;
     letter-spacing: -4px;
     line-height: 4rem;
@@ -272,7 +276,7 @@ text-align: center;
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 25%;
+    width: 30%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -422,6 +426,49 @@ text-align: center;
     position: relative;
 }
 
+.sidebar .mini-article {
+    display: inline-flex;
+    width: 95%;
+    padding-bottom: 20px;
+}
+
+.sidebar .mini-article .mini-img {
+    width: 40%;
+}
+
+.sidebar .mini-article-title {
+    width: 60%;
+}
+
+.sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:#001163;
+    color: white;
+    padding: 8px;
+    width: fit-content;
+    margin-right: auto;
+}
+
+.sidebar .mini-article-title-text {
+    padding: 5px;
+    text-align: left;
+}
+
+.sidebar .mini-article-title-text a{
+    font-family: 'Old Standard TT';
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color:black;
+}
+
+.sidebar .mini-article-title-text a:visited{
+    color:black;
+}
+
+
 /*-------------------END OF POSTS---------------------------------*/
 
 /*------------------------PAGE LINKS SECTION-----------------------*/
@@ -447,6 +494,7 @@ text-align: center;
     font-weight: 500;
     color: black;
 }
+
 /*-----------------------END OF PAGE LINKS SECTION-----------------*/
 
 /*---------------------------FOLLOW US------------------------------*/
@@ -1067,6 +1115,19 @@ body{
         margin-right:auto;
         position: relative;
         float: none;
+    }
+
+    .sidebar .mini-article-title-text a{
+        font-family: 'Old Standard TT';
+        font-weight: 700;
+        font-size: 40px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color:black;
+    }
+    
+    .sidebar .mini-article-title-text a:visited{
+        color:black;
     }
 
     .MuakuWD {
