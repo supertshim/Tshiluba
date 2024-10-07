@@ -74,6 +74,8 @@ text-align: center;
     display: flex;
     max-width: 100%;
     height: max-content !important;
+    padding:10px;
+    font-size: 12vw !important;
 }
 
 .article-title span{
@@ -228,10 +230,28 @@ text-align: center;
 
 
 /*------------SIDEBAR CODES-------------------*/
+
+.sidebarcage {
+    background-color: white;
+    z-index: 1;
+    max-width: 30%;
+    height: fit-content;
+    position: relative;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    display: block;
+}
+
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 30%;
+    width: 100%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -619,7 +639,7 @@ body{
 
     
     .title-box h2 {
-        font-size: 14vw !important;
+        font-size: 13vw !important;
         text-align: center;
         padding: 0px;
         line-height: 1em !important;
@@ -650,8 +670,16 @@ body{
         top:30px;
     }
 
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
+    }
+
     .sidebar {
-        min-width: 100% ;
+        scale: 1;
+        min-width: 100%;
+        display: flex;
     }
 
     .article-title span{
@@ -837,7 +865,7 @@ body{
     }
 }
 
-
+@media(min-width: 700px){
 @media(max-width: 1200px){
 
 
@@ -845,11 +873,14 @@ body{
         width: 100%;
     }
     .article-container{
+        display: block !important;
+        justify-content: center;
+        position: relative;
         max-width: 90%;
     }
+
     .article {
-        width: 60%;
-        height: 100%;
+        width: 100%;
     }
 
     .article p{
@@ -857,10 +888,16 @@ body{
     }
 
 
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
+    }
+
     .sidebar {
         scale: 1;
-        width: 40%;
-        max-width: 40%;
+        min-width: 100%;
+        display: flex;
     }
 
     .MuakuWD {
@@ -924,10 +961,9 @@ body{
         margin: 0;
         width: 100%;
     }
-
-    
-    
 }
+}
+
 
 .blog-links, .blog-links a{
     font-size: 18px !important;
