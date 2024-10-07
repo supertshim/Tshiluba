@@ -231,7 +231,7 @@ text-align: center;
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 25%;
+    width: 30%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -379,6 +379,49 @@ text-align: center;
 .post-icon {
     width: 95%;
     position: relative;
+}
+
+.sidebar .mini-article {
+    display: inline-flex;
+    width: 95%;
+    padding-bottom: 20px;
+}
+
+.sidebar .mini-article .mini-img {
+    width: 40%;
+}
+
+.sidebar .mini-article-title {
+    width: 60%;
+}
+
+.sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:#001163;
+    color: white;
+    padding: 8px;
+    width: fit-content;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.sidebar .mini-article-title-text {
+    padding: 5px;
+    text-align: left;
+}
+
+.sidebar .mini-article-title-text a{
+    font-family: 'Old Standard TT';
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color:black;
+}
+
+.sidebar .mini-article-title-text a:visited{
+    color:black;
 }
 
 /*-------------------END OF POSTS---------------------------------*/
