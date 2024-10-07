@@ -443,11 +443,27 @@ a.links:visited {
 /*-------------------END OF COMMENT SECTION--------------------------------------*/
 
 /*------------SIDEBAR CODES-------------------*/
+.sidebarcage {
+    background-color: white;
+    z-index: 1;
+    width: 30%;
+    height: fit-content;
+    position: relative;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    display: block;
+}
 
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 30%;
+    width: 100%;
     height: fit-content;
     position: relative;
     padding: 10px;
