@@ -713,6 +713,11 @@ a.links:visited {
         border-top: none;
     }
 
+    
+    .sidebarcage {
+        min-width: 100% ;
+    }
+
     .sidebar {
         min-width: 100% ;
     }
@@ -1025,6 +1030,11 @@ a.links:visited {
         font-size: 2.45vw;
     }
 
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
+    }
 
     .sidebar {
         scale: 1;
