@@ -443,10 +443,27 @@ a.links:visited {
 /*-------------------END OF COMMENT SECTION--------------------------------------*/
 
 /*------------SIDEBAR CODES-------------------*/
-.sidebar {
+.sidebarcage {
     background-color: white;
     z-index: 1;
     width: 30%;
+    height: fit-content;
+    position: relative;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+.sidebar {
+    background-color: white;
+    z-index: 1;
+    width: 100%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -696,9 +713,10 @@ a.links:visited {
         border-top: none;
     }
 
-    .sidebar {
+    .sidebarcage {
         min-width: 100% ;
     }
+
 
     .sidebar .pageLinks ul li {
         font-family: 'Montserrat';
@@ -714,7 +732,7 @@ a.links:visited {
 
     .sidebar .MuakuWD .mwd .mwdbigword {
         font-family: 'Jost', sans-serif;
-        font-size: 30vw;
+        font-size: 24vw;
     }
     .sidebar .MuakuWD .mwd .mwdtitle {
         font-size: 40px;
@@ -731,7 +749,7 @@ a.links:visited {
     }
 
     .mwd {
-        margin: 10px auto !important;
+        margin: 20px auto !important;
     }
 
     .header {
@@ -1005,6 +1023,12 @@ a.links:visited {
         text-align: left;
         font-weight: 700;
         font-size: 2.45vw;
+    }
+
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
     }
 
     .sidebar {
