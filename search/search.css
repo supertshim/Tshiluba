@@ -491,6 +491,11 @@ a.links:visited {
     color:white;
 }
 
+.sidebarcage .sidebarad {
+    display: block;
+    width: 100%;
+}
+
 /*---------------WORD OF THE DAY--------------*/
 
 .MuakuWD {
