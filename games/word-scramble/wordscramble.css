@@ -229,10 +229,28 @@ button.ws_refresh:hover{
 
 /*------------SIDEBAR CODES-------------------*/
 /*------------SIDEBAR CODES-------------------*/
+
+.sidebarcage {
+    background-color: white;
+    z-index: 1;
+    max-width: 30%;
+    height: fit-content;
+    position: relative;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    display: block;
+}
+
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 30%;
+    width: 100%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -383,6 +401,7 @@ button.ws_refresh:hover{
     position: relative;
 }
 
+
 .sidebar .mini-article {
     display: inline-flex;
     width: 95%;
@@ -469,6 +488,12 @@ button.ws_refresh:hover{
         width: 100% !important;
         margin: auto;
         position: relative;
+    }
+
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: block;
     }
 
     .sidebar {
@@ -812,11 +837,18 @@ button.ws_refresh:hover{
             font-weight: 700;
             font-size: 2.45vw;
         }
+
+        
+    .sidebarcage {
+        scale: 1;
+        max-width: 40%;
+        display: flex;
+    }
     
         .sidebar-container .sidebar {
             scale: 1;
-            width: 40%;
-            max-width: 40%;
+            min-width: 100%;
+            display: flex;
         }
     
         .MuakuWD {
