@@ -2,6 +2,8 @@ class Sidebar extends HTMLElement {
     constructor() {
         super()
         this.innerHTML = `
+
+<google-sidebar-ad></google-sidebar-ad>
 <span>Word of the Day</span>
         
         <muakuwd-card class="MuakuWD"></muakuwd-card>
