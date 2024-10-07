@@ -443,27 +443,11 @@ a.links:visited {
 /*-------------------END OF COMMENT SECTION--------------------------------------*/
 
 /*------------SIDEBAR CODES-------------------*/
-.sidebarcage {
-    background-color: white;
-    z-index: 1;
-    width: 30%;
-    height: fit-content;
-    position: relative;
-    padding: 10px;
-    margin-top: 0px;
-    border-radius: 10px;
-    text-align:center;
-    text-transform: uppercase;
-    align-items: center;
-    justify-content: center;
-    float: right;
-    display: flex;
-    flex-direction: column;
-}
+
 .sidebar {
     background-color: white;
     z-index: 1;
-    width: 100%;
+    width: 30%;
     height: fit-content;
     position: relative;
     padding: 10px;
@@ -489,11 +473,6 @@ a.links:visited {
     text-align:center;
     background-color: #001163;
     color:white;
-}
-
-.sidebarcage .sidebarad {
-    display: block;
-    width: 100%;
 }
 
 /*---------------WORD OF THE DAY--------------*/
@@ -718,7 +697,7 @@ a.links:visited {
         border-top: none;
     }
 
-    .sidebarcage {
+    .sidebar {
         min-width: 100% ;
     }
 
@@ -1030,11 +1009,6 @@ a.links:visited {
         font-size: 2.45vw;
     }
 
-    .sidebarcage {
-        scale: 1;
-        min-width: 100%;
-        display: flex;
-    }
 
     .sidebar {
         scale: 1;
