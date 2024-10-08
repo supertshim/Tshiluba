@@ -18835,7 +18835,7 @@ A horse (Equus ferus caballus) is a large domesticated mammal with hooves, belon
     English: "second-born twin (1)",
     French: "le deuxième jumeau (1)",
     Tshiluba: "Kabanga",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Ka·ban·ga<p>/Kah-bah-ngah/</p>",
     PhoneticsT: "le deuxième jumeau | second-born twin",
     English2: "second twin",
@@ -18896,8 +18896,8 @@ la deuxième jumelle <i class="PartOfSpch">n</i>
 the second-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Kabanga  <i class="PartOfSpch">tshitshi</i><br>
-Kanku <i class="PartOfSpch">tshitshi</i><br>
+Kabanga  <i class="PartOfSpch">Tshi</i><br>
+Kanku <i class="PartOfSpch">Tshi</i><br>
 
 tangila:<br>
 <a style="text-decoration:none;" href="/alphabetindex/K/KANKU/">kanku</a><br>
@@ -22246,7 +22246,7 @@ Pigs are intelligent, social, omnivorous mammals widely domesticated for meat an
     English: "second-born twin (2)",
     French: "le deuxième jumeau (2)",
     Tshiluba: "Kanku",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Ka·nku<p>/Kah-nkoo/</p>",
     PhoneticsT: "le deuxième jumeau | second-born twin",
     English2: "second twin",
@@ -22307,8 +22307,8 @@ la deuxième jumelle <i class="PartOfSpch">n</i>
 the second-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Kanku  <i class="PartOfSpch">tshitshi</i><br>
-Kabanga <i class="PartOfSpch">tshitshi</i><br>
+Kanku  <i class="PartOfSpch">Tshi</i><br>
+Kabanga <i class="PartOfSpch">Tshi</i><br>
 
 tangila:<br>
 <a style="text-decoration:none;" href="/alphabetindex/K/KABANGA/">kabanga</a><br>
@@ -34527,7 +34527,7 @@ A political entity with a defined territory, government, and population. It is a
     English: "first-born twin (M)",
     French: "le premier jumeau (M)",
     Tshiluba: "Mbuyi",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Mbu·yi<p>/mboo-yee/</p>",
     PhoneticsT: "le premier jumeau | first-born twin",
     English2: "first twin",
@@ -34588,8 +34588,8 @@ la première jumelle <i class="PartOfSpch">n</i>
 the first-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Mbuyi <i class="PartOfSpch">tshitshi</i><br>
-Tshibuabua <i class="PartOfSpch">tshitshi</i><br>
+Mbuyi <i class="PartOfSpch">Tshi</i><br>
+Tshibuabua <i class="PartOfSpch">Tshi</i><br>
 
 tangila:<br>
 <a style="text-decoration:none;" href="/alphabetindex/T/TSHIBUABUA/">tshibuabua</a><br>
@@ -35832,6 +35832,100 @@ mpala <i class="PartOfSpch">tshi6</i><br>
                 <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
 <br><br></td>
+</tr>
+`
+},
+/*Mpiana*/   
+{
+    English: "heir",
+    French: "héritier",
+    Tshiluba: "mpiana",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "mpia·na<p>/mpyah-nah/</p>",
+    PhoneticsT: "heritier | heir",
+    English2: "heirs",
+    French2: "successor",
+    Tshiluba2: "mpiana",
+    PhoneticsT2: " ",
+    English3: "heritier",
+    French3: "l'héritier",
+    Tshiluba3: "l'heritier",
+    PhoneticsT3: " ",
+    English4: "the heir",
+    French4: "successors",
+    Tshiluba4: "héritière",
+    PhoneticsT4: " ",
+    English5: "heritière",
+    French5: "heritiere",
+    Tshiluba5: "inheritor",
+    PhoneticsT5: " ",
+    English6: "inheritors",
+    French6: "the inheritor",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+héritier <i class="PartOfSpch">n</i><br>
+héritière <i class="PartOfSpch">n</i><br>
+L'héritier <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+heir <i class="PartOfSpch">n</i><br>
+inheritor <i class="PartOfSpch">n</i><br>
+successor <i class="PartOfSpch">n</i><br>
+The Heir <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Mpiana <i class="PartOfSpch">Tshi</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Mpian est un nom dérivé du mot héritier (masculine) ou une héritière (feminine). Une personne qui reçoit ou est en droit de recevoir quelque chose, notamment des biens ou des richesses, après le décès de quelqu'un. Les héritiers peuvent également recevoir des titres, des positions ou des responsabilités transmises de génération en génération ou dans le cadre d'un testament légal.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Mpiana is a name that means "inheritor." An inheritor is a person who receives or is entitled to receive something, especially property or wealth, from someone else after their death. Inheritors may also receive titles, positions, or responsibilities passed down through generations or as part of a legal will.
+
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -43995,7 +44089,7 @@ A small community or settlement, often in a rural area, that is smaller than a t
     English: "the child born after twins",
     French: "l'enfant né après des jumeaux",
     Tshiluba: "Musuamba",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Mu·su·am·ba<p>/Moo-swah-mbah/</p>",
     PhoneticsT: "l'enfant né après des jumeaux | the child born after twins",
     English2: "muswamba",
@@ -44056,7 +44150,7 @@ l'enfant né après des jumeaux <i class="PartOfSpch">n</i><br>
 the child born after twins <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Musuamba  <i class="PartOfSpch">tshitshi</i><br><br>
+Musuamba  <i class="PartOfSpch">Tshi</i><br><br>
 
 </td>
 </tr>
@@ -48773,7 +48867,7 @@ A parrot is a colorful, intelligent bird known for its ability to mimic human sp
     English: "second-born twin (3)",
     French: "le deuxième jumeau (3)",
     Tshiluba: "Nsanza",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Nsa·nza<p>/Sah-nzah/</p>",
     PhoneticsT: "le deuxième jumeau | second-born twin",
     English2: "second twin",
@@ -48834,9 +48928,9 @@ la deuxième jumelle <i class="PartOfSpch">n</i>
 the second-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Nsanza  <i class="PartOfSpch">tshitshi</i><br>
-Kabanga <i class="PartOfSpch">tshitshi</i><br>
-Kanku <i class="PartOfSpch">tshitshi</i><br><br>
+Nsanza  <i class="PartOfSpch">Tshi</i><br>
+Kabanga <i class="PartOfSpch">Tshi</i><br>
+Kanku <i class="PartOfSpch">Tshi</i><br><br>
 
 tangila:<br>
 <a style="text-decoration:none;" href="/alphabetindex/K/KABANGA/">kabanga</a><br>
@@ -54325,6 +54419,220 @@ kusungula <i class="PartOfSpch">md</i><br>
     </tr>
 `
 },
+/*--Sunguluka*/   
+{
+    English: "specific",
+    French: "particulier",
+    Tshiluba: "--sunguluka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "sun·gu·lu·ka<p>/soon-goo-loo-kah/</p>",
+    PhoneticsT: "particulier | specific",
+    English2: "spécifique",
+    French2: "particulière",
+    Tshiluba2: "--sunguluka",
+    PhoneticsT2: " ",
+    English3: "particuliere",
+    French3: "precis",
+    Tshiluba3: "précis",
+    PhoneticsT3: " ",
+    English4: "disunguluka",
+    French4: "masunguluka",
+    Tshiluba4: "tshisunguluka",
+    PhoneticsT4: " ",
+    English5: "bisunguluka",
+    French5: "kasunguluka",
+    Tshiluba5: "tusunguluka",
+    PhoneticsT5: " ",
+    English6: "misunguluka",
+    French6: "lusunguluka",
+    Tshiluba6: "nusunguluka",
+    PhoneticsT6: " ",
+    English7: "musunguluka",
+    French7: "basunguluka",
+    Tshiluba7: "sunguluka",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+spécifique <i class="PartOfSpch">adj</i><br>
+particulier <i class="PartOfSpch">adj</i><br>
+particulière <i class="PartOfSpch">adj</i><br>
+précis <i class="PartOfSpch">adj</i><br>
+</td>
+
+<td class="tabledef" valign=top>
+specific <i class="PartOfSpch">adj</i><br>
+particular <i class="PartOfSpch">adj</i><br>
+precise <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--sunguluka <i class="PartOfSpch">mf</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef" valign=top >
+classe 1
+
+</td>
+<td class="tabledef" valign=top>
+class 1
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> musunguluka <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> basunguluka <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2
+
+</td>
+<td class="tabledef" valign=top>
+class 2
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> musunguluka <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> misunguluka <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3
+
+</td>
+<td class="tabledef" valign=top>
+class 3
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> busunguluka <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> masunguluka <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4
+
+</td>
+<td class="tabledef" valign=top>
+class 4
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> disunguluka <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> masunguluka <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5
+
+</td>
+<td class="tabledef" valign=top>
+class 5
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lusunguluka <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> nusunguluka <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7
+
+</td>
+<td class="tabledef" valign=top>
+class 7
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kasunguluka <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tusunguluka <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8
+
+</td>
+<td class="tabledef" valign=top>
+class 8
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshisunguluka <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bisunguluka <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"--ipi" est le suffixe se terminant par quelque chose qui spécifique, particulier, ou précis.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"--sunguluka" is the suffix ending referring to something that has a specific, particular, or precise.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*-Tangila*/   
 {
     English: "to look",
@@ -55711,6 +56019,140 @@ A substance that is typically hard, shiny, and has good electrical and thermal c
 </tr>
 `
 },
+/*Tshianda*/   
+{
+    English: "evil spell",
+    French: "maléfice",
+    Tshiluba: "tshianda",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "tshian·da<p>/chyahn-dah/</p>",
+    PhoneticsT: "maléfice | evil spell",
+    English2: "evil spells",
+    French2: "spell",
+    Tshiluba2: "tshianda",
+    PhoneticsT2: " ",
+    English3: "bianda",
+    French3: "bena tshianda",
+    Tshiluba3: "tshyanda",
+    PhoneticsT3: " ",
+    English4: "byanda",
+    French4: "magic spell",
+    Tshiluba4: "malefice",
+    PhoneticsT4: " ",
+    English5: "maléfices",
+    French5: "malefices",
+    Tshiluba5: "evil charm",
+    PhoneticsT5: " ",
+    English6: "evil charms",
+    French6: "sortilège maléfique",
+    Tshiluba6: "sortilege",
+    PhoneticsT6: " ",
+    English7: "sortilège",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+maléfice <i class="PartOfSpch">n</i><br>
+sorcellerie <i class="PartOfSpch">n</i><br>
+sortilège maléfique <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+evil spell <i class="PartOfSpch">n</i><br>
+evil charm <i class="PartOfSpch">n</i><br>
+witchcraft <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+tshianda <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bianda<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+monde invisible des sorciers <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+The Dark Realm <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+Tshianda <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+sorcier<br>
+sorciers
+</td>
+<td class="tabledef-1" valign=top>
+witch<br>
+witches<br><br>
+
+</td>
+<td class="tabledef" valign=top>
+muena tshianda<br>
+bena tshianda<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Tshianda est une forme d'enchantement magique ou de malédiction destinée à causer du tort, de la souffrance ou du malheur à une personne, un objet ou une situation. Il est généralement associé à une intention malveillante et à la magie noire, souvent utilisé en sorcellerie ou en sorcellerie pour provoquer des effets négatifs tels que la maladie, la malchance ou des dommages physiques.<br><br>
+Tshianda désigne aussi un royaume caché et mystique, que l'on croit accessible uniquement aux sorcières ou à ceux qui possèdent des capacités magiques. Ce domaine invisible est souvent associé à des pouvoirs surnaturels, des esprits, et des forces au-delà de la perception ordinaire. Il est considéré comme un endroit où les sorcières pratiquent leur art, lancent des sorts, et interagissent avec des êtres d'un autre monde, tels que des esprits, des démons, ou des entités magiques.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Tshianda is a form of magical enchantment or curse meant to cause harm, suffering, or misfortune to a person, object, or situation. It is typically linked with malevolent intent and dark magic, often used in witchcraft or sorcery to bring about negative consequences like illness, bad luck, or physical harm.<br><br>
+Tshianda also refers to a hidden, mystical realm that is believed to be accessible only to witches or those with magical abilities. This unseen domain is often associated with supernatural powers, spirits, and forces beyond ordinary perception. It is thought to be a place where witches practice their craft, cast spells, and interact with otherworldly beings, such as spirits, demons, or magical entities.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------</p>
+<br><br></td>
+</tr>
+`
+},
 /*Tshianza*/   
 {
     English: "Hand",
@@ -56421,6 +56863,104 @@ A Tshibanji is a person who facilitates relationships or connections between oth
 </tr>
 `
 },
+/*Tshibasa*/   
+{
+    English: "plank",
+    French: "planche",
+    Tshiluba: "tshibasa",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "tshi·ba·sa<p>/chee-bah-sah/</p>",
+    PhoneticsT: "planche | plank",
+    English2: "planks",
+    French2: "planches",
+    Tshiluba2: "tshibasa",
+    PhoneticsT2: " ",
+    English3: "bibasa",
+    French3: "floorboard",
+    Tshiluba3: "floorboards",
+    PhoneticsT3: " ",
+    English4: "ardoise",
+    French4: "board",
+    Tshiluba4: "boards",
+    PhoneticsT4: " ",
+    English5: "ardoises",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+planche <i class="PartOfSpch">n</i><br>
+ardoise <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+plank <i class="PartOfSpch">n</i><br>
+floorboard <i class="PartOfSpch">n</i><br>
+wood plank <i class="PartOfSpch">n</i><br>
+board <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+tshibasa <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bibasa
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un tshibasa est une pièce de bois ou d'un autre matériau, allongée et plate, généralement plus épaisse qu'une planche ordinaire. Elle est couramment utilisée dans la construction, le revêtement de sol, les meubles et diverses applications nécessitant une surface solide et plane. 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A tshibasa is a flat, elongated piece of wood or other material, typically thicker than a board. It is often used in construction, flooring, furniture, and various applications where a solid, flat surface is needed.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Tshibayibayi*/   
 {
     English: "butterfly",
@@ -57004,6 +57544,98 @@ Bibidikilu bidi bisanga ku bisumbu. Tshisumbu tshionso tshidi tshilejibua ku
 </tr>
 `
 },
+/*Tshibikidilu Tshisunguluka*/   
+{
+    English: "proper noun",
+    French: "nom propre",
+    Tshiluba: "tshibikidilu tshisunguluka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "tshi·bi·ki·di·lu tshi·sun·gu·lu·ka<p>/chee-bee-kee-dee-loo chee-soon-goo-loo-kah/</p>",
+    PhoneticsT: "nom propre | proper noun",
+    English2: "proper nouns",
+    French2: "noms propres",
+    Tshiluba2: "tshbikidilu tshisunguluka",
+    PhoneticsT2: " ",
+    English3: "bibikidilu bisunguluka",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+nom propre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+proper noun <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+tshibikidilu tshisunguluka <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bibikidilu bisunguluka<br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/S/--SUNGULUKA/">--sunguluka</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un tshibikidilu tshisunguluka est un nom spécifique utilisé pour désigner une personne, un lieu, une organisation ou une marque individuelle, le distinguant d'un nom commun qui fait référence à des éléments ou concepts généraux. Les noms propres sont capitalisés pour indiquer leur spécificité. 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A tshibikidilu tshisunguluka is a specific name used for an individual person, place, organization, or brand, distinguishing it from a common noun, which refers to general items or concepts. Proper nouns are capitalized to indicate their specificity. The adjective "--sunguluka" denotes specificity.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Tshibingu*/   
 {
     English: "boo",
@@ -57445,7 +58077,7 @@ A long curved fruit with a soft, creamy flesh and a yellow or green skin. It gro
     English: "first-born twin (T)",
     French: "le premier jumeau (T)",
     Tshiluba: "Tshibuabua",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu tshisunguluji</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "Tshi·bu·a·bu·a<p>/Chee-bwah-bwah/</p>",
     PhoneticsT: "le premier jumeau | first-born twin",
     English2: "first twin",
@@ -57506,8 +58138,8 @@ la première jumelle <i class="PartOfSpch">n</i>
 the first-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Tshibuabua  <i class="PartOfSpch">tshitshi</i><br>
-Mbuyi <i class="PartOfSpch">tshitshi</i><br>
+Tshibuabua  <i class="PartOfSpch">Tshi</i><br>
+Mbuyi <i class="PartOfSpch">Tshi</i><br>
 
 tangila:<br>
 <a style="text-decoration:none;" href="/alphabetindex/M/MBUYI/">mbuyi</a><br>
@@ -59926,6 +60558,92 @@ Tshiluba is a Bantu language spoken by the Luba people in the Democratic Republi
 </tr>
 `
 },
+/*Tshilumba*/   
+{
+    English: "something that bites (stings)",
+    French: "ce qui est mordant (piquant)",
+    Tshiluba: "tshisungu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "tshi·sun·gu<p>/chee-soon-goo/</p>",
+    PhoneticsT: "ce qui est mordant | something that bites",
+    English2: "tshisungu",
+    French2: " ",
+    Tshiluba2: "tshisungu",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+ce qui est mordant (piquant) <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+something that bites (stings) <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Tshisungu <i class="PartOfSpch">Tshi</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+le sel mord vivement <br>
+</td>
+<td class="tabledef-1" valign=top>
+the salt bites hard <br>
+</td>
+<td class="tabledef" valign=top>
+luepu ludi ne tshisungu tshia bungi
+
+</td>
+</tr>
+`
+},
 /*Tshiluwa*/   
 {
     English: "idiot; moron",
@@ -60029,7 +60747,7 @@ A term used to describe someone who is very foolish or lacks good judgment. It i
     English: "sheath",
     French: "fourreau",
     Tshiluba: "tshimanga",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
     Phonetics: "tshi·man·ga<p>/chee-mahn-gah/</p>",
     PhoneticsT: "fourreau | sheath",
     English2: "scabbard",
@@ -60095,6 +60813,8 @@ scabbard <i class="PartOfSpch">n</i><br><br>
 <td class="tabledef" valign=top>
 tshimanga <i class="PartOfSpch">tshi8</i><br>
 <i class="PartOfSpch">pl</i> bimanga <br><br>
+
+Tshimanga <i class="PartOfSpch">Tshi</i><br>
 </td>
 </tr>
 <tr>
@@ -60819,6 +61539,95 @@ mukoko wa tshimpanga
 </tr>
 `
 },
+/*Tshimuanga*/   
+{
+    English: "the one who scatters",
+    French: "celui qui disperse",
+    Tshiluba: "tshimuanga",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "tshi·mu·an·ga<p>/chee-mwahn-gah/</p>",
+    PhoneticsT: "celui qui disperse | the one who scatters",
+    English2: "tshimwanga",
+    French2: " ",
+    Tshiluba2: "tshimuanga",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+celui qui disperse <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+The One who Scatters <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Tshimuanga <i class="PartOfSpch">Tshi</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Tshimuanga est un nom dérivé du verbe en Tshiluba "disperser," qui est "kumuanga."
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Tshimuanga is a name derived from the verb in Tshiluba "to scatter" which is "kumuanga."
+
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Tshimuangi*/   
 {
     English: "emigration, exodus",
@@ -61306,6 +62115,94 @@ tangila:<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 "Kutshina" means to feel a distressing emotion aroused by impending danger, evil, pain, or a perceived threat.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Tshinanga*/   
+{
+    English: "The Beloved One",
+    French: "Celui qui est Bien-Aimé",
+    Tshiluba: "tshinanga",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "tshi·nan·ga<p>/chee-nahn-gah/</p>",
+    PhoneticsT: "celui qui est bien-aimé | The Beloved One",
+    English2: " ",
+    French2: " ",
+    Tshiluba2: "tshinanga",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Celui qui est bien-aimé <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+The Beloved One <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Tshinanga <i class="PartOfSpch">Tshi</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Tshinanga est un nom dérivé du verbe en Tshiluba "aimer," qui est "kunanga."
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Tshinanga is a name derived from the verb in Tshiluba "to love" which is "kunanga."
                 </p> 
 <br>
 <b><i>Diumvuija</i></b><br>
@@ -63717,6 +64614,163 @@ A tshisuminyi is an injury or mark caused by the teeth of a person or animal, or
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
+</td>
+</tr>
+`
+},
+/*Tshisungu*/   
+{
+    English: "something that bites (stings)",
+    French: "ce qui est mordant (piquant)",
+    Tshiluba: "tshisungu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "tshi·sun·gu<p>/chee-soon-goo/</p>",
+    PhoneticsT: "ce qui est mordant | something that bites",
+    English2: "tshisungu",
+    French2: " ",
+    Tshiluba2: "tshisungu",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+ce qui est mordant (piquant) <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+something that bites (stings) <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Tshisungu <i class="PartOfSpch">Tshi</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+le sel mord vivement <br>
+</td>
+<td class="tabledef-1" valign=top>
+the salt bites hard <br>
+</td>
+<td class="tabledef" valign=top>
+luepu ludi ne tshisungu tshia bungi
+
+</td>
+</tr>
+`
+},
+/*Tshiswaka*/   
+{
+    English: "the hidden one",
+    French: "celui qui est chaché",
+    Tshiluba: "tshiswaka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
+    Phonetics: "tshi·swa·ka<p>/chee-swah-kah/</p>",
+    PhoneticsT: "celui qui est chaché | the hidden one",
+    English2: "tshisuaka",
+    French2: " ",
+    Tshiluba2: "tshiswaka",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+celui qui est caché <i class="PartOfSpch">nom propre</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+The Hidden One <i class="PartOfSpch">proper noun</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+Tshiswaka <i class="PartOfSpch">Tshi</i><br><br>
+
 </td>
 </tr>
 `
@@ -66523,3 +67577,5 @@ function maininpt(){
         miaku.Tshiluba11.toLowerCase() === wordinput;}
     
     }
+
+/*********PREVIOUS & NEXT CODE************************ */
