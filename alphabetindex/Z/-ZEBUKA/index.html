@@ -71,8 +71,6 @@
     </p>
     <a href="" class="indexbutton" id="indexprev" title="previousindex">◀ PREV
     </a>
-    <a href="" class="indexbutton" id="indexnext" title="nextindex">NEXT ▶
-    </a>
     <br>
 </div>       
      <div class="sidebar-container">
@@ -372,18 +370,11 @@ Nubuelayi apa diandamuna webe.`,
             var previousWordLink = listItems.children[wordspot-1].firstChild.href;
             console.log(previousWord)
             console.log(previousWordLink)
-    /***NEXT WORD**/
-            var nextWord = listItems.children[wordspot+1].innerText;
-            var nextWordLink = listItems.children[wordspot+1].firstChild.href;
-            console.log(nextWord)
-            console.log(nextWordLink)
     /***FORM HREFS****/
         var prevLink = document.getElementById("indexprev");
         prevLink.href = previousWordLink;
-        var nextLink = document.getElementById("indexnext"); 
-        nextLink.href = nextWordLink;
         console.log(prevLink.href);
-        console.log(nextLink.href);
+
         }
     </script>
 
