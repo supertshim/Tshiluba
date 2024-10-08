@@ -599,10 +599,12 @@ Nubuelayi apa diandamuna webe.`,
             var listItem = listItems.children[wordspot].innerText;
             console.log(listItem)
     /***PREVIOUS WORD***/
+    if (wordspot !== 0){
             var previousWord = listItems.children[wordspot-1].innerText;
             var previousWordLink = listItems.children[wordspot-1].firstChild.href;
             console.log(previousWord)
             console.log(previousWordLink)
+        }
     /***NEXT WORD**/
             var nextWord = listItems.children[wordspot+1].innerText;
             var nextWordLink = listItems.children[wordspot+1].firstChild.href;
