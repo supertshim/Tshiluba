@@ -33,6 +33,21 @@
     border: 2px solid rgb(0, 0, 0);
 }
 
+/*****************PREVIOUS AND NEXT BUTTONS***********************/
+.indexbutton {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: transparent;
+    color: #001163;
+    border: none;
+    cursor: pointer;
+    padding: 2px 20px;
+    border-radius: 0px;
+    transition: 0.5s ease-in-out ;
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+}
+
 
 /**********************The Cage for the search results**************************/
 .header .sidebar-container {
