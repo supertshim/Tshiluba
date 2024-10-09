@@ -4776,7 +4776,7 @@ An emotional response to a perceived threat or danger. It is a feeling of appreh
     English: "For",
     French: "Pour",
     Tshiluba: "Bua",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br> conjonction | conjunction',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br><a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjonction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjunction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">tshituangaji</a>',
     Phonetics: "Bua<p>/Buah/</p>",
     PhoneticsT: "Pour / For",
     English2: "Because",
@@ -7747,6 +7747,519 @@ The action of consuming food through the mouth, typically for sustenance and nou
 </tr>
 `
 },
+/*Diabanya*/   
+{
+    English: "division (Math)",
+    French: "division (Maths)",
+    Tshiluba: "diabanya",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·a·ba·nya<p>/dyah-bahn-yah/</p>",
+    PhoneticsT: "division | division",
+    English2: "division",
+    French2: " ",
+    Tshiluba2: "diabanya",
+    PhoneticsT2: " ",
+    English3: "divisions",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+division (Maths) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+division (Math) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+diabanya <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/A/-ABANYA/">kuabanya</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIUMBUSHA/">diumbusha</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIVUDIJA/">divudija</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DISANGISHA/">disangisha</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Diabanya est le processus qui consiste à déterminer combien de fois un nombre, appelé diviseur, peut être soustrait d’un autre nombre, appelé dividende, jusqu’à atteindre zéro. C’est l’une des quatre opérations arithmétiques de base et elle est généralement représentée par le signe de division (÷) ou une barre oblique (/). 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Diabanya is the process of determining how many times one number, the divisor, can be subtracted from another number, the dividend, until zero is reached. It is one of the four basic arithmetic operations and is typically represented by the division sign (÷) or a slash (/). 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Diabuabua*/   
+{
+    English: "before yesterday",
+    French: "avant-hier",
+    Tshiluba: "diabuabua",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "dia·bua·bua<p>/dyah-bwah-bwah/</p>",
+    PhoneticsT: "avant-hier | before yesterday",
+    English2: "the day before yesterday",
+    French2: "avant hier",
+    Tshiluba2: "diabuabua",
+    PhoneticsT2: " ",
+    English3: "diabwabwa",
+    French3: "before-yesterday",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+avant-hier <i class="PartOfSpch">adv</i><br>
+le jour avant hier <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+before yesterday <i class="PartOfSpch">adv</i><br>
+the day before yesterday <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+diabuabua <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MAKELELA/">makelela</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/L/LELU/">lelu</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MALABA/">malaba</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MAIPI/">maipi</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Diabuabua désigne le jour qui a eu lieu deux jours avant le jour actuel, également appelé le jour avant hier. Par exemple, si aujourd'hui est mercredi, "avant-hier" fait référence à lundi.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Diabuabua refers to the day that occurred two days prior to the current day, also known as the day before yesterday. For example, if today is Wednesday, "before yesterday" would refer to Monday.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+Diabuabua didi dituku divua dienzeka ku dituku dibidi dia kumpala dituku dia lelu.</p>
+</td>
+</tr>
+`
+},
+/*Dialu*/   
+{
+    English: "shapeshifting sorcery",
+    French: "sorcellerie de transformation",
+    Tshiluba: "dialu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "dia·lu<p>/dyah-loo/</p>",
+    PhoneticsT: "sorcellerie de transformation | shapeshifting sorcery",
+    English2: "shapeshifting",
+    French2: "shape-shifting",
+    Tshiluba2: "dialu",
+    PhoneticsT2: " ",
+    English3: "bena dialu",
+    French3: "muena dialu",
+    Tshiluba3: "shapeshifter",
+    PhoneticsT3: " ",
+    English4: "transformation magic",
+    French4: "magie de transformation",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sorcellerie de transformation <i class="PartOfSpch">n</i><br>
+magie de transformation <i class="PartOfSpch">n</i><br>
+sorcellerie <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+shapeshifting sorcery <i class="PartOfSpch">n</i><br>
+transformation magic <i class="PartOfSpch">n</i><br>
+magic <i class="PartOfSpch">n</i><br>
+witchcraft <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dialu <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/D/-DIALULULA/">kudialulula</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/B/BULOJI/">buloji</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHIANDA/">tshianda</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUPONGO/">mupongo</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sorcier de transformation <br><br>
+</td>
+<td class="tabledef" valign=top>
+shapeshifter <br>
+shapeshifting witch <br><br>
+</td>
+<td class="tabledef" valign=top>
+muena dialu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+La magie de transformation fait référence à un genre de magie qui implique de changer la forme, l'apparence ou la nature d'un objet ou d'un être. Ce type de magie permet aux praticiens de modifier leur propre forme ou celle des autres, aboutissant souvent à la capacité de se transformer en animaux, objets inanimés ou autres créatures. 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Dialu refers to a genre of magic that involves changing the form, appearance, or nature of an object or being. This type of magic allows practitioners to alter their own shape or that of others, often resulting in the ability to turn into animals, inanimate objects, or other creatures.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
+},
+/*-Dialulula*/   
+{
+    English: "to metamorphose",
+    French: "se métamorphoser",
+    Tshiluba: "kudialulula",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "ku·dia·lu·lu·la<p>/koo-dyah-loo-loo-lah/</p>",
+    PhoneticsT: "se métamorphoser | metamorphose",
+    English2: "se metamorphoser",
+    French2: "to be transformed into",
+    Tshiluba2: "-dialulula",
+    PhoneticsT2: " ",
+    English3: "to be transformed",
+    French3: "to turn into",
+    Tshiluba3: "se transformer",
+    PhoneticsT3: " ",
+    English4: "dialulula",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+se métamorphoser <i class="PartOfSpch">v</i><br>
+se transformer <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+metamorphose <i class="PartOfSpch">v</i><br>
+to transform oneself <i class="PartOfSpch">v</i><br>
+to turn into <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+kudialulula <i class="PartOfSpch">md</i><br>
+-dialulula <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIALU/">dialu</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Kudialulula signifie subir un changement important dans son apparence, son caractère ou sa nature. Ce changement peut être physique, émotionnel ou psychologique et implique souvent un passage complet ou radical d'un état ou d'une condition à une autre.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Kudialulula means to undergo a significant change in one's appearance, character, or nature. This change can be physical, emotional, or psychological and often implies a complete or dramatic shift from one state or condition to another.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
+},
+/*Diambedi*/   
+{
+    English: "firstly",
+    French: "premièrement",
+    Tshiluba: "diambedi",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br><a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br><a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjonction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjunction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">tshituangaji</a>',
+    Phonetics: "di·am·be·di<p>/dyahm-beh-djee/</p>",
+    PhoneticsT: "premièrement | firstly",
+    English2: "first",
+    French2: "premierement",
+    Tshiluba2: "diambedi",
+    PhoneticsT2: " ",
+    English3: "dyambedi",
+    French3: "before",
+    Tshiluba3: "avant",
+    PhoneticsT3: " ",
+    English4: "d'abord",
+    French4: "beforehand",
+    Tshiluba4: "au préalable",
+    PhoneticsT4: " ",
+    English5: "au prealable",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+premièrement <i class="PartOfSpch">adv</i><br>
+d'abord <i class="PartOfSpch">adv</i><br>
+avant <i class="PartOfSpch">conj, prép</i><br>
+au préalable <i class="PartOfSpch">adv</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+firstly <i class="PartOfSpch">adv</i><br>
+first <i class="PartOfSpch">adv</i><br>
+before <i class="PartOfSpch">conj, prep</i><br>
+beforehand <i class="PartOfSpch">adv</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+diambedi <i class="PartOfSpch">muam, kad, tshit</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/K/KUMPALA/">kumpala</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/K/KU MUDILU/">ku mudilu</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Premièrement, Kankonde a retrouvé son frère Tshiswaka.<br><br>
+</td>
+<td class="tabledef-1" valign=top>
+Firstly, Kankonde met up with his brother Tshiswaka. <br><br>
+</td>
+<td class="tabledef" valign=top>
+Kankonde <a style="text-decoration:none;" href="/alphabetindex/S/-SAMBAKENA/">kusambakena</a> diambedi ne muanabu <a style="text-decoration:none;" href="/alphabetindex/T/TSHISWAKA/">Tshiswaka</a>. <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Diambedi est un adverbe, une conjonction et une préposition utilisés pour introduire le premier point ou élément d'une liste ou d'une séquence. Il signale le début d'une discussion ou d'un argument et précède souvent des points supplémentaires qui suivent. Il indique que quelque chose est fait ou arrangé plus tôt qu'un moment particulier, souvent pour préparer ou anticiper cet événement.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Diambedi is an adverb, conjucntion, and preposition used to introduce the first point or item in a list or sequence. It signals the beginning of a discussion or argument and often precedes additional points that follow. It indicates that something is done or arranged earlier than a particular point in time, often to prepare for or anticipate that event.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
+},
 /*Diba*/   
 {
     English: "time",
@@ -7908,6 +8421,104 @@ The Sun, the Moon, and the Stars
                 &nbsp:&nbsp
 Diba ne Ngondu ne Mitoto :
 <br><br></td>
+</tr>
+`
+},
+/*Dibadika*/   
+{
+    English: "count, tally",
+    French: "compte, comptage",
+    Tshiluba: "dibadika",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·ba·di·ka<p>/djee-bah-djee-kah/</p>",
+    PhoneticsT: "compte | count",
+    English2: "count",
+    French2: "compte",
+    Tshiluba2: "dibadika",
+    PhoneticsT2: " ",
+    English3: "tally",
+    French3: "comptage",
+    Tshiluba3: "census",
+    PhoneticsT3: " ",
+    English4: "recensement",
+    French4: "counting",
+    Tshiluba4: "tallying",
+    PhoneticsT4: " ",
+    English5: "counting up",
+    French5: "mabadika",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+compte <i class="PartOfSpch">n</i><br>
+comptage <i class="PartOfSpch">n</i><br>
+l'acte de compter <i class="PartOfSpch">n</i><br>
+recensement <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+count <i class="PartOfSpch">n</i><br>
+tally <i class="PartOfSpch">n</i><br>
+the act of counting <i class="PartOfSpch">n</i><br>
+census <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dibadika <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mabadika <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/B/-BADIKA/">kubadika</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIBALA/">dibala</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un dibadika fait référence à l'action de déterminer le nombre total d'objets, de personnes ou d'événements. Cela peut également désigner l'enregistrement ou le score réel de cette détermination, souvent représenté par des marques ou des chiffres.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A dibadika refers to the action of determining the total number of items, people, or events. It can also refer to the actual record or score of this determination, often represented as marks or numbers. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -8941,6 +9552,117 @@ muena majimbu
 </tr>
 `
 },
+/*Dijinga*/   
+{
+    English: "need",
+    French: "besoin",
+    Tshiluba: "dijinga",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·jin·ga<p>/djee-jeen-gah/</p>",
+    PhoneticsT: "besoin | need",
+    English2: "needs",
+    French2: "besoins",
+    Tshiluba2: "dijinga",
+    PhoneticsT2: " ",
+    English3: "majinga",
+    French3: "wish",
+    Tshiluba3: "souhait",
+    PhoneticsT3: " ",
+    English4: "wishes",
+    French4: "souhaits",
+    Tshiluba4: "a desire",
+    PhoneticsT4: " ",
+    English5: "un désir",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+besoin <i class="PartOfSpch">n</i><br>
+un désir <i class="PartOfSpch">n</i><br>
+un souhait <i class="PartOfSpch">n</i><br>
+
+</td>
+<td class="tabledef" valign=top>
+need <i class="PartOfSpch">n</i><br>
+a desire <i class="PartOfSpch">n</i><br>
+a wish <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dijinga <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> majinga
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top>
+j'ai besoin de cette chose<br>
+
+</td>
+<td class="tabledef-1" valign=top>
+I need that thing<br>
+</td>
+<td class="tabledef" valign=top>
+ndi ne dijinga dia tshintu etshi
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un dijinga est quelque chose d'essentiel ou requis pour qu'une personne ou une chose puisse fonctionner, survivre ou atteindre un objectif spécifique. 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A dijinga is something that is essential or required for a person or thing to function, survive, or achieve a specific goal. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
+},
 /*Dikala*/   
 {
     English: "charcoal",
@@ -9566,6 +10288,102 @@ The strip of hair located above the eye, along the brow bone, serving to protect
                 <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>   
 <br><br></td>
+</tr>
+`
+},
+/*Dikina*/   
+{
+    English: "hatred",
+    French: "la haine",
+    Tshiluba: "dikina",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·ki·na<p>/djee-kee-nah/</p>",
+    PhoneticsT: "haine | hatred",
+    English2: "haine",
+    French2: "hate",
+    Tshiluba2: "dikina",
+    PhoneticsT2: " ",
+    English3: "le haïr",
+    French3: "dégoût",
+    Tshiluba3: "degout",
+    PhoneticsT3: " ",
+    English4: "loathing",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+haine <i class="PartOfSpch">n</i><br>
+le haïr <i class="PartOfSpch">n</i><br>
+dégoût <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+hatred <i class="PartOfSpch">n</i><br>
+hate <i class="PartOfSpch">n</i><br>
+loathing <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dikina <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/L/LUKUNA/">lukuna</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/K/-KINA/">kukina</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Dikina est un sentiment intense de dégoût ou d'animosité envers quelqu'un ou quelque chose. Elle implique souvent une forte aversion et peut entraîner des comportements ou des pensées hostiles.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+ Dikina is an intense feeling of dislike or animosity toward someone or something. It often involves a strong aversion and may lead to hostile behavior or thoughts.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
 </tr>
 `
 },
@@ -11343,6 +12161,101 @@ That which has been cultivated by one, is eaten by many.
 </tr>
 `
 },
+/*Dimanya*/   
+{
+    English: "knowledge",
+    French: "connaisance",
+    Tshiluba: "dimanya",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·man·ya<p>/djee-mahn-yah/</p>",
+    PhoneticsT: "connaisance | knowledge",
+    English2: "science",
+    French2: "sciences",
+    Tshiluba2: "dimanya",
+    PhoneticsT2: " ",
+    English3: "mamanya",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+conaissance <i class="PartOfSpch">n</i><br>
+science <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+knowledge <i class="PartOfSpch">n</i><br>
+science <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dimanya <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mamanya<br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/-MANYA/">kumanya</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/L/LUNGENYI/">lungenyi</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MEJI/">MEJI</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Dimanya fait référence aux informations, à la compréhension et aux compétences qu'une personne acquiert par l'expérience, l'éducation ou l'apprentissage. Cela englobe des faits, des vérités et des principes sur le monde que l'on a obtenus par l'observation, l'étude ou la pratique. Cela vient du verbe 'kumanya'.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Dimanya refers to the information, understanding, and skills that a person acquires through experience, education, or learning. It encompasses facts, truths, and principles about the world that one has gained through observation, study, or practice. It comes from the verb "kumanya."
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*Dina*/   
 {
     English: "name",
@@ -12449,6 +13362,189 @@ An odor arising from spices, plants, cooking, etc., especially an agreeable odor
 <br><br></td>
 </tr>
 ` 
+},
+/*Dipuapua*/   
+{
+    English: "a wing",
+    French: "une aile",
+    Tshiluba: "dipuapua",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·pua·pua<p>/djee-pwah-pwah/</p>",
+    PhoneticsT: "aile | wing",
+    English2: "wing",
+    French2: "aile",
+    Tshiluba2: "dipuapua",
+    PhoneticsT2: " ",
+    English3: "mapuapua",
+    French3: "wings",
+    Tshiluba3: "ailes",
+    PhoneticsT3: " ",
+    English4: "des ailes",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+une aile <i class="PartOfSpch">n</i><br>
+<i class="PartOfSpch">pl</i> ailes <br><br>
+</td>
+<td class="tabledef" valign=top>
+a wing <i class="PartOfSpch">n</i><br>
+<i class="PartOfSpch">pl</i> wings <br><br>
+</td>
+<td class="tabledef" valign=top>
+dipuapua <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mapuapua
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un dipuapua est un membre ou un appendice d'un animal, en particulier des oiseaux, qui est utilisé pour le vol. Elle se caractérise généralement par une structure composée de plumes, d'os et de muscles, permettant de se déplacer dans l'air.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A dipuapua is a limb or appendage of an animal, especially birds, that is used for flight. It is typically characterized by a structure composed of feathers, bones, and muscles, allowing for movement through the air. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Disangisha*/   
+{
+    English: "addition (Math)",
+    French: "addition (Maths)",
+    Tshiluba: "disangisha",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Di·san·gi·sha<p>/djee-sahn-gee-shah/</p>",
+    PhoneticsT: "addition | addition",
+    English2: "addition",
+    French2: " ",
+    Tshiluba2: "disangisha",
+    PhoneticsT2: " ",
+    English3: "additions",
+    French3: "l'addition",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+addition <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+addition <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+disangisha <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/S/-SANGISHA/">kusangisha</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIUMBUSHA/">diumbusha</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIVUDIJA/">divudija</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIABANYA/">diabanya</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Disangisha est le processus de calcul du total ou de la somme en combinant deux ou plusieurs nombres ou quantités. C'est l'une des quatre opérations arithmétiques de base et elle est généralement représentée par le signe plus (+).
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Disangisha is the process of calculating the total or sum by combining two or more numbers or quantities. It is one of the four basic arithmetic operations and is typically represented by the plus sign (+).
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
 },
 /*Disanka*/   
 {
@@ -13770,6 +14866,107 @@ The organ responsible for hearing and balance, consisting of the external ear, m
 </tr>
 `
 },
+/*Ditshina*/   
+{
+    English: "fear",
+    French: "crainte",
+    Tshiluba: "ditshina",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·tshi·na<p>/djee-chee-nah/</p>",
+    PhoneticsT: "fear | crainte",
+    English2: "peur",
+    French2: " ",
+    Tshiluba2: "ditshina",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: "",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+crainte <i class="PartOfSpch">n</i><br>
+peur <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+fear <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+ditshina <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/T/-TSHINA/">kutshina</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/B/BOWA/">bowa</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une réponse émotionnelle à une menace ou un danger perçu. C'est un sentiment d'appréhension, d'anxiété ou de malaise causé par l'anticipation de dommages, de douleur ou de danger.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+An emotional response to a perceived threat or danger. It is a feeling of apprehension, anxiety, or unease caused by the anticipation of harm, pain, or danger. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation"><br>
+<i>La crainte de Dieu</i><br>
+                
+<i>Fear of God</i><br>
+              
+<i>Ditshina dia Nzambi</i>
+</td>
+</tr>
+`
+},
 /*Dituku*/   
 {
     English: "day",
@@ -14410,6 +15607,192 @@ diulu <i class="PartOfSpch">tshi4</i><p>
                 <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a> 
 <br><br></td>
+</tr>
+`
+},
+/*Diumbusha*/   
+{
+    English: "subtraction (Math)",
+    French: "soustraction (Maths)",
+    Tshiluba: "diumbusha",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·um·bu·sha<p>/dyoom-boo-shah/</p>",
+    PhoneticsT: "soustraction | subtraction",
+    English2: "subtraction",
+    French2: "soustraction",
+    Tshiluba2: "diumbusha",
+    PhoneticsT2: " ",
+    English3: "diumusha",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+soustraction (Maths) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+subtraction (Math) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+diumbusha <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/U/-UMBUSHA/">kuumbusha</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIABANYA/">diabanya</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIVUDIJA/">divudija</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DISANGISHA/">disangisha</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Diumbusha est une opération arithmétique qui consiste à trouver la différence entre deux nombres. C’est le processus de retirer une quantité (le soustrait) d’une autre (le minuend). 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Diumbusha is an arithmetic operation that involves finding the difference between two numbers. It is the process of taking away one quantity (the subtrahend) from another (the minuend).
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Divudija*/   
+{
+    English: "multiplication (Math)",
+    French: "multiplication (Maths)",
+    Tshiluba: "divudija",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "di·vu·di·ja<p>/djee-voo-dee-jhah/</p>",
+    PhoneticsT: "multiplication | multiplication",
+    English2: "multiplication",
+    French2: "multiplications",
+    Tshiluba2: "divudija",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+multiplication (Maths) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+multiplication (Math) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+divudija <i class="PartOfSpch">tshi4</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/V/-VUDIJA/">kuvudija</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIABANYA/">diabanya</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIUMBUSHA/">diumbusha</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DISANGISHA/">disangisha</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Divudija est le processus qui consiste à combiner des groupes égaux de nombres. Elle consiste à trouver le produit de deux nombres, appelés le multiplicande et le multiplicateur. La multiplication est l’une des quatre opérations arithmétiques de base et elle est généralement représentée par le signe de multiplication (×) ou un astérisque (*). 
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Divudija is the process of combining equal groups of numbers. It involves finding the product of two numbers, called the multiplicand and the multiplier. Multiplication is one of the four basic arithmetic operations and is typically represented by the multiplication sign (×) or an asterisk (*). 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -28941,11 +30324,11 @@ Palm fruit refers to the fruit produced by various species of palm trees, partic
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
     Phonetics: "Lun·gen·yi<p>/Loon-gen-yee/</p>",
     PhoneticsT: "intelligence | intelligence",
-    English2: "knowledge",
+    English2: " ",
     French2: "understanding",
     Tshiluba2: "lungenyi",
     PhoneticsT2: " ",
-    English3: "connaissance",
+    English3: " ",
     French3: "compréhension",
     Tshiluba3: "comprehension",
     PhoneticsT3: " ",
@@ -28993,13 +30376,11 @@ Palm fruit refers to the fruit produced by various species of palm trees, partic
 <tr>
 <td class="tabledef" valign=top >
 intelligence <i class="PartOfSpch">n</i><br>
-connaissance <i class="PartOfSpch">n</i>
 compréhension <i class="PartOfSpch">n</i><br><br>
 
 </td>
 <td class="tabledef" valign=top>
 intelligence <i class="PartOfSpch">n</i><br>
-knowledge <i class="PartOfSpch">n</i><br>
 understanding <i class="PartOfSpch">n</i><br><br>
 
 </td>
@@ -45671,7 +47052,7 @@ Kunanga is a verb that means to feel a profound affection, attachment, or care f
     English: "Although",
     French: "Quoique",
     Tshiluba: "Nansha",
-    PartOfSpeech: "conjonction | conjunction",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjonction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjunction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">tshituangaji</a>',
     Phonetics: "Nan·sha<p>/Nahn-shah/</p>",
     PhoneticsT: "Quoique / Although",
     English2: " ",
@@ -65130,6 +66511,94 @@ Un tshitokatoka c'est une personne atteinte d'albinisme, caractérisée par un m
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 A tshitokatoka is an individual with albinism, characterized by a lack of pigmentation in skin, hair, and eyes.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+<br><br></td>
+</tr>
+`
+},
+/*Tshituangaji*/   
+{
+    English: "conjunction (Grammar)",
+    French: "conjunction (Grammaire)",
+    Tshiluba: "tshituangaji",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "tshi·tu·an·ga·ji<p>/chee-twahn-gah-jhee/</p>",
+    PhoneticsT: "conjonction | conjunction",
+    English2: "conjunction",
+    French2: "conjonction",
+    Tshiluba2: "tshituangaji",
+    PhoneticsT2: " ",
+    English3: "bituangaji",
+    French3: "conjunctions",
+    Tshiluba3: "conjonctions",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+conjonction (Grammaire) <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+conjunction (Grammar) <i class="PartOfSpch">n</i><br><br>                     
+</td>
+<td class="tabledef" valign=top >
+tshituangaji <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bituangaji
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un tshituangaji est un mot utilisé pour relier des clauses ou des phrases ou pour coordonner des mots dans une même clause (par exemple, "et", "mais", "si").
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A tshituangaji is a word used to connect clauses or sentences or to coordinate words in the same clause (e.g., "and", "but", "if"). 
                 </p> 
 <br>
 <b><i>Diumvuija</i></b><br>
