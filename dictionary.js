@@ -1511,8 +1511,8 @@ Muana wa muntu, angata mutshi, ufundapu ne :
     French: "l'âme",
     Tshiluba: "anyima",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Muo·yo<p>/Moh-yoh/</p>",
-    PhoneticsT: "âme / soul",
+    Phonetics: "an·yi·ma<p>/ahn-yee-mah/</p>",
+    PhoneticsT: "âme | soul",
     English2: "souls",
     French2: "âmes",
     Tshiluba2: "anyima",
@@ -1869,6 +1869,9 @@ to erect <i class="PartOfSpch">v</i><br><br>
 kuasa <i class="PartOfSpch">md</i><br>
 -asa <i class="PartOfSpch">md</i><br><br>
 
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/-IBAKA/">kuibaka</a>
+
 </td>
 </tr>
 <tr>
@@ -1987,7 +1990,7 @@ kuela muadi <br><br>
     PhoneticsT: "mother | mère",
     English2: "mom",
     French2: "maman",
-    Tshiluba2: "mamu",
+    Tshiluba2: "baba",
     PhoneticsT2: " ",
     English3: "mama",
     French3: "momma",
@@ -2006,7 +2009,7 @@ kuela muadi <br><br>
     Tshiluba6: "mistress",
     PhoneticsT6: " ",
     English7: "mistresses",
-    French7: " ",
+    French7: "bababa",
     Tshiluba7: " ",
     PhoneticsT7: " ",
     English8: " ",
@@ -29762,6 +29765,100 @@ An utterance or expression designed to elicit information, knowledge, or underst
 <p class="explanation-tsh">
 ----</p>
 <br><br></td>
+</tr>
+`
+},
+/*Lukuna*/   
+{
+    English: "enmity",
+    French: "inimitié",
+    Tshiluba: "lukuna",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "lu·ku·na<p>/loo-koo-nah/</p>",
+    PhoneticsT: "inimitié | enmity",
+    English2: "hostilité",
+    French2: "hostility",
+    Tshiluba2: "lukuna",
+    PhoneticsT2: " ",
+    English3: "hatred",
+    French3: "inimitie",
+    Tshiluba3: "hostilite",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+inimitié <i class="PartOfSpch">n</i><br>
+hostilité <i class="PartOfSpch">n</i><br>
+haine <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+enmity <i class="PartOfSpch">n</i><br>
+hostility <i class="PartOfSpch">n</i><br>
+hatred <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+lukuna <i class="PartOfSpch">tshi5</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DIKINA/">dikina</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Lukuna désigne une hostilité profonde ou une malveillance entre des individus ou des groupes, souvent à l'origine d'antagonisme et de conflits.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Lukuna refers to a deep-seated hostility or ill will between individuals or groups, often resulting in antagonism and conflict. 
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
 </tr>
 `
 },
@@ -61939,92 +62036,6 @@ Tshiluba is a Bantu language spoken by the Luba people in the Democratic Republi
 </tr>
 `
 },
-/*Tshilumba*/   
-{
-    English: "something that bites (stings)",
-    French: "ce qui est mordant (piquant)",
-    Tshiluba: "tshisungu",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">nom propre</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">proper noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU TSHISUNGULUKA/">tshibikidilu tshisunguluka</a>',
-    Phonetics: "tshi·sun·gu<p>/chee-soon-goo/</p>",
-    PhoneticsT: "ce qui est mordant | something that bites",
-    English2: "tshisungu",
-    French2: " ",
-    Tshiluba2: "tshisungu",
-    PhoneticsT2: " ",
-    English3: " ",
-    French3: " ",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-ce qui est mordant (piquant) <i class="PartOfSpch">nom propre</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-something that bites (stings) <i class="PartOfSpch">proper noun</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-Tshisungu <i class="PartOfSpch">Tshi</i><br><br>
-
-</td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef-1" valign=top >
-le sel mord vivement <br>
-</td>
-<td class="tabledef-1" valign=top>
-the salt bites hard <br>
-</td>
-<td class="tabledef" valign=top>
-luepu ludi ne tshisungu tshia bungi
-
-</td>
-</tr>
-`
-},
 /*Tshiluwa*/   
 {
     English: "idiot; moron",
@@ -69047,4 +69058,4 @@ function maininpt(){
     
     }
 
-/*********PREVIOUS & NEXT CODE************************ */
+/*********PREVIOUS & NEXT CODE*************************/

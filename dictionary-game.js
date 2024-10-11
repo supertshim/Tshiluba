@@ -934,12 +934,12 @@ const nkongamiaku3 = [
         English: "the soul",
         French: "l'âme",
         Tshiluba: "anyima",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Muo·yo<p>/Moh-yoh/</p>",
-        PhoneticsT: "âme / soul",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "an·yi·ma<p>/ahn-yee-mah/</p>",
+        PhoneticsT: "âme | soul",
         English2: "souls",
         French2: "âmes",
-        Tshiluba2: " ",
+        Tshiluba2: "anyima",
         PhoneticsT2: " ",
         English3: "a soul",
         French3: "un âme",
@@ -998,6 +998,23 @@ const nkongamiaku3 = [
     </td>
     </tr>
     <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    <br><br></td>
+    </tr>
+    <tr>
     <td class="tabledef_a" colspan="3">
     <table class="h-lines" id="h-lines"></table>
     <br>
@@ -1010,7 +1027,7 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/D/DIKASA/">dikasa</a>, 
                     <a class="links" href="/alphabetindex/D/DIKAYA/">dikaya</a>,
                     <a class="links" href="/alphabetindex/D/DIKIKI/">dikiki</a>,
-                <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
+                    <a class="links" href="/alphabetindex/D/DIKOSHI/">dikoshi</a>,
                     <a class="links" href="/alphabetindex/D/DIKOBA/">dikoba</a>,
                     <a class="links" href="/alphabetindex/D/DINU/">dinu</a>, 
                     <a class="links" href="/alphabetindex/D/DISU/">disu</a>,
@@ -1050,21 +1067,6 @@ const nkongamiaku3 = [
                     <a class="links" href="/alphabetindex/T/TSHINU/">tshinu</a>, 
                     <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-<p class="explanation-fr">
-    L'âme est une entité métaphysique ou spirituelle, souvent considérée comme l'essence éternelle et immatérielle d'un individu, englobant la conscience, la personnalité et l'identité, et croyant certains, persistant au-delà de la mort physique
-                    <br><br>
-    <b><i>Explanation</i></b><br>
-<p class="explanation-en">
-    The soul is a metaphysical or spiritual entity, often regarded as the eternal, immaterial essence of an individual, encompassing consciousness, personality, and identity, and believed by some to persist beyond physical death.
-                    <br><br>
-    <b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-    ----
     <br><br></td>
     </tr>
     <tr>
@@ -1404,7 +1406,7 @@ const nkongamiaku3 = [
         PhoneticsT: "mother | mère",
         English2: "mom",
         French2: "maman",
-        Tshiluba2: "mamu",
+        Tshiluba2: "baba",
         PhoneticsT2: " ",
         English3: "mama",
         French3: "momma",
@@ -1423,7 +1425,7 @@ const nkongamiaku3 = [
         Tshiluba6: "mistress",
         PhoneticsT6: " ",
         English7: "mistresses",
-        French7: " ",
+        French7: "bababa",
         Tshiluba7: " ",
         PhoneticsT7: " ",
         English8: " ",
@@ -26467,6 +26469,100 @@ const nkongamiaku3 = [
     <p class="explanation-tsh">
     ----</p>
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Lukuna*/   
+    {
+        English: "enmity",
+        French: "inimitié",
+        Tshiluba: "lukuna",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·ku·na<p>/loo-koo-nah/</p>",
+        PhoneticsT: "inimitié | enmity",
+        English2: "hostilité",
+        French2: "hostility",
+        Tshiluba2: "lukuna",
+        PhoneticsT2: " ",
+        English3: "hatred",
+        French3: "inimitie",
+        Tshiluba3: "hostilite",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    inimitié <i class="PartOfSpch">n</i><br>
+    hostilité <i class="PartOfSpch">n</i><br>
+    haine <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    enmity <i class="PartOfSpch">n</i><br>
+    hostility <i class="PartOfSpch">n</i><br>
+    hatred <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    lukuna <i class="PartOfSpch">tshi5</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/D/DIKINA/">dikina</a><br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Lukuna désigne une hostilité profonde ou une malveillance entre des individus ou des groupes, souvent à l'origine d'antagonisme et de conflits.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Lukuna refers to a deep-seated hostility or ill will between individuals or groups, often resulting in antagonism and conflict. 
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
