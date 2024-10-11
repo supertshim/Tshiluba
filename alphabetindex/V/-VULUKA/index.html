@@ -359,7 +359,12 @@ Nubuelayi apa diandamuna webe.`,
 </script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
-     crossorigin="anonymous"></script></body>
+     crossorigin="anonymous"></script>   <script>
+     var tshisound = new Audio();
+     tshisound.src = " ";
+   </script> 
+    
+    </body>
 
 <!--PREVIOUS AND NEXT BUTTON CODES-->
      <script>
@@ -367,10 +372,12 @@ Nubuelayi apa diandamuna webe.`,
         
     /*GET THE PAGE WORD*/
             var pageword = window.location.href;
+            var pageword5 = decodeURIComponent(pageword);
             var pagewordindex = pageword.indexOf('alphabetindex');
             var pageword2 = pageword.substring(pagewordindex + 16);
             var pageword3 = pageword2.replace(/[/]/g, "");
-            console.log(pageword3)
+            var pageword4 = decodeURIComponent(pageword3);
+            console.log(pageword4)
     /*GET THE LIST INDEX NUMBER*/
             var iframe = document.getElementById("wordindex");
             var iframeWindow = iframe.contentWindow;
@@ -379,22 +386,16 @@ Nubuelayi apa diandamuna webe.`,
             console.log(wordArray)
             var wordArray2 = [];
             wordArray.forEach((item) => {
-                wordArray2.push(item.innerText);
+                wordArray2.push(item.firstChild.href);
                 });
             console.log(wordArray2)
-            var wordspot = wordArray2.indexOf(`${pageword3}`);
+            var wordspot = wordArray2.indexOf(`${pageword}`);
             console.log(wordspot) 
-            var listItem = listItems.children[wordspot].innerText;
-            console.log(listItem)
     /***PREVIOUS WORD***/
-            var previousWord = listItems.children[wordspot-1].innerText;
             var previousWordLink = listItems.children[wordspot-1].firstChild.href;
-            console.log(previousWord)
             console.log(previousWordLink)
     /***NEXT WORD**/
-            var nextWord = listItems.children[wordspot+1].innerText;
             var nextWordLink = listItems.children[wordspot+1].firstChild.href;
-            console.log(nextWord)
             console.log(nextWordLink)
     /***FORM HREFS****/
         var prevLink = document.getElementById("indexprev");
