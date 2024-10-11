@@ -84,6 +84,11 @@
             <h1 class="bigword" id="inf1">DIKUMI NE IBIDI</h1>
             <h1 class="PartOfSpeech" id="PoS"><a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a></h1>
             <h1 class="Phonetics" id="Phon">Di·ku·mi ne I·bi·di<p>/Djee-koo-mee ne eee-bee-djee/</p></h1>
+            <div class="audioplay">
+                <button onclick="tshisound.play()">
+                    <img src="/images/audio-icon-blue.png">
+                </button>
+            </div>
             <div>
                 <table class="h-lines" id="h-lines"></table> 
             </div>
@@ -359,7 +364,12 @@ Nubuelayi apa diandamuna webe.`,
 </script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3865469888003630"
-     crossorigin="anonymous"></script></body>
+     crossorigin="anonymous"></script>   <script>
+     var tshisound = new Audio();
+     tshisound.src = "DIKUMI NE IBIDI.mp3";
+   </script> 
+    
+    </body>
 
 <!--PREVIOUS AND NEXT BUTTON CODES-->
      <script>
