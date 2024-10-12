@@ -4501,11 +4501,11 @@ To release gas from the stomach through the mouth, often producing a characteris
 </tr>
 `
 },
-/*Bobo*/   
+/*Bobu*/   
 {
     English: "them",
     French: "eux",
-    Tshiluba: "bobo",
+    Tshiluba: "bobu",
     PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
     Phonetics: "bo·bo<p>/boh-boh/</p>",
     PhoneticsT: "eux | them",
@@ -4567,10 +4567,10 @@ them <i class="PartOfSpch">pron</i><br>
 
 </td>
 <td class="tabledef" valign=top>
-bobo <i class="PartOfSpch">mup</i><br><br>
+bobu <i class="PartOfSpch">mup</i><br><br>
 
 tangila:<br>
-<a style="text-decoration:none;" href="/alphabetindex/A/--ABO/">--abo</a> <br>
+<a style="text-decoration:none;" href="/alphabetindex/A/--ABO/">--abu</a> <br>
 
 </td>
 </tr>
@@ -4593,7 +4593,7 @@ at their house <br>
 
 </td>
 <td class="tabledef" valign=top>
-kuabo <br><br>
+kuabu <br><br>
 
 </td>
 </tr>
@@ -4610,7 +4610,7 @@ it's them <br>
 
 </td>
 <td class="tabledef" valign=top>
-mbobo <br><br>
+mbobu <br><br>
 
 </td>
 </tr>
@@ -4625,7 +4625,7 @@ avec eux <br>
 with them <br>
 </td>
 <td class="tabledef" valign=top>
-nabo <br><br>
+nabu <br><br>
 
 </td>
 </tr>
@@ -4640,7 +4640,7 @@ eux aussi <br>
 them too <br>
 </td>
 <td class="tabledef" valign=top>
-bobo biabo <br><br>
+bobu biabu <br><br>
 
 </td>
 </tr>
@@ -4651,12 +4651,12 @@ bobo biabo <br><br>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
-« Bobo » est un pronom en langue anglaise qui se réfère à un groupe de personnes, d'animaux ou de choses qui ont déjà été mentionnés ou sont compris dans le contexte. C'est la forme plurielle de la troisième personne à l'accusatif, utilisée comme objet d'un verbe ou d'une préposition.
+« Bobu » est un pronom en langue anglaise qui se réfère à un groupe de personnes, d'animaux ou de choses qui ont déjà été mentionnés ou sont compris dans le contexte. C'est la forme plurielle de la troisième personne à l'accusatif, utilisée comme objet d'un verbe ou d'une préposition.
                 </p>
 <br><br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
-"Bobo" is a pronoun in the English language that refers to a group of people, animals, or things that have already been mentioned or are understood from context. It is the third-person plural form in the objective case, used as the object of a verb or preposition.
+"Bobu" is a pronoun in the English language that refers to a group of people, animals, or things that have already been mentioned or are understood from context. It is the third-person plural form in the objective case, used as the object of a verb or preposition.
                 </p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
@@ -16059,6 +16059,69 @@ throw <i class="PartOfSpch">v</i> <br>
 <td class="tabledef" valign=top>
 kuela <i class="PartOfSpch">md</i><br>
 -ela
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/E/-ENZA/">kuenza</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+faire <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top >
+to do <i class="PartOfSpch">v</i> <br> 
+</td>
+<td class="tabledef" valign=top>
+kuela <i class="PartOfSpch">md</i><br>
+-ela
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+pleurer <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top >
+to cry <i class="PartOfSpch">v</i> <br> 
+</td>
+<td class="tabledef" valign=top>
+kuela <a style="text-decoration:none;" href="/alphabetindex/M/MUADI/">muadi</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+arroser <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top >
+to water (a plant) <i class="PartOfSpch">v</i> <br> 
+</td>
+<td class="tabledef" valign=top>
+kuela <a style="text-decoration:none;" href="/alphabetindex/M/MAYI/">mayi</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+penser <i class="PartOfSpch">v</i> <br>
+</td>
+<td class="tabledef" valign=top >
+to think <i class="PartOfSpch">v</i> <br> 
+</td>
+<td class="tabledef" valign=top>
+kuela <a style="text-decoration:none;" href="/alphabetindex/M/MEJI/">meji</a><br>
 </td>
 </tr>
 <tr>
