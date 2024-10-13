@@ -3956,7 +3956,7 @@ const nkongamiaku3 = [
         French: "eux",
         Tshiluba: "bobu",
         PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a>',
-        Phonetics: "bo·bo<p>/boh-boh/</p>",
+        Phonetics: "bo·bu<p>/boh-boo/</p>",
         PhoneticsT: "eux | them",
         English2: " ",
         French2: "bobu",
