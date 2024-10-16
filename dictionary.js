@@ -57560,6 +57560,185 @@ A substance that is typically hard, shiny, and has good electrical and thermal c
 </tr>
 `
 },
+/*Tshianana*/   
+{
+    English: "nothing",
+    French: "rien",
+    Tshiluba: "tshianana",
+    PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "tshia·na·na<p>/chah-nah-nah/</p>",
+    PhoneticsT: "rien | nothing",
+    English2: "for free",
+    French2: "freely",
+    Tshiluba2: "tshianana",
+    PhoneticsT2: " ",
+    English3: "bianana",
+    French3: "tshanana",
+    Tshiluba3: "gratuitement",
+    PhoneticsT3: " ",
+    English4: "sans valeur",
+    French4: "inutile",
+    Tshiluba4: "useless",
+    PhoneticsT4: " ",
+    English5: "worthless",
+    French5: "for nothing",
+    Tshiluba5: "pour rien",
+    PhoneticsT5: " ",
+    English6: "de rien",
+    French6: "sinon",
+    Tshiluba6: "otherwise",
+    PhoneticsT6: " ",
+    English7: "in vain",
+    French7: "en vain",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+rien <i class="PartOfSpch">pron</i><br>
+pour rien <i class="PartOfSpch">adj</i><br>
+gratuitement <i class="PartOfSpch">adj</i><br>
+sans valeur <i class="PartOfSpch">adj</i><br>
+inutile <i class="PartOfSpch"adj</i><br>
+en vain <i class="PartOfSpch">pron</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+nothing <i class="PartOfSpch">pron</i><br>
+for nothing <i class="PartOfSpch">adj</i><br>
+for free <i class="PartOfSpch">adj</i><br>
+freely <i class="PartOfSpch">adj</i><br>
+useless <i class="PartOfSpch">pron</i><br>
+worthless <i class="PartOfSpch">pron</i><br>
+in vain <i class="PartOfSpch">pron</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+tshianana <i class="PartOfSpch">mup, muf</i><br>
+-a tshianana
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Ils t'ont donné gratuitement<br><br>
+</td>
+<td class="tabledef" valign=top>
+They gave to you freely<br><br>
+</td>
+<td class="tabledef" valign=top>
+Bavua bakupa bionsu tshianana<br><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sinon <br><br>
+</td>
+<td class="tabledef" valign=top>
+otherwise <br><br>
+</td>
+<td class="tabledef" valign=top>
+bua tshianana<br><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sinon <br><br>
+</td>
+<td class="tabledef" valign=top>
+otherwise <br><br>
+</td>
+<td class="tabledef" valign=top>
+bua tshianana<br><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Ils travaillent en vain <br><br>
+</td>
+<td class="tabledef" valign=top>
+They are working in vain <br><br>
+</td>
+<td class="tabledef" valign=top>
+Bantu aba badi benza mudimu tshianana<br><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Tu as été vendu en esclavage gratuitement<br><br>
+</td>
+<td class="tabledef" valign=top>
+You were sold into slavery for free<br><br>
+</td>
+<td class="tabledef" valign=top>
+Bavua banufile mu bupika tshianana <br><br>
+<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Tshianana désigne l'absence de toute chose, le manque d'existence, de quantité ou de signification. Il est souvent utilisé pour indiquer un état vide ou de néant. Il est utilisé de manière invariable dans différents contextes.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Tshianana refers to the absence of anything, the lack of any existence, quantity, or significance. It is often used to indicate an empty or void state. It is used invariably in different contexts.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------</p>
+</td>
+</tr>
+`
+},
 /*Tshianda*/   
 {
     English: "evil spell",
