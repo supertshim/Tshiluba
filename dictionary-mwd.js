@@ -24230,8 +24230,8 @@ const nkongamiaku2 = [
     to rain <i class="PartOfSpch">v</i><br><br>
     </td>
     <td class="tabledef" valign=top >
-    kulonda <i class="PartOfSpch">md</i><p>
-    -londa <i class="PartOfSpch">md</i>
+    kuloka <i class="PartOfSpch">md</i><p>
+    -loka <i class="PartOfSpch">md</i>
     </td>
     </tr>
     <tr>
@@ -28070,7 +28070,7 @@ const nkongamiaku2 = [
         French: "graine",
         Tshiluba: "lutete",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "lu·te·te<p>/loo-teh-tah/</p>",
+        Phonetics: "lu·te·te<p>/loo-teh-teh/</p>",
         PhoneticsT: "graine | seed",
         English2: "seeds",
         French2: "graines",
@@ -32425,112 +32425,6 @@ const nkongamiaku2 = [
                     :<br>
                     &nbsp:&nbsp
     Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*Moyo*/   
-    {
-        English: "Hello",
-        French: "Bonjour",
-        Tshiluba: "Moyo",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>',
-        Phonetics: "Mo·yo<p>/moh-yoh/</p>",
-        PhoneticsT: "Bonjour / Hello",
-        English2: "Hi",
-        French2: "bonsoir",
-        Tshiluba2: "Moyo",
-        PhoneticsT2: " ",
-        English3: "good day",
-        French3: "goodday",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "good morning",
-        French4: "salut",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    bonjour <i class="PartOfSpch">interj</i><br>
-    bonsoir <i class="PartOfSpch">interj</i><br>
-    </td>
-    <td class="tabledef" valign=top >
-    hello <i class="PartOfSpch">interj</i><br>
-    hi <i class="PartOfSpch">interj</i><br>
-    good day <i class="PartOfSpch">interj</i><br>
-    good evening <i class="PartOfSpch">interj</i><br>
-
-    </td>
-    <td class="tabledef" valign=top >
-    moyo <i class="PartOfSpch">tshik</i><p>
-    <br>
-    tangila:<br>
-    <a class="links" href="/alphabetindex/M/Muoyo/">muoyo</a><br><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    "Moyo" est l'une des salutations courantes utilisées pour saluer quelqu'un en tshiluba. Le mot "moyo" est dérivé de "muoyo" qui signifie vie en tshiluba.
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-    "Moyo" is one of the common greetings used to greet someone or in Tshiluba. The word "moyo" is derived from "muoyo" which means life in Tshiluba.
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    -----</p>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>:
-    <i>Bonjour a vous!
-                    :<br>
-                    &nbsp:
-    Hello to you all! 
-                    :<br>
-                    &nbsp:&nbsp
-    Moyo wenu! :
     <br><br></td>
     </tr>
     `

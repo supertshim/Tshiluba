@@ -19334,7 +19334,7 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
 <br><br></td>
 </tr>` 
 },
-/*-Itabuja*/  
+/*-Itaba*/  
 {
     English: "to believe",
     French: "croir",
@@ -27834,8 +27834,8 @@ pleuvoir <i class="PartOfSpch">v</i><br><br>
 to rain <i class="PartOfSpch">v</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-kulonda <i class="PartOfSpch">md</i><p>
--londa <i class="PartOfSpch">md</i>
+kuloka <i class="PartOfSpch">md</i><p>
+-loka <i class="PartOfSpch">md</i>
 </td>
 </tr>
 <tr>
@@ -31694,7 +31694,7 @@ A lutatu is a state of mental distress or concern about potential problems or fu
     French: "graine",
     Tshiluba: "lutete",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "lu·te·te<p>/loo-teh-tah/</p>",
+    Phonetics: "lu·te·te<p>/loo-teh-teh/</p>",
     PhoneticsT: "graine | seed",
     English2: "seeds",
     French2: "graines",
@@ -37043,194 +37043,6 @@ Ndi mmona bantu. Ndi mbamona bu mitshi, kadi badi benda. :
 <tr>
 `
 },
-/*Moyo*/   
-{
-    English: "Hello",
-    French: "Bonjour",
-    Tshiluba: "Moyo",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>',
-    Phonetics: "Mo·yo<p>/moh-yoh/</p>",
-    PhoneticsT: "Bonjour / Hello",
-    English2: "Hi",
-    French2: "bonsoir",
-    Tshiluba2: "Moyo",
-    PhoneticsT2: " ",
-    English3: "good day",
-    French3: "goodday",
-    Tshiluba3: " ",
-    PhoneticsT3: " ",
-    English4: "good morning",
-    French4: "salut",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top >
-bonjour <i class="PartOfSpch">itj</i><br>
-bonsoir <i class="PartOfSpch">itj</i><br>
-</td>
-<td class="tabledef" valign=top >
-hello <i class="PartOfSpch">itj</i><br>
-hi <i class="PartOfSpch">itj</i><br>
-good day <i class="PartOfSpch">itj</i><br>
-good evening <i class="PartOfSpch">itj</i><br>
-
-</td>
-<td class="tabledef" valign=top >
-moyo <i class="PartOfSpch">tshik</i><p>
-<br><br><br>
-tangila:<br>
-<a style="text-decoration:none;" href="/alphabetindex/M/MUOYO/">muoyo</a><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-
-<tr>
-<td class="tabledef-1" valign=top >
-bon matin <br>
-</td>
-<td class="tabledef-1" valign=top >
-good morning <br>
-
-</td>
-<td class="tabledef" valign=top >
-<a style="text-decoration:none;" href="/alphabetindex/D/DINDA/">dinda</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-
-<tr>
-<td class="tabledef-1" valign=top >
-bonjour <br>
-</td>
-<td class="tabledef-1" valign=top >
-good day <br>
-
-</td>
-<td class="tabledef" valign=top >
-<a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-
-<tr>
-<td class="tabledef-1" valign=top >
-bonsoir <br>
-</td>
-<td class="tabledef-1" valign=top >
-good evening <br>
-
-</td>
-<td class="tabledef" valign=top >
-<a style="text-decoration:none;" href="/alphabetindex/D/DILOLO/">dilolo</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
-</td>
-</tr>
-
-
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-
-<tr>
-<td class="tabledef-1" valign=top >
-bonne nuit <br>
-</td>
-<td class="tabledef-1" valign=top >
-goodnight <br>
-
-</td>
-<td class="tabledef" valign=top >
-<a style="text-decoration:none;" href="/alphabetindex/B/BUTUKU/">butuku</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">bulenga</a><br><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-
-<tr>
-<td class="tabledef-1" valign=top >
-bonjour à vous <br>
-</td>
-<td class="tabledef-1" valign=top >
-hello to you all <br>
-
-</td>
-<td class="tabledef" valign=top >
-moyo <a style="text-decoration:none;" href="/alphabetindex/W/WENU/">wenu</a> <br>
-</td>
-</tr>
-
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-"Moyo" est l'une des salutations courantes utilisées pour saluer quelqu'un en tshiluba. Le mot "moyo" est dérivé de "muoyo" qui signifie vie en tshiluba.
-                </p>
-<br><br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-"Moyo" is one of the common greetings used to greet someone or in Tshiluba. The word "moyo" is derived from "muoyo" which means life in Tshiluba.
-                </p> 
-<br><br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
------</p>
-<br><br></td>
-</tr>
-`
-},
 /*Mpala*/   
 {
     English: "face",
@@ -37290,13 +37102,27 @@ moyo <a style="text-decoration:none;" href="/alphabetindex/W/WENU/">wenu</a> <br
 </tr>
 <tr>
 <td class="tabledef" valign=top>
-1. visage <i class="PartOfSpch">n</i><br><br>
-2. front <i class="PartOfSpch">n</i><br><br>
+visage <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. face <i class="PartOfSpch">n</i><br>
+face <i class="PartOfSpch">n</i><br>
 visage <i class="PartOfSpch">n</i><br><br>
-2. forehead <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mpala <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> mpala
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+front <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+forehead <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 mpala <i class="PartOfSpch">tshi6</i><br>
@@ -42102,24 +41928,38 @@ Lower limb of a human or animal that extends from the hip to the foot. It consis
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. ancien <i class="PartOfSpch">n</i><br>
+ancien <i class="PartOfSpch">n</i><br>
 personne âgée <i class="PartOfSpch">n</i><br>
 aîné <i class="PartOfSpch">n</i><br><br>
 
-2. ancêtre <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. elder <i class="PartOfSpch">n</i><br>
+elder <i class="PartOfSpch">n</i><br>
 senior <i class="PartOfSpch">n</i><br>
 older person <i class="PartOfSpch">n</i><br><br>
 
-2. ancestor <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 mukulu <i class="PartOfSpch">tshi1</i><br>
 <i class="PartOfSpch">pl</i> bakulu
 </td>
 </tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+ancêtre <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+ancestor <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+mukulu <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakulu
+</td>
+</tr>
+
 <tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
@@ -42229,15 +42069,28 @@ mukulu <i class="PartOfSpch">tshi1</i><br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. un homme d'âge fait <i class="PartOfSpch">n</i><br><br>
+un homme d'âge fait <i class="PartOfSpch">n</i><br><br>
 
-2. adulte <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+a man advanced in age <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mukulumpa <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakulumpa
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+adulte <i class="PartOfSpch">n</i><br>
 personne adulte <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. a man advanced in age <i class="PartOfSpch">n</i><br><br>
-
-2. adult <i class="PartOfSpch">n</i><br>
+adult <i class="PartOfSpch">n</i><br>
 an adult male <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
@@ -44491,7 +44344,7 @@ Soft tissues, including muscle, fat, and connective tissue, found on the bodies 
     English: "heart",
     French: "cœur",
     Tshiluba: "muoyo",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a><br><a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>',
     Phonetics: "Muo·yo<p>/Moh-yoh/</p>",
     PhoneticsT: "cœur / heart",
     English2: "coeur",
@@ -44500,21 +44353,21 @@ Soft tissues, including muscle, fat, and connective tissue, found on the bodies 
     PhoneticsT2: " ",
     English3: "vie",
     French3: "life",
-    Tshiluba3: " ",
+    Tshiluba3: "muoyi",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
+    English4: "moyo",
+    French4: "moyi",
+    Tshiluba4: "Hi",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
+    English5: "hello",
+    French5: "good day",
+    Tshiluba5: "good morning",
     PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
+    English6: "bonjour",
+    French6: "bonsoir",
+    Tshiluba6: "salut",
     PhoneticsT6: " ",
-    English7: " ",
+    English7: "dituku dilenga",
     French7: " ",
     Tshiluba7: " ",
     PhoneticsT7: " ",
@@ -44545,34 +44398,162 @@ Soft tissues, including muscle, fat, and connective tissue, found on the bodies 
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. cœur <i class="PartOfSpch">n</i><br><br>
-2. vie <i class="PartOfSpch">n</i>
+cœur <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. heart <i class="PartOfSpch">n</i><br><br>
-2. life <i class="PartOfSpch">n</i>
+heart <i class="PartOfSpch">n</i><br><br>
+
 </td>
 <td class="tabledef" valign=top>
 muoyo <i class="PartOfSpch">tshi</i>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+vie <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+life <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+muoyo <i class="PartOfSpch">tshi</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonjour <i class="PartOfSpch">itj</i><br>
+bonsoir <i class="PartOfSpch">itj</i><br>
+</td>
+<td class="tabledef" valign=top >
+hello <i class="PartOfSpch">itj</i><br>
+hi <i class="PartOfSpch">itj</i><br>
+good day <i class="PartOfSpch">itj</i><br>
+good evening <i class="PartOfSpch">itj</i><br>
+
+</td>
+<td class="tabledef" valign=top >
+moyo <i class="PartOfSpch">tshik</i><p>
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef-1" valign=top >
+bon matin <br>
+</td>
+<td class="tabledef-1" valign=top >
+good morning <br>
+
+</td>
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DINDA/">dinda</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef-1" valign=top >
+bonjour <br>
+</td>
+<td class="tabledef-1" valign=top >
+good day <br>
+
+</td>
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef-1" valign=top >
+bonsoir <br>
+</td>
+<td class="tabledef-1" valign=top >
+good evening <br>
+
+</td>
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DILOLO/">dilolo</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">dilenga</a><br><br>
+</td>
+</tr>
+
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef-1" valign=top >
+bonne nuit <br>
+</td>
+<td class="tabledef-1" valign=top >
+goodnight <br>
+
+</td>
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/B/BUTUKU/">butuku</a> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">bulenga</a><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+
+<tr>
+<td class="tabledef-1" valign=top >
+bonjour à vous <br>
+</td>
+<td class="tabledef-1" valign=top >
+hello to you all <br>
+
+</td>
+<td class="tabledef" valign=top >
+moyo <a style="text-decoration:none;" href="/alphabetindex/W/WENU/">wenu</a> <br>
+</td>
+</tr>
+
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
-1. Un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
-2. L'etat d'etre en vie.
+"Muoyo" est l'une des salutations courantes utilisées pour saluer quelqu'un en tshiluba. C'est aussi un organe musculaire situé dans la poitrine qui pompe le sang dans tout le système circulatoire du corps. Le cœur est souvent associé aux émotions, aux sentiments et au centre de l'être ou du caractère d'une personne.<br><br>
+
+L'etat d'etre en vie.
                 </p>
 <br><br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
-1. A muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
-2. The state of being alive.
+"Moyo" is one of the common greetings used to greet someone or in Tshiluba. It's also the word used for "heart", a muscular organ located in the chest that pumps blood throughout the circulatory system of the body. The heart is often associated with emotions, feelings, and the center of one's being or character.<br><br>
+
+The state of being alive.
                 </p> 
 <br><br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
-----</p>
+-----</p>
 <br><br></td>
 </tr>
 <tr>
@@ -46541,14 +46522,32 @@ A mutshi is a perennial plant characterized by a single woody stem (trunk) that 
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. foie <i class="PartOfSpch">n</i><br><br>
-2. coeur <i class="PartOfSpch">n</i><br>
+foie <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+liver <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mutshima <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mitshima<br><br><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MOYO/">moyo</a>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+coeur <i class="PartOfSpch">n</i><br>
 conscience <i class="PartOfSpch">n</i><br>
 mémoire <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. liver <i class="PartOfSpch">n</i><br><br>
-2. heart <i class="PartOfSpch">n</i><br>
+heart <i class="PartOfSpch">n</i><br>
 consciousness <i class="PartOfSpch">n</i><br>
 memory <i class="PartOfSpch">n</i><br><br>
 </td>
@@ -46556,8 +46555,6 @@ memory <i class="PartOfSpch">n</i><br><br>
 mutshima <i class="PartOfSpch">tshi2</i><br>
 <i class="PartOfSpch">pl</i> mitshima<br><br><br><br>
 
-tangila:<br>
-<a class="links" href="/alphabetindex/M/MOYO/">moyo</a>
 </td>
 </tr>
 <tr>
@@ -57565,7 +57562,7 @@ A substance that is typically hard, shiny, and has good electrical and thermal c
     English: "nothing",
     French: "rien",
     Tshiluba: "tshianana",
-    PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    PartOfSpeech: '<a class="links" href="/search/?inpt1=pronom">pronom</a> | <a class="links" href="/search/?inpt1=pronoun">pronoun</a> | <a class="links" href="/search/?inpt1=mupinganyi">mupinganyi</a><br><a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
     Phonetics: "tshia·na·na<p>/chah-nah-nah/</p>",
     PhoneticsT: "rien | nothing",
     English2: "for free",
@@ -57624,7 +57621,7 @@ pour rien <i class="PartOfSpch">adj</i><br>
 gratuitement <i class="PartOfSpch">adj</i><br>
 sans valeur <i class="PartOfSpch">adj</i><br>
 inutile <i class="PartOfSpch"adj</i><br>
-en vain <i class="PartOfSpch">pron</i><br><br>
+en vain <i class="PartOfSpch">adv</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 nothing <i class="PartOfSpch">pron</i><br>
@@ -57633,11 +57630,11 @@ for free <i class="PartOfSpch">adj</i><br>
 freely <i class="PartOfSpch">adj</i><br>
 useless <i class="PartOfSpch">pron</i><br>
 worthless <i class="PartOfSpch">pron</i><br>
-in vain <i class="PartOfSpch">pron</i><br><br>
+in vain <i class="PartOfSpch">adv</i><br><br>
 
 </td>
 <td class="tabledef" valign=top>
-tshianana <i class="PartOfSpch">mup, muf</i><br>
+tshianana <i class="PartOfSpch">mup, muf, muam</i><br>
 -a tshianana
 <br>
 </td>
@@ -69244,7 +69241,7 @@ function maininpt(){
     console.log(firstLetter);
     AlphaLocation = `../alphabetindex/${firstLetter}/${decodeWord}/`;
     console.log(AlphaLocation);
-    window.location.href = (AlphaLocation);
+    /*window.location.href = (AlphaLocation);*/
 }    
 
 
