@@ -37524,6 +37524,96 @@ const nkongamiaku3 = [
     </tr>
     `
     },
+    /*Mukuna*/   
+    {
+        English: "mountain",
+        French: "montagne",
+        Tshiluba: "mukuna",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "Mu·ku·na<p>/Moo-koo-nah/</p>",
+        PhoneticsT: "montagne | mountain",
+        English2: "mountains",
+        French2: "montagnes",
+        Tshiluba2: "mukuna",
+        PhoneticsT2: " ",
+        English3: "mikuna",
+        French3: "le montagne",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "mont",
+        French4: "mount",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    montagne <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mountain <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    mukuna <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> mikuna
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une grande formation terrestre qui s’élève au-dessus de son environnement, souvent avec des pentes abruptes et un sommet, généralement plus haute qu’une colline.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A large landform that rises prominently above its surroundings, often with steep sides and a peak, typically higher than a hill.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    <br><br></td>
+    </tr>
+    `
+    },
     /*Mulamatshi*/   
     {
         English: "adherent",

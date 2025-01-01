@@ -134,7 +134,478 @@ ka <i class="PartOfSpch">kad</i><br>
 tshia <i class="PartOfSpch">kad</i><br>
 bia <i class="PartOfSpch">kad</i><p>
 </td>
+</tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr >
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 1 nom singulier (MU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 1 singular nouns (MU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kamue (MU)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Enfant de Tshisekedi<br>
+</td>
+<td class="tabledef-1" valign=top >
+Tshisekedi's child<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Mu</b>ana <b>wa</b> Tshisekedi<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 1 nom pluriel (BA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 1 plural nouns (BA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kamue (BA)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Enfants de Tshisekedi<br>
+</td>
+<td class="tabledef-1" valign=top >
+Tshisekedi's children<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Ba</b>na <b>ba</b> Tshisekedi<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 2 nom singulier (MU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 2 singular nouns (MU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kabidi (MU)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Arbe de Mpiana<br>
+</td>
+<td class="tabledef-1" valign=top >
+Mpiana's tree<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Mu</b>tshi <b>wa</b> Mpiana<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 2 nom pluriel (MI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 2 plural nouns (MI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kabidi (MI)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Arbes de Mpiana<br>
+</td>
+<td class="tabledef-1" valign=top >
+Mpiana's trees<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Mi</b>tshi <b>ya</b> Mpiana<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 3 nom singulier (BU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 3 singular nouns (BU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasatu (BU)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Champ de Mukendi<br>
+</td>
+<td class="tabledef-1" valign=top >
+Mukendi's field<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Bu</b>dimi <b>bua</b> Mukendi<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 3 nom pluriel (MA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 3 plural nouns (MA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasatu (MA)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Les champs de Mukendi<br>
+</td>
+<td class="tabledef-1" valign=top >
+Mukendi's fields<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Ma</b>dimi <b>a</b> Mukendi<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 4 nom singulier (DI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 4 singular nouns (DI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kanayi (DI)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+L'orange d'Ilunga<br>
+</td>
+<td class="tabledef-1" valign=top >
+Ilunga's orange<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Di</b>dima <b>dia</b> Ilunga<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 4 nom pluriel (MA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 4 plural nouns (MA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kanayi (MA)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Les oranges d'Ilunga<br>
+</td>
+<td class="tabledef-1" valign=top >
+Ilunga's oranges<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Ma</b>dima <b>a</b> Ilunga<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 5 nom singulier (LU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 5 singular nouns (LU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasatu (LU)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Cheveu de Kayoka<br>
+</td>
+<td class="tabledef-1" valign=top >
+Kayoka's strand of hair<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Lu</b>suki <b>lwa</b> Kayoka<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 5 nom pluriel (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 5 plural nouns (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasatu (N)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Cheveux de Kayoka<br>
+</td>
+<td class="tabledef-1" valign=top >
+Kayoka's hair<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>N</b>suki <b>ya</b> Kayoka<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 6 nom singulier (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 6 singular nouns (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasambombo (N)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+L'oiseau de Tshituka<br>
+</td>
+<td class="tabledef-1" valign=top >
+Tshituka's bird<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>N</b>yunyu <b>wa</b> Tshituka<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 6 nom pluriel (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 6 plural nouns (N)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa kasambombo (N)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Les oiseaux de Tshituka<br>
+</td>
+<td class="tabledef-1" valign=top >
+Tshituka's birds<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>N</b>yunyu <b>ya</b> Tshituka<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 7 nom singulier (KA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 7 singular nouns (KA)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa muanda-mutekete (KA)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Le lapin de Badibanga<br>
+</td>
+<td class="tabledef-1" valign=top >
+Badibanga's rabbit<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Ka</b>lulu <b>ka</b> Badibanga<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 7 nom pluriel (TU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 7 plural nouns (TU)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa muanda-mutekete (TU)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Les lapins de Badibanga<br>
+</td>
+<td class="tabledef-1" valign=top >
+Badibanga's rabbits<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Tu</b>lulu <b>tua</b> Badibanga<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 8 noms singulier (TSHI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 8 singular nouns (TSHI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa muanda-mukulu (TSHI)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+La main de Kalonji<br>
+</td>
+<td class="tabledef-1" valign=top >
+Kalonji's hand<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Tshi</b>anza <b>tshia</b> Kalonji<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">classe 8 noms pluriels (BI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">class 8 plural nouns (BI)</i><p>
+</td>
+<td class="tabledef-1" valign=top >
+<i class="PartOfSpch">bibikidilu bia kalasa tshitema (BI)</i><p>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Les mains de Kalonji<br>
+</td>
+<td class="tabledef-1" valign=top >
+Kalonji's hands<br>
+</td>
+<td class="tabledef-1" valign=top >
+<b>Bi</b>anza <b>bia</b> Kalonji<br><br>
+</td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -151,202 +622,6 @@ The relations of possession between two nouns are expressed by means of the part
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-<br><br></td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3" class="analogy">
-<table class="h-lines" id="h-lines"></table><br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 1 nom singulier -- mu</i><p>
-<i class="PartOfSpch">class 1 singular nouns -- mu</i><p>: <b>Mu</b>ana <b>wa</b> Tshisekedi
-                :<br>
-                &nbsp:
-Enfant de Tshisekedi
-                :<br>
-                &nbsp:&nbsp
-Tshisekedi's child :
-<br><br>
-<i class="PartOfSpch">classe 1 nom pluriel -- ba</i><p>
-<i class="PartOfSpch">class 1 plural nouns -- ba</i><p>: <b>Ba</b>na <b>ba</b> Tshimanga
-                :<br>
-                &nbsp:
-Enfants de Tshimanga
-                :<br>
-                &nbsp:&nbsp
-Tshimanga's children :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 2 nom singulier -- mu</i><p>
-<i class="PartOfSpch">class 2 singular nouns -- mu</i><p>: <b>Mu</b>tshi <b>wa</b> Mpiana
-                :<br>
-                &nbsp:
-Arbe de Mpiana
-                :<br>
-                &nbsp:&nbsp
-Mpiana's tree :
-<br><br>
-<i class="PartOfSpch">classe 2 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 2 plural nouns -- mi</i><p>: <b>Mi</b>tshi <b>ya</b> Mpiana
-                :<br>
-                &nbsp:
-Les arbres de Mpiana
-                :<br>
-                &nbsp:&nbsp
-Mpiana's trees :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 3 nom singulier -- bu</i><p>
-<i class="PartOfSpch">class 3 singular nouns -- bu</i><p>: <b>Bu</b>dimi <b>Bua</b> Mukendi
-                :<br>
-                &nbsp:
-Champ de Mukendi
-                :<br>
-                &nbsp:&nbsp
-Mukendi's field :
-<br><br>
-<i class="PartOfSpch">classe 3 nom pluriel -- ma</i><p>
-<i class="PartOfSpch">class 3 plural nouns -- ma</i><p>: <b>Ma</b>dimi <b>a</b> Mukendi
-                :<br>
-                &nbsp:
-Les champs de Mukendi
-                :<br>
-                &nbsp:&nbsp
-Mukendi's fields :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 4 nom singulier -- di</i><p>
-<i class="PartOfSpch">class 4 singular nouns -- di</i><p>: <b>Di</b>dima <b>dia</b> Ilunga
-                :<br>
-                &nbsp:
-L'orange d'Ilunga
-                :<br>
-                &nbsp:&nbsp
-Ilunga's orange :
-<br><br>
-<i class="PartOfSpch">classe 4 nom pluriel -- ma</i><p>
-<i class="PartOfSpch">class 4 plural nouns -- ma</i><p>: <b>Ma</b>dima <b>a</b> Ilunga
-                :<br>
-                &nbsp:
-Les oranges d'Ilunga
-                :<br>
-                &nbsp:&nbsp
-Ilunga's oranges :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 5 nom singulier -- Lu</i><p>
-<i class="PartOfSpch">class 5 singular nouns -- Lu</i><p>: <b>Lu</b>suki <b>lwa</b> Kayoka
-                :<br>
-                &nbsp:
-cheveu de Kayoka
-                :<br>
-                &nbsp:&nbsp
-Kayoka's strand of hair :
-<br><br>
-<i class="PartOfSpch">classe 5 nom pluriel -- n</i><p>
-<i class="PartOfSpch">class 5 plural nouns -- n</i><p>: <b>N</b>suki <b>ya</b> Kayoka
-                :<br>
-                &nbsp:
-cheveux de Kayoka
-                :<br>
-                &nbsp:&nbsp
-Kayoka's hair :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 6 nom singulier -- n</i><p>
-<i class="PartOfSpch">class 6 singular nouns -- n</i><p>: <b>N</b>yunyu <b>wa</b> Tshituka
-                :<br>
-                &nbsp:
-L'oiseau de Tshituka
-                :<br>
-                &nbsp:&nbsp
-Tshituka's bird :
-<br><br>
-<i class="PartOfSpch">classe 6 nom pluriel -- n</i><p>
-<i class="PartOfSpch">class 6 plural nouns -- n</i><p>: <b>N</b>yunyu <b>ya</b> Tshituka
-                :<br>
-                &nbsp:
-Les oiseaux de Tshituka
-                :<br>
-                &nbsp:&nbsp
-Tshituka's birds :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 7 nom singulier -- m</i><p>
-<i class="PartOfSpch">class 7 singular nouns -- m</i><p>: <b>M</b>bua <b>wa</b> Tshisungu
-                :<br>
-                &nbsp:
-Le chien de Tshisungu
-                :<br>
-                &nbsp:&nbsp
-Tshisungu's dog :
-<br><br>
-<i class="PartOfSpch">classe 7 nom pluriel -- mi</i><p>
-<i class="PartOfSpch">class 7 plural nouns -- mi</i><p>: <b>M</b>bua <b>ya</b> Tshisungu
-                :<br>
-                &nbsp:
-Les chiens de Tshisungu
-                :<br>
-                &nbsp:&nbsp
-Tshisungu's dogs :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 8 nom singulier -- ka</i><p>
-<i class="PartOfSpch">class 8 singular nouns -- ka</i><p>: <b>Ka</b>lulu <b>ka</b> Badibanga
-                :<br>
-                &nbsp:
-Le lapin de Badibanga
-                :<br>
-                &nbsp:&nbsp
-Badibanga's rabbit :
-<br><br>
-<i class="PartOfSpch">classe 8 nom pluriel -- tu</i><p>
-<i class="PartOfSpch">class 8 plural nouns -- tu</i><p>: <b>Tu</b>lulu <b>tua</b> Badibanga
-                :<br>
-                &nbsp:
-Les lapins de Badibanga
-                :<br>
-                &nbsp:&nbsp
-Badibanga's rabbits :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<i class="PartOfSpch">classe 9 nom singulier -- tshi</i><p>
-<i class="PartOfSpch">class 9 singular nouns -- tshi</i><p>: <b>Tshi</b>anza <b>tshia</b> Kalonji
-                :<br>
-                &nbsp:
-Main de Kalonji
-                :<br>
-                &nbsp:&nbsp
-Kalonji's hand :
-<br><br>
-<i class="PartOfSpch">classe 9 nom pluriel -- bi</i><p>
-<i class="PartOfSpch">class 9 plural nouns -- bi</i><p>: <b>Bi</b>anza <b>bia</b> Kalonji
-                :<br>
-                &nbsp:
-Les mains de Kalonji
-                :<br>
-                &nbsp:&nbsp
-Kalonji's hand :
 <br><br></td>
 </tr>
 `
@@ -42149,6 +42424,96 @@ mukulumpa <i class="PartOfSpch">tshi1</i><br>
 </tr>
 `
 },
+/*Mukuna*/   
+{
+    English: "mountain",
+    French: "montagne",
+    Tshiluba: "mukuna",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "Mu·ku·na<p>/Moo-koo-nah/</p>",
+    PhoneticsT: "montagne | mountain",
+    English2: "mountains",
+    French2: "montagnes",
+    Tshiluba2: "mukuna",
+    PhoneticsT2: " ",
+    English3: "mikuna",
+    French3: "le montagne",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: "mont",
+    French4: "mount",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+montagne <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mountain <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mukuna <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mikuna
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une grande formation terrestre qui s’élève au-dessus de son environnement, souvent avec des pentes abruptes et un sommet, généralement plus haute qu’une colline.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A large landform that rises prominently above its surroundings, often with steep sides and a peak, typically higher than a hill.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+<br><br></td>
+</tr>
+`
+},
 /*Mulamatshi*/   
 {
     English: "adherent",
@@ -47344,12 +47709,10 @@ nansha tshinyi/tshinganyi :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. fin, limite <i class="PartOfSpch">n</i> <br>
-2. dernier <i class="PartOfSpch">adj</i>
+fin, limite <i class="PartOfSpch">n</i> <br><br>
 </td>
 <td class="tabledef" valign=top >
-1. end, limit  <i class="PartOfSpch">conj</i>                           <br>
-2. final, last <i class="PartOfSpch">conj</i>
+end, limit  <i class="PartOfSpch">n</i>                           <br><br>
 </td>
 <td class="tabledef" valign=top >
 ndekelu <i class="PartOfSpch">n</i><br>
@@ -47357,25 +47720,64 @@ ndekelu <i class="PartOfSpch">n</i><br>
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
-<i>le dernier jour
-                :<br>
-                &nbsp:
-the last day
-                :<br>
-                &nbsp:&nbsp
-dituku dia ndekelu :
-<br><br></td>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
-<i>quel est votre dernier prix?
-                :<br>
-                &nbsp:
-what is your last price?
-                :<br>
-                &nbsp:&nbsp
-Mushinga webe wa ndekelu udi <a class="links" href="/alphabetindex/T/TSHINYI/">tshinyi</a>?:
+<td class="tabledef" valign=top >
+dernier <i class="PartOfSpch">adj</i><br<br>
+</td>
+<td class="tabledef" valign=top >
+final, last <i class="PartOfSpch">adj</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+ndekelu <i class="PartOfSpch">n</i><br>
+--a ndekelu <i class="PartOfSpch">muf</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+le dernier jour <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+the last day<br><br>
+</td>
+<td class="tabledef" valign=top >
+<a style="text-decoration:none;" href="/alphabetindex/D/DITUKU/">dituku</a> dia ndekelu <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+quel est votre dernier prix? <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+what is your last price?<br><br>
+</td>
+<td class="tabledef" valign=top >
+ushinga webe wa ndekelu udi <a style="text-decoration:none;" href="/alphabetindex/T/TSHINYI/">tshinyi</a>?
+<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un ndekelu est le moment où quelque chose s'arrête ou se termine. Le point le plus éloigné ou extrême de quelque chose.
+                <br><br>
+                &nbsp
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A ndekelu is the point where something stops or finishes. The furthest or extreme part of something.
+                <br><br>
+                &nbsp&nbsp
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
 <br><br></td>
 </tr>
 `
@@ -48510,12 +48912,25 @@ cow <i class="PartOfSpch">n</i><br><br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. mois <i class="PartOfSpch">n</i><br>
-2. lune <i class="PartOfSpch">n</i>
+mois <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. month <i class="PartOfSpch">n</i><br>
-2. the moon <i class="PartOfSpch">n</i>
+month <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+ngondu <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> ngondu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+lune <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+the moon <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
 ngondu <i class="PartOfSpch">tshi6</i><br>
@@ -52158,15 +52573,27 @@ Animals are multicellular, eukaryotic, non-human, and perceived as wild, powerfu
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. courir <i class="PartOfSpch">v.tr</i> <br>
-2. fuir <i class="PartOfSpch">v.tr</i>
+courir <i class="PartOfSpch">v</i> <br><br>
 <td class="tabledef" valign=top >
-1. run <i class="PartOfSpch">tr.v</i> <br>
-2. flee <i class="PartOfSpch">tr.v</i>
+run <i class="PartOfSpch">v</i> <br>
 </td>
 <td class="tabledef" valign=top >
 kunyema <i class="PartOfSpch">md</i><br>
+-nyema
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+fuir <i class="PartOfSpch">v</i><br><br>
+<td class="tabledef" valign=top >
+flee <i class="PartOfSpch">v</i>
+</td>
+<td class="tabledef" valign=top >
+kunyema <i class="PartOfSpch">md</i><br>
+-nyema
 </td>
 </tr>
 <tr>
@@ -56832,16 +57259,54 @@ Muananyi, teleja miaku yanyi :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. essayer <i class="PartOfSpch">v</i><br>
-2. tenter de faire <i class="PartOfSpch">v</i><br>
+essayer <i class="PartOfSpch">v</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-1. try <i class="PartOfSpch">v</i>, attempt <i class="PartOfSpch">v</i><br>
-2. tempt <i class="PartOfSpch">v</i>
+try <i class="PartOfSpch">v</i><br>
+attempt <i class="PartOfSpch">v</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-kuteta <i class="PartOfSpch">md</i><p>
+kuteta <i class="PartOfSpch">md</i><br>
+-teta
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+tenter de faire <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+tempt <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kuteta <i class="PartOfSpch">md</i><br>
+-teta
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Il a essayé de marcher <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+He tried to walk <br><br>
+</td>
+<td class="tabledef" valign=top >
+Yeye wakateta bua kuenda
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -56880,18 +57345,6 @@ To take action with the intention of achieving a goal or completing a task, even
 
 </td>
 </tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-Il a essayé de marcher 
-                :<br>
-                &nbsp:
-He tried to walk
-                :<br>
-                &nbsp:&nbsp
-Yeye wakateta bua kuenda :
-<br><br></td>
-</tr>
-<tr>
 ` 
 },
 /*To*/   
@@ -57929,90 +58382,137 @@ Tshianda also refers to a hidden, mystical realm that is believed to be accessib
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. main <i class="PartOfSpch">n</i><br>
-2. écriture <i class="PartOfSpch">n</i>
+main <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-1. hand <i class="PartOfSpch">n</i><br>
-2. writing <i class="PartOfSpch">n</i>
+hand <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-1. tshianza <i class="PartOfSpch">n</i><br><i class="PartOfSpch">pl</i> 
-bianza
+tshianza <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bianza
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
-<i>main gauche
-                :<br>
-                &nbsp:
-left hand
-                :<br>
-                &nbsp:&nbsp
-tshianza tshia bakaji :
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+écriture <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+writing <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+tshianza <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bianza
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+main gauche <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+left hand <br><br>
+</td>
+<td class="tabledef" valign=top >
+tshianza tshia bakaji<br><br> 
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+main droite <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+right hand <br><br>
+</td>
+<td class="tabledef" valign=top >
+tshianza tshia balume
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+mains propres <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+clean <br><br>
+</td>
+<td class="tabledef" valign=top >
+bianza bitoke
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+mauvaise maniere de faire quelque chose <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+a bad way of doing things <br><br>
+</td>
+<td class="tabledef" valign=top >
+tshianza tshibi <i class="PartOfSpch">expr</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+fermer la main <i class="PartOfSpch">expr</i> (pour cacher quelque chose) <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+close your hand <i class="PartOfSpch">expr</i> (in order to hide something) <br><br>
+</td>
+<td class="tabledef" valign=top >
+kubuta tshianza <i class="PartOfSpch">expr</i> <i class="PartOfSpch">expr</i>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+mauvaise écriture : belle écriture <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+bad writing : good writing <br><br>
+</td>
+<td class="tabledef" valign=top >
+tshianza tshibi : tshianza tshimpe<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Un tshianza c'est l'extrémité du bras, comprenant la paume, les doigts et le pouce, utilisée pour saisir ou manipuler des objets.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A tshianza is the end of the arm, consisting of the palm, fingers, and thumb, used for holding, touching, or manipulating objects.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------------
 <br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy" ><br>:
-main droite
-                :<br>
-                &nbsp:
-right hand
-                :<br>
-                &nbsp:&nbsp
-tshianza tshia baluma :
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-<i class="PartOfSpch">pl</i> 
-mains propres
-                :<br>
-                &nbsp:
-clean <i class="PartOfSpch">pl</i>hands
-                :<br>
-                &nbsp:&nbsp<i class="PartOfSpch">pl</i>
-bianza bitoke :
-            <br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-
-mauvaise maniere de faire quelque chose
-                :<br>
-                &nbsp:
-a bad way of doing things
-                :<br>
-                &nbsp:&nbsp<i class="PartOfSpch">pl</i>
-tshianza tshibi <i class="PartOfSpch">expr</i> :
-            <br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-fermer la main <i class="PartOfSpch">expr</i> (pour cacher quelque chose)
-                :<br>
-                &nbsp:
-close your hand <i class="PartOfSpch">expr</i> (in order to hide something)
-                :<br>
-                &nbsp:&nbsp
-kubuta tshianza <i class="PartOfSpch">expr</i> :
-            <br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
- 
-mauvaise écriture
-                : belle écriture<br>
-                &nbsp:
-bad writing
-                : good writing <br>
-                &nbsp:&nbsp
-tshianza tshibi : tshianza tshimpe
-            <br><br>
-</td>
 </tr>
 `
 },
@@ -58217,12 +58717,11 @@ Musaka tshia mifuba udi mu mutu. Udi ulama bongo ne mesu ne matshi.</p>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. chambre <i class="PartOfSpch">n</i> <br>
-2. département <i class="PartOfSpch">n</i>
+chambre <i class="PartOfSpch">n</i> <br><br>
 </td>
 <td class="tabledef" valign=top >
-1. room, bedroom<i class="PartOfSpch">n</i>                           <br>
-2. department <i class="PartOfSpch">n</i>
+room <i class="PartOfSpch">n</i><br>
+bedroom <i class="PartOfSpch">n</i><br>                        <br>
 </td>
 <td class="tabledef" valign=top >
 tshibambalu <i class="PartOfSpch">tshi8</i><br><i class="PartOfSpch">pl</i> 
@@ -58230,26 +58729,73 @@ bibambalu
 </td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
-<i>Département d'Enseignement
-                :<br>
-                &nbsp:
-Department of Education
-                :<br>
-                &nbsp:&nbsp
-Tshibambalu Tshia Dilongesha :
-<br><br></td>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td colspan="3" class="analogy"><br>:
-<i>chambre froide
-                :<br>
-                &nbsp:
-cold room
-                :<br>
-                &nbsp:&nbsp
-tshibambalu tshia mashika :
-<br><br></td>
+<td class="tabledef" valign=top >
+département <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+department <i class="PartOfSpch">n</i>
+</td>
+<td class="tabledef" valign=top >
+tshibambalu <i class="PartOfSpch">tshi8</i><br><i class="PartOfSpch">pl</i> 
+bibambalu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Département d'enseignement<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+Department of Education <br><br>
+</td>
+<td class="tabledef" valign=top >
+Tshibambalu tshia Dilongesha <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+chambre froide<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+cold room <br><br>
+</td>
+<td class="tabledef" valign=top >
+tshibambalu tshia mashika <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une partie fermée d’une maison ou d’un autre bâtiment, généralement avec des murs, un sol et un plafond, destinée à un usage particulier. Une section distincte d’une entreprise, d’un gouvernement ou d’une autre organisation, spécialisée dans un domaine particulier.
+                </p>
+<br><br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+An enclosed area in a house or other structure, usually with walls, a floor, and a ceiling, used for a particular purpose. A distinct section of a business, government, or other organization that specializes in a particular area of responsibility.
+                </p> 
+<br><br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+</td>
 </tr>
 `
 },
@@ -59187,17 +59733,23 @@ A "tshibi" is a movable structure used to open and close an entrance or exit in 
 </tr>
 <tr>
 <td class="tabledef" valign=top>
-1. substantif <i class="PartOfSpch">n</i> <br>
-2. nom <i class="PartOfSpch">n</i>
+substantif <i class="PartOfSpch">n</i><br>
+nom <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
-1. substantive  <i class="PartOfSpch">n</i>                           <br>
-2. noun <i class="PartOfSpch">n</i>
+substantive  <i class="PartOfSpch">n</i><br>
+noun <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 tshibidikilu <i class="PartOfSpch">tshi8</i><br>
 <i class="PartOfSpch">pl</i> bibidikilu
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation";>
@@ -59989,6 +60541,29 @@ tshibuashibuashi <i class="PartOfSpch">tshi8</i><p>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Et Dieu appela le firmament Ciel<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+And God called the firmament: Heaven <br><br>
+</td>
+<td class="tabledef" valign=top >
+Nzambi wakabikila tshibuashibuashi ne: Diulu<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
@@ -60017,17 +60592,6 @@ The heavens or the sky, especially when regarded as a tangible thing. In archaic
                 <a class="links" href="/alphabetindex/D/DIULU/">diulu</a>, 
                 <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>,
                 <a class="links" href="/alphabetindex/M/MUTOTU/">mutotu</a>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-Et Dieu appela le <b>firmament</b><i class="PartOfSpch">n</i>: Ciel
-                :<br>
-                &nbsp:
-And God called the <b>firmament</b><i class="PartOfSpch">n</i>: Heaven.
-                :<br>
-                &nbsp:&nbsp
-Nzambi wakabikila <b>tshibuashibuashi</b><i class="PartOfSpch">tshi8</i> ne: Diulu. :
 <br><br></td>
 </tr>
 `
@@ -60192,16 +60756,16 @@ A bumblebee is a large, fuzzy, social bee belonging to the genus Bombus within t
     French2: "Année",
     Tshiluba2: "Tshidimu",
     PhoneticsT2: " ",
-    English3: " ",
+    English3: "bonne annee",
     French3: "Annee",
-    Tshiluba3: " ",
+    Tshiluba3: "bonne année",
     PhoneticsT3: " ",
     English4: "Ans",
     French4: "Bidimu",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: "bonne ",
-    French5: " ",
+    English5: "happy new year",
+    French5: "new year",
     Tshiluba5: " ",
     PhoneticsT5: " ",
     English6: " ",
@@ -60254,23 +60818,37 @@ bidimu
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td colspan="3" class="dividerspace"></td>
+<td class="tabledef-1" valign=top >
+Bonne Anée <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+Happy New Year <br><br>
+</td>
+<td class="tabledef" valign=top >
+Tshidimu Tshilenga <br><br>
+</td>
 </tr>
 <tr>
 <td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
-<td class="tabledef" valign=top >
-bonne année
+<td class="tabledef-1" valign=top >
+L'année mille neuf-cents quatre-vingt-dix-neuf (1999)
 </td>
 
-<td class="tabledef" valign=top>
-happy new year
+<td class="tabledef-1" valign=top>
+the year nineteen hundred and ninety nine (1999)
 
 <td class="tabledef" valign=top >
-<i>tshidimu</i> <a style="text-decoration:none;" href="/alphabetindex/L/--LENGA/">tshilenga</a><br><br>
+<i>tshidimu</i> <a style="text-decoration:none;" href="/alphabetindex/T/TSHINUNU/">tshinunu</a> <a style="text-decoration:none;" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema</a> <a style="text-decoration:none;" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema</a> ne <a style="text-decoration:none;" href="/alphabetindex/T/TSHITEMA/">tshitema</a> (1999) <br><br>
 
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -60301,22 +60879,6 @@ Conventional duration close to the period of revolution of the Earth around the 
                 <a class="links" href="/alphabetindex/N/NGONDU/">ngondu</a>, 
                 <a class="links" href="/alphabetindex/T/TSHIKONDU/">tshikondu</a>   
 <br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef-1" valign=top >
-L'année mille neuf-cents quatre-vingt-dix-neuf (1999)
-</td>
-
-<td class="tabledef-1" valign=top>
-the year nineteen hundred and ninety nine (1999)
-
-<td class="tabledef-1" valign=top >
-<i>tshidimu</i> <a style="text-decoration:none;" href="/alphabetindex/T/TSHINUNU/">tshinunu</a> <a style="text-decoration:none;" href="/alphabetindex/N/NKAMA TSHITEMA/">nkama tshitema</a> <a style="text-decoration:none;" href="/alphabetindex/M/MAKUMI TSHITEMA/">makumi tshitema</a> ne <a style="text-decoration:none;" href="/alphabetindex/T/TSHITEMA/">tshitema</a> (1999) <br><br>
-
-</td>
 </tr>
 `
 },
@@ -61514,23 +62076,55 @@ A large bird of the genus Corvus, which also includes crows.
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. temps <i class="PartOfSpch">n</i><br>
+temps <i class="PartOfSpch">n</i><br>
 période <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+time <i class="PartOfSpch">n</i><br>
+period <i class="PartOfSpch">n</i><br><br>
 
-2. epoque <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top >
+tshikondu <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bikondu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+epoque <i class="PartOfSpch">n</i><br>
 durée <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-1. time <i class="PartOfSpch">n</i><br>
-period <i class="PartOfSpch">n</i><br><br>
-
-2. epoch <i class="PartOfSpch">n</i><br>
+epoch <i class="PartOfSpch">n</i><br>
 duration <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 tshikondu <i class="PartOfSpch">tshi8</i><br>
 <i class="PartOfSpch">pl</i> bikondu
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Un temps pour naître et un temps pour mourir<br><br>
+</td>
+<td class="tabledef-1" valign=top>
+A time for birth and a time to die<br><br>
+</td>
+<td class="tabledef" valign=top >
+Tshikondu tshia kuledibua ne tshikondu tshia kufua<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -61562,18 +62156,6 @@ tshikondu <i class="PartOfSpch">tshi8</i><br>
                 <a class="links" href="/search/?inpt1=tshidima">tshidima</a>   
 <br><br></td>
 </tr>
-<tr>
-<td colspan="3" class="analogy" ><br>:
-Un temps pour naître et un temps pour mourir
-                :<br>
-                &nbsp:
-A time for birth and a time to die
-                :<br>
-                &nbsp:&nbsp
-Tshikondu tshia kuledibua ne tshikondu tshia kufua :
-<br><br></td>
-</tr>
-<tr>
 `
 },
 /*Tshikundukundu*/   
@@ -67098,14 +67680,14 @@ A tshitukutuku is a two-wheeled motor vehicle powered by an engine. It is design
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-1. morceau <i class="PartOfSpch">n</i>,<br>
-fraction <i class="PartOfSpch">n</i>,<br>
+morceau <i class="PartOfSpch">n</i><br>
+fraction <i class="PartOfSpch">n</i><br>
 portion <i class="PartOfSpch">n</i><br>
 bout <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-1. part <i class="PartOfSpch">n</i>,<br>
-piece<i class="PartOfSpch">n</i>,<br>
+part <i class="PartOfSpch">n</i><br>
+piece<i class="PartOfSpch">n</i><br>
 fraction <i class="PartOfSpch">n</i><br>
 bit <i class="PartOfSpch">n</i><br>
 </td>
@@ -67119,10 +67701,10 @@ tshitupa <i class="PartOfSpch">tshi8</i><p>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-2. chapitre <i class="PartOfSpch">n</i><br><br>
+chapitre <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top >
-2. chapter <i class="PartOfSpch">n</i>
+chapter <i class="PartOfSpch">n</i>
 </td>
 <td class="tabledef" valign=top >
 tshitupa <i class="PartOfSpch">tshi8</i><p>
@@ -67157,6 +67739,26 @@ a man of small stature <br>
 muntu wa tshitupa <br>
 </td>
 </tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Un morceau de bois dans l'eau ne s'est jamais transformé en crocodile <br>
+</td>
+<td class="tabledef-1" valign=top >
+A piece of wood in the water never turned into a crocodile <br>
+</td>
+<td class="tabledef" valign=top >
+Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu <br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
 <tr style="text-align:left;">
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
@@ -67175,18 +67777,6 @@ A separate or limited portion or quantity of something.
 -----</p>
 </td>
 </tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-Un moreceau de bois dans l'eau ne s'est jamais transformé en crocodile.
-                <br><br>
-                &nbsp
-A piece of wood in the water never turned into a crocodile.
-                <br><br>
-                &nbsp&nbsp
-Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
-<br><br></td>
-</tr>
-<tr>
 ` 
 },
 /*Tshiviela*/   
@@ -68717,14 +69307,111 @@ I'm yours <br>
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-aller <i class="PartOfSpch">v.tr</i> <br>
+aller <i class="PartOfSpch">v</i> <br><br>
 </td>
 <td class="tabledef" valign=top >
-to go <i class="PartOfSpch">tr.v</i> <br>
+to go <i class="PartOfSpch">v</i> <br><br>
 </td>
 <td class="tabledef" valign=top >
-kuya <i class="PartOfSpch">md</i>
+kuya <i class="PartOfSpch">md</i><br>
+-ya
 </td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Nous allons au ville <br><br>
+</td>
+<td class="tabledef-1" valign=top >
+We're going to the city <br><br>
+</td>
+<td class="tabledef" valign=top >
+Tudi tuya mu tshimenga <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+je vais<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+I'm going<br><br>
+</td>
+<td class="tabledef" valign=top >
+ndi nya <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+tu vas<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+you're going<br><br>
+</td>
+<td class="tabledef" valign=top >
+udi uya <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+nous allons<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+we're going<br><br>
+</td>
+<td class="tabledef" valign=top >
+tudi tuya <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+vous allez<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+you're going (plural)<br><br>
+</td>
+<td class="tabledef" valign=top >
+nudi nuya <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+ils/elles vont<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+they're going<br><br>
+</td>
+<td class="tabledef" valign=top >
+badi baya<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
 </tr>
 <tr>
 <td colspan="3" class="explanation">
@@ -68754,29 +69441,6 @@ Physically moving or traveling from one location to another
                 <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>,
                 <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
                 <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-<b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-1. je vais | I'm going | <b>ndi nya </b><br><br>
-2. tu vas | you're going | <b>udi uya </b><br><br>
-3. il/elle/on va | he/she's going | <b>udi uya</b><br><br>
-4. nous allons | we're going | <b>tudi tuya</b><br><br>
-5. vous allez | you're going | <b>nudi nuya</b><br><br>
-6. ils/elles vont | they're going | <b>badi baya</b><br><br>
-</td>
-</tr>
-<tr>
-<tr>
-<td colspan="3" class="analogy"><br>:
-<i>Nous allons au ville
-                :<br>
-                &nbsp:
-We're going to the city
-                :<br>
-                &nbsp:&nbsp
-Tudi tuya mu tshimenga :
 <br><br></td>
 </tr>
 `
