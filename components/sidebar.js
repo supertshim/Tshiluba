@@ -12,6 +12,26 @@ class Sidebar extends HTMLElement {
         </div>
         <div class="latest">
 
+<!-- Article 9 -->
+            <div class="mini-article">
+                <div class="mini-img">
+                    <a style="text-decoration:none;" href="/articles/009-The-Bible-In-Tshiluba-with-Audio-and-Subtitles-Matthew/">
+                        <img class="post-icon" src="/articles/009-The-Bible-In-Tshiluba-with-Audio-and-Subtitles-Matthew/matayi.png">
+                    </a>
+                </div>
+                <div class="mini-article-title">
+                    <div class="sidebar-blog-category">
+                        <a href="/blog/literature/">
+                            LITERATURE
+                        </a>
+                    </div>
+                    <div class="mini-article-title-text">
+                        <a style="text-decoration:none;" href="/articles/009-The-Bible-In-Tshiluba-with-Audio-and-Subtitles-Matthew/">
+                            The Bible in Tshiluba: The Book of Matthew
+                        </a>
+                    </div>
+                </div>
+            </div>        
 <!-- Article 8 -->
             <div class="mini-article">
                 <div class="mini-img">
