@@ -398,6 +398,10 @@ body{
     overflow: hidden;
 }
 
+.blog-front-page .front-page-title a{
+    color:white;
+}
+
 
 .blog-container{
     display: flex;
