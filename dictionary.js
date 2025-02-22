@@ -8482,6 +8482,99 @@ Diakalenga means good fortune, prosperity, or success. It refers to a situation 
 </tr>
 `
 },
+/*Diala*/   
+{
+    English: "latrine",
+    French: "latrines",
+    Tshiluba: "diala",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "dia·la<p>/dyah-lah/</p>",
+    PhoneticsT: "latrines | latrine",
+    English2: "puits a dechets",
+    French2: "puits à déchets",
+    Tshiluba2: "diala",
+    PhoneticsT2: " ",
+    English3: "diyala",
+    French3: "dyala",
+    Tshiluba3: "waste pit",
+    PhoneticsT3: " ",
+    English4: "dépotoire",
+    French4: "cesspit",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: "cloaque",
+    French5: "latrine à fosse",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: "pit latrine",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+latrines <i class="PartOfSpch">n</i><br>
+latrine à fosse <i class="PartOfSpch">n</i><br>
+cloaque <i class="PartOfSpch">n</i><br>
+puits à déchets  <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+latrine <i class="PartOfSpch">n</i><br>
+cesspit <i class="PartOfSpch">n</i><br>
+waste pit <i class="PartOfSpch">n</i><br>
+</td>
+<td class="tabledef" valign=top>
+diala <i class="PartOfSpch">tshi4</i><br>
+diyala <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une diala est un type de toilette simple qui consiste en un trou creusé dans le sol pour collecter les excréments humains. Elle dispose souvent d'une superstructure basique pour garantir l'intimité et peut inclure une dalle ou un siège au-dessus de la fosse. Elle est largement utilisée dans les zones dépourvues d'accès à la plomberie moderne ou aux systèmes d'assainissement.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A diala is a simple type of toilet that consists of a hole dug into the ground to collect human waste. It often has a basic superstructure for privacy and may include a slab or seat over the pit. It is widely used in areas without access to modern plumbing or sewage systems.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+------------</p>
+</td>
+</tr>
+`
+},
 /*Dialu*/   
 {
     English: "shapeshifting sorcery",
@@ -19206,99 +19299,6 @@ Divudija is the process of combining equal groups of numbers. It involves findin
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-</td>
-</tr>
-`
-},
-/*Diyala*/   
-{
-    English: "latrine",
-    French: "latrines",
-    Tshiluba: "diyala",
-    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "dia·ya·la<p>/dyah-lah/</p>",
-    PhoneticsT: "latrines | latrine",
-    English2: "puits a dechets",
-    French2: "puits à déchets",
-    Tshiluba2: "diyala",
-    PhoneticsT2: " ",
-    English3: "diala",
-    French3: "dyala",
-    Tshiluba3: "waste pit",
-    PhoneticsT3: " ",
-    English4: "dépotoire",
-    French4: "cesspit",
-    Tshiluba4: " ",
-    PhoneticsT4: " ",
-    English5: "cloaque",
-    French5: "latrine à fosse",
-    Tshiluba5: " ",
-    PhoneticsT5: " ",
-    English6: "pit latrine",
-    French6: " ",
-    Tshiluba6: " ",
-    PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
-    PhoneticsT7: " ",
-    English8: " ",
-    French8: " ",
-    Tshiluba8: " ",
-    PhoneticsT8: " ",
-    English9: " ",
-    French9: " ",
-    Tshiluba9: " ",
-    PhoneticsT9: " ",
-    English10: " ",
-    French10: " ",
-    Tshiluba10: " ",
-    PhoneticsT10: " ",
-    English11: " ",
-    French11: " ",
-    Tshiluba11: " ",
-    PhoneticsT11: " ",
-    InfoTable: `
-<tr>
-        <th><u>Francais</th>
-        <th><u>English</th>
-        <th ><u>Tshiluba</th>
-</tr>
-<tr>
-<td colspan="3" class="dividerspace"></td>
-</tr>
-<tr>
-<td class="tabledef" valign=top>
-latrines <i class="PartOfSpch">n</i><br>
-latrine à fosse <i class="PartOfSpch">n</i><br>
-cloaque <i class="PartOfSpch">n</i><br>
-puits à déchets  <i class="PartOfSpch">n</i><br><br>
-</td>
-<td class="tabledef" valign=top>
-latrine <i class="PartOfSpch">n</i><br>
-cesspit <i class="PartOfSpch">n</i><br>
-waste pit <i class="PartOfSpch">n</i><br>
-</td>
-<td class="tabledef" valign=top>
-diyala <i class="PartOfSpch">tshi4</i><br>
-diala <i class="PartOfSpch">tshi4</i><br><br>
-</td>
-</tr>
-<tr>
-<td colspan="3" class="explanation">
-<b><i>Explication</i></b><br>
-<p class="explanation-fr">
-Une diyala est un type de toilette simple qui consiste en un trou creusé dans le sol pour collecter les excréments humains. Elle dispose souvent d'une superstructure basique pour garantir l'intimité et peut inclure une dalle ou un siège au-dessus de la fosse. Elle est largement utilisée dans les zones dépourvues d'accès à la plomberie moderne ou aux systèmes d'assainissement.
-                </p>
-<br>
-<b><i>Explanation</i></b><br>
-<p class="explanation-en">
-A diyala is a simple type of toilet that consists of a hole dug into the ground to collect human waste. It often has a basic superstructure for privacy and may include a slab or seat over the pit. It is widely used in areas without access to modern plumbing or sewage systems.
-                </p> 
-<br>
-<b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-------------</p>
 </td>
 </tr>
 `
