@@ -9,7 +9,7 @@
 
 ::placeholder{
     font-weight: 100;
-    color:#525252;
+    color:#8f8f8f;
     font-size: 18px;
 }
 
@@ -232,13 +232,20 @@ nav h1 a{
     margin-right: auto;
     text-align: center;
     align-items: center;
-    border: .1px solid rgb(196, 196, 196);
+    border: .01px solid rgb(220, 220, 220);
+    filter: drop-shadow(.2em .2em .2em rgb(200, 200, 200));
 }
 
 
 .search-bar:focus-within{
-    border:none;
+    border: .01px solid rgb(255, 255, 255);
     transition-duration: .4s;
+    filter: drop-shadow(.2em .2em .2em rgb(182, 182, 182));
+}
+
+.search-bar:hover{
+    border: .01px solid rgb(255, 255, 255);
+    transition-duration: .1s;
     filter: drop-shadow(.2em .2em .2em rgb(182, 182, 182));
 }
 
@@ -384,7 +391,7 @@ nav .fa-solid{
 }
 
 .sidebar-right {
-    width: 40%;
+    width: 45%;
 }
 
 .adsbygoogle {
@@ -935,7 +942,7 @@ nav .fa-solid{
     color: #9b9b9b;
     font-size: 0.9rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -968,7 +975,7 @@ nav .fa-solid{
     display: block;
     position: relative;
     height: 95vh;
-    width: 60%;
+    width: 90%;
     height: auto;
     padding-top: 30px;
     top:-30px;
@@ -996,7 +1003,7 @@ nav .fa-solid{
 
 .blog-frontpage .blog-text-front span{
     color: #747474;
-    font-size: 1.5rem;
+    font-size: 36px;
 }
 
 .blog-frontpage .blog-text-front .blog-title-front{
@@ -1013,7 +1020,7 @@ nav .fa-solid{
     color: #9b9b9b;
     font-size: 1.2rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -1094,6 +1101,8 @@ nav .fa-solid{
 .sidebar {
     min-width: 100% ;
 }
+
+
 
 .sidebar .pageLinks ul li {
     font-family: 'Montserrat';
@@ -1395,7 +1404,7 @@ nav .fa-solid{
         .blog-frontpage .blog-title-front {
             padding: 30px;
             align-items: center;
-            font-size: 7vw;
+            font-size: 24px;
         }
     
     }
