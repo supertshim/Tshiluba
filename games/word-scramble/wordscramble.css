@@ -1,5 +1,13 @@
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .sidebar-container {
-    background-color: rgb(255, 255, 255);
+    background-color: var(--primary-color);
     z-index: 1;
     width: 1200px;
     height: 100%;
@@ -17,7 +25,7 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
-    background-color: #ffffff;
+    background-color: var(--primary-color);
     padding: 0px;
 }
 
@@ -31,21 +39,22 @@
 
 .ws_gamebox {
     position: relative;
-    background-color: rgb(255, 255, 255);
-    width: 80%;
+    background-color: var(--primary-color);
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
     font-family: 'Jost', sans-serif;
-    border: 3px solid #001163;
-    border-radius: 20px;
-    box-shadow: .0em .0em .0em rgb(129, 129, 129);
+    border: 3px solid var(--secondary-color);
+    border-radius: 40px;
+    box-shadow: .0em .0em .0em var(--shadow-color);
     padding-top: 20px;
     padding-bottom: 20px;
     margin-bottom: 100px;
-    height: 600px;
+    height: 500px;
     overflow: hidden;
     zoom: 1;
     top: 10px;
+    color: var(--primary-text-color);
 }
 
 .ws_gamebox .google-auto-placed {
@@ -120,6 +129,7 @@
 
 
 .ws_gamebox input{
+    border-radius: 40px;
     font-family: 'Jost', sans-serif;
     position: relative;
     font-size: 30px;
@@ -130,7 +140,7 @@
     margin-right: auto;
     display: flex;
     padding: 10px;
-    margin-top: 60px;
+    margin-top: 20px;
     margin-bottom: 0px;
     font-weight: 700;
     text-transform: uppercase;
@@ -145,7 +155,7 @@
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-top:60px;
+    padding-top:20px;
     height: fit-content;
     margin-top: 0px;
 }
@@ -231,7 +241,7 @@ button.ws_refresh:hover{
 /*------------SIDEBAR CODES-------------------*/
 
 .sidebarcage {
-    background-color: white;
+    background-color: var(--primary-color);
     z-index: 1;
     max-width: 30%;
     height: fit-content;
@@ -248,19 +258,18 @@ button.ws_refresh:hover{
 }
 
 .sidebar {
-    background-color: white;
+    background-color: var(--primary-color);
     z-index: 1;
     width: 100%;
     height: fit-content;
     position: relative;
-    padding: 10px;
+    padding: 0px;
     margin-top: 0px;
     border-radius: 10px;
     text-align:center;
     text-transform: uppercase;
     align-items: center;
     justify-content: center;
-    float: right;
     display: flex;
     flex-direction: column;
 }
@@ -274,8 +283,8 @@ button.ws_refresh:hover{
     overflow: hidden;
     padding: 0px;
     text-align:center;
-    background-color: #001163;
-    color:white;
+    background-color: var(--primary-text-color);
+    color: var(--primary-color);
 }
 
 /*---------------WORD OF THE DAY--------------*/
@@ -310,10 +319,10 @@ button.ws_refresh:hover{
     height: fit-content;
     border-radius: 30px;
     padding: 0px;
-    border: 3px solid #001163;
+    border: 3px solid var(--secondary-color);
     cursor: pointer;
     overflow: visible;
-    background-color: white;
+    background-color: var(--primary-color);
     align-items: center;
     justify-content: center;
     display:flex;
@@ -327,6 +336,7 @@ button.ws_refresh:hover{
     letter-spacing: -1px;
     pointer-events: none;
     width: auto;
+    color: var(--primary-text-color);
 }
 .mwd .mwdtitletx {
     font-family: 'Montserrat', sans-serif;
@@ -344,12 +354,13 @@ button.ws_refresh:hover{
     margin-bottom: 10px 0px;
     pointer-events: none;
     width: auto;
+    color: var(--primary-text-color);
 }
 .mwd .mwdbigword {
     font-family: 'Jost', sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #090152;
+    color: var(--primary-text-color);
     margin-top: 0px;
     line-height:1.5cap;
     overflow: hidden;
@@ -362,7 +373,7 @@ button.ws_refresh:hover{
     font-size: 14px;
     font-weight: 400;
     margin-top: -20px;
-    color: #000000;
+    color: var(--primary-text-color);
     pointer-events: none;
     width: auto;
 }
@@ -393,7 +404,7 @@ button.ws_refresh:hover{
     font-family: 'Montserrat';
     font-size: 16px;
     font-weight: 800;
-    color: #001163;
+    color: var(--primary-text-color);
 }
 
 .post-icon {
@@ -419,8 +430,8 @@ button.ws_refresh:hover{
 .sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
     font-family: 'Jost';
     font-weight: 700;
-    background-color:#001163;
-    color: white;
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
     padding: 8px;
     width: fit-content;
     margin-right: auto;
@@ -438,11 +449,11 @@ button.ws_refresh:hover{
     font-size: 20px;
     text-transform: capitalize;
     text-decoration: none;
-    color:black;
+    color:var(--primary-text-color);
 }
 
 .sidebar .mini-article-title-text a:visited{
-    color:black;
+    color:var(--primary-text-color);
 }
 
 /*-------------------END OF POSTS---------------------------------*/
@@ -463,7 +474,7 @@ button.ws_refresh:hover{
 .sidebar .pageLinks a {
     font-family: 'Montserrat';
     font-weight: 500;
-    color: black;
+    color: var(--primary-text-color);
     text-decoration: none !important;
 }
 /*-----------------------END OF PAGE LINKS SECTION-----------------*/
