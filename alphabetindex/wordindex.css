@@ -1,20 +1,28 @@
 
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .IndexBox{
     width: fit-content;
     max-width: 80%;
-    color: #000000;
+    color: var(--primary-text-color);
     position: relative;
     text-align: center;
     display: block;
     overflow: hidden;
     height:auto;
-    border: 10px solid #001163;
+    border: 5px solid var(--secondary-color);
     margin-left: auto;
     margin-right: auto;
-    border-radius: 0px;
+    border-radius: 40px;
     margin-bottom: 100px;
     padding: 30px;
-    box-shadow: .6em .5em .5em rgb(121, 121, 121);
+    box-shadow: .6em .5em .5em var(--shadow-color);
     overflow: hidden;
     font-family: 'Jost', sans-serif;
 }
@@ -28,6 +36,7 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
+    color: var(--primary-text-color);
 }
 .header .IndexBox ol{
     list-style-position: inside;
@@ -37,13 +46,13 @@
     font-size: 30px;
 }
 .header .IndexBox ol li a{
-    color:black;
+    color: var(--primary-text-color);
     text-decoration: none;
 }
 
 .header .IndexTable{
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: var(--primary-color);
     width: 100%;
     font-size: 40px;
     position: relative;

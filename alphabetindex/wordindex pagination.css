@@ -1,20 +1,28 @@
 
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .IndexBox{
     width: fit-content;
     max-width: 80%;
-    color: #000000;
+    color: var(--primary-text-color);
     position: relative;
     text-align: center;
     display: block;
     overflow: hidden;
     height:auto;
-    border: 5px solid #001163;
-    border-radius: 20px;
+    border: 5px solid var(--secondary-color);
+    border-radius: 40px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 100px;
     padding: 30px;
-    box-shadow: .6em .5em .5em rgb(121, 121, 121, .5);
+    box-shadow: .6em .5em .5em var(--shadow-color);
     overflow: hidden;
     font-family: 'Jost', sans-serif;
 }
@@ -40,13 +48,13 @@
     list-style-type: none;
 }
 .header .IndexBox ul li a{
-    color:black;
+    color:var(--primary-text-color);
     text-decoration: none;
 }
 
 .header .IndexTable{
     text-align: center;
-    background-color: rgb(255, 255, 255);
+    background-color: var(--primary-color);
     width: 100%;
     font-size: 40px;
     position: relative;
@@ -56,7 +64,7 @@
 .header .alphabetBox{
     width: fit-content;
     max-width: 550px;
-    color: #001163;
+    color: var(--secondary-color);
     position: relative;
     text-align: center;
     display: block;
@@ -64,10 +72,10 @@
     height:auto;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 0px;
+    border-radius: 40px;
     margin-bottom: 50px;
     padding: 20px;
-    box-shadow: .3em .3em .3em rgb(121, 121, 121);
+    box-shadow: .3em .3em .3em var(--shadow-color);
     overflow: hidden;
     font-family: 'Jost', sans-serif;
     font-size: 20px;
@@ -81,35 +89,35 @@
 
 .header .alphabetBox ul li {
     width: 60px;
-    color: #001163;
+    color: var(--secondary-color);
     transition: .5s;
     display: inline-block;
 }
 
 .header .alphabetBox ul li a{
-    color: #001163;
+    color: var(--secondary-color);
     text-decoration: none;
     padding-left: 20px;
     padding-right: 20px;
 }
 
 .header .alphabetBox ul .activeLetter{
-    background-color: #001163;
+    background-color: var(--secondary-color);
     width: 60px;
 }
 
 .header .alphabetBox ul .activeLetter a{
-    color: white;
+    color: var(--primary-color);
 }
 
 .header .alphabetBox ul li:hover{
     width: 60px;
-    color: white;
-    background-color: #001163;
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 
 .header .alphabetBox ul li:hover a{
-    color: white;
+    color: var(--primary-color);
 }
 /************************PAGINATION********************************/
 .pagination-container{
@@ -125,12 +133,12 @@
 }
 .pagination{
     width: 90%;
-    border-radius: 0px;
-    box-shadow: .6em .5em .5em rgb(121, 121, 121);
+    border-radius: 40px;
+    box-shadow: .6em .5em .5em var(--shadow-color);
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(255, 255, 255);
+    background-color: var(--primary-color);
     padding: 10px 40px;
     overflow: hidden;
     height: fit-content;
@@ -143,7 +151,7 @@
     font-weight: 500;
     text-decoration: none;
     font-size: 25px;
-    color: #001163;
+    color: var(--secondary-color);
     border-radius: 0%;
     transition: 0.5s ease-in-out;
     font-family: 'Jost', sans-serif;
@@ -152,7 +160,7 @@
     font-size: 25px;
     font-weight: bold;
     background-color: transparent;
-    color: #001163;
+    color: var(--secondary-color);
     border: none;
     cursor: pointer;
     padding: 2px 20px;
@@ -173,13 +181,13 @@
     cursor: default;
 }
 .control:not(.disabled):hover,.pageNumbers a:hover{
-    background-color: rgb(9, 9, 75);
-    color: white;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
     border-radius: 0%;
 }
 a.active{
-    background-color: rgb(9, 9, 75);
-    color: white;
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
 }
 .hidden{
     display: none;
