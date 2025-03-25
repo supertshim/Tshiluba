@@ -1,3 +1,11 @@
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .documentarea{
     text-align: center;
     width: 700px;
@@ -30,11 +38,11 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:2px solid #001163;
-    border-radius: 0px;  
+    border:2px solid var(--secondary-color);
+    border-radius: 40px;  
     padding:20px;
     margin-top: 0px;
-    box-shadow: .6em .5em .5em rgb(187, 187, 187);
+    box-shadow: .6em .5em .5em var(--shadow-color);
 }
 .header .documentarea .ContactUs p{
     font-size: 20px;
@@ -51,14 +59,16 @@
 .header .documentarea .ContactUs form p{
     display: block;
     font-size: 30px;
+    color: var(--primary-text-color);
+
 }
 .header .documentarea .ContactUs .contactform{
-    border-radius:2px;
+    border-radius:40px;
     padding-left: 10px;
     width: 500px;
     border:none;
     outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    filter: drop-shadow(.2em .2em .2em var(--shadow-color));
     height: 50px;
     margin-bottom: 0px;
     font-family: 'Montserrat', sans-serif;
@@ -69,12 +79,12 @@
 }
 
 .header .documentarea .ContactUs .contactformmessage {
-    border-radius:0px;
+    border-radius:40px;
     width: 480px;
     padding: 20px;
     border:none;
     outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    filter: drop-shadow(.2em .2em .2em var(--shadow-color));
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
     font-size:20px;
@@ -117,7 +127,7 @@
      width: 300px;
      border:none;
      outline:none;
-     filter: drop-shadow(.2em .2em .05em rgb(156, 156, 156));
+     filter: drop-shadow(.2em .2em .05em var(--shadow-color));
      font-family: 'Montserrat', sans-serif;
      font-size: 25px;
      text-align: center;
@@ -131,8 +141,8 @@
  }
  
  .header .documentarea .ContactUs .buttxn:hover{
-     background-color: #001163;
-     color: white;
+     background-color: var(--secondary-color);
+     color: var(--primary-color);
  }
  
  
