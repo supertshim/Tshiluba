@@ -680,8 +680,8 @@ a.links:visited {
 .sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
     font-family: 'Jost';
     font-weight: 700;
-    background-color:#001163;
-    color: white;
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
     padding: 8px;
     width: fit-content;
     margin-right: auto;
@@ -699,11 +699,11 @@ a.links:visited {
     font-size: 20px;
     text-transform: capitalize;
     text-decoration: none;
-    color:black;
+    color:var(--primary-text-color);
 }
 
 .sidebar .mini-article-title-text a:visited{
-    color:black;
+    color:var(--primary-text-color);
 }
 
 
@@ -726,7 +726,7 @@ a.links:visited {
 .sidebar .pageLinks a {
     font-family: 'Montserrat';
     font-weight: 500;
-    color: black;
+    color: var(--primary-text-color);
     text-decoration: none !important;
 }
 /*-----------------------END OF PAGE LINKS SECTION-----------------*/
