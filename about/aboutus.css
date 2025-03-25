@@ -1,3 +1,11 @@
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .documentarea{
     text-align: center;
     width: 700px;
@@ -29,16 +37,18 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:2px solid #001163;
-    border-radius: 0px;  
+    border:2px solid var(--secondary-color);
+    border-radius: 40px;  
     padding:20px;
     margin-top: 20px;
-    box-shadow: .6em .5em .5em rgb(163, 163, 163);
+    box-shadow: .6em .5em .5em var(--shadow-color);
+    color: var(--primary-text-color);
 }
 .header .documentarea .AboutUs p{
     font-size: 20px;
     padding-top: 30px;
     padding-bottom: 20px;
+    color: var(--primary-text-color);
 }
 
 .header .documentarea .AboutUs form{
@@ -57,7 +67,7 @@
     width: 500px;
     border:none;
     outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    filter: drop-shadow(.2em .2em .2em var(--shadow-color));
     height: 50px;
     margin-bottom: 0px;
     font-family: 'Montserrat', sans-serif;
@@ -71,7 +81,7 @@
     padding: 20px;
     border:none;
     outline:none;
-    filter: drop-shadow(.2em .2em .2em rgb(85, 85, 85));
+    filter: drop-shadow(.2em .2em .2em var(--shadow-color));
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
     font-size:16px;
@@ -91,12 +101,12 @@
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    border:10px solid #001163;
-    background-color: rgb(236, 236, 236);
+    border:10px solid var(--secondary-color);
+    background-color: var(--primary-color);
     border-radius: 0px;  
     padding:20px;
     margin-top: 20px;
-    box-shadow: .6em .5em .5em rgb(163, 163, 163);
+    box-shadow: .6em .5em .5em var(--shadow-color);
 }
 
 .header .commentArea h3{
@@ -116,7 +126,7 @@
 #HCB_comment_box #hcb_form_name,
 #HCB_comment_box #hcb_form_website 
 {
-      background-color:rgb(255, 255, 255);
+      background-color: var(--primary-color);
 }
 
 #HCB_comment_box textarea {
