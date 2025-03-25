@@ -570,7 +570,8 @@ text-align: center;
 #HCB_comment_box #hcb_form_name,
 #HCB_comment_box #hcb_form_website 
 {
-      background-color:rgb(255, 255, 255);
+      background-color:var(--primary-color);
+      color:var(--primary-text-color);
 }
 
 #HCB_comment_box #hcb_form #hcb_form_name_container
@@ -584,6 +585,7 @@ text-align: center;
     min-height:200px;
     display: block;
     border-radius: 10px !important;
+    color:var(--primary-text-color);
 }
 
 #HCB_comment_box #hcb_form .home-desc {
@@ -634,7 +636,7 @@ text-align: center;
 
 #HCB_comment_box .comment {
     margin-bottom: 3em;
-    background-color: rgb(255, 255, 255) !important;
+    background-color: var(--primary-color) !important;
     border-radius: 10px !important;
     padding: 20px !important;
     font-family: 'Montserrat';
@@ -655,6 +657,7 @@ text-align: center;
 #HCB_comment_box #comments_list .author-name, #HCB_comment_box #comments_list .date, #HCB_comment_box .hcb-comment-tb button{
     font-family: 'Montserrat' !important;
     font-weight: 700;
+    color: var(--primary-text-color);
 }
 
 
