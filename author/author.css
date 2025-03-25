@@ -1,5 +1,13 @@
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+}
+
 .header .article-container {
-    background-color: rgb(255, 255, 255);
+    background-color: var(--primary-color);
     z-index: 1;
     width: 1200px;
     height: 100%;
@@ -11,7 +19,7 @@
 }
 
 br {
-    color:#141414;
+    color:var(--secondary-color);
 }
 
 .article {
@@ -21,6 +29,7 @@ br {
     height: 100%;
     position: relative;
     padding: 10px;
+    color: var(--primary-text-color);
 }
 
 .article .article-lang{
@@ -37,7 +46,7 @@ text-align: center;
 .article .table-container{
     width: 100%;
     display: flex;
-    background-color: white;
+    background-color: var(--primary-color);
 }
 
 .article .article-table tr td, .article .article-table tr th{
@@ -95,7 +104,7 @@ text-align: center;
     height: auto;
     max-width: 100%;
     max-height: 100%;
-    background-color:white;
+    background-color:var(--primary-color);
     justify-content: center;
 }
 
@@ -232,7 +241,7 @@ text-align: center;
 /*------------SIDEBAR CODES-------------------*/
 
 .sidebarcage {
-    background-color: white;
+    background-color: var(--primary-color);
     z-index: 1;
     max-width: 30%;
     height: fit-content;
@@ -249,7 +258,7 @@ text-align: center;
 }
 
 .sidebar {
-    background-color: white;
+    background-color: var(--primary-color);
     z-index: 1;
     width: 100%;
     height: fit-content;
@@ -275,8 +284,8 @@ text-align: center;
     overflow: hidden;
     padding: 0px;
     text-align:center;
-    background-color: #001163;
-    color:white;
+    background-color: var(--secondary-color);
+    color:var(--primary-color);
 }
 /*---------------WORD OF THE DAY--------------*/
 
@@ -310,10 +319,10 @@ text-align: center;
     height: fit-content;
     border-radius: 30px;
     padding: 0px;
-    border: 3px solid #001163;
+    border: 3px solid var(--secondary-color);
     cursor: pointer;
     overflow: visible;
-    background-color: white;
+    background-color: var(--primary-color);
     align-items: center;
     justify-content: center;
     display:flex;
@@ -349,7 +358,7 @@ text-align: center;
     font-family: 'Jost', sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #090152;
+    color: var(--primary-text-color);
     margin-top: 0px;
     line-height:1.5cap;
     overflow: hidden;
@@ -362,7 +371,7 @@ text-align: center;
     font-size: 14px;
     font-weight: 400;
     margin-top: -20px;
-    color: #000000;
+    color: var(--primary-text-color);
     pointer-events: none;
     width: auto;
 }
@@ -393,7 +402,7 @@ text-align: center;
     font-family: 'Montserrat';
     font-size: 16px;
     font-weight: 800;
-    color: #001163;
+    color: var(--primary-text-color);
 }
 
 .post-icon {
@@ -418,8 +427,8 @@ text-align: center;
 .sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
     font-family: 'Jost';
     font-weight: 700;
-    background-color:#001163;
-    color: white;
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
     padding: 8px;
     width: fit-content;
     margin-right: auto;
@@ -437,11 +446,11 @@ text-align: center;
     font-size: 20px;
     text-transform: capitalize;
     text-decoration: none;
-    color:black;
+    color:var(--primary-text-color);
 }
 
 .sidebar .mini-article-title-text a:visited{
-    color:black;
+    color:var(--primary-text-color);
 }
 
 /*-------------------END OF POSTS---------------------------------*/
@@ -467,7 +476,7 @@ text-align: center;
 .sidebar .pageLinks a {
     font-family: 'Montserrat';
     font-weight: 500;
-    color: black;
+    color: var(--primary-text-color);
 }
 /*-----------------------END OF PAGE LINKS SECTION-----------------*/
 
@@ -501,7 +510,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: poppins;
-    background-color: rgba(255, 255, 255, 0.15);
+    background-color: var(--primary-color);
 }
 
 /*----------------------------------------------------------------*/
@@ -544,15 +553,15 @@ body{
         margin-right: auto;
         width: fit-content;
         border-radius: 90px;
-        background-color:#001163;
+        background-color: var(--secondary-color);
         text-align: center;
         font-family: 'Jost', sans-serif;
         font-weight: 700;
-        color: white !important;
+        color: var(--primary-text-color) !important;
     }
 
     .blog-front-page {
-        background-color:  #001163;
+        background-color:  var(--secondary-color);
         text-align: center;
         color: white;
         height: 500px;
@@ -604,7 +613,7 @@ body{
         font-size: 1rem;
         font-weight: 700;
         font-family:'Montserrat', sans-serif;
-        color: white;
+        color: var(--primary-color);
     }
 
     .blog-front-page .front-page-link {
@@ -615,7 +624,7 @@ body{
         font-size: .7rem;
         font-weight: 700;
         font-family:'montserrat', sans-serif;
-        color: white;
+        color: var(--primary-color);
         text-transform: uppercase;
     }
 
@@ -715,7 +724,7 @@ body{
         font-family: 'Jost', sans-serif;
         font-size: 10vw !important;
         font-weight: 700;
-        color: #090152;
+        color: var(--primary-text-color);
         margin-top: 0px;
         line-height:1.5cap;
         overflow: hidden;
@@ -779,8 +788,8 @@ body{
  
 .blog-box{
     width:100%;
-    background-color: #ffffff;
-    border: 1px solid #ececec;
+    background-color: var(--primary-color);
+    border: 1px solid var(--secondary-color);
     margin: 20px 20px;
 }
 
@@ -801,6 +810,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    color:var(--primary-text-color);
 }
 
 .blog-text span{
@@ -811,7 +821,7 @@ body{
 .blog-text .blog-title{
     font-size: 3rem;
     font-weight: 900;
-    color: #000130;
+    color: var(--primary-text-color);
     font-family: 'Old Standard TT', sans-serif;
     line-height: 1em;
     text-align: center;
@@ -831,7 +841,7 @@ body{
 }
 
 .blog-text a{
-    color: #0f0f0f;
+    color: var(--primary-text-color);
     font-family: 'Montserrat';
 }
 .blog-text a:hover{
@@ -919,7 +929,7 @@ body{
         font-family: 'Jost', sans-serif;
         font-size: 300%;
         font-weight: 700;
-        color: #090152;
+        color: var(--primary-text-color);
         margin-top: 0px;
         line-height:1.5cap;
         overflow: hidden;
@@ -973,7 +983,7 @@ body{
 .blog-category {
     font-family: 'Jost';
     font-weight: 700;
-    background-color:#000288;
-    color: white;
+    background-color:var(--secondary-color);
+    color: var(--primary-text-color);
     padding: 10px;
 }
