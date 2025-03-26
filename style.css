@@ -458,7 +458,7 @@ nav .fa-solid{
     }
     .search-bar input{
         font-size: 14px;
-        color: black;
+        color: var(--primary-text-color);
         font-weight: 700;
         font-family: 'Montserrat', sans-serif;
         width: 100%;
@@ -474,7 +474,7 @@ nav .fa-solid{
         height: 50px;
         max-width: 85%;
         padding: 0px 2px;
-        background-color: rgb(255, 255, 255, 1);
+        background-color: var(--primary-color);
         border: .2px solid rgb(155, 155, 155);
     }
     .search-bar img{
@@ -1129,7 +1129,8 @@ nav .fa-solid{
     font-family: 'Montserrat';
     padding: 20px;
     text-align: center;
-    font-size: 20px
+    font-size: 20px;
+    color: var(--primary-text-color);
 }
 
 
@@ -1159,7 +1160,7 @@ nav .fa-solid{
     .searchheader .search-bar input{
         font-size: 22px;
         font-family: 'Montserrat', sans-serif;
-        color: black;
+        color: var(--primary-text-color);
         font-weight: 700;
     }
     .searchheader .search-bar{
@@ -1351,6 +1352,12 @@ nav .fa-solid{
             padding-bottom:10px;
         }
     
+        .search-bar input{
+            font-size: 22px;
+            font-family: 'Montserrat', sans-serif;
+            color: var(--primary-text-color);
+            font-weight: 700;
+        }
     
         .header .sidebar-container {
             width: 100%;
