@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <iframe id="wordindex" src="/wordindex.html" style="display:none" onload="wordindexplay()"></iframe>
+    <script defer src="../components/dark-mode.js"></script>
     <script defer src="../components/footer.js"></script>
     <script defer src="../components/sidebar.js"></script>
     <script defer src="../components/MWDcard.js"></script>
@@ -34,6 +35,7 @@
     <link rel="canonical" href="https://tshiluba.co/"/>
     <title>TSHILUBA.co | Search The Online Tshiluba Dictionary</title>
     <meta name="description" content="The TSHILUBA.co search engine. Search any word in French, English, or Tshiluba and discover meanings and usage examples. New words are added every day.">
+    <dark-mode></dark-mode>
 </head>
 <body>
 <section class="header">
@@ -314,10 +316,12 @@ Nubuelayi apa diandamuna webe.`,
         
     /*GET THE PAGE WORD*/
             var pageword = window.location.href;
+            var pageword5 = decodeURIComponent(pageword);
             var pagewordindex = pageword.indexOf('alphabetindex');
             var pageword2 = pageword.substring(pagewordindex + 16);
             var pageword3 = pageword2.replace(/[/]/g, "");
-            console.log(pageword3)
+            var pageword4 = decodeURIComponent(pageword3);
+            console.log(pageword4)
     /*GET THE LIST INDEX NUMBER*/
             var iframe = document.getElementById("wordindex");
             var iframeWindow = iframe.contentWindow;
@@ -326,22 +330,16 @@ Nubuelayi apa diandamuna webe.`,
             console.log(wordArray)
             var wordArray2 = [];
             wordArray.forEach((item) => {
-                wordArray2.push(item.innerText);
+                wordArray2.push(item.firstChild.href);
                 });
             console.log(wordArray2)
-            var wordspot = wordArray2.indexOf(`${pageword3}`);
+            var wordspot = wordArray2.indexOf(`${pageword}`);
             console.log(wordspot) 
-            var listItem = listItems.children[wordspot].innerText;
-            console.log(listItem)
     /***PREVIOUS WORD***/
-            var previousWord = listItems.children[wordspot-1].innerText;
             var previousWordLink = listItems.children[wordspot-1].firstChild.href;
-            console.log(previousWord)
             console.log(previousWordLink)
     /***NEXT WORD**/
-            var nextWord = listItems.children[wordspot+1].innerText;
             var nextWordLink = listItems.children[wordspot+1].firstChild.href;
-            console.log(nextWord)
             console.log(nextWordLink)
     /***FORM HREFS****/
         var prevLink = document.getElementById("indexprev");
