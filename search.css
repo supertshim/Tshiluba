@@ -1,0 +1,1186 @@
+:root{
+    --primary-color:white;
+    --primary-color-b: #f7f7f7;
+    --secondary-color:#001163;
+    --shadow-color: rgb(182, 182, 182);
+    --primary-text-color: black;
+    --mini-link-color: blue;
+}
+
+
+.header {
+    top:50px;
+}
+
+.text-box {
+    overflow: hidden;
+    border-bottom: 0px solid rgb(180, 180, 180);
+    padding-bottom:10px;
+}
+
+.text-box h1{
+    position: fixed;
+    top: -20px;
+    z-index: 20;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.search-bar{
+    height: 100%;
+    background: var(--primary-color);
+    color: var(--primary-text-color);
+    display: flex;
+    max-width: 600px;
+    border-radius: 30px;
+    padding: 0px 2px;
+    backdrop-filter: blur(10px) saturate(180%);
+    position: relative;
+    top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    align-items: center;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+/*****************PREVIOUS AND NEXT BUTTONS***********************/
+.indexbutton {
+    font-size: 25px;
+    font-weight: bold;
+    background-color: transparent;
+    color: var(--secondary-color);
+    border: none;
+    cursor: pointer;
+    padding: 2px 20px;
+    border-radius: 0px;
+    transition: 0.5s ease-in-out ;
+    font-family: 'Jost', sans-serif;
+    text-decoration: none;
+}
+
+
+/**********************The Cage for the search results**************************/
+.header .sidebar-container {
+    background-color: var(--primary-color);
+    z-index: 1;
+    width: auto;
+    max-width: 1700px;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .cardcage{
+    position: relative;
+    height: 95vh;
+    width: 60%;
+    --main-width: .6*1400px;
+    height: auto;
+    padding-top: 30px;
+    top:-30px;
+    padding-right: 10px;
+
+}
+.header .card{
+    width: 100%;
+    background-color: var(--primary-color);
+    color: var(--primary-text-color);
+    position: relative;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    height:auto;
+    border-radius: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    overflow: hidden;
+}
+.header .card .bigword{
+    font-family: 'Jost', sans-serif;
+    font-size: 80px;
+    margin-bottom: 0px;
+    line-height: 1;
+    position: relative;
+    width:fit-content;
+    overflow:visible;
+
+    padding: 0px;
+    display: block;
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--secondary-color);
+}
+
+.header .card .bigword p{
+    overflow-y:hidden;
+}
+.header .card .PartOfSpeech{
+    font-family: 'DM Serif Display';
+    font-style: italic;
+    font-size: 32px;
+    background-color: transparent ;
+    display: block;
+    text-align: center;
+    top: 50px;
+    width: 100%;
+}
+.header .card .Phonetics{
+    font-family: 'Tinos', sans-serif;
+    color: rgb(63, 63, 63);
+    font-size: 20px;
+    padding: 0px;
+    position: sticky;
+    background-color: transparent ;
+    display: block;
+    transform: translate(0, 0px);
+}
+
+.header .card .audioplay{
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.header .card .audioplay button {
+    border: none;
+    background-color: transparent;
+}
+.header .card .audioplay img{
+    width: 100%;
+    height: 100%;
+}
+.space{
+    height: 11vw;
+    background-color: var(--primary-color);
+}
+
+/* The Cage for the search results table
+*/
+.header .tablewrapper{
+    width: 100%;
+    margin: 0 auto;
+    transform: translate(0px,0px);
+    background-color: var(--primary-color);
+    height: auto;
+    overflow: auto;
+    display: block;
+}
+
+a.links{
+    text-decoration: none;
+    color: var(--mini-link-color);
+    font-style: italic;
+}
+a.links:hover {
+    text-decoration:line;
+    color: var(--secondary-color);
+    margin: auto;
+  }
+a.links:visited {
+    text-decoration:line;
+    color: rgb(48, 48, 48);
+    margin: auto;
+  }
+
+.header .card .tablewrapper {
+    display:block;
+    width: 100%;
+    position: relative;
+}
+.header .card .tablewrapper .Xinfo {
+    /*background-color: rgb(0, 255, 55);*/
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .card .tablewrapper .Xinfo tbody{
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    background-color: var(--primary-color);
+    display: inline-table;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.header .card .tablewrapper .Xinfo .PartOfSpch{
+    color: var(--mini-link-color);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.header .card .tablewrapper .Xinfo tr td{
+    font-family:'Jost', sans-serif;
+    padding-left: 20px;
+    padding-right: 0px;
+    font-size: 36px;
+    width: 30%;
+    position: relative;
+    text-align: center;
+}
+
+.header .card .tablewrapper .Xinfo tr th{
+    font-family:'Jost', sans-serif;
+    font-variant-caps: all-small-caps;
+    font-size: 36px;
+    width: 20%;
+    position: relative;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    /*background-color: gold;*/
+}
+.header .card .tablewrapper .Xinfo .dividerspace{
+    border-top: 2px solid rgb(150, 150, 150);
+    width: 100%;
+}
+.header .card .tablewrapper .Xinfo .tabledef{
+    font-family:'Tinos', sans-serif;
+    padding-left: 10px;
+    position: relative;
+    text-align: left;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.header .card .tablewrapper .Xinfo .tabledef a{
+    color: var(--mini-link-color);
+}
+
+
+.header .card .tablewrapper .Xinfo .tabledef-1{
+    font-family:'Tinos', sans-serif;
+    padding-left: 10px;
+    position: relative;
+    text-align: left;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.header .card .tablewrapper .Xinfo .tabledef_a{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 22px;
+    width: 100%;
+    position: relative;
+}
+
+.header .card .tablewrapper .Xinfo .analogy{
+    font-family:'Tinos', sans-serif;
+    padding: 20px;
+    font-size: 28px;
+    width: 100%;
+    position: relative;
+    border-top: 2px solid rgb(150, 150, 150);
+    text-align: center;
+}
+
+.header .card .tablewrapper .Xinfo .explanation{
+    font-family:'Tinos', sans-serif;
+    padding: 20px;
+    font-size: 28px;
+    width: 100%;
+    position: relative;
+    border-top: 2px solid rgb(150, 150, 150);
+    text-align: left;
+}
+
+.header .card .tablewrapper .Xinfo .tabledef_a .links{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 22px;
+    text-align: center;
+    width: 100%; 
+    font-weight: 700;
+    color: var(--mini-link-color);
+}
+
+/* ___________________SHARE BOX_________________________ */
+
+.share-icon img{
+    width: 40px;
+    margin: 5px;
+}
+
+.share-box{
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.share-box button {
+    border: none;
+    cursor: pointer;
+    appearance: none;
+    background-color: transparent;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.copyshare img{
+    width:35px !important;
+    padding: 5px;
+    margin-left: -2px;
+}
+
+#popup-window {
+    position: static;
+    width: fit-content;
+    height: fit-content;
+    background: rgb(0, 0, 0);
+    border: 0px solid rgb(8, 8, 8);
+    margin: auto;
+    z-index: 10;
+    display: none;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }  
+
+  #popup-window p{
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color: white;
+    padding: 5px;
+  }
+
+/* __________________________________________________________________ */
+
+
+/*-------------------COMMMENT SECTION STYLING ----------------*/
+
+.header .commentArea {
+    text-align: justify;
+    width: 90%;
+    height: fit-content;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    background-color: rgb(236, 236, 236);
+    border-radius: 0px;  
+    padding:20px;
+    margin-top: 20px;
+}
+
+.header .commentArea h3{
+    text-align: center;
+    width: 100%;
+    height:fit-content;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    font-family: 'Jost', sans-serif;
+    text-transform: uppercase;
+    line-height: 30px;
+    overflow: hidden;
+}
+
+#HCB_comment_box #hcb_form_content,
+#HCB_comment_box #hcb_form_email,
+#HCB_comment_box #hcb_form_name,
+#HCB_comment_box #hcb_form_website 
+{
+      background-color:rgb(255, 255, 255);
+}
+
+#HCB_comment_box #hcb_form #hcb_form_name_container
+{
+    width: 100%;
+    padding: 0px;
+}
+
+
+#HCB_comment_box textarea {
+    min-height:200px;
+    display: block;
+    border-radius: 10px !important;
+}
+
+#HCB_comment_box #hcb_form .home-desc {
+    margin-top: 12px;
+    display: none;
+}
+
+#HCB_comment_box #hcb_form textarea, #HCB_comment_box #hcb_form #hcb_form_name {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    padding: 5px;
+    margin: 0;
+    overflow: hidden;
+}
+
+
+#HCB_comment_box #hcb_form #hcb_form_name {
+    width: 96%;
+}
+
+#HCB_comment_box {
+    font-family: 'montserrat', sans-serif !important;
+    letter-spacing: 0.25;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#HCB_comment_box .author {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 16px !important;
+    text-transform: uppercase ;
+}
+
+#HCB_comment_box .submit {
+    background:none; /* Clear twitter bootstrap style. */
+    background-color:rgb(0, 132, 255) !important;
+    border:1px solid darkgreen;
+    color: rgb(255, 255, 255) !important;
+  }
+
+  #HCB_comment_box .hcb-comment-body {
+    font-family: 'montserrat', sans-serif !important;
+    font-size: 20px !important;
+    margin: 8px 0 0 0;
+    padding: 0;
+}
+
+#HCB_comment_box .comment {
+    margin-bottom: 3em;
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 10px !important;
+    padding: 20px !important;
+}
+
+#HCB_comment_box .comment .likes {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px !important;
+}
+
+#HCB_comment_box #no_comments{
+    text-align: left;
+    font-weight: 700;
+    font-style: 'Jost';
+}
+
+/*-------------------END OF COMMENT SECTION--------------------------------------*/
+
+/*------------SIDEBAR CODES-------------------*/
+
+.sidebarcage {
+    background-color: var(--primary-color);
+    z-index: 1;
+    max-width: 30%;
+    height: fit-content;
+    position: relative;
+    padding: 10px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    display: block;
+}
+
+.sidebar {
+    background-color: var(--primary-color);
+    z-index: 1;
+    width: 100%;
+    height: fit-content;
+    position: relative;
+    padding: 0px;
+    margin-top: 0px;
+    border-radius: 10px;
+    text-align:center;
+    text-transform: uppercase;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar span, .sidebar .pageLinks h1{
+    text-align:center;
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: 'Montserrat';
+    overflow: hidden;
+    padding: 0px;
+    text-align:center;
+    background-color: var(--primary-text-color);
+    color: var(--primary-color);
+}
+
+/*---------------WORD OF THE DAY--------------*/
+
+.MuakuWD {
+    display: flex;
+    width:100%;
+    max-width: 100%;
+    top: 0px;
+    position: relative;
+    align-items: center;
+    height: fit-content;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+.MuakuWD :hover {
+    box-shadow: 0 0 0 rgb(121, 121, 121);
+    transform: translateY(0px) !important;
+}
+
+.MuakuWD :hover::after {
+    transform: translateY(0px);
+}
+
+.mwd {
+    position: relative;
+    top: 0px;
+    text-align: center;
+    min-width: fit-content;
+    height: fit-content;
+    border-radius: 30px;
+    padding: 0px;
+    border: 3px solid var(--secondary-color);
+    cursor: pointer;
+    overflow: visible;
+    background-color: var(--primary-color);
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    margin: 20px auto;
+}
+
+.mwd .mwdtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    pointer-events: none;
+    width: auto;
+    color: var(--primary-text-color);
+}
+.mwd .mwdtitletx {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    margin-top: -5px;
+    pointer-events: none;
+    width: auto;
+}
+.mwd .mwdate {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px 0px;
+    pointer-events: none;
+    width: auto;
+    color: var(--primary-text-color);
+}
+.mwd .mwdbigword {
+    font-family: 'Jost', sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    color: var(--primary-text-color);
+    margin-top: 0px;
+    line-height:1.5cap;
+    overflow: hidden;
+    pointer-events: none;
+    margin-bottom: 20px;
+    width: auto;
+}
+.mwd .mwdPhon {
+    font-family: Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: -20px;
+    color: var(--primary-text-color);
+    pointer-events: none;
+    width: auto;
+}
+.mwd .mwdefinition {
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom:20px;
+    pointer-events: none;
+    line-height: 15px;
+    width: auto;
+    overflow: hidden;
+}
+/*-------------------END OF MWD SECTION---------------------------------*/
+
+
+/*------------------------LATEST POSTS-----------------------*/
+.latest {
+    align-items: left;
+}
+
+.latest a:active{
+    color:blue;
+}
+
+.latest p {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 800;
+    color: var(--primary-text-color);
+}
+
+.post-icon {
+    width: 95%;
+    position: relative;
+}
+
+
+.sidebar .mini-article {
+    display: inline-flex;
+    width: 95%;
+    padding-bottom: 20px;
+}
+
+.sidebar .mini-article .mini-img {
+    width: 40%;
+}
+
+.sidebar .mini-article-title {
+    width: 60%;
+}
+
+.sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
+    font-family: 'Jost';
+    font-weight: 700;
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
+    padding: 8px;
+    width: fit-content;
+    margin-right: auto;
+    text-decoration: none;
+}
+
+.sidebar .mini-article-title-text {
+    padding: 5px;
+    text-align: left;
+}
+
+.sidebar .mini-article-title-text a{
+    font-family: 'Old Standard TT';
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color:var(--primary-text-color);
+}
+
+.sidebar .mini-article-title-text a:visited{
+    color:var(--primary-text-color);
+}
+
+/*-------------------END OF POSTS---------------------------------*/
+
+/*------------------------PAGE LINKS SECTION-----------------------*/
+.sidebar .pageLinks {
+    width: 100%;
+    padding: 10px;
+}
+
+
+.sidebar .pageLinks ul li {
+    font-family: 'Montserrat';
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.sidebar .pageLinks a {
+    font-family: 'Montserrat';
+    font-weight: 500;
+    color: var(--primary-text-color);
+    text-decoration: none !important;
+}
+/*-----------------------END OF PAGE LINKS SECTION-----------------*/
+
+/*---------------------------FOLLOW US------------------------------*/
+.pageLinks .followUs img{
+    width: 40px;
+    margin: 10px;
+}
+
+/*---------------------------END OF FOLLOW US------------------------------*/
+
+
+/*---------------------------SHARE FACEBOOK------------------------------*/
+
+/*---------------------------END OF FB------------------------------*/
+
+
+/*---------------------END OF SIDEBAR-------------------*/
+
+/************************************THE SEARCH PAGE SECTION*********************************/
+/*****SUB 700*******************/
+@media(max-width: 700px){
+
+    .sidebar-container{
+        top:70px;
+        display: block !important;
+        justify-content: center;
+        align-items: center;
+        width: 100% !important;
+        flex-direction: column;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        border-top: none;
+    }
+
+    
+    .sidebarcage {
+        float: left;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .sidebar {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 90%;
+        align-items: center;
+        justify-content: center;
+        padding: 0px;
+    }
+
+
+    .sidebar .pageLinks ul li {
+        font-family: 'Montserrat';
+        padding: 20px;
+        text-align: center;
+        font-size: 20px
+    }
+
+     
+    .MuakuWD, .mwd {
+        box-shadow: 0 0 0 rgb(121, 121, 121) !important;
+    }
+
+    .sidebar .MuakuWD .mwd .mwdbigword {
+        font-family: 'Jost', sans-serif;
+        font-size: 72px;
+    }
+    .sidebar .MuakuWD .mwd .mwdtitle {
+        font-size: 36px;
+    }
+    .sidebar .MuakuWD .mwd .mwdtitletx {
+        font-size: 28px;
+    }
+    .sidebar .MuakuWD .mwd .mwdate {
+        font-size: 30px;
+    }
+    .sidebar .MuakuWD .mwd .mwdefinition {
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .mwd {
+        margin: 20px auto !important;
+    }
+
+    .header {
+        top:110px;
+    }
+
+.header .cardcage{
+    font-size: 32px;
+    display:block;
+    overflow-y: hidden;
+    z-index: 1;
+    top:-20px;
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+    width: 100%;
+    
+}
+.header .card{
+    width: fit-content;
+    max-width: 90%;
+    background-color: transparent;
+    color: var(--primary-text-color);
+    position: relative;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    padding-top: 0px;
+    box-shadow: 0 0 0 rgb(121, 121, 121);
+    overflow: hidden;
+}
+.header .card .bigword{
+    font-size: 10vw;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    word-wrap: break-word;
+    width: 90%;
+    margin-top: 10px;
+}
+.header .card .PartOfSpeech{
+    font-size: 4vw;
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: sticky;
+}
+
+.header .card .tablewrapper .Xinfo  .PartOfSpch{
+    color: var(--mini-link-color);
+    font-weight: 400;
+    font-size: 12px;
+}
+.header .card .Phonetics{
+    font-size: 4vw;
+    padding-bottom: 10px;
+    position: relative;
+    background-color: transparent;
+    transform: translate(0, -30px);
+    margin-bottom: 0px;
+    top: 20px;
+}
+.header .tablewrapper{
+    width: 100%;
+    overflow-y: hidden;
+}
+
+.header .card .tablewrapper .Xinfo {
+    width:100%;
+    position: relative;
+    overflow-y: hidden;
+    margin-left: auto;
+    margin-right: auto;}
+
+.header .card .tablewrapper .Xinfo tbody{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    display: block;
+}
+
+.header .card .tablewrapper .Xinfo tr{
+    padding: 0px;
+    position: relative;
+    text-align: left;
+}
+
+.header .card .tablewrapper .Xinfo tr td{
+    padding: 0px;
+    position: relative;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+
+.header .card .tablewrapper .Xinfo tr th{
+  font-size: 5vw;
+  padding-left: 2px;
+}
+
+.header .card .tablewrapper .Xinfo .dividerspace{
+    border-top: 2px solid rgb(150, 150, 150);
+    width: 100%;
+}
+
+.header .card .tablewrapper .Xinfo .analogy{
+    font-family:'Tinos', sans-serif;
+    font-size: 5vw;
+    position: relative;
+    border-top: 2px solid rgb(56, 56, 56);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header .card .tablewrapper .Xinfo .explanation{
+    font-family:'Tinos', sans-serif;
+    font-size: 5vw;
+    position: relative;
+    border-top: 2px solid rgb(56, 56, 56);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.header .card .tablewrapper .Xinfo .tabledef{
+    font-family:'Tinos', sans-serif;
+    position: relative;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 4vw;
+    text-align: left;
+    word-wrap: break-word;
+    width: 30vw;
+    /*background-color: green;*/
+}
+
+.header .card .tablewrapper .Xinfo .tabledef-1{
+    font-family:'Tinos', sans-serif;
+    position: relative;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 4.2vw;
+    text-align: left;
+    word-wrap: break-word;
+    width: 30vw;
+    /*background-color: green;*/
+}
+
+
+.header .card .tablewrapper .Xinfo tr th{
+    font-family:'Jost', sans-serif;
+    font-variant-caps: all-small-caps;
+    font-size: 4vw;
+    width: 20%;
+    position: relative;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+
+}
+
+
+
+.header .card .tablewrapper .Xinfo .tabledef_a{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%; 
+}
+
+.header .card .tablewrapper .Xinfo .tabledef_a .links{
+    font-family:'Tinos', sans-serif;
+    padding: 2px;
+    font-size: 16px;
+    text-align: center;
+    width: 100%; 
+    font-weight: 700;
+}
+
+#no_comments {
+    font-size: 20px;
+}
+
+.text-box {
+    overflow: hidden;
+    border-bottom: 0px solid rgb(180, 180, 180);
+    padding-bottom:10px;
+    position: absolute;
+    height: 0px;
+}
+
+.text-box br{
+    display: none;
+}
+
+.text-box h1{
+    position: absolute;
+    top: 10px;
+    z-index: 1;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.share-box p{
+   font-size: 20px;
+}
+
+.latest p {
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 800;
+    color: #001163;
+}
+
+.header .card .audioplay{
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+}
+
+
+}
+
+@media(min-width: 700px){
+@media(max-width: 1200px){
+
+
+    .search-bar{
+        height: 100%;
+        background: var(--primary-color);
+        color: var(--primary-text-color);
+    }
+    
+    .text-box {
+        overflow: hidden;
+        border-bottom: 0px solid rgb(180, 180, 180);
+        padding-bottom:10px;
+    }
+    
+    .text-box h1{
+        display: none;
+    }
+
+
+    .header .sidebar-container {
+        width: 90%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .cardcage {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .header .card .tablewrapper .Xinfo tr th{
+        font-family:'Jost', sans-serif;
+        font-variant-caps: all-small-caps;
+        font-size: 4vw;
+        width: 20%;
+        position: relative;
+        text-align: left;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 10px;
+
+    }
+
+
+    .header .card .tablewrapper .Xinfo .tabledef {
+        font-family: 'Tinos', sans-serif;
+        padding-left: 10px;
+        position: relative;
+        text-align: left;
+        font-weight: 700;
+        font-size: 2.45vw;
+    }
+
+    .sidebarcage {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
+    }
+
+    .sidebar {
+        scale: 1;
+        min-width: 100%;
+        display: flex;
+    }
+
+    .sidebar .mini-article-title-text a{
+        font-family: 'Old Standard TT';
+        font-weight: 700;
+        font-size: 40px;
+        text-transform: capitalize;
+        text-decoration: none;
+        color:var(--primary-text-color);
+    }
+    
+    .sidebar .mini-article-title-text a:visited{
+        color:black;
+    }
+
+    .MuakuWD {
+        scale: 1;
+        width: 100%;
+        box-shadow: 0 0 0 rgb(121, 121, 121);
+    }
+
+    .mwd {
+        min-width: fit-content;
+        padding: 5px;
+    }
+
+    .commentArea{
+        box-shadow: 0 0 0 rgb(163, 163, 163) !important;
+    }
+
+    .mwd .mwdbigword {
+        font-family: 'Jost', sans-serif;
+        font-size: 300%;
+        font-weight: 700;
+        color: var(--secondary-color);
+        margin-top: 0px;
+        line-height:1.5cap;
+        overflow: hidden;
+        pointer-events: none;
+        margin-bottom: 20px;
+        width: 100%;
+    }
+
+    #HCB_comment_box #hcb_form textarea, #HCB_comment_box #hcb_form #hcb_form_name {
+        font-family: 'montserrat', sans-serif !important;
+        font-size: 18px !important;
+        font-weight: 500 !important;
+        padding: 8px;
+        margin: 0;
+        width: 100%;
+    }
+
+    .latest p {
+        font-family: 'Montserrat';
+        font-size: 32px;
+        font-weight: 800;
+        color: #001163;
+    }
+
+    
+    
+}
+}
