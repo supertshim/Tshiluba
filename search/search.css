@@ -492,6 +492,7 @@ a.links:visited {
 /*-------------------END OF COMMENT SECTION--------------------------------------*/
 
 /*------------SIDEBAR CODES-------------------*/
+
 .sidebarcage {
     background-color: var(--primary-color);
     z-index: 1;
@@ -510,19 +511,18 @@ a.links:visited {
 }
 
 .sidebar {
-    background-color: transparent;
+    background-color: var(--primary-color);
     z-index: 1;
     width: 100%;
     height: fit-content;
     position: relative;
-    padding: 10px;
+    padding: 0px;
     margin-top: 0px;
     border-radius: 10px;
     text-align:center;
     text-transform: uppercase;
     align-items: center;
     justify-content: center;
-    float: right;
     display: flex;
     flex-direction: column;
 }
@@ -536,8 +536,8 @@ a.links:visited {
     overflow: hidden;
     padding: 0px;
     text-align:center;
-    background-color: var(--secondary-color);
-    color:var(--primary-color);
+    background-color: var(--primary-text-color);
+    color: var(--primary-color);
 }
 
 /*---------------WORD OF THE DAY--------------*/
@@ -570,13 +570,12 @@ a.links:visited {
     text-align: center;
     min-width: fit-content;
     height: fit-content;
-    border-radius: 20px;
+    border-radius: 30px;
     padding: 0px;
-    padding-top: 10px;
-    border: 2px solid #001163;
+    border: 3px solid var(--secondary-color);
     cursor: pointer;
     overflow: visible;
-    background-color: white;
+    background-color: var(--primary-color);
     align-items: center;
     justify-content: center;
     display:flex;
@@ -590,6 +589,7 @@ a.links:visited {
     letter-spacing: -1px;
     pointer-events: none;
     width: auto;
+    color: var(--primary-text-color);
 }
 .mwd .mwdtitletx {
     font-family: 'Montserrat', sans-serif;
@@ -607,12 +607,13 @@ a.links:visited {
     margin-bottom: 10px 0px;
     pointer-events: none;
     width: auto;
+    color: var(--primary-text-color);
 }
 .mwd .mwdbigword {
     font-family: 'Jost', sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #090152;
+    color: var(--primary-text-color);
     margin-top: 0px;
     line-height:1.5cap;
     overflow: hidden;
@@ -625,7 +626,7 @@ a.links:visited {
     font-size: 14px;
     font-weight: 400;
     margin-top: -20px;
-    color: #000000;
+    color: var(--primary-text-color);
     pointer-events: none;
     width: auto;
 }
@@ -636,6 +637,7 @@ a.links:visited {
     margin-top: 20px;
     margin-bottom:20px;
     pointer-events: none;
+    line-height: 15px;
     width: auto;
     overflow: hidden;
 }
@@ -648,20 +650,21 @@ a.links:visited {
 }
 
 .latest a:active{
-    color:var(--mini-link-color);
+    color:blue;
 }
 
 .latest p {
     font-family: 'Montserrat';
     font-size: 16px;
     font-weight: 800;
-    color: var(--secondary-color);
+    color: var(--primary-text-color);
 }
 
 .post-icon {
     width: 95%;
     position: relative;
 }
+
 
 .sidebar .mini-article {
     display: inline-flex;
@@ -675,7 +678,6 @@ a.links:visited {
 
 .sidebar .mini-article-title {
     width: 60%;
-    color: var(--primary-text-color);
 }
 
 .sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
@@ -707,9 +709,7 @@ a.links:visited {
     color:var(--primary-text-color);
 }
 
-
 /*-------------------END OF POSTS---------------------------------*/
-
 
 /*------------------------PAGE LINKS SECTION-----------------------*/
 .sidebar .pageLinks {
@@ -739,6 +739,7 @@ a.links:visited {
 }
 
 /*---------------------------END OF FOLLOW US------------------------------*/
+
 
 /*---------------------------SHARE FACEBOOK------------------------------*/
 
@@ -1146,7 +1147,7 @@ a.links:visited {
         font-family: 'Jost', sans-serif;
         font-size: 300%;
         font-weight: 700;
-        color: #090152;
+        color: var(--secondary-color);
         margin-top: 0px;
         line-height:1.5cap;
         overflow: hidden;
