@@ -536,8 +536,8 @@ a.links:visited {
     overflow: hidden;
     padding: 0px;
     text-align:center;
-    background-color: #001163;
-    color:white;
+    background-color: var(--secondary-color);
+    color:var(--primary-color);
 }
 
 /*---------------WORD OF THE DAY--------------*/
@@ -655,7 +655,7 @@ a.links:visited {
     font-family: 'Montserrat';
     font-size: 16px;
     font-weight: 800;
-    color: #001163;
+    color: var(--secondary-color);
 }
 
 .post-icon {
@@ -675,6 +675,7 @@ a.links:visited {
 
 .sidebar .mini-article-title {
     width: 60%;
+    color: var(--primary-text-color);
 }
 
 .sidebar .sidebar-blog-category, .sidebar .sidebar-blog-category a {
@@ -1119,7 +1120,7 @@ a.links:visited {
         font-size: 40px;
         text-transform: capitalize;
         text-decoration: none;
-        color:black;
+        color:var(--primary-text-color);
     }
     
     .sidebar .mini-article-title-text a:visited{
