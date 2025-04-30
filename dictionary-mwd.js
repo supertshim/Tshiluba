@@ -23002,6 +23002,1104 @@ A dianyi is a flat, typically green organ of a plant that grows from a stem or b
     </td>
     </tr>`
     },
+    /*Ha*/   
+    {
+        English: "on",
+        French: "sur",
+        Tshiluba: "ha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/K/KADIANJIDI/">préposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">preposition</a> | <a class="links" href="/alphabetindex/K/KADIANJIDI/">kadianjidi</a><br><a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjonction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">conjunction</a> | <a class="links" href="/alphabetindex/T/TSHITUANGAJI/">tshituangaji</a>',
+        Phonetics: "ha<p>/ha/</p>",
+        PhoneticsT: "sur | on",
+        English2: "atop",
+        French2: "dessus",
+        Tshiluba2: "ha",
+        PhoneticsT2: " ",
+        English3: "on it",
+        French3: "lorsque",
+        Tshiluba3: "when",
+        PhoneticsT3: " ",
+        English4: "if",
+        French4: "si",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "au-dessus",
+        French5: "au dessus de",
+        Tshiluba5: "on top of",
+        PhoneticsT5: " ",
+        English6: "on top",
+        French6: "instead",
+        Tshiluba6: "au lieu de",
+        PhoneticsT6: " ",
+        English7: "instead of",
+        French7: "ha buihi",
+        Tshiluba7: "ha buipi",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sur <i class="PartOfSpch">prép</i><br>
+    au-dessus de <i class="PartOfSpch">adv</i> <br>
+    à <i class="PartOfSpch">prép</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    on <i class="PartOfSpch">prep</i><br>
+    on top of <i class="PartOfSpch">adv</i><br>
+    atop <i class="PartOfSpch">adv</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha <i class="PartOfSpch">md</i><br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/PA/">pa</a>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    lorsque <i class="PartOfSpch">tsht</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    when <i class="PartOfSpch">conj</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha <i class="PartOfSpch">tsht</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    si <i class="PartOfSpch">tsht</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    if <i class="PartOfSpch">conj</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha <i class="PartOfSpch">tsht</i><br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sur l'arbre<br>
+    </td>
+    <td class="tabledef" valign=top >
+    in the tree<br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha mutshi <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    en bas<br>
+    </td>
+    <td class="tabledef" valign=top >
+    at the bottom<br>
+    </td>
+    <td class="tabledef" valign=top>
+    hanshi <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    si l'enfant pleure<br>
+    </td>
+    <td class="tabledef" valign=top >
+    if the baby cries<br>
+    </td>
+    <td class="tabledef" valign=top>
+    hadila muana <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    quand nous avons de l'argent en main<br>
+    </td>
+    <td class="tabledef" valign=top >
+    when we have cash in hand<br>
+    </td>
+    <td class="tabledef" valign=top>
+    hatudi ne mfwalanga mu bianza<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    au lieu de<br>
+    </td>
+    <td class="tabledef" valign=top >
+    instead of<br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha mutu ha<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    près<br>
+    </td>
+    <td class="tabledef" valign=top >
+    near<br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha buihi<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    loin<br>
+    </td>
+    <td class="tabledef" valign=top >
+    far<br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha bula<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    dehors<br>
+    </td>
+    <td class="tabledef" valign=top >
+    outside<br>
+    </td>
+    <td class="tabledef" valign=top>
+    ha mbelu<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    La préposition "ha" se traduit souvent par "sur" (pour la position).
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The preposition "ha" is used to indicate position (resting above or supported by a surface)
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Hambelu*/   
+    {
+        English: "at home",
+        French: "à la maison",
+        Tshiluba: "hambelu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a><br>',
+        Phonetics: "ham·be·lu<p>/hahm-beh-loo/</p>",
+        PhoneticsT: "à la maison | at home",
+        English2: "a la maison",
+        French2: "chez soi",
+        Tshiluba2: "hambelu",
+        PhoneticsT2: " ",
+        English3: "in the house",
+        French3: "dans la maison",
+        Tshiluba3: "à l'extérieur",
+        PhoneticsT3: " ",
+        English4: "outside",
+        French4: "outdoors",
+        Tshiluba4: "dehors",
+        PhoneticsT4: " ",
+        English5: "hambelo",
+        French5: "ha mbelu",
+        Tshiluba5: "ha mbelo",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    à la maison <i class="PartOfSpch">adv</i><br>
+    <br>
+    </td>
+
+    <td class="tabledef" valign=top>
+    at home <i class="PartOfSpch">adv</i><br>
+    in the house <i class="PartOfSpch">adv</i><br>
+    <br>
+    </td>
+
+    <td class="tabledef" valign=top >
+    hambelu <i class="PartOfSpch">muam</i><br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/K/KUMBELU/">kumbelu</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/PAMBELU/">pambelu</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    à l'extérieur <i class="PartOfSpch">adv</i><br>
+    dehors <i class="PartOfSpch">adv</i><br>
+    <br>
+    </td>
+
+    <td class="tabledef" valign=top>
+    outside <i class="PartOfSpch">adv</i><br>
+    outdoors <i class="PartOfSpch">adv</i><br>
+    <br>
+    </td>
+
+    <td class="tabledef" valign=top >
+    hambelu <i class="PartOfSpch">muam</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    chez lui <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at his house <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    hambelu habu <br><br>
+
+    kumbelu kuende<br><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    enfant légitime <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    legitimate child <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    muana mulela kumbelu <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    à la porte <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    at the door <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    hambelu <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    il se précipite dehors en criant et pleurant <br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    he rushed outside screaming and crying<br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    uditua hambelu ne tshiamu ne muadi <br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Hambelu est dérivé de « ha » qui signifie « à » et de « mbelu » qui signifie « porte ». Ensemble, hambelu est utilisé pour décrire l’état d’être à la maison ou à l’extérieur.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Hambelu is derived from "ha" which means "at" and "mbelu" which means "door." Together, hambelu is used to describe the state of being at home, or outside.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Hatuka*/   
+    {
+        English: "to exit",
+        French: "sortir",
+        Tshiluba: "kuhatuka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·ha·tu·ka<p>/koo-hah-too-kah/</p>",
+        PhoneticsT: "sortir | to exit",
+        English2: "exit",
+        French2: "to go out of",
+        Tshiluba2: "-hatuka",
+        PhoneticsT2: " ",
+        English3: "sortir de",
+        French3: "hatuka",
+        Tshiluba3: "hatuka",
+        PhoneticsT3: " ",
+        English4: "kuhatuka",
+        French4: "-hatuka",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "come out",
+        French5: "come out of",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    sortir <i class="PartOfSpch">v</i> <br>
+    sortir de <i class="PartOfSpch">v</i> <br>
+    quitter <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    to exit <i class="PartOfSpch">v</i> <br>
+    to leave <i class="PartOfSpch">v</i> <br>
+    to come out <i class="PartOfSpch">v</i><br>
+    to come out of<i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuhatuka <i class="PartOfSpch">md</i><br>
+    -hatuka <i class="PartOfSpch">md</i><br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PATUKA/">kupatuka</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SHIYA/">kushiya</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/U/-UMBUKA/">kuumbuka</a><br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Pour quitter un espace confiné ou clos, tel qu'un bâtiment, une pièce ou un véhicule, à partir d'un emplacement spécifique, tel qu'une porte, un portail ou une autre ouverture désignée.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            
+        To leave a confined or enclosed space, such as a building, room, or vehicle from a specific location, such as through a door, gate, or other designated opening. 
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+        <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top>
+    sors du champ <br>
+    </td>
+    <td class="tabledef" valign=top>
+    get out of the farm<br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    Hatuka mu budimi
+    </td>
+    </tr>
+    `
+    },
+    /*Henyi*/   
+    {
+        English: "Where",
+        French: "Où",
+        Tshiluba: "Henyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "hen·yi<p>/hen-yee/</p>",
+        PhoneticsT: "Où | Where",
+        English2: " ",
+        French2: " ",
+        Tshiluba2: "henyi",
+        PhoneticsT2: " ",
+        English3: " ",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    Où <i class="PartOfSpch">adv</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    where <i class="PartOfSpch">adv</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    henyi <i class="PartOfSpch">muam</i> <br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/PENYI/">penyi</a>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    où sont-ils? <br>
+    </td>
+    <td class="tabledef" valign=top >
+    where are they? <br>
+    </td>
+    <td class="tabledef" valign=top >
+    badi henyi? <br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Adverbe interrogatif ou pronom utilisé pour demander ou spécifier un emplacement ou un lieu. Il est utilisé pour poser des questions relatives à la position ou à l'endroit où se trouve quelque chose ou quelqu'un.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            An interrogative adverb or pronoun used to inquire about or specify a location or place. It is used to ask questions related to the position or whereabouts of something or someone. 
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----------</p>
+        </td>
+        </tr>
+    `
+    },
+    /*-Hesha*/   
+    {
+        English: "to give",
+        French: "Donner",
+        Tshiluba: "Kuhesha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·hesh·a<p>/koo-hesh-ah/</p>",
+        PhoneticsT: "Donner | Give",
+        English2: "hesha",
+        French2: " ",
+        Tshiluba2: "-hesha",
+        PhoneticsT2: " ",
+        English3: "give",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    donner <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to give <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    kuhesha <i class="PartOfSpch">md</i><br>
+    -hesha<br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PESHA/">kupesha</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    Je vous donne ma paix<br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    I give you my peace<br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    Ndi nnupesha ditalala dianyi <br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Transférer volontairement la possession ou le contrôle de quelque chose à quelqu'un d'autre. Cela implique de fournir ou d'offrir quelque chose volontairement.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To voluntarily transfer the possession or control of something to someone else. It involves providing or offering something willingly.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Heta*/   
+    {
+        English: "to receive",
+        French: "recevoir",
+        Tshiluba: "kuheta",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·he·ta<p>/koo-heh-tah/</p>",
+        PhoneticsT: "recevoir | receive",
+        English2: "heta",
+        French2: "obtenir",
+        Tshiluba2: "-heta",
+        PhoneticsT2: " ",
+        English3: "to obtain",
+        French3: "obtain",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "to acquire",
+        French4: "acquérir",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "acquire",
+        French5: "capter",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    recevoir <i class="PartOfSpch">v</i><br>
+    obtenir <i class="PartOfSpch">v</i><br>
+    acquérir <i class="PartOfSpch">v</i><br>
+    capter <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to receive <i class="PartOfSpch">v</i><br>
+    to obtain <i class="PartOfSpch">v</i><br>
+    to acquire <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuheta <i class="PartOfSpch">md</i><br>
+    -heta <i class="PartOfSpch">md</i><br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PETA/">kupeta</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/H/-HESHA/">kuhesha</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Se voir donner ou remettre quelque chose, souvent sans le chercher activement. Cela implique d'accepter ou de recevoir quelque chose qui est offert, envoyé ou donné.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To be given or handed something, often without actively seeking it. It involves accepting or taking in something that is offered, sent, or given to you.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Hingana*/   
+    {
+        English: "to return + [somewhere]",
+        French: "revenir",
+        Tshiluba: "kuhingana",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·hing·a·na<p>/koo-heen-gah-nah/</p>",
+        PhoneticsT: "Revenir | Return",
+        English2: "hingana",
+        French2: "Rentrer",
+        Tshiluba2: "-hingana",
+        PhoneticsT2: " ",
+        English3: "go Back",
+        French3: "to return",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "Come Back",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "return",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    revenir <i class="PartOfSpch">v</i><br>
+    rentrer <i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    to return [somewhere] <i class="PartOfSpch">v</i><br>
+    to come/go back [somewhere] <br>
+    <i class="PartOfSpch">different from</i><br>
+    <a class="links" href="/alphabetindex/P/-PINGAJA/">return [something]</a><i class="PartOfSpch">v</i>
+    </td>
+    <td class="tabledef" valign=top >
+    kuhingana <i class="PartOfSpch">md</i><br>
+    -hingana<br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PINGANA/">kupingana</a>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    revenez à moi et je reviendrai vers vous
+    </td>
+    <td class="tabledef" valign=top >
+    return to me, and I will return to you
+    </td>
+    <td class="tabledef" valign=top >
+    hinganayi kundi, ne meme nenhingane ku nudi
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Retourner à un endroit spécifique ou à une localisation que l'on a déjà visité auparavant. Cela implique de revisiter une destination particulière ou de retourner à une position précédemment occupée
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To go or come back to a specific place or location that one has previously visited or been to. It involves revisiting a particular destination or returning to a previously occupied position.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Huwa*/   
+    {
+        English: "to be quiet",
+        French: "se taire",
+        Tshiluba: "Kuhuwa",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a><br><a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>', 
+        Phonetics: "ku·hu·wa<p>/koo-hoo-wah/</p>",
+        PhoneticsT: "se taire | to be quiet",
+        English2: "be quiet",
+        French2: "se taire",
+        Tshiluba2: "-huwa",
+        PhoneticsT2: " ",
+        English3: "tais toi",
+        French3: "shut-up",
+        Tshiluba3: "shutup",
+        PhoneticsT3: " ",
+        English4: "tais-toi",
+        French4: "shush",
+        Tshiluba4: "to shush",
+        PhoneticsT4: " ",
+        English5: "chut",
+        French5: "keep quiet",
+        Tshiluba5: "huwa",
+        PhoneticsT5: " ",
+        English6: "hush",
+        French6: "keep silent",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    se taire <i class="PartOfSpch">v</i><br>
+    chut <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to be quiet <i class="PartOfSpch">v</i> <br>
+    to keep quiet <i class="PartOfSpch">v</i> <br>
+    shutup <i class="PartOfSpch">v</i> <br>
+    shush <i class="PartOfSpch">v</i><br>
+    hush <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kuhuwa <i class="PartOfSpch">md</i><br>
+    -huwa <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PUWA/">kupuwa</a>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    tais-toi <br>
+    </td>
+    <td class="tabledef" valign=top >
+    be quiet <br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    huwa <br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Être silencieux signifie s'abstenir de faire du bruit ou de parler, en maintenant le silence ou l'immobilité. Cela peut se référer à la tranquillité physique (réduire les sons comme les mouvements ou les bruits) et à la tranquillité verbale (ne pas parler). L'expression est souvent utilisée comme une demande ou un ordre dans des situations où le silence est souhaité ou nécessaire, comme dans les bibliothèques, pendant les spectacles ou lorsque quelqu'un a besoin de se concentrer.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+        To be quiet means to refrain from making noise or speaking, maintaining silence or stillness. It can refer to both physical quietness (reducing sounds like movements or noises) and verbal quietness (not talking). The phrase is often used as a request or command in situations where silence is desired or necessary, such as in libraries, during performances, or when someone needs to concentrate.
+
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
+    },
     /*-Iba*/   
     {
         English: "to steal",
@@ -34065,6 +35163,98 @@ A dianyi is a flat, typically green organ of a plant that grows from a stem or b
     </tr>
     `
     },
+    /*-Luisha*/  
+    {
+        English: "to fight",
+        French: "combattre",
+        Tshiluba: "Kuluisha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·lui·sha<p>/Koo-lwee-shah/</p>",
+        PhoneticsT: "combattre | to fight",
+        English2: "lutter contre",
+        French2: "to combat",
+        Tshiluba2: "-luisha",
+        PhoneticsT2: " ",
+        English3: "fight",
+        French3: "luisha",
+        Tshiluba3: "lwisha",
+        PhoneticsT3: " ",
+        English4: "kulwisha",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    combattre <i class="PartOfSpch">n</i><br>
+    lutter contre <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to fight <i class="PartOfSpch">n</i><br>
+    to combat <i class="PartOfSpch">n</i><br>
+    to fight against <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kuluisha <i class="PartOfSpch">md</i><br>
+    -luisha <i class="PartOfSpch">md</i><br>
+
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kuluisha signifie s'engager dans un combat ou une confrontation, souvent avec de la force physique ou des arguments, afin de vaincre un adversaire ou résoudre un conflit.
+                    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kuluisha means to engage in a struggle or confrontation, often involving physical force or argument, in order to overcome an opponent or resolve a conflict.  
+                    <br><br>
+                    
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+    ` 
+    },
     /*Lujiji*/   
     {
         English: "housefly",
@@ -36359,6 +37549,242 @@ A dianyi is a flat, typically green organ of a plant that grows from a stem or b
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     "Luse" is a feeling of sorrow and compassion caused by the suffering and misfortunes of others.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Luseke*/   
+    {
+        English: "side",
+        French: "côté",
+        Tshiluba: "luseke",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·se·ke<p>/loo-seh-keh/</p>",
+        PhoneticsT: "côté | side",
+        English2: "cote",
+        French2: "a side",
+        Tshiluba2: "luseke",
+        PhoneticsT2: " ",
+        English3: "nseke",
+        French3: "côtés",
+        Tshiluba3: "sides",
+        PhoneticsT3: " ",
+        English4: "le côté droit",
+        French4: "le cote droit",
+        Tshiluba4: "cotes",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: "le cote gauche",
+        Tshiluba5: "le côté gauche",
+        PhoneticsT5: " ",
+        English6: "left side",
+        French6: "right side",
+        Tshiluba6: "luseke lua bakaji",
+        PhoneticsT6: " ",
+        English7: "luseke lua balume",
+        French7: "de tous côtés",
+        Tshiluba7: "de tous cotes",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    côté <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    side <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    luseke <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nseke<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td class="tabledef" valign=top >
+            le côté droit <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            the right side <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            luseke lua balume <br>
+
+        </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td class="tabledef" valign=top >
+            le côté gauche <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            the right side <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            luseke lua bakaji <br>
+
+        </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+        <td class="tabledef" valign=top >
+            de tous côtés <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            all sides <br>
+
+        </td>
+        <td class="tabledef" valign=top>
+            nseke yonsu <br>
+
+        </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une luseke est la direction ou position par rapport à un centre. (ex. : côté gauche, côté droit).
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A luseke is a position or direction relative to a central point. (e.g., left side, right side).
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -------</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Lusengu*/   
+    {
+        English: "horn",
+        French: "corne",
+        Tshiluba: "lusengu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "lu·sen·gu<p>/loo-sen-goo/</p>",
+        PhoneticsT: "corne | horn",
+        English2: "cornes",
+        French2: "une corne",
+        Tshiluba2: "lusengu",
+        PhoneticsT2: " ",
+        English3: "nsengu",
+        French3: "horns",
+        Tshiluba3: "a horn",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    corne <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    horn <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    lusengu <i class="PartOfSpch">tshi5</i><br>
+    <i class="PartOfSpch">pl</i> nsengu<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une corne est une croissance dure et pointue que certains animaux ont sur la tête
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A lusengu is a hard, pointed, often curved projection growing on the heads of some animals, such as cows, goats, or deer.
                     </p> 
     <br>
     <b><i>Diumvuija</i></b><br>
@@ -49516,6 +50942,119 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
+    /*Musulu*/   
+    {
+        English: "river",
+        French: "rivière, fleuve",
+        Tshiluba: "musulu",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "mu·su·lu<p>/moo-soo-loo/</p>",
+        PhoneticsT: "rivière, fleuve | river",
+        English2: "rivière",
+        French2: "fleuve",
+        Tshiluba2: "musulu",
+        PhoneticsT2: " ",
+        English3: "misulu",
+        French3: "riviere",
+        Tshiluba3: "rivers",
+        PhoneticsT3: " ",
+        English4: "fleuve Congo",
+        French4: "musulu wa nsadi",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    rivière <i class="PartOfSpch">n</i><br>
+    fleuve <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    host <i class="PartOfSpch">n</i><br>
+    multitude <i class="PartOfSpch">n</i><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    musulu <i class="PartOfSpch">tshi2</i><br>
+    <i class="PartOfSpch">pl</i> misulu<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    fleuve Congo<br>
+
+    </td>
+    <td class="tabledef-1" valign=top>
+    Congo River<br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    musulu wa Nsadi<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Le terme 'musulu' fait référence à un grand cours d'eau naturel qui s'écoule vers un océan, une mer ou un lac, généralement avec un flux continu et un chemin défini." Un cours d'eau naturel qui s'écoule généralement vers la mer, un océan ou un lac, ayant un flux continu et un chemin défini.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    The term "musulu" in refers to a large, natural stream of water that flows towards an ocean, sea, or lake, typically with a continuous flow and defined path.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    --------</p>
+    </td>
+    </tr>
+    `
+    },
     /*Musumba*/   
     {
         English: "host",
@@ -56751,379 +58290,6 @@ An expulsion of gas from the digestive system through the anus, often accompanie
         </tr>
     `
     },
-    /*-Patuka*/   
-    {
-        English: "to exit",
-        French: "sortir",
-        Tshiluba: "kupatuka",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-        Phonetics: "Ku·pa·tu·ka<p>/Koo-pah-too-kah/</p>",
-        PhoneticsT: "sortir | to exit",
-        English2: "exit",
-        French2: "to go out of",
-        Tshiluba2: "-patuka",
-        PhoneticsT2: " ",
-        English3: "sortir de",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    sortir <i class="PartOfSpch">v</i> <br>
-    </td>
-    <td class="tabledef" valign=top >
-    to exit <i class="PartOfSpch">v</i> <br>
-    to leave <i class="PartOfSpch">v</i> <br><br>
-    </td>
-    <td class="tabledef" valign=top >
-    kupatuka <i class="PartOfSpch">md</i><br>
-    -patuka <i class="PartOfSpch">md</i>
-    </td>
-    </tr>
-    <tr>
-        <td colspan="3" class="explanation">
-        <b><i>Explication</i></b><br>
-        <p class="explanation-fr">
-        Pour quitter un espace confiné ou clos, tel qu'un bâtiment, une pièce ou un véhicule, à partir d'un emplacement spécifique, tel qu'une porte, un portail ou une autre ouverture désignée.
-                        </p>
-        <br><br>
-        <b><i>Explanation</i></b><br>
-        <p class="explanation-en">
-            
-        To leave a confined or enclosed space, such as a building, room, or vehicle from a specific location, such as through a door, gate, or other designated opening. 
-                        </p> 
-        <br><br>
-        <b><i>Diumvuija</i></b><br>
-        <p class="explanation-tsh">
-        -----</p>
-        <br><br></td>
-        </tr>
-    `
-    },
-    /*Penyi*/   
-     {
-        English: "Where",
-        French: "Où",
-        Tshiluba: "Penyi",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
-        Phonetics: "Pen·yi<p>/PEN-yee/</p>",
-        PhoneticsT: "Où / Where",
-        English2: " ",
-        French2: " ",
-        Tshiluba2: "penyi",
-        PhoneticsT2: " ",
-        English3: " ",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    Où
-    </td>
-    <td class="tabledef" valign=top >
-    where
-    </td>
-    <td class="tabledef" valign=top >
-    penyi
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>:
-    <i>Où sont-ils?
-                    :<br>
-                    &nbsp:
-    Where are they?
-                    :<br>
-                    &nbsp:&nbsp
-    Badi penyi? :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*-Pesha*/   
-    {
-        English: "to give",
-        French: "Donner",
-        Tshiluba: "Kupesha",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-        Phonetics: "Ku·pesh·a·ja<p>/koo-pesh-ah/</p>",
-        PhoneticsT: "Donner / Give",
-        English2: "pesha",
-        French2: " ",
-        Tshiluba2: "-pesha",
-        PhoneticsT2: " ",
-        English3: "give",
-        French3: " ",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: " ",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: " ",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    donner <i class="PartOfSpch">v</i><br>
-    </td>
-    <td class="tabledef" valign=top >
-    give <i class="PartOfSpch">v</i>
-    </td>
-    <td class="tabledef" valign=top >
-    kupesha <i class="PartOfSpch">md</i><p>
-    </td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3" class="analogy">
-    <table class="h-lines" id="h-lines"></table><br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
-                    <a class="links" href="/search/?inpt1=kuangata">kuangata</a>,
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-    1. je donne | I am giving | <b>ndi mpesha </b><br><br>
-    2. tu donnes | you are givig | <b>udi upesha </b><br><br>
-    3. il/elle/on donne | he/she is giving | <b>udi upesha</b><br><br>
-    4. nous donnons | we are giving | <b>tudi tupesha</b><br><br>
-    5. vous donnez | you are giving | <b>nudi nupesha</b><br><br>
-    6. ils/elles donnent | they are giving | <b>badi bapesha</b><br><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>:
-    <i>Je vous donne ma paix
-                    :<br>
-                    &nbsp:
-    I give you my peace
-                    :<br>
-                    &nbsp:&nbsp
-    Ndi nnupesha ditalala dianyi :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*-Peta*/   
-    {
-        English: "to receive",
-        French: "recevoir",
-        Tshiluba: "Kupeta",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-        Phonetics: "Ku·pe·ta<p>/koo-peh-tah/</p>",
-        PhoneticsT: "recevoir | receive",
-        English2: "peta",
-        French2: "obtenir",
-        Tshiluba2: "-peta",
-        PhoneticsT2: " ",
-        English3: "to obtain",
-        French3: "obtain",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "to acquire",
-        French4: "acquérir",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "acquire",
-        French5: "capter",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    recevoir <i class="PartOfSpch">v</i><br>
-    obtenir <i class="PartOfSpch">v</i><br>
-    acquérir <i class="PartOfSpch">v</i><br>
-    capter <i class="PartOfSpch">v</i><br><br>
-
-    </td>
-    <td class="tabledef" valign=top >
-    to receive <i class="PartOfSpch">v</i><br>
-    to obtain <i class="PartOfSpch">v</i><br>
-    to acquire <i class="PartOfSpch">v</i><br><br>
-    </td>
-    <td class="tabledef" valign=top >
-    kupeta <i class="PartOfSpch">md</i><br>
-    -peta <i class="PartOfSpch">md</i>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="explanation">
-    <b><i>Explication</i></b><br>
-    <p class="explanation-fr">
-    Se voir donner ou remettre quelque chose, souvent sans le chercher activement. Cela implique d'accepter ou de recevoir quelque chose qui est offert, envoyé ou donné.
-                    </p>
-    <br><br>
-    <b><i>Explanation</i></b><br>
-    <p class="explanation-en">
-    To be given or handed something, often without actively seeking it. It involves accepting or taking in something that is offered, sent, or given to you.
-                    </p> 
-    <br><br>
-    <b><i>Diumvuija</i></b><br>
-    <p class="explanation-tsh">
-    ----</p>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3" class="analogy">
-    <table class="h-lines" id="h-lines"></table><br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
-    <a class="links" href="/alphabetindex/A/-ANGATA/">kuangata</a>, <a class="links" href="/alphabetindex/T/-TUMA/">kutuma</a>, <a class="links" href="/alphabetindex/P/-PESHA/">kupesha</a> 
-    <br><br></td>
-    </tr>
-    `
-    },
     /*-Pingaja*/   
     {
         English: "to return + [something]",
@@ -57226,116 +58392,6 @@ An expulsion of gas from the digestive system through the anus, often accompanie
                     :<br>
                     &nbsp:&nbsp
     Mpindieu pingaja mukaji wa muntu awu :
-    <br><br></td>
-    </tr>
-    `
-    },
-    /*-Pingana*/   
-    {
-        English: "to return + [somewhere]",
-        French: "Revenir",
-        Tshiluba: "Kupingana",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-        Phonetics: "Ku·ping·a·na<p>/koo-peen-gah-nah/</p>",
-        PhoneticsT: "Revenir / Return",
-        English2: "pingana",
-        French2: "Rentrer",
-        Tshiluba2: "-pingana",
-        PhoneticsT2: " ",
-        English3: "Go Back",
-        French3: "to return",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "Come Back",
-        French4: " ",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "return",
-        French5: " ",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: " ",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: " ",
-        French7: " ",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: " ",
-        French8: " ",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    1. revenir <i class="PartOfSpch">v</i><br>
-    2. rentrer <i class="PartOfSpch">v</i>
-    </td>
-    <td class="tabledef" valign=top >
-    return [somewhere] <i class="PartOfSpch">v</i><br>
-    come/go back [somewhere] <br>
-    <i class="PartOfSpch">different from</i><br>
-    <a class="links" href="/alphabetindex/P/-PINGAJA/">return [something]</a><i class="PartOfSpch">v</i>
-    </td>
-    <td class="tabledef" valign=top >
-    kupingana <i class="PartOfSpch">md</i><p>
-    </td>
-    </tr>
-    <tr>
-    <td class="tabledef_a" colspan="3" class="analogy">
-    <table class="h-lines" id="h-lines"></table>
-    <br>
-    <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                    :: <a class="links" href="/alphabetindex/P/-PINGAJA/">kupingaja</a>, 
-                    <a class="links" href="/alphabetindex/F/-FIKA/">kufika</a>, 
-                    <a class="links" href="/alphabetindex/Y/-YA/">kuya</a>, 
-                    <a class="links" href="/alphabetindex/L/-LUA/">kulua</a>, 
-                    <a class="links" href="/alphabetindex/E/-ENDA/">kuenda</a>,
-                    <a class="links" href="/alphabetindex/S/-SHIYA/">kushiya</a>,
-                    <a class="links" href="/alphabetindex/N/-NYEMA/">kunyema</a>
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    <b><i>Conjugaison | Conjugation | Mpindekenu</i></b><br><br>
-    1. je reviens | I am returning | <b>ndi mpingana </b><br><br>
-    2. tu reviens | you are returning | <b>udi upingana</b><br><br>
-    3. il/elle/on revient | he/she is returning | <b>udi upingana</b><br><br>
-    4. nous revenons | we are returning | <b>tudi tupingana</b><br><br>
-    5. vous revenez | you are returning | <b>nudi nupingana</b><br><br>
-    6. ils/elles reviennent | they are returning | <b>badi bapingana</b><br><br>
-    </td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>:
-    <i>Revenez à moi et je reviendrai vers vous
-                    :<br>
-                    &nbsp:
-    Return to me, and I will return to you
-                    :<br>
-                    &nbsp:&nbsp
-    Pinganayi ku ndi, ne meme nempingane ku nudi :
     <br><br></td>
     </tr>
     `
@@ -57464,32 +58520,32 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
-    /*-Puwa*/   
+    /*-Saba*/   
     {
-        English: "to be quiet",
-        French: "se taire",
-        Tshiluba: "Kupuwa",
-        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a><br><a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>', 
-        Phonetics: "Ku·pu·wa<p>/Koo-poo-wah/</p>",
-        PhoneticsT: "se taire | to be quiet",
-        English2: "be quiet",
-        French2: "se taire",
-        Tshiluba2: "-puwa",
+        English: "to boil",
+        French: "bouillir",
+        Tshiluba: "Kusaba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·sa·ba<p>/koo-sah-bah/</p>",
+        PhoneticsT: "bouillir | Boil",
+        English2: "boil",
+        French2: "bouillonner",
+        Tshiluba2: "-saba",
         PhoneticsT2: " ",
-        English3: "tais toi",
-        French3: "shut-up",
-        Tshiluba3: "shutup",
+        English3: "saba",
+        French3: " ",
+        Tshiluba3: " ",
         PhoneticsT3: " ",
-        English4: "tais-toi",
-        French4: "shush",
-        Tshiluba4: "to shush",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
         PhoneticsT4: " ",
-        English5: "chut",
-        French5: "keep quiet",
-        Tshiluba5: "puwa",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
         PhoneticsT5: " ",
-        English6: "hush",
-        French6: "keep silent",
+        English6: " ",
+        French6: " ",
         Tshiluba6: " ",
         PhoneticsT6: " ",
         English7: " ",
@@ -57523,19 +58579,35 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    se taire <i class="PartOfSpch">v</i><br>
-    chut <i class="PartOfSpch">v</i><br>
+    bouillir <i class="PartOfSpch">v</i><br>
+    bouillonner <i class="PartOfSpch">v</i><br>
     </td>
     <td class="tabledef" valign=top >
-    to be quiet <i class="PartOfSpch">v</i> <br>
-    to keep quiet <i class="PartOfSpch">v</i> <br>
-    shutup <i class="PartOfSpch">v</i> <br>
-    shush <i class="PartOfSpch">v</i><br>
-    hush <i class="PartOfSpch">v</i><br><br>
+    to boil <i class="PartOfSpch">v</i><br>
+    to bubble <i class="PartOfSpch">v</i><br>
+
     </td>
     <td class="tabledef" valign=top >
-    kupuwa <i class="PartOfSpch">md</i><br>
-    -puwa <i class="PartOfSpch">md</i><br><br>
+    kusaba <i class="PartOfSpch">md</i><br>
+    -saba
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    faire bouillir <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to make boil <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SABISHA/">kusabisha</a> <i class="PartOfSpch">md</i><br>
+    -sabisha <br>
+
 
     </td>
     </tr>
@@ -57549,36 +58621,315 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     <td colspan="3" class="dividerspace"></td>
     </tr>
     <tr>
-    <td class="tabledef" valign=top >
-    tais-toi <br>
+    <td class="tabledef-1" valign=top >
+    l'eau bout
     </td>
-    <td class="tabledef" valign=top >
-    be quiet <br>
+    <td class="tabledef-1" valign=top >
+    the water is boiling
 
     </td>
-    <td class="tabledef" valign=top >
-    puwa <br>
+    <td class="tabledef-1" valign=top >
+    mayi adi asaba
 
     </td>
     </tr>
     <tr>
-        <td colspan="3" class="explanation">
-        <b><i>Explication</i></b><br>
-        <p class="explanation-fr">
-        Être silencieux signifie s'abstenir de faire du bruit ou de parler, en maintenant le silence ou l'immobilité. Cela peut se référer à la tranquillité physique (réduire les sons comme les mouvements ou les bruits) et à la tranquillité verbale (ne pas parler). L'expression est souvent utilisée comme une demande ou un ordre dans des situations où le silence est souhaité ou nécessaire, comme dans les bibliothèques, pendant les spectacles ou lorsque quelqu'un a besoin de se concentrer.
-                        </p>
-        <br><br>
-        <b><i>Explanation</i></b><br>
-        <p class="explanation-en">
-        To be quiet means to refrain from making noise or speaking, maintaining silence or stillness. It can refer to both physical quietness (reducing sounds like movements or noises) and verbal quietness (not talking). The phrase is often used as a request or command in situations where silence is desired or necessary, such as in libraries, during performances, or when someone needs to concentrate.
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    mets bouillir de l'eau
+    </td>
+    <td class="tabledef-1" valign=top >
+    go boil some water
 
-                        </p> 
-        <br><br>
-        <b><i>Diumvuija</i></b><br>
-        <p class="explanation-tsh">
-        -----</p>
-        </td>
-        </tr>
+    </td>
+    <td class="tabledef-1" valign=top >
+    sabisha mayi
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusaba signifie chauffer un liquide jusqu'à ce qu'il atteigne son point d'ébullition et commence à se transformer en vapeur. Être extrêmement chaud ou agité.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusaba means to heat a liquid until it reaches its boiling point and starts to turn into vapor. To be extremely hot or agitated.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+
+    `
+    },
+    /*-Sabisha*/   
+    {
+        English: "to make boil",
+        French: "faire bouillir",
+        Tshiluba: "Kusabisha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·sa·bi·sha<p>/koo-sah-bee-shah/</p>",
+        PhoneticsT: "faire bouillir | to make boil",
+        English2: "make boil",
+        French2: " ",
+        Tshiluba2: "-sabisha",
+        PhoneticsT2: " ",
+        English3: "sabisha",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    faire bouillir <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to make boil <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SABISHA/">kusabisha</a> <i class="PartOfSpch">md</i><br>
+    -sabisha <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bouillir <i class="PartOfSpch">v</i><br>
+    bouillonner <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to boil <i class="PartOfSpch">v</i><br>
+    to bubble <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SABA/">kusaba</a> <i class="PartOfSpch">md</i><br>
+    -saba
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    l'eau bout
+    </td>
+    <td class="tabledef-1" valign=top >
+    the water is boiling
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    mayi adi asaba
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    mets bouillir de l'eau
+    </td>
+    <td class="tabledef-1" valign=top >
+    go boil some water
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    sabisha mayi
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusabisha signifie porter un liquide à son point d'ébullition. Rendre quelque chose extrêmement chaud ou agité.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusabisha means to make a liquid reach its boiling point. To make something extremely hot or agitated.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*-Sabuka*/   
+    {
+        English: "to ford; to cross a river",
+        French: "passer une rivière",
+        Tshiluba: "kusabuka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·sa·bu·ka<p>/koo-sah-boo-kah/</p>",
+        PhoneticsT: "passer une rivière | to cross a river",
+        English2: "cross a river",
+        French2: "passer une riviere",
+        Tshiluba2: "-sabuka",
+        PhoneticsT2: " ",
+        English3: "sabuka",
+        French3: "passer à gué",
+        Tshiluba3: "passer a gue",
+        PhoneticsT3: " ",
+        English4: "traverser a gue",
+        French4: "traverser à gué",
+        Tshiluba4: "ford",
+        PhoneticsT4: " ",
+        English5: "traverser une rivière",
+        French5: "traverser une riviere",
+        Tshiluba5: "to ford",
+        PhoneticsT5: " ",
+        English6: "to cross a river",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    passer une rivière <i class="PartOfSpch">v</i><br>
+    traverser une rivière <i class="PartOfSpch">v</i><br>
+    passer à gué <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to ford <i class="PartOfSpch">v</i><br>
+    to cross a river <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusabuka <i class="PartOfSpch">md</i><br>
+    -sabuka <br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef-1" valign=top >
+    Il a traversé la rivière.
+    </td>
+    <td class="tabledef-1" valign=top >
+    He crossed the river.
+
+    </td>
+    <td class="tabledef-1" valign=top >
+    Kusabukaye musulu.
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusabuka signifie traverser une rivière à un point peu profond en marchant, en chevauchant ou en conduisant à travers l'eau, plutôt que d'utiliser un pont ou un bateau.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusabuka means to cross a river at a shallow point by walking, riding, or driving through the water, rather than using a bridge or boat.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
     `
     },
     /*-Sangisha*/   
@@ -57949,6 +59300,101 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     </tr>
     `
     },
+    /*-Shibeya*/   
+    {
+        English: "to kill",
+        French: "tuer",
+        Tshiluba: "kushibeya",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·shi·be·ya<p>/koo-shee-beh-yah/</p>",
+        PhoneticsT: "tuer | kill",
+        English2: "to assassinate",
+        French2: "assassinate",
+        Tshiluba2: "-shibeya",
+        PhoneticsT2: " ",
+        English3: "shibeya",
+        French3: "to murder",
+        Tshiluba3: "murder",
+        PhoneticsT3: " ",
+        English4: "assassiner",
+        French4: "shebeya",
+        Tshiluba4: "kushebeya",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    tuer <i class="PartOfSpch">v</i> <br>
+    assassiner <i class="PartOfSpch">v</i> <br>
+    </td>
+    <td class="tabledef" valign=top >
+    to kill <i class="PartOfSpch">v</i> <br>
+    to assassinate <i class="PartOfSpch">v</i> <br>
+    to murder <i class="PartOfSpch">v</i> <br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    kushibeya <i class="PartOfSpch">md</i><br>
+    -shibeya <i class="PartOfSpch">md</i><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SHIPA/">kushipa</a><br>
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+        Causer la mort d'un organisme vivant, généralement intentionnellement. Mettre fin à la vie d'une personne, d'un animal ou d'une plante.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            
+    Kushibeya means to cause the death of a living organism, usually intentionally. To end the life of a person, animal, or plant. 
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        -----</p>
+        </td>
+        </tr>
+    `
+    },
     /*-Shila*/   
     {
         English: "to leave to",
@@ -58269,7 +59715,98 @@ An expulsion of gas from the digestive system through the anus, often accompanie
         </tr>
     `
     },
-        /*-Shipa*/   
+    /*-Shintuluka*/   
+{
+    English: "to change",
+    French: "changer",
+    Tshiluba: "kushintuluka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe transitif</a> | <a class="links" href="/alphabetindex/M/MUANDA/">transitive verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·shin·tu·lu·ka<p>/koo-sheen-too-loo-kah/</p>",
+    PhoneticsT: "changer | to change",
+    English2: "to transform",
+    French2: "transformer",
+    Tshiluba2: "-shintuluka",
+    PhoneticsT2: " ",
+    English3: "shintuluka",
+    French3: "se transformer",
+    Tshiluba3: "se changer",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+changer <i class="PartOfSpch">v</i> <br>
+transformer <i class="PartOfSpch">v</i> <br><br>
+</td>
+<td class="tabledef" valign=top >
+to change <i class="PartOfSpch">v</i> <br>
+to transform <i class="PartOfSpch">v</i> <br><br>
+</td>
+<td class="tabledef" valign=top >
+kushintuluka <i class="PartOfSpch">md</i><br>
+-shintuluka <i class="PartOfSpch">md</i>
+</td>
+</tr>
+<tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Rendre ou devenir différent. Remplacer quelque chose par autre chose. Subir une transformation ou une modification.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+        
+    To make or become different. To replace something with something else. To undergo transformation or modification.
+                    </p> 
+    <br><br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----------</p>
+    </td>
+    </tr>
+`
+},
+    /*-Shipa*/   
     {
         English: "to kill",
         French: "tuer",
@@ -58691,6 +60228,224 @@ An expulsion of gas from the digestive system through the anus, often accompanie
         </tr>
     `
     },
+    /*-Somba*/   
+    {
+        English: "to sit, to borrow",
+        French: "asseoir, emprunter",
+        Tshiluba: "kusomba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·som·ba<p>/koo-some-bah/</p>",
+        PhoneticsT: "asseoir | to sit",
+        English2: "s'asseoir",
+        French2: "sit",
+        Tshiluba2: "-somba",
+        PhoneticsT2: " ",
+        English3: "somba",
+        French3: "to be seated",
+        Tshiluba3: "etre assis",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: "to sit",
+        Tshiluba4: "to borrow",
+        PhoneticsT4: " ",
+        English5: "emprunter",
+        French5: "asseoir",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    asseoir <i class="PartOfSpch">v</i><br>
+    s'asseoir <i class="PartOfSpch">v</i><br>
+    etre assis <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to sit <i class="PartOfSpch">v</i><br>
+    to be seated <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusomba <i class="PartOfSpch">md</i><br>
+    -somba<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    emprunter <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to borrow <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusomba <i class="PartOfSpch">md</i><br>
+    -somba<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SOMBESHA/">kusombesha</a>
+
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusomba signifie se reposer avec le corps soutenu par les fesses ou les cuisses, généralement sur une chaise ou une autre surface. S’asseoir et emprunter se disent tous deux Kusomba, cependant la prononciation est différente entre les deux. 
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusomba means to rest with the body supported by the buttocks or thighs, typically on a chair or other surface. To sit, and to borrow are both Kusomba, however the pronunciation is different between the two.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+
+    `
+    },
+    /*-Sombesha*/   
+    {
+        English: "to lend",
+        French: "prêter",
+        Tshiluba: "kusombesha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·som·be·sha<p>/koo-sohm-beh-shah/</p>",
+        PhoneticsT: "prêter | to lend",
+        English2: "lend",
+        French2: "preter",
+        Tshiluba2: "-sombesha",
+        PhoneticsT2: " ",
+        English3: "sombesha",
+        French3: " ",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    prêter <i class="PartOfSpch">v</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to lend <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusombesha <i class="PartOfSpch">md</i><br>
+    -sombesha<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusombesha signifie donner quelque chose à quelqu’un pour un certain temps, avec l’idée que cela sera rendu.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusombesha means to give something (such as money or an object) to someone temporarily, with the expectation that it will be returned.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*-Sua*/   
     {
         English: "to desire",
@@ -59010,6 +60765,310 @@ An expulsion of gas from the digestive system through the anus, often accompanie
         -----</p>
         </td>
         </tr>
+    `
+    },
+    /*-Sumba*/   
+    {
+        English: "to buy",
+        French: "acheter",
+        Tshiluba: "kusumba",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·sum·ba<p>/koo-soom-bah/</p>",
+        PhoneticsT: "acheter | to buy",
+        English2: "buy",
+        French2: "purchase",
+        Tshiluba2: "-sumba",
+        PhoneticsT2: " ",
+        English3: "sumba",
+        French3: "to purchase",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    acheter <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to buy <i class="PartOfSpch">v</i><br>
+    to purchase <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusumba <i class="PartOfSpch">md</i><br>
+    -sumba<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SUMBISHA/">kusumbisha</a>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusumba signifie obtenir quelque chose en échange d'argent ou d'un autre paiement. Cela fait référence à l'acte d'acheter un article ou un service.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusumba means to obtain something in exchange for money or other payment. It refers to the act of purchasing an item or service.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+
+    `
+    },
+    /*-Sumbisha*/   
+    {
+        English: "to sell",
+        French: "vendre",
+        Tshiluba: "kusumbisha",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·sum·bi·sha<p>/koo-soom-bee-sha/</p>",
+        PhoneticsT: "vendre | to sell",
+        English2: "buy",
+        French2: "purchase",
+        Tshiluba2: "-sumbisha",
+        PhoneticsT2: " ",
+        English3: "sumbisha",
+        French3: "to purchase",
+        Tshiluba3: " ",
+        PhoneticsT3: " ",
+        English4: "to vend",
+        French4: "vend",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    vendre <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to sell <i class="PartOfSpch">v</i><br>
+    to vend <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusumbisha <i class="PartOfSpch">md</i><br>
+    -sumbisha<br><br>
+
+    kabidi:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/L/-LEKA/">kuleka</a><br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/S/-SUMBA/">kusumba</a><br>
+    <a style="text-decoration:none;" href="/alphabetindex/P/-PANA/">kupana</a>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusumbisha signifie échanger quelque chose contre de l'argent ou une autre compensation. Cela implique d'offrir des biens, des services ou des produits à d'autres avec l'intention de transférer la propriété en échange d'un paiement.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusumbisha means to exchange something for money or other compensation. It involves offering goods, services, or products to others with the intention of transferring ownership in return for payment. Synonyms include "kupana" and "kuleka."
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+
+    `
+    },
+    /*-Suna*/   
+    {
+        English: "to draw (water), to collect (water)",
+        French: "puiser",
+        Tshiluba: "kusuna",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·su·na<p>/koo-soo-nah/</p>",
+        PhoneticsT: "puiser | to draw (water)",
+        English2: "to draw water",
+        French2: "to draw",
+        Tshiluba2: "-suna",
+        PhoneticsT2: " ",
+        English3: "suna",
+        French3: "draw water",
+        Tshiluba3: "collect water",
+        PhoneticsT3: " ",
+        English4: "to collect water",
+        French4: "puiser de l'eau",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    puiser <i class="PartOfSpch">v</i><br>
+    </td>
+    <td class="tabledef" valign=top >
+    to draw (water) <i class="PartOfSpch">v</i><br>
+    to collect (water) <i class="PartOfSpch">v</i><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kusuna <i class="PartOfSpch">md</i><br>
+    -suna<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Kusuna signifie prendre de l'eau d'une source, comme un puits, une rivière ou un robinet, généralement pour l'utiliser ou la consommer.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Kusuna means to take water from a source, such as a well, a river, or a faucet, typically for use or consumption.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+
     `
     },
     /*-Sungula*/   
@@ -69664,113 +71723,6 @@ An expulsion of gas from the digestive system through the anus, often accompanie
     <br><br></td>
     </tr>
     `
-    },
-    /*Tshitupa*/  
-    {
-        English: "Part",
-        French: "Partie",
-        Tshiluba: "Tshitupa",
-        PartOfSpeech: '<a class="links" href="/search/?inpt1=noun">nom</a> | <a class="links" href="/search/?inpt1=noun">noun</a> | <a class="links" href="/search/?inpt1=noun">tshibikidilu</a>',
-        Phonetics: "Tshi·tu·pa<p>/chee-too-pah/</p>",
-        PhoneticsT: "Partie / Part",
-        English2: "Section",
-        French2: "Morceau",
-        Tshiluba2: "tshitupa",
-        PhoneticsT2: " ",
-        English3: "Chapter",
-        French3: "Chapitre",
-        Tshiluba3: " ",
-        PhoneticsT3: " ",
-        English4: "Portion",
-        French4: "Fraction",
-        Tshiluba4: " ",
-        PhoneticsT4: " ",
-        English5: "Pieces",
-        French5: "Parts",
-        Tshiluba5: " ",
-        PhoneticsT5: " ",
-        English6: "Piece",
-        French6: " ",
-        Tshiluba6: " ",
-        PhoneticsT6: " ",
-        English7: "Sections",
-        French7: "Bitupa",
-        Tshiluba7: " ",
-        PhoneticsT7: " ",
-        English8: "fractions",
-        French8: "chapters",
-        Tshiluba8: " ",
-        PhoneticsT8: " ",
-        English9: " ",
-        French9: " ",
-        Tshiluba9: " ",
-        PhoneticsT9: " ",
-        English10: " ",
-        French10: " ",
-        Tshiluba10: " ",
-        PhoneticsT10: " ",
-        English11: " ",
-        French11: " ",
-        Tshiluba11: " ",
-        PhoneticsT11: " ",
-        InfoTable: `
-    <tr>
-            <th><u>Francais</th>
-            <th><u>English</th>
-            <th ><u>Tshiluba</th>
-    </tr>
-    <tr>
-    <td colspan="3" class="dividerspace"></td>
-    </tr>
-    <tr>
-    <td class="tabledef" valign=top >
-    1. morceau <i class="PartOfSpch">n</i>,<br>
-    fraction <i class="PartOfSpch">n</i>,<br>
-    portion <i class="PartOfSpch">n</i><br>
-    2. chapitre
-    </td>
-    <td class="tabledef" valign=top >
-    1. part <i class="PartOfSpch">n</i>,<br>
-    piece<i class="PartOfSpch">n</i>,<br>
-    fraction <i class="PartOfSpch">n</i><br>
-    2. chapter <i class="PartOfSpch">n</i>
-    </td>
-    <td class="tabledef" valign=top >
-    tshitupa <i class="PartOfSpch">tshi9</i><p>
-    <i class="PartOfSpch">pl</i> bitupa
-    </td>
-    </tr>
-    <tr style="text-align:left";>
-    <td colspan="3" class="analogy"><br>
-    <b><i>Explication</i></b><br>
-<p class="explanation-fr">
-    Une portion ou une quantité séparée ou limitée de quelque chose.
-                    <br><br>
-                    
-    <b><i>Explanation</i></b><br>
-<p class="explanation-en">
-    A separate or limited portion or quantity of something.
-    
-    <br><br>
-                   
-    <b><i>Diumvuija</i></b><br>
-<p class="explanation-tsh">
-    -----
-    <br><br></td>
-    </tr>
-    <tr>
-    <td colspan="3" class="analogy"><br>
-    Un moreceau de bois dans l'eau ne s'est jamais transformé en crocodile.
-                    <br><br>
-                    &nbsp
-    A piece of wood in the water never turned into a crocodile.
-                    <br><br>
-                    &nbsp&nbsp
-    Tshitupa tshia mutshi mu mayi, katshia ki ntshandamuka ngandu.
-    <br><br></td>
-    </tr>
-    <tr>
-    ` 
     },
     /*Tshiviela*/   
     {
