@@ -49150,29 +49150,29 @@ Bukole describes the quality or state of being physically strong; the ability to
     },
     /*Mukanku*/   
     {
-        English: "vulture",
-        French: "vautour",
+        English: "eagle",
+        French: "aigle",
         Tshiluba: "mukanku",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Mba·ji<p>/Mbah-jee/</p>",
-        PhoneticsT: "vautour | vulture",
-        English2: "vultures",
-        French2: "gypaète",
+        Phonetics: "mu·kan·ku<p>/moo-kahn-koo/</p>",
+        PhoneticsT: "aigle | eagle",
+        English2: "eagles",
+        French2: "aigles",
         Tshiluba2: "mukanku",
         PhoneticsT2: " ",
         English3: "mikanku",
-        French3: "bearded vulture",
+        French3: "bald eagle",
         Tshiluba3: " ",
         PhoneticsT3: " ",
-        English4: "munkanku",
-        French4: "minkanku",
+        English4: "pygargue à tête blanche",
+        French4: "pygargue",
         Tshiluba4: " ",
         PhoneticsT4: " ",
-        English5: "urubu",
-        French5: "black vulture",
+        English5: "erne",
+        French5: " ",
         Tshiluba5: " ",
         PhoneticsT5: " ",
-        English6: "turkey vulture",
+        English6: " ",
         French6: " ",
         Tshiluba6: " ",
         PhoneticsT6: " ",
@@ -49207,36 +49207,34 @@ Bukole describes the quality or state of being physically strong; the ability to
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    vautour <i class="PartOfSpch">n</i><br>
-    gypaète <i class="PartOfSpch">n</i><br>
-    urubu <i class="PartOfSpch">n</i><br><br>
+    aigle <i class="PartOfSpch">n</i><br>
+    pygargue <i class="PartOfSpch">n</i><br>
     </td>
     <td class="tabledef" valign=top>
-    vulture <i class="PartOfSpch">n</i><br>
-    bearded vulture <i class="PartOfSpch">n</i><br>
-    black vulture <i class="PartOfSpch">n</i><br><br>
+    eagle <i class="PartOfSpch">n</i><br>
+    erne <i class="PartOfSpch">n</i><br>
 
     </td>
     <td class="tabledef" valign=top>
     mukanku <i class="PartOfSpch">tshi2</i><br>
-    <i class="PartOfSpch">pl</i> mikanku<br><br><br><br>
+    <i class="PartOfSpch">pl</i> mikanku<br>
     </td>
     </tr>
     <tr>
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
     <p class="explanation-fr">
-    Un grand oiseau de proie qui se nourrit principalement de charognes (animaux morts).
+    Un grand oiseau de proie appartenant à la famille des Accipitridés et au genre Aquila.
                     </p>
     <br><br>
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
-    A large bird of prey that primarily scavenges on carrion (dead animals). 
+    A large bird of prey belonging to the family Accipitridae and the genus Aquila.
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
     <p class="explanation-tsh">
-    Nyunyi munene udi udia bitalu.</p>
+    --------</p>
     <br><br></td>
     </tr>
     <tr>
@@ -70826,29 +70824,29 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     },
     /*Tshiminyi*/   
     {
-        English: "eagle",
-        French: "aigle",
+        English: "vulture",
+        French: "vautour",
         Tshiluba: "tshiminyi",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "Tshi·mi·nyi<p>/Chee-mee-nyee/</p>",
-        PhoneticsT: "aigle | eagle",
-        English2: "eagles",
-        French2: "aigles",
+        Phonetics: "tshi·mi·nyi<p>/chee-meen-nyee/</p>",
+        PhoneticsT: "vautour | vulture",
+        English2: "vultures",
+        French2: "gypaète",
         Tshiluba2: "tshiminyi",
         PhoneticsT2: " ",
         English3: "biminyi",
-        French3: "bald eagle",
+        French3: "bearded vulture",
         Tshiluba3: " ",
         PhoneticsT3: " ",
-        English4: "pygargue à tête blanche",
-        French4: "pygargue",
+        English4: "munkanku",
+        French4: "minkanku",
         Tshiluba4: " ",
         PhoneticsT4: " ",
-        English5: "erne",
-        French5: " ",
+        English5: "urubu",
+        French5: "black vulture",
         Tshiluba5: " ",
         PhoneticsT5: " ",
-        English6: " ",
+        English6: "turkey vulture",
         French6: " ",
         Tshiluba6: " ",
         PhoneticsT6: " ",
@@ -70883,16 +70881,18 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     </tr>
     <tr>
     <td class="tabledef" valign=top >
-    aigle <i class="PartOfSpch">n</i><br>
-    pygargue <i class="PartOfSpch">n</i><br><br>
+    vautour <i class="PartOfSpch">n</i><br>
+    gypaète <i class="PartOfSpch">n</i><br>
+    urubu <i class="PartOfSpch">n</i><br><br>
     </td>
     <td class="tabledef" valign=top>
-    eagle <i class="PartOfSpch">n</i><br>
-    erne <i class="PartOfSpch">n</i><br><br>
+    vulture <i class="PartOfSpch">n</i><br>
+    bearded vulture <i class="PartOfSpch">n</i><br>
+    black vulture <i class="PartOfSpch">n</i><br><br>
 
     </td>
     <td class="tabledef" valign=top>
-    tshiminyi <i class="PartOfSpch">tshi9</i><br>
+    tshiminyi <i class="PartOfSpch">tshi8</i><br>
     <i class="PartOfSpch">pl</i> biminyi<br><br><br><br>
     </td>
     </tr>
@@ -70900,17 +70900,17 @@ A cold-blooded, aquatic vertebrate that typically has fins, gills for respiratio
     <td colspan="3" class="explanation">
     <b><i>Explication</i></b><br>
     <p class="explanation-fr">
-    Un grand oiseau de proie appartenant à la famille des Accipitridés et au genre Aquila.
+    Un grand oiseau de proie qui se nourrit principalement de charognes (animaux morts).
                     </p>
     <br><br>
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
-    A large bird of prey belonging to the family Accipitridae and the genus Aquila.
+    A large bird of prey that primarily scavenges on carrion (dead animals). 
                     </p> 
     <br><br>
     <b><i>Diumvuija</i></b><br>
     <p class="explanation-tsh">
-    --------</p>
+    Nyunyi munene udi udia bitalu.</p>
     <br><br></td>
     </tr>
     <tr>
