@@ -828,6 +828,98 @@ const nkongamiaku2 = [
         </tr>
     `
     },
+    /*-Andamuna*/   
+    {
+        English: "to respond, to reply, to answer",
+        French: "répondre",
+        Tshiluba: "kuandamuna",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·an·da·mu·na<p>/kwahn-dah-moo-nah/</p>",
+        PhoneticsT: "répondre | to respond",
+        English2: "respond",
+        French2: "répondre",
+        Tshiluba2: "-andamuna",
+        PhoneticsT2: " ",
+        English3: "to respond",
+        French3: "to reply",
+        Tshiluba3: "to answer",
+        PhoneticsT3: " ",
+        English4: "reply",
+        French4: "answer",
+        Tshiluba4: "andamuna",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    répondre <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    to respond <i class="PartOfSpch">v</i><br>
+    to reply <i class="PartOfSpch">v</i><br>
+    to answer <i class="PartOfSpch">v</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top >
+    kuandamuna <i class="PartOfSpch">md</i><br>
+    -andamuna <i class="PartOfSpch">md</i>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Dire ou faire quelque chose en réaction à ce qui a été dit ou fait.
+                    </p>
+    <br><br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    To say or do something as a reaction to something that has been said or done.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*-Angata*/   
     {
         English: "to take",
@@ -64058,6 +64150,103 @@ kushintuluka <i class="PartOfSpch">md</i><br>
         </tr>
     `
     },
+    /*-Tandangana*/   
+    {
+        English: "to quarrel, to argue",
+        French: "se quereller, se disputer",
+        Tshiluba: "kutandangana",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+        Phonetics: "ku·tan·dan·ga·na<p>/koo-tahn-dahn-gah-nah/</p>",
+        PhoneticsT: "se quereller | to argue",
+        English2: "to quarrel",
+        French2: "to argue",
+        Tshiluba2: "-tandangana",
+        PhoneticsT2: " ",
+        English3: "tandangana",
+        French3: "argue",
+        Tshiluba3: "quarrel",
+        PhoneticsT3: " ",
+        English4: "se quereller",
+        French4: "se disputer",
+        Tshiluba4: "to fight",
+        PhoneticsT4: " ",
+        English5: "fight",
+        French5: "se chamailler",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign="top">
+    se quereller <i class="PartOfSpch">v</i><br>
+    se disputer <i class="PartOfSpch">v</i><br>
+    se chamailler <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    to argue <i class="PartOfSpch">v</i><br>
+    to dispute <i class="PartOfSpch">v</i><br>
+    to fight <i class="PartOfSpch">v</i><br>
+    <br>
+
+    </td>
+    <td class="tabledef" valign="top">
+    kutandangana <i class="PartOfSpch">md</i><br>
+    -tandangana<br><br>
+
+    </td>
+    </tr>
+    <tr>
+        <td colspan="3" class="explanation">
+        <b><i>Explication</i></b><br>
+        <p class="explanation-fr">
+            Kutandangana signifie se disputer de manière vive ou en colère.
+                        </p>
+        <br>
+        <b><i>Explanation</i></b><br>
+        <p class="explanation-en">
+            Kutandangana means to have an angry or heated argument. It often involves personal disagreement and emotional tension.
+                        </p> 
+        <br>
+        <b><i>Diumvuija</i></b><br>
+        <p class="explanation-tsh">
+        ----</p>
+        </td>
+        </tr>
+    `
+    },
     /*-Tangila*/   
     {
         English: "to look",
@@ -68134,6 +68323,141 @@ kushintuluka <i class="PartOfSpch">md</i><br>
     </tr>
     `
     },
+    /*Tshiendelele*/   
+    {
+        English: "forever, eternally, perpetually",
+        French: "pour toujours, éternellement, perpétuellement",
+        Tshiluba: "tshiendelele",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+        Phonetics: "tshi·en·de·le·le<p>/ch-yen-deh-leh-lah/</p>",
+        PhoneticsT: "éternellement | eternally",
+        English2: "éternellement",
+        French2: "perpétuellement",
+        Tshiluba2: "tshiendelele",
+        PhoneticsT2: " ",
+        English3: "wa tshiendelele",
+        French3: "eternally",
+        Tshiluba3: "perpetually",
+        PhoneticsT3: " ",
+        English4: "pour toujours",
+        French4: "forever",
+        Tshiluba4: "eternal",
+        PhoneticsT4: " ",
+        English5: "perpetual",
+        French5: "éternelle",
+        Tshiluba5: "éternel",
+        PhoneticsT5: " ",
+        English6: "perpétuelle",
+        French6: "perpétuel",
+        Tshiluba6: "continual",
+        PhoneticsT6: " ",
+        English7: "continuel",
+        French7: "tshiendelela",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    pour toujours <i class="PartOfSpch">adv</i><br><br>
+    éternellement <i class="PartOfSpch">adv</i><br>
+    perpétuellement <i class="PartOfSpch">adv</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    forever <i class="PartOfSpch">adv</i><br>
+    eternally <i class="PartOfSpch">adv</i><br>
+    perpetually <i class="PartOfSpch">adv</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshiendelele <i class="PartOfSpch">muam</i><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    éternel <i class="PartOfSpch">adj</i><br>
+    éternelle <i class="PartOfSpch">adj</i><br>
+    perpétuel <i class="PartOfSpch">adv</i><br>
+    perpétuelle <i class="PartOfSpch">adv</i><br>
+    continuel <i class="PartOfSpch">adv</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    eternal <i class="PartOfSpch">adj</i><br>
+    perpetual <i class="PartOfSpch">adj</i><br>
+    continual <i class="PartOfSpch">adj</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    -a tshiendelele <i class="PartOfSpch">muf</i><br>
+    wa tshiendelele
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    applaudissez <br>
+    </td>
+    <td class="tabledef" valign=top>
+    clap your hands<br>
+    </td>
+    <td class="tabledef" valign=top>
+    tuta bikashi<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Tshiendelele signifie pour toujours, sans fin, ou pendant une très longue durée. Cela peut désigner quelque chose de permanent ou de durable.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Tshiendelele means for all time, without end, or for an extremely long time. It can refer to something permanent or something that lasts a very long time.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*Tshifu*/   
     {
         English: "stomach",
@@ -68370,6 +68694,100 @@ kushintuluka <i class="PartOfSpch">md</i><br>
         </td>
         </tr>
         `
+    },
+    /*Tshihela*/   
+    {
+        English: "desert, wilderness",
+        French: "désert, région sauvage",
+        Tshiluba: "tshihela",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshi·he·la<p>/chee-heh-lah/</p>",
+        PhoneticsT: "désert | desert",
+        English2: "desert",
+        French2: "wilderness",
+        Tshiluba2: "tshihela",
+        PhoneticsT2: " ",
+        English3: "bihela",
+        French3: "région sauvage",
+        Tshiluba3: "désert",
+        PhoneticsT3: " ",
+        English4: " ",
+        French4: " ",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    désert <i class="PartOfSpch">n</i><br>
+    région sauvage <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    desert <i class="PartOfSpch">n</i><br>
+    wilderness <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshihela <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bihela<br><br>
+
+    tangila:<br>
+    <a style="text-decoration:none;" href="/alphabetindex/T/TSHIPELA/">tshipela</a><br>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un tshihela est une vaste région aride et stérile, généralement couverte de sable ou de roches, qui reçoit très peu de précipitations et abrite peu de végétation ou de faune. Une région sauvage, naturelle et peu modifiée par l’activité humaine. Elle est généralement inhabitée, non cultivée et recouverte de végétation naturelle.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A tshihela is a large, dry, barren region, typically covered with sand or rocks, that receives very little rainfall and has limited vegetation or wildlife. A wild, natural area of land that is largely untouched by human activity. It is usually uninhabited, uncultivated, and covered with natural vegetation.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
     },
     /*Tshijengu*/  
     {
@@ -68830,6 +69248,119 @@ kushintuluka <i class="PartOfSpch">md</i><br>
                     <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                     <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
     <br><br></td>
+    </tr>
+    `
+    },
+    /*Tshikashi*/   
+    {
+        English: "applause, clapping",
+        French: "applaudissements, battement",
+        Tshiluba: "tshikashi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshi·ka·shi<p>/chee-kah-shee/</p>",
+        PhoneticsT: "larme | clapping",
+        English2: "clapping",
+        French2: "applause",
+        Tshiluba2: "tshikashi",
+        PhoneticsT2: " ",
+        English3: "bikashi",
+        French3: "applaudissements",
+        Tshiluba3: "round of applause",
+        PhoneticsT3: " ",
+        English4: "battement des mains",
+        French4: "battement",
+        Tshiluba4: " ",
+        PhoneticsT4: " ",
+        English5: "a clap",
+        French5: "clap",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    battement <i class="PartOfSpch">n</i><br>
+    applaudissements <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    applause <i class="PartOfSpch">n</i><br>
+    clapping <i class="PartOfSpch">n</i><br>
+    clap <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshikashi <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bikashi<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    applaudissez <br>
+    </td>
+    <td class="tabledef" valign=top>
+    clap your hands<br>
+    </td>
+    <td class="tabledef" valign=top>
+    tuta bikashi<br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un tshikashi est un seul coup frappé en joignant les paumes des mains, produisant un son sec, souvent pour applaudir ou attirer l’attention.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A tshikashi is a single act of striking the palms of the hands together to make a sharp sound, often as a gesture of applause or to attract attention.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
     </tr>
     `
     },
@@ -71243,6 +71774,98 @@ kushintuluka <i class="PartOfSpch">md</i><br>
     </tr>
     `
     },
+    /*Tshimunyi*/   
+    {
+        English: "flashlight, torchlight, torch",
+        French: "torche, lampe torche",
+        Tshiluba: "tshimunyi",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshi·mun·yi<p>/chee-moo-nyee/</p>",
+        PhoneticsT: "torche | flashlight",
+        English2: "flashlight",
+        French2: "torchlight",
+        Tshiluba2: "tshimunyi",
+        PhoneticsT2: " ",
+        English3: "bimunyi",
+        French3: "lampe torche",
+        Tshiluba3: "torche",
+        PhoneticsT3: " ",
+        English4: "lampe de poche",
+        French4: "flash light",
+        Tshiluba4: "torch",
+        PhoneticsT4: " ",
+        English5: " ",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    torche <i class="PartOfSpch">n</i><br>
+    lampe torche <i class="PartOfSpch">n</i><br>
+    lampe de poche <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top >
+    flashlight <i class="PartOfSpch">n</i><br>
+    torchlight <i class="PartOfSpch">n</i><br>
+    torch <i class="PartOfSpch">n</i><br>                   
+    </td>
+    <td class="tabledef" valign=top >
+    tshimunyi <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bimunyi
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Une tshimunyi est une petite lampe utilisée pour éclairer dans l’obscurité.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A tshimunyi is a small, portable light used to illuminate dark areas.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
     /*-Tshina*/   
     {
         English: "to fear",
@@ -71614,6 +72237,125 @@ kushintuluka <i class="PartOfSpch">md</i><br>
     <b><i>Explanation</i></b><br>
     <p class="explanation-en">
     A tshindidimbi is a visual representation such as a drawing, photograph, or painting. A mental image or concept. (Informally) a movie or film.
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
+    },
+    /*Tshinkunduluila*/   
+    {
+        English: "ululation",
+        French: "youyou",
+        Tshiluba: "tshinkunduluila",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshin·kun·du·lu·i·la<p>/cheen-koon-doo-lwee-lah/</p>",
+        PhoneticsT: "youyou | ululation",
+        English2: "ululations",
+        French2: "youyous",
+        Tshiluba2: "tshinkunduluila",
+        PhoneticsT2: " ",
+        English3: "nkunduluila",
+        French3: "munkunduluila",
+        Tshiluba3: "kankunduluila",
+        PhoneticsT3: " ",
+        English4: "cri de joie",
+        French4: "un cri de joie",
+        Tshiluba4: "des cris de joie",
+        PhoneticsT4: " ",
+        English5: "shout for joy",
+        French5: "shout of praise",
+        Tshiluba5: "a shout of praise",
+        PhoneticsT5: " ",
+        English6: "a shout for joy",
+        French6: "binkunduluila",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    youyou <i class="PartOfSpch">n</i><br>
+    <i class="PartOfSpch">pl</i> youyous<br>
+    cri de joie <i class="PartOfSpch">n</i><br>
+    </td>
+    <td class="tabledef" valign=top>
+    ululation <i class="PartOfSpch">n</i><br>
+    <i class="PartOfSpch">pl</i> ululations<br>
+    shout for joy <i class="PartOfSpch">n</i><br>
+    shout of praise <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    tshinkunduluila <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> binkunduluila<br><br>
+
+    nkunduluila<br>
+    munkunduluila<br>
+    kankunduluila<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    pousse des cris de joie <br>
+    </td>
+    <td class="tabledef" valign=top>
+    give a shout of praise <br>
+    </td>
+    <td class="tabledef" valign=top>
+    ela koku tshinkunduluila
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Tshinkunduluila désigne un cri aigu, prolongé et modulé, exprimant une émotion forte comme la douleur, la joie ou la célébration. Elle est souvent utilisée dans des contextes culturels.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    Tshinkunduluila is a long, high-pitched, wavering vocal sound that expresses strong emotion such as grief, celebration, or joy. It is often used in cultural settings.
                     </p> 
     <br>
     <b><i>Diumvuija</i></b><br>
@@ -72555,6 +73297,102 @@ kushintuluka <i class="PartOfSpch">md</i><br>
     </tr>
     <tr>
     ` 
+    },
+    /*Tshipuka*/   
+    {
+        English: "copse, thicket",
+        French: "bosquet, fourré",
+        Tshiluba: "tshipuka",
+        PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+        Phonetics: "tshi·pu·ka<p>/chee-poo-kah/</p>",
+        PhoneticsT: "bosquet | copse",
+        English2: "copse",
+        French2: "thicket",
+        Tshiluba2: "tshipuka",
+        PhoneticsT2: " ",
+        English3: "bipuka",
+        French3: "bush",
+        Tshiluba3: "bushes",
+        PhoneticsT3: " ",
+        English4: "arbuste",
+        French4: "fourré",
+        Tshiluba4: "fourre",
+        PhoneticsT4: " ",
+        English5: "taillis",
+        French5: " ",
+        Tshiluba5: " ",
+        PhoneticsT5: " ",
+        English6: " ",
+        French6: " ",
+        Tshiluba6: " ",
+        PhoneticsT6: " ",
+        English7: " ",
+        French7: " ",
+        Tshiluba7: " ",
+        PhoneticsT7: " ",
+        English8: " ",
+        French8: " ",
+        Tshiluba8: " ",
+        PhoneticsT8: " ",
+        English9: " ",
+        French9: " ",
+        Tshiluba9: " ",
+        PhoneticsT9: " ",
+        English10: " ",
+        French10: " ",
+        Tshiluba10: " ",
+        PhoneticsT10: " ",
+        English11: " ",
+        French11: " ",
+        Tshiluba11: " ",
+        PhoneticsT11: " ",
+        InfoTable: `
+    <tr>
+            <th><u>Francais</th>
+            <th><u>English</th>
+            <th ><u>Tshiluba</th>
+    </tr>
+    <tr>
+    <td colspan="3" class="dividerspace"></td>
+    </tr>
+    <tr>
+    <td class="tabledef" valign=top >
+    bosquet <i class="PartOfSpch">n</i><br>
+    fourré <i class="PartOfSpch">n</i><br>
+    taillis <i class="PartOfSpch">n</i><br>
+    arbuste <i class="PartOfSpch">n</i><br><br>
+    </td>
+    <td class="tabledef" valign=top>
+    copse <i class="PartOfSpch">n</i><br>
+    thicket <i class="PartOfSpch">n</i><br>
+    bush <i class="PartOfSpch">n</i><br><br>
+
+    </td>
+    <td class="tabledef" valign=top>
+    tshipuka <i class="PartOfSpch">tshi8</i><br>
+    <i class="PartOfSpch">pl</i> bipuka<br><br>
+
+    </td>
+    </tr>
+    <tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Un tshipuka est un groupe dense d’arbustes ou de petits arbres poussant très serrés, formant un endroit touffu ou difficile à traverser.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+    A tshipuka is a dense group of bushes, shrubs, or small trees growing closely together, often forming a tangled or hard-to-pass area.
+
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    ----</p>
+    </td>
+    </tr>
+    `
     },
     /*Tshipungulu*/   
     {
