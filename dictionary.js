@@ -74137,7 +74137,7 @@ class 8
     French9: "dépasser",
     Tshiluba9: "depasser",
     PhoneticsT9: " ",
-    English10: " ",
+    English10: "tamba",
     French10: " ",
     Tshiluba10: " ",
     PhoneticsT10: " ",
