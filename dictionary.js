@@ -4114,6 +4114,127 @@ kubenga <a style="text-decoration:none;" href="/alphabetindex/Y/-YA/">kuya</a><b
 </tr>
 `
 },
+/*Betuabu*/   
+{
+    English: "hello everyone, hi everyone, hi all",
+    French: "bonjour à tous, bonsoir à tous, salut à tous",
+    Tshiluba: "betuabu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>', 
+    Phonetics: "bet·u·a·bu<p>/beh-twah-boo/</p>",
+    PhoneticsT: "bonjour | hello",
+    English2: "hello everyone",
+    French2: "bonjour à tous",
+    Tshiluba2: "betuabu",
+    PhoneticsT2: " ",
+    English3: "hi everyone",
+    French3: "hi all",
+    Tshiluba3: "bonsoir à tous",
+    PhoneticsT3: " ",
+    English4: "salut à tous",
+    French4: "salut a tous",
+    Tshiluba4: "bonsoir a tous",
+    PhoneticsT4: " ",
+    English5: "betu abu",
+    French5: "betwabu",
+    Tshiluba5: "salutations",
+    PhoneticsT5: " ",
+    English6: "greetings",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonjour à tous <i class="PartOfSpch">interj</i><br>
+bonsoir à tous <i class="PartOfSpch">interj</i><br>
+salut à tous <i class="PartOfSpch">interj</i><br>
+salutations (à plus d'une personne) <i class="PartOfSpch">interj</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+hello everyone <i class="PartOfSpch">interj</i><br>
+hi everyone <i class="PartOfSpch">interj</i><br>
+hi all <i class="PartOfSpch">interj</i><br>
+greetings (to more than one person) <i class="PartOfSpch">interj</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+betuabu <i class="PartOfSpch">tshik</i><br>
+<i class="PartOfSpch">sing</i> wetuau <br><br>
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/W/WETUAU/">wetuau</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/W/WETO/">weto</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MOYO/">moyo</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Bonjour à vous mes frères et soeurs <br>
+</td>
+<td class="tabledef" valign=top >
+Greetings to you all my brothers and sisters <br>
+
+</td>
+<td class="tabledef" valign=top >
+Betuabu bonsu bana betu <br>
+
+</td>
+</tr>
+<tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Utilisé pour saluer quelqu’un ou commencer une conversation.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+     A common greeting used to acknowledge someone’s presence or to begin a conversation. It can be used in person, on the phone, or in writing.
+
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
+`
+},
 /*-Beya*/   
 {
     English: "to shave",
@@ -10919,6 +11040,105 @@ Buloba signifie terre ou sol. Le terme terre peut simplement désigner un morcea
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 Buloba means earth, or land. Land can simply refer to any piece of ground, whether it is natural terrain or developed areas such as cities and towns.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
+/*Buloji*/   
+{
+    English: "witchcraft, sorcery",
+    French: "sorcellerie",
+    Tshiluba: "buloji",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "bu·lo·ji<p>/boo-loh-zhee/</p>",
+    PhoneticsT: "sorcellerie | witchcraft",
+    English2: "witchcraft",
+    French2: "sorcery",
+    Tshiluba2: "buloji",
+    PhoneticsT2: " ",
+    English3: " ",
+    French3: " ",
+    Tshiluba3: " ",
+    PhoneticsT3: " ",
+    English4: " ",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+sorcellerie <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+witchcraft <i class="PartOfSpch">n</i><br>
+sorcery <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+buloji <i class="PartOfSpch">tshi3</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MULOJI/">muloji</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUHONGU/">muhongu</a><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Buloji c'est la pratique de la magie, souvent liée aux sorcières, impliquant des pouvoirs surnaturels.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Buloji is the practice of magical skills, spells, and abilities, often associated with witches and believed to involve supernatural powers.
                 </p> 
 <br>
 <b><i>Diumvuija</i></b><br>
@@ -17776,35 +17996,35 @@ A dijinga is something that is essential or required for a person or thing to fu
 },
 /*Dikala*/   
 {
-    English: "charcoal",
-    French: "charbon",
+    English: "charcoal, color",
+    French: "charbon du bois, couleur",
     Tshiluba: "dikala",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-    Phonetics: "Di·ka·la<p>/DJEE-kah-lah/</p>",
+    Phonetics: "di·ka·la<p>/djee-kah-lah/</p>",
     PhoneticsT: "charbon / charcoal",
     English2: "coals",
     French2: "coal",
     Tshiluba2: "dikala",
     PhoneticsT2: " ",
     English3: "makala",
-    French3: " ",
-    Tshiluba3: " ",
+    French3: "mekala",
+    Tshiluba3: "charbon du bois",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
+    English4: "color",
+    French4: "colors",
+    Tshiluba4: "couleur",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
+    English5: "couleurs",
+    French5: "charbon",
+    Tshiluba5: "charcoal",
     PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
+    English6: "charcoals",
+    French6: "du charbon",
+    Tshiluba6: "colour",
     PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
+    English7: "colours",
+    French7: "hue",
+    Tshiluba7: "hues",
     PhoneticsT7: " ",
     English8: " ",
     French8: " ",
@@ -17833,7 +18053,8 @@ A dijinga is something that is essential or required for a person or thing to fu
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-charbon <i class="PartOfSpch">n</i>
+charbon du bois <i class="PartOfSpch">n</i><br>
+charbon <i class="PartOfSpch">n</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 charcoal <i class="PartOfSpch">n</i><br>
@@ -17845,30 +18066,110 @@ dikala <i class="PartOfSpch">tshi4</i><br>
 </td>
 </tr>
 <tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+couleur <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+color <i class="PartOfSpch">n</i><br>
+colour <i class="PartOfSpch">n</i><br>
+hue <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+dikala <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> mekala<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur rouge<br>
+</td>
+<td class="tabledef" valign=top>
+the color red <br>
+</td>
+<td class="tabledef" valign=top>
+dikala dikunze<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur noir<br>
+</td>
+<td class="tabledef" valign=top>
+the color black <br>
+</td>
+<td class="tabledef" valign=top>
+dikala difika<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur blanc<br>
+</td>
+<td class="tabledef" valign=top>
+the color white<br>
+</td>
+<td class="tabledef" valign=top>
+dikala ditoka<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur bleu<br>
+</td>
+<td class="tabledef" valign=top>
+the color blue<br>
+</td>
+<td class="tabledef" valign=top>
+dikala mbula<br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur vert<br>
+</td>
+<td class="tabledef" valign=top>
+the color green<br>
+</td>
+<td class="tabledef" valign=top>
+dikala dia mayi a matamba<br>
+</td>
+</tr>
+<tr>
 <td colspan="3" class="explanation">
 <b><i>Explication</i></b><br>
 <p class="explanation-fr">
-Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse.
+Une forme noire et poreuse de carbone obtenue en chauffant du bois ou d'autres substances organiques en l'absence d'air. Elle est couramment utilisée comme combustible, pour la cuisine, et en art pour le dessin et l'esquisse. <br>
+Propriété d’un objet liée à la façon dont il reflète ou émet la lumière, perçue par les yeux, incluant des teintes comme le rouge, le bleu, le jaune, etc.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
-A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching.
+A black, porous form of carbon obtained by heating wood or other organic substances in the absence of air. It is commonly used as a fuel, for cooking, and in art for drawing and sketching. <br>
+Dikala is the property of an object that depends on the way it reflects or emits light, and how it is perceived by the eyes. It includes hues like red, blue, yellow, etc.
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-<br><br></td>
-</tr>
-<tr>
-<td class="tabledef_a" colspan="3">
-<table class="h-lines" id="h-lines"></table>
-<br>
-<b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/K/KAPIA/">kapia</a>, 
-                <a class="links" href="/alphabetindex/M/MUDILU/">mudilu</a>,  
-<br><br></td>
+</td>
 </tr>
 `
 },
@@ -25909,7 +26210,7 @@ mamuenende
     Tshiluba6: " ",
     PhoneticsT6: " ",
     English7: "manufacture",
-    French7: " ",
+    French7: "agir",
     Tshiluba7: " ",
     PhoneticsT7: " ",
     English8: " ",
@@ -25942,6 +26243,7 @@ mamuenende
 faire <i class="PartOfSpch">v</i><br>
 fabriquer <i class="PartOfSpch">v</i><br>
 produire <i class="PartOfSpch">v</i><br>
+agir <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
 to do <i class="PartOfSpch">v</i><br>
@@ -26469,19 +26771,19 @@ Kadi, pa ndi mfika kuntu aku :
     PhoneticsT2: " ",
     English3: "-fike",
     French3: "fike",
-    Tshiluba3: " ",
+    Tshiluba3: "tshifike",
     PhoneticsT3: " ",
-    English4: " ",
-    French4: " ",
-    Tshiluba4: " ",
+    English4: "difike",
+    French4: "kafike",
+    Tshiluba4: "bifike",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
+    English5: "lufike",
+    French5: "mafike",
+    Tshiluba5: "mifike",
     PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
+    English6: "tufike",
+    French6: "sombre",
+    Tshiluba6: "dark",
     PhoneticsT6: " ",
     English7: " ",
     French7: " ",
@@ -26514,14 +26816,51 @@ Kadi, pa ndi mfika kuntu aku :
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-noir (couleur) <i class="PartOfSpch">adj</i>
+noir (couleur) <i class="PartOfSpch">adj</i><br>
+sombre <i class="PartOfSpch">adj</i><br>
 </td>
 
 <td class="tabledef" valign=top>
-black (color) <i class="PartOfSpch">adj</i>
+black (color) <i class="PartOfSpch">adj</i><br>
+dark <i class="PartOfSpch">adj</i><br>
 
 <td class="tabledef" valign=top >
---fike <i class="PartOfSpch">mf</i>
+--fike <i class="PartOfSpch">mf</i><br><br>
+
+mufike <i class="PartOfSpch">cl1</i><br>
+<i class="PartOfSpch">pl</i> bafike<br>
+mufike <i class="PartOfSpch">cl2</i><br>
+<i class="PartOfSpch">pl</i> mifike<br>
+bufike <i class="PartOfSpch">cl3</i><br>
+<i class="PartOfSpch">pl</i> mafike<br>
+difike <i class="PartOfSpch">cl4</i><br>
+<i class="PartOfSpch">pl</i> mafike<br>
+lufike <i class="PartOfSpch">cl5</i><br>
+<i class="PartOfSpch">pl</i> mifike<br>
+mufike <i class="PartOfSpch">cl6</i><br>
+<i class="PartOfSpch">pl</i> mifike<br>
+kafike <i class="PartOfSpch">cl7</i><br>
+<i class="PartOfSpch">pl</i> tufike<br>
+tshifike <i class="PartOfSpch">cl8</i><br>
+<i class="PartOfSpch">pl</i> bifike<br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+noir (couleur) <i class="PartOfSpch">n</i><br>
+un noir <i class="PartOfSpch">n</i><br>
+</td>
+
+<td class="tabledef" valign=top>
+black (color) <i class="PartOfSpch">n</i><br>
+a black person <i class="PartOfSpch">n</i><br>
+
+<td class="tabledef" valign=top >
+mufike <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bafike<br><br>
 </td>
 </tr>
 <tr>
@@ -26530,40 +26869,28 @@ black (color) <i class="PartOfSpch">adj</i>
 <p class="explanation-fr">
 Une couleur caractérisée par l'absence ou l'absorption de la lumière visible, souvent considérée comme la couleur la plus sombre.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 A color characterized by the absence or absorption of visible light, often regarded as the darkest color. 
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
 <table class="h-lines" id="h-lines"></table>
 <br>
 <b><i>Voir également | See also | Tangila kabidi</i></b><br>
-                :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>, 
-                <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>,
-                <a class="links" href="/alphabetindex/K/--KUNZE/">--kunze</a>,
+                :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>,
+                <a class="links" href="/alphabetindex/K/--KUNZe/">--kunze</a>,
                 <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
                 <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
                 <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
                 <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
-<br><br></td>
-</tr>
-<tr>
-<td colspan="3" class="analogy" ><br>:
-Nous marchons dans l'obscurité
-                :<br>
-                &nbsp
-We walk in the darkness
-                :<br>
-                &nbsp:&nbsp
-Tuetu tuenda mu bufike :
 <br><br></td>
 </tr>
 `
@@ -29950,12 +30277,110 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
 },
 /*-Itaba*/  
 {
-    English: "to believe",
-    French: "croir",
-    Tshiluba: "Kuitabuja",
+    English: "to accept, to believe, to have faith",
+    French: "accepter, croire, avoir la foi",
+    Tshiluba: "kuitaba",
     PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
-    Phonetics: "Ku·i·ta·ba<p>/Kwee-tah-bah/</p>",
-    PhoneticsT: "Croir / To Believe",
+    Phonetics: "ku·i·ta·ba<p>/kwee-tah-bah/</p>",
+    PhoneticsT: "accepter | to accept",
+    English2: "accept",
+    French2: "accepter",
+    Tshiluba2: "-itaba",
+    PhoneticsT2: " ",
+    English3: "itaba",
+    French3: "avoir la foi",
+    Tshiluba3: "to have faith",
+    PhoneticsT3: " ",
+    English4: "have faith",
+    French4: " ",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+accepter <i class="PartOfSpch">v</i><br>
+croire <i class="PartOfSpch">v</i><br>
+avoir la foi <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+to accept <i class="PartOfSpch">v</i><br>
+to believe <i class="PartOfSpch">v</i><br>
+to have faith <i class="PartOfSpch">v</i><br>
+</td>
+<td class="tabledef" valign=top >
+kuitaba <i class="PartOfSpch">md</i><br>
+-itaba <i class="PartOfSpch">md</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/-ITABUJA/">kuitabuja</a> <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
+</p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
+</p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+</td>
+</tr>
+` 
+},
+/*-Itabuja*/  
+{
+    English: "to believe",
+    French: "croire",
+    Tshiluba: "kuitabuja",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·i·ta·bu·ja<p>/kwee-tah-boo-zhah/</p>",
+    PhoneticsT: "Croir | To Believe",
     English2: "believe",
     French2: "croire que",
     Tshiluba2: "-itabuja",
@@ -29964,11 +30389,11 @@ isatu, 3 <i class="PartOfSpch">tshi</i>
     French3: "-itabuja",
     Tshiluba3: " ",
     PhoneticsT3: " ",
-    English4: "itaba",
-    French4: "kuitaba",
+    English4: " ",
+    French4: " ",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: "I believe",
+    English5: " ",
     French5: " ",
     Tshiluba5: " ",
     PhoneticsT5: " ",
@@ -30014,7 +30439,24 @@ to believe <i class="PartOfSpch">v</i><br>
 </td>
 <td class="tabledef" valign=top >
 kuitabuja <i class="PartOfSpch">md</i><br>
--itabuja <i class="PartOfSpch">md</i>
+-itabuja <i class="PartOfSpch">md</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/I/-ITABA/">kuitaba</a> <br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Est-ce que tu crois aux écrits des prophètes ? Je sais que oui.
+</td>
+<td class="tabledef-1" valign=top >
+Do you believe the writings of the prophets? I know you do.<br><br>
+</td>
+<td class="tabledef-1" valign=top >
+Udi witabuja mifundu ya Baprofete anyi? Ndi mumanye ne: udi witabuja
 
 </td>
 </tr>
@@ -30024,16 +30466,16 @@ kuitabuja <i class="PartOfSpch">md</i><br>
 <p class="explanation-fr">
 Accepter quelque chose comme vrai ou avoir confiance en l'existence, la vérité ou la fiabilité de quelque chose ou quelqu'un sans forcément avoir de preuve absolue ou de témoignage.
 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 To accept something as true or to have confidence in the existence, truth, or reliability of something or someone without necessarily having absolute proof or evidence.
 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 -----</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -30069,20 +30511,10 @@ nous sommes | we believe<br><br>
 vous êtes | you believe<br><br>
 
 <b>badi bitabuja</b><br>
-ils sont | they believe<br><br>
+ils sont | they believe<br>
 </td>
 </tr>
-<tr>
-<td colspan="3" class="analogy"><br>
-Est-ce que tu crois aux écrits des prophètes ? Je sais que oui.
-            <br><br>
-Do you believe the writings of the prophets? I know you do.
-            <br><br>
-Udi witabuja mifundu ya Baprofete anyi? Ndi mumanye ne: udi witabuja
-
-<br><br></td>
-</tr>
-<tr>` 
+` 
 },
 /*Itanu*/  
 {
@@ -37426,6 +37858,286 @@ Kuneku refers to the current location of the speaker or a specific location that
 </tr>
 ` 
 },
+/*--Kunze*/   
+{
+    English: "red",
+    French: "rouge",
+    Tshiluba: "--kunze",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "--kun·ze<p>/koon-zah/</p>",
+    PhoneticsT: "rouge | red",
+    English2: "le rouge",
+    French2: " ",
+    Tshiluba2: "--kunze",
+    PhoneticsT2: " ",
+    English3: "-kunze",
+    French3: "kunze",
+    Tshiluba3: "tshikunze",
+    PhoneticsT3: " ",
+    English4: "dikunze",
+    French4: "kakunze",
+    Tshiluba4: "bikunze",
+    PhoneticsT4: " ",
+    English5: "lukunze",
+    French5: "makunze",
+    Tshiluba5: "mikunze",
+    PhoneticsT5: " ",
+    English6: "tukunze",
+    French6: "sombre",
+    Tshiluba6: "dark",
+    PhoneticsT6: " ",
+    English7: "dikala dikunze",
+    French7: "color red",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+red (couleur) <i class="PartOfSpch">adj</i><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+red (color) <i class="PartOfSpch">adj</i><br>
+
+<td class="tabledef" valign=top >
+--kunze <i class="PartOfSpch">mf</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+la couleur rouge <br><br>
+
+</td>
+
+<td class="tabledef" valign=top>
+the color red <br><br>
+
+<td class="tabledef" valign=top >
+dikala dikunze <br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1<br>
+mu-ba<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 1<br>
+mu-ba<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mukunze <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bakunze <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2<br>
+mu-mi<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 2<br>
+mu-mi<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mukunze <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mikunze <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3<br>
+bu-ma<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 3<br>
+bu-ma<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> bukunze <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> makunze <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4<br>
+di-ma<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 4<br>
+di-ma<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dikunze <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> makunze <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5<br>
+lu-n<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 5<br>
+lu-n<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lukunze <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> mikunze <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 6<br>
+n-n<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 6<br>
+n-n<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mukunze <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> mikunze <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7<br>
+ka-tu<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 7<br>
+ka-tu<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kakunze <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tukunze <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8<br>
+tshi-bi<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 8<br>
+tshi-bi<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshikunze <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bikunze <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+un cheval rouge <br>
+</td>
+
+<td class="tabledef" valign=top>
+a red horse<br>
+
+<td class="tabledef" valign=top >
+kabalu kakunze <br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Une couleur située à l’extrémité du spectre visible, semblable à celle du sang, du feu ou des fraises mûres. Elle est souvent associée à des émotions fortes comme l’amour, la colère ou le danger.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+A color at the end of the visible spectrum of light, resembling the color of blood, fire, or ripe strawberries. It is often associated with strong emotions such as love, anger, or danger.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+<tr>
+<td class="tabledef_a" colspan="3">
+<table class="h-lines" id="h-lines"></table>
+<br>
+<b><i>Voir également | See also | Tangila kabidi</i></b><br>
+                :: <a class="links" href="/alphabetindex/B/BUTOKE/">butoke</a>,
+                <a class="links" href="/alphabetindex/K/--KUNZe/">--kunze</a>,
+                <a class="links" href="/alphabetindex/T/--TOKE/">--toke</a>, 
+                <a class="links" href="/alphabetindex/M/MUTOKE/">mutoke</a>, 
+                <a class="links" href="/alphabetindex/M/MIDIMA/">midima</a>, 
+                <a class="links" href="/alphabetindex/M/MUENDU/">muendu</a>           
+<br><br></td>
+</tr>
+`
+},
 /*-Laba*/  
 {
     English: "to anoint",
@@ -38214,6 +38926,246 @@ Kulandala means to move in a manner similar to an insect or small creature, ofte
 </td>
 </tr>
 ` 
+},
+/*--Le*/   
+{
+    English: "long, tall",
+    French: "long, longue, grand",
+    Tshiluba: "--le",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUFIDI/">adjectif</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">adjective</a> | <a class="links" href="/alphabetindex/M/MUFIDI/">mufidi</a><br>',
+    Phonetics: "le<p>/lah/</p>",
+    PhoneticsT: "long | long",
+    English2: "long",
+    French2: "tall",
+    Tshiluba2: "--le",
+    PhoneticsT2: " ",
+    English3: "-le",
+    French3: "le",
+    Tshiluba3: "longue",
+    PhoneticsT3: " ",
+    English4: "grand",
+    French4: "grande",
+    Tshiluba4: "mule",
+    PhoneticsT4: " ",
+    English5: "bale",
+    French5: "mile",
+    Tshiluba5: "bule",
+    PhoneticsT5: " ",
+    English6: "male",
+    French6: "dile",
+    Tshiluba6: "lule",
+    PhoneticsT6: " ",
+    English7: "kale",
+    French7: "tule",
+    Tshiluba7: "tshile",
+    PhoneticsT7: " ",
+    English8: "bile",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+long <i class="PartOfSpch">adj</i><br>
+longue <i class="PartOfSpch">adj</i><br>
+grand <i class="PartOfSpch">adj</i><br>
+grande <i class="PartOfSpch">adj</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+long <i class="PartOfSpch">adj</i><br>
+tall <i class="PartOfSpch">adj</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+--le <i class="PartOfSpch">muf</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/N/--NENE/">--nene</a><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 1<br>
+mu-ba<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 1<br>
+mu-ba<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mule <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> bale <i class="PartOfSpch">tshi1</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 2<br>
+mu-mi<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 2<br>
+mu-mi<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mule <i class="PartOfSpch">tshi2</i><br>
+<i class="PartOfSpch">pl</i> mile <i class="PartOfSpch">tshi2</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 3<br>
+bu-ma<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 3<br>
+bu-ma<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> bule <i class="PartOfSpch">tshi3</i><br>
+<i class="PartOfSpch">pl</i> male <i class="PartOfSpch">tshi3</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 4<br>
+di-ma<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 4<br>
+di-ma<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> dile <i class="PartOfSpch">tshi4</i><br>
+<i class="PartOfSpch">pl</i> male <i class="PartOfSpch">tshi4</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 5<br>
+lu-n<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 5<br>
+lu-n<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> lule <i class="PartOfSpch">tshi5</i><br>
+<i class="PartOfSpch">pl</i> mile <i class="PartOfSpch">tshi5</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 6<br>
+n-n<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 6<br>
+n-n<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> mule <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> mile <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 7<br>
+ka-tu<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 7<br>
+ka-tu<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> kale <i class="PartOfSpch">tshi7</i><br>
+<i class="PartOfSpch">pl</i> tule <i class="PartOfSpch">tshi7</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+classe 8<br>
+tshi-bi<br>
+
+</td>
+<td class="tabledef" valign=top>
+class 8<br>
+tshi-bi<br>
+</td>
+<td class="tabledef" valign=top >
+<i class="PartOfSpch">s</i> tshile <i class="PartOfSpch">tshi8</i><br>
+<i class="PartOfSpch">pl</i> bile <i class="PartOfSpch">tshi8</i><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+--tupu est un suffixe qui signifie long ou grand.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+--le is a suffix ending that means long or tall.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-------</p>
+</td>
+</tr>
+`
 },
 /*-Ledibua*/   
 {
@@ -48446,10 +49398,10 @@ the first-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
 Mbuyi <i class="PartOfSpch">Tshi</i><br>
-Tshibuabua <i class="PartOfSpch">Tshi</i><br>
+Tshibuabua <i class="PartOfSpch">Tshi</i><br><br>
 
 tangila:<br>
-<a style="text-decoration:none;" href="/alphabetindex/T/TSHIBUABUA/">tshibuabua</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/T/TSHIBUABUA/">Tshibuabua</a><br>
 </td>
 </tr>
 <tr>
@@ -49900,6 +50852,97 @@ mpala <i class="PartOfSpch">tshi6</i><br>
                 <a class="links" href="/alphabetindex/T/TSHITUMPAMPA/">tshitumpampa</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISULUSULU/">tshisulusulu</a>,   
 <br><br></td>
+</tr>
+`
+},
+/*Mpekatu*/   
+{
+    English: "sin, transgression",
+    French: "péché, transgression",
+    Tshiluba: "mpekatu",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "mpe·ka·tu<p>/mpeh-kah-too/</p>",
+    PhoneticsT: "péché | sin",
+    English2: "sin",
+    French2: "péché",
+    Tshiluba2: "mpekatu",
+    PhoneticsT2: " ",
+    English3: "transgression",
+    French3: "sins",
+    Tshiluba3: "péchés",
+    PhoneticsT3: " ",
+    English4: "peche",
+    French4: "transgressions",
+    Tshiluba4: " ",
+    PhoneticsT4: " ",
+    English5: " ",
+    French5: " ",
+    Tshiluba5: " ",
+    PhoneticsT5: " ",
+    English6: " ",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+péché <i class="PartOfSpch">n</i><br>
+transgression <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+sin <i class="PartOfSpch">n</i><br>
+transgression <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+mpekatu <i class="PartOfSpch">tshi6</i><br>
+<i class="PartOfSpch">pl</i> mpekatu
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Acte considéré comme une transgression de la loi divine ou des principes moraux.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+An act considered to be a violation of divine law or moral principles.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+</td>
 </tr>
 `
 },
@@ -53218,6 +54261,115 @@ A cricket is a nocturnal insect belonging to the family Gryllidae, characterized
                 <a class="links" href="/alphabetindex/N/NKUSU/">nkusu</a>, 
                 <a class="links" href="/alphabetindex/T/TSHISHI/">tshishi</a>,    
 <br><br></td>
+</tr>
+`
+},
+/*Muenzeji*/   
+{
+    English: "origin, founder, originator, author",
+    French: "auteur, fondateur",
+    Tshiluba: "muenzeji",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
+    Phonetics: "mu·en·ze·ji<p>/mwen-zeh-jhee/</p>",
+    PhoneticsT: "auteur | doer",
+    English2: "doer",
+    French2: "auteur",
+    Tshiluba2: "muenzeji",
+    PhoneticsT2: " ",
+    English3: "muenzeji wa malu",
+    French3: "founder",
+    Tshiluba3: "fondateur",
+    PhoneticsT3: " ",
+    English4: "author",
+    French4: "benzeji",
+    Tshiluba4: "authors",
+    PhoneticsT4: " ",
+    English5: "auteurs",
+    French5: "doers",
+    Tshiluba5: "originator",
+    PhoneticsT5: " ",
+    English6: "initiateur",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top>
+auteur <i class="PartOfSpch">n</i><br>
+fondateur <i class="PartOfSpch">n</i><br>
+initiateur <i class="PartOfSpch">n</i><br><br>
+</td>
+<td class="tabledef" valign=top>
+doer <i class="PartOfSpch">n</i><br>
+fonder <i class="PartOfSpch">n</i><br>
+originator <i class="PartOfSpch">n</i><br>
+author <i class="PartOfSpch">n</i><br><br>
+
+</td>
+<td class="tabledef" valign=top>
+muenzeji <i class="PartOfSpch">tshi1</i><br>
+<i class="PartOfSpch">pl</i> benzeji
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top>
+auteur de toutes choses<br>
+</td>
+<td class="tabledef-1" valign=top>
+originator of all things <br>
+
+</td>
+<td class="tabledef-1" valign=top>
+muenzeji wa malu <br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+ Une personne qui crée, lance ou est à l’origine d’une idée, d’un projet, d’un système ou d’un mouvement.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+ A muenzeji is a person who creates, initiates, or begins something — especially an idea, plan, system, or movement.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+--------</p>
+</td>
 </tr>
 `
 },
@@ -72945,6 +74097,184 @@ class 8
 </tr>
 `
 },
+/*-Tamba*/  
+{
+    English: "to surpass, to be better",
+    French: "surpasser, davantage, etre mieux",
+    Tshiluba: "kutamba",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a><br><a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverbe</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">adverb</a> | <a class="links" href="/alphabetindex/M/MUAMBIKILA/">muambikila</a>',
+    Phonetics: "ku·tam·ba<p>/koo-tahm-bah/</p>",
+    PhoneticsT: "surpasser | to surpass",
+    English2: "to surpass",
+    French2: "surpasser",
+    Tshiluba2: "-tamba",
+    PhoneticsT2: " ",
+    English3: "more",
+    French3: "davantage",
+    Tshiluba3: "ditamba",
+    PhoneticsT3: " ",
+    English4: "mutamba",
+    French4: "plus que",
+    Tshiluba4: "more than",
+    PhoneticsT4: " ",
+    English5: "surpass",
+    French5: "to be better than",
+    Tshiluba5: "to be better",
+    PhoneticsT5: " ",
+    English6: "mieux",
+    French6: "better",
+    Tshiluba6: "mieux que",
+    PhoneticsT6: " ",
+    English7: "better than",
+    French7: "be better",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: "etre mieux",
+    French8: "bitamba",
+    Tshiluba8: "tshitamba",
+    PhoneticsT8: " ",
+    English9: "ditamba",
+    French9: "dépasser",
+    Tshiluba9: "depasser",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+surpasser <i class="PartOfSpch">v</i><br>
+dépasser <i class="PartOfSpch">v</i><br>
+etre mieux <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+to surpass <i class="PartOfSpch">v</i><br>
+to be better than <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kutamba <i class="PartOfSpch">md</i><p>
+-tamba <i class="PartOfSpch">md</i><br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/H/-HITA/">kuhita</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/P/-PITA/">kupita</a><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+plus de <i class="PartOfSpch">adv</i><br>
+davantage <i class="PartOfSpch">adv</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+more <i class="PartOfSpch">adv</i><br>
+to greater degree <i class="PartOfSpch">adv</i><br>
+more than <i class="PartOfSpch">adv</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kutamba <i class="PartOfSpch">muam</i><p>
+-tamba <i class="PartOfSpch">muam</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Tshisungu aimait Tshimanga plus que tous ses autres enfants.
+</td>
+<td class="tabledef-1" valign=top >
+Tshisungu loved Tshimanga more than all his children.
+</td>
+<td class="tabledef-1" valign=top >
+Dinanga dia Tshisungu kudi Tshimanga diakatamba dinanga diandi kudi bana bandi bonso.
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Ces etoffes sont plus belles que celles-la.
+</td>
+<td class="tabledef-1" valign=top >
+These fabrics are more beautiful than those fabrics.
+</td>
+<td class="tabledef-1" valign=top >
+Bilulu ebi bidi bitamba biabia bulengele.
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Il est plus puissant que moi.
+</td>
+<td class="tabledef-1" valign=top >
+He is greater than I am.
+</td>
+<td class="tabledef-1" valign=top >
+Udi muntamba meme.
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef-1" valign=top >
+Il est plus grand que toi.
+</td>
+<td class="tabledef-1" valign=top >
+He is taller than you.
+</td>
+<td class="tabledef-1" valign=top >
+Udi ukutamba bule.
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+Kutamba signifie dépasser en quantité, en qualité ou en performance. Ce verbe est utilisé à la place des adjectifs comparatifs et superlatifs qui existent en français et en anglais. KUHITA ou KUPITA est utilisé avec KUTAMBA de manière interchangeable.
+</p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+Kutamba means to go beyond in amount, extent, or degree; to be better or greater than someone or something. This verb is used in lieu of the comparative and superlative adjectives that exist in french and english. KUHITA or KUPITA is used alsongside KUTAMBA interchangeably.
+</p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+-----</p>
+</td>
+</tr>
+` 
+},
 /*-Tandangana*/   
 {
     English: "to quarrel, to argue",
@@ -73906,17 +75236,17 @@ tangila:<br>
     French4: "bright",
     Tshiluba4: " ",
     PhoneticsT4: " ",
-    English5: " ",
-    French5: " ",
-    Tshiluba5: " ",
+    English5: "mitoke",
+    French5: "matoke",
+    Tshiluba5: "ditoke",
     PhoneticsT5: " ",
-    English6: " ",
-    French6: " ",
-    Tshiluba6: " ",
+    English6: "tshitoke",
+    French6: "katoke",
+    Tshiluba6: "katoka",
     PhoneticsT6: " ",
-    English7: " ",
-    French7: " ",
-    Tshiluba7: " ",
+    English7: "tutoke",
+    French7: "tutoka",
+    Tshiluba7: "ditoka",
     PhoneticsT7: " ",
     English8: " ",
     French8: " ",
@@ -73957,7 +75287,24 @@ pale <i class="PartOfSpch">adj</i><br>
 clear <i class="PartOfSpch">adj</i><br><br>
 
 <td class="tabledef" valign=top >
---fike <i class="PartOfSpch">mf</i>
+--toke <i class="PartOfSpch">mf</i><br><br>
+
+mutoke <i class="PartOfSpch">cl1</i><br>
+<i class="PartOfSpch">pl</i> batoke<br>
+mutoke <i class="PartOfSpch">cl2</i><br>
+<i class="PartOfSpch">pl</i> mitoke<br>
+butoke <i class="PartOfSpch">cl3</i><br>
+<i class="PartOfSpch">pl</i> matoke<br>
+ditoke <i class="PartOfSpch">cl4</i><br>
+<i class="PartOfSpch">pl</i> matoke<br>
+lutoke <i class="PartOfSpch">cl5</i><br>
+<i class="PartOfSpch">pl</i> mitoke<br>
+mutoke <i class="PartOfSpch">cl6</i><br>
+<i class="PartOfSpch">pl</i> mitoke<br>
+katoke <i class="PartOfSpch">cl7</i><br>
+<i class="PartOfSpch">pl</i> tutoke<br>
+tshitoke <i class="PartOfSpch">cl8</i><br>
+<i class="PartOfSpch">pl</i> bitoke<br><br>
 </td>
 </tr>
 <tr>
@@ -73966,16 +75313,16 @@ clear <i class="PartOfSpch">adj</i><br><br>
 <p class="explanation-fr">
 Une couleur qui est achromatique, ce qui signifie qu'elle n'a pas de teinte. Elle est souvent décrite comme la couleur de la neige fraîche, du lait ou de la craie. En termes de lumière, le blanc est une combinaison de toutes les couleurs du spectre visible en proportions égales. Il est couramment associé à la pureté, à la propreté et à la simplicité.
                 </p>
-<br><br>
+<br>
 <b><i>Explanation</i></b><br>
 <p class="explanation-en">
 A color that is achromatic, meaning it has no hue. It is often described as the color of fresh snow, milk, or chalk. In terms of light, white is a combination of all colors of the visible spectrum in equal proportions. It is commonly associated with purity, cleanliness, and simplicity.
                 </p> 
-<br><br>
+<br>
 <b><i>Diumvuija</i></b><br>
 <p class="explanation-tsh">
 ----</p>
-<br><br></td>
+</td>
 </tr>
 <tr>
 <td class="tabledef_a" colspan="3">
@@ -76867,11 +78214,10 @@ la première jumelle <i class="PartOfSpch">n</i>
 the first-born twin <i class="PartOfSpch">n</i><br>
 </td>
 <td class="tabledef" valign=top>
-Tshibuabua  <i class="PartOfSpch">Tshi</i><br>
-Mbuyi <i class="PartOfSpch">Tshi</i><br>
+Tshibuabua  <i class="PartOfSpch">Tshi</i><br><br>
 
 tangila:<br>
-<a style="text-decoration:none;" href="/alphabetindex/M/MBUYI/">mbuyi</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MBUYI/">Mbuyi</a><br>
 </td>
 </tr>
 <tr>
@@ -77499,14 +78845,14 @@ A term used to describe someone who is very foolish or lacks good judgment. It i
 </tr>
 <tr>
 <td class="tabledef" valign=top >
-pour toujours <i class="PartOfSpch">adv</i><br><br>
+pour toujours <i class="PartOfSpch">adv</i><br>
 éternellement <i class="PartOfSpch">adv</i><br>
-perpétuellement <i class="PartOfSpch">adv</i><br>
+perpétuellement <i class="PartOfSpch">adv</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 forever <i class="PartOfSpch">adv</i><br>
 eternally <i class="PartOfSpch">adv</i><br>
-perpetually <i class="PartOfSpch">adv</i><br>
+perpetually <i class="PartOfSpch">adv</i><br><br>
 </td>
 <td class="tabledef" valign=top>
 tshiendelele <i class="PartOfSpch">muam</i><br>
@@ -85206,6 +86552,116 @@ The parent-in-law of one's child. This term refers to the relationship between t
 </tr>
 `
 },
+/*-Tshoka*/   
+{
+    English: "to be tired",
+    French: "se fatiguer, être fatigué",
+    Tshiluba: "kutshoka",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/M/MUANDA/">verbe</a> | <a class="links" href="/alphabetindex/M/MUANDA/">verb</a> | <a class="links" href="/alphabetindex/M/MUANDA/">muanda</a>',
+    Phonetics: "ku·tsho·ka<p>/koo-choh-kah/</p>",
+    PhoneticsT: "se fatiguer | to be tired",
+    English2: "se fatiguer",
+    French2: "to be tired",
+    Tshiluba2: "-tshoka",
+    PhoneticsT2: " ",
+    English3: "etre fatigue",
+    French3: "être fatigué",
+    Tshiluba3: "fatigue",
+    PhoneticsT3: " ",
+    English4: "fatigué",
+    French4: "fatiguée",
+    Tshiluba4: "fatiguee",
+    PhoneticsT4: " ",
+    English5: "épuisé",
+    French5: "exhausted",
+    Tshiluba5: "tired",
+    PhoneticsT5: " ",
+    English6: "epuise",
+    French6: "to be exhausted",
+    Tshiluba6: "be tired",
+    PhoneticsT6: " ",
+    English7: "mutshoka",
+    French7: "kutshokesha",
+    Tshiluba7: "-tshokesha",
+    PhoneticsT7: " ",
+    English8: "tshoka",
+    French8: "tshokesha",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+se fatiguer <i class="PartOfSpch">v</i><br>
+être fatigué <i class="PartOfSpch">v</i><br>
+être épuisé <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+to be tired <i class="PartOfSpch">v</i><br>
+to be exhausted <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kutshoka <i class="PartOfSpch">md</i><br>
+-tshoka <i class="PartOfSpch">md</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+fatiguer <i class="PartOfSpch">v</i><br>
+épuiser <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+to tire <i class="PartOfSpch">v</i><br>
+to exhaust <i class="PartOfSpch">v</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+kutshokesha <i class="PartOfSpch">md</i><br>
+-tshokesha <i class="PartOfSpch">md</i><br><br>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" class="explanation">
+<b><i>Explication</i></b><br>
+<p class="explanation-fr">
+"Kutshoka" veut dire de ressentir le besoin de se reposer ou de dormir à cause d’une fatigue physique ou mentale.
+                </p>
+<br>
+<b><i>Explanation</i></b><br>
+<p class="explanation-en">
+"Kutshoka" means to feel a need to rest or sleep due to physical or mental exhaustion.
+                </p> 
+<br>
+<b><i>Diumvuija</i></b><br>
+<p class="explanation-tsh">
+----</p>
+</td>
+</tr>
+`
+},
 /*-Tuadija*/   
 {
     English: "to begin",
@@ -86572,6 +88028,127 @@ Kuvuluka means to bring to mind or think of again; to recall information, facts,
 ----</p>
 </td>
 </tr>
+`
+},
+/*Wetuau*/   
+{
+    English: "hello, hi, greetings",
+    French: "bonjour, bonsoir, salut, salutations",
+    Tshiluba: "wetuau",
+    PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">interjection</a> | <a class="links" href="/alphabetindex/T/TSHIKEMU/">tshikemu</a>', 
+    Phonetics: "wet·u·a·u<p>/weh-twah-woo/</p>",
+    PhoneticsT: "bonjour | hello",
+    English2: "hello",
+    French2: "bonjour",
+    Tshiluba2: "wetuau",
+    PhoneticsT2: " ",
+    English3: "hi",
+    French3: "wetuawu",
+    Tshiluba3: "bonsoir",
+    PhoneticsT3: " ",
+    English4: "salut",
+    French4: "wetu au",
+    Tshiluba4: "wetu awu",
+    PhoneticsT4: " ",
+    English5: "wetwau",
+    French5: "wetwawu",
+    Tshiluba5: "salutations",
+    PhoneticsT5: " ",
+    English6: "greetings",
+    French6: " ",
+    Tshiluba6: " ",
+    PhoneticsT6: " ",
+    English7: " ",
+    French7: " ",
+    Tshiluba7: " ",
+    PhoneticsT7: " ",
+    English8: " ",
+    French8: " ",
+    Tshiluba8: " ",
+    PhoneticsT8: " ",
+    English9: " ",
+    French9: " ",
+    Tshiluba9: " ",
+    PhoneticsT9: " ",
+    English10: " ",
+    French10: " ",
+    Tshiluba10: " ",
+    PhoneticsT10: " ",
+    English11: " ",
+    French11: " ",
+    Tshiluba11: " ",
+    PhoneticsT11: " ",
+    InfoTable: `
+<tr>
+        <th><u>Francais</th>
+        <th><u>English</th>
+        <th ><u>Tshiluba</th>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+bonjour <i class="PartOfSpch">interj</i><br>
+bonsoir <i class="PartOfSpch">interj</i><br>
+salut <i class="PartOfSpch">interj</i><br>
+salutations (à une personne) <i class="PartOfSpch">interj</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+hello <i class="PartOfSpch">interj</i><br>
+hi <i class="PartOfSpch">interj</i><br>
+greetings (to one person) <i class="PartOfSpch">interj</i><br><br>
+</td>
+<td class="tabledef" valign=top >
+wetuau <i class="PartOfSpch">tshik</i><br>
+<i class="PartOfSpch">pl</i> betuabu <br><br>
+
+tangila:<br>
+<a style="text-decoration:none;" href="/alphabetindex/B/BETUABU/">betuabu</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/W/WETO/">weto</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MOYO/">moyo</a><br><br>
+</td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td colspan="3" class="dividerspace"></td>
+</tr>
+<tr>
+<td class="tabledef" valign=top >
+Bonjour à toi <br>
+</td>
+<td class="tabledef" valign=top >
+Greetings to you <br>
+
+</td>
+<td class="tabledef" valign=top >
+Wetuau <br>
+
+</td>
+</tr>
+<tr>
+    <td colspan="3" class="explanation">
+    <b><i>Explication</i></b><br>
+    <p class="explanation-fr">
+    Utilisé pour saluer quelqu’un ou commencer une conversation.
+                    </p>
+    <br>
+    <b><i>Explanation</i></b><br>
+    <p class="explanation-en">
+     A common greeting used to acknowledge someone’s presence or to begin a conversation. It can be used in person, on the phone, or in writing.
+
+                    </p> 
+    <br>
+    <b><i>Diumvuija</i></b><br>
+    <p class="explanation-tsh">
+    -----</p>
+    </td>
+    </tr>
 `
 },
 /*Wewe*/   
