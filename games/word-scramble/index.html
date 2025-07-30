@@ -119,7 +119,7 @@
 
 <tshilubaco-footer></tshilubaco-footer>
 
-<script src="../../dictionary-game.js"></script>
+<script src="../../dictionary.js"></script>
 <script src="../../components/header.js"></script>
 <script>
 
@@ -160,6 +160,11 @@
     let timeText = document.querySelector(".ws_timeleft b"),
     timeText2 = document.querySelector(".ws_timeleft span");
 
+    const nkongamiakuA = nkongamiaku.filter(item => item.PartOfSpeech.includes('TSHIBIKIDILU'));
+    const nkongamiakuB = nkongamiaku.filter(item => item.PartOfSpeech.includes('MUANDA'));
+    const nkongamiaku4 = nkongamiakuA.concat(nkongamiakuB);
+
+
     const initTimer = maxTime => {
         timer = setInterval(() => {
             if(maxTime > 0) {
@@ -173,7 +178,7 @@
     }
     const initwsGame = () => {
             initTimer(30);
-            let randomChoice = nkongamiaku3[Math.floor(Math.random() * nkongamiaku3.length)];
+            let randomChoice = nkongamiaku4[Math.floor(Math.random() * nkongamiaku4.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
             correctWord = `${randomWord}`;
@@ -192,7 +197,7 @@
             timeText = document.querySelector(".ws_timeleft b");
             console.log(timeText);
             initTimer(30);
-            let randomChoice = nkongamiaku3[Math.floor(Math.random() * nkongamiaku3.length)];
+            let randomChoice = nkongamiaku4[Math.floor(Math.random() * nkongamiaku4.length)];
             let randomWord = randomChoice.Tshiluba.toUpperCase();
             let wordArray = randomWord.split("");
             correctWord = `${randomWord}`;
@@ -209,7 +214,8 @@
                 }, 0);
     }
     initwsGame(30);
-    const tshiWord = nkongamiaku3.map(({Tshiluba}) => Tshiluba);
+
+    const tshiWord = nkongamiaku4.map(({Tshiluba}) => Tshiluba);
     console.log(tshiWord);
     var wrongAnswer = '.ws_gamebox .ws_check:active {animation: tilt-shaking 0.12s infinite;}';
     var doWrongAnswer = document.createElement('style');

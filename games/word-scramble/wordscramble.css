@@ -881,7 +881,7 @@ button.ws_refresh:hover{
             font-family: 'Jost', sans-serif;
             font-size: 300%;
             font-weight: 700;
-            color: #090152;
+                color: var(--primary-text-color);
             margin-top: 0px;
             line-height:1.5cap;
             overflow: hidden;
