@@ -58587,7 +58587,7 @@ Someone who guides, directs, or influences others within a group, organization, 
 {
     English: "supplication, pleading, prayer",
     French: "supplication, supplique, prière",
-    Tshiluba: "mulambu",
+    Tshiluba: "mulombu",
     PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
     Phonetics: "mu·lom·bu<p>/moo-lohm-boo/</p>",
     PhoneticsT: "supplication | supplication",
@@ -58656,9 +58656,9 @@ mulombu <i class="PartOfSpch">tshi2</i><p>
 <i class="PartOfSpch">pl.</i> milombu<br><br>
 
 tangila:<br>
-<a class="links" href="/alphabetindex/D/DISAMBILA/">disambila</a><br>
-<a class="links" href="/alphabetindex/M/MUTENTELELU/">mutendelelu</a><br>
-<a class="links" href="/alphabetindex/M/MUTENTEKENU/">mutendekenu</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/D/DISAMBILA/">disambila</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUTENDELELU/">mutendelelu</a><br>
+<a style="text-decoration:none;" href="/alphabetindex/M/MUTENDEKENU/">mutendekenu</a><br>
 </td>
 </tr>
 <tr>

@@ -52202,7 +52202,7 @@ Bukole describes the quality or state of being physically strong; the ability to
     {
         English: "supplication, pleading, prayer",
         French: "supplication, supplique, prière",
-        Tshiluba: "mulambu",
+        Tshiluba: "mulombu",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
         Phonetics: "mu·lom·bu<p>/moo-lohm-boo/</p>",
         PhoneticsT: "supplication | supplication",

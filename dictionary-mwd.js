@@ -50286,7 +50286,7 @@ const nkongamiaku2 = [
         French: "jalousie",
         Tshiluba: "mukau",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
-        Phonetics: "mu·ka·u<p>/moo-kwau-oo/</p>",
+        Phonetics: "mu·ka·u<p>/moo-kah-oo/</p>",
         PhoneticsT: "jalousie | jealousy",
         English2: "la jalousie",
         French2: "jealous",
@@ -51841,7 +51841,7 @@ const nkongamiaku2 = [
     {
         English: "supplication, pleading, prayer",
         French: "supplication, supplique, prière",
-        Tshiluba: "mulambu",
+        Tshiluba: "mulombu",
         PartOfSpeech: '<a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">nom</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">noun</a> | <a class="links" href="/alphabetindex/T/TSHIBIKIDILU/">tshibikidilu</a>',
         Phonetics: "mu·lom·bu<p>/moo-lohm-boo/</p>",
         PhoneticsT: "supplication | supplication",
