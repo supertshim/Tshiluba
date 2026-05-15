@@ -1336,7 +1336,8 @@ nav .fa-solid{
 }
 
         .text-box .title-table img{
-            width: 150px;
+            width: 100px;
+            margin-left: 50px;
         }
 
 .text-box .title-table h1{
@@ -1344,9 +1345,10 @@ nav .fa-solid{
     padding-bottom: 10px;
     padding-left: 40px;
     padding-right: 40px;
-    font-size: 50px;
+    font-size: 36px;
     margin-top: 0px;
     margin-bottom: 20px;
+    left: -20px;
     width: fit-content;
     text-align: left;
     height: fit-content;
@@ -1463,6 +1465,25 @@ nav .fa-solid{
             align-items: center;
             font-size: 24px;
         }
+
+                .text-box .title-table img{
+            width: 150px;
+        }
+
+.text-box .title-table h1{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    width: fit-content;
+    text-align: left;
+    height: fit-content;
+    line-height: 1;
+    overflow-y: hidden;
+}
     
     }
     }
