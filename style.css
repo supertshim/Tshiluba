@@ -183,16 +183,16 @@ nav img{
     padding-bottom: 0px;
 }
 
-.text-box table{
+.text-box .title-table{
     position: relative;
     margin-left: auto;
     margin-right: auto;
 }
-.text-box img{
+.text-box .title-table img{
     width:200px;
 }
 
-.text-box h1{
+.text-box .title-table h1{
     padding-top: 20px;
     padding-bottom: 10px;
     padding-left: 40px;
